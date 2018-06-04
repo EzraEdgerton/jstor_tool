@@ -1,1 +1,1201 @@
-{"nodes": [{"info": {"count": 11323, "group": 0}, "id": 1}, {"info": {"count": 2094, "group": 0}, "id": 2}, {"info": {"count": 2195, "group": 0}, "id": 3}, {"info": {"count": 5274, "group": 0}, "id": 4}, {"info": {"count": 2525, "group": 0}, "id": 5}, {"info": {"count": 1435, "group": 0}, "id": 6}, {"info": {"count": 5184, "group": 0}, "id": 7}, {"info": {"count": 1658, "group": 0}, "id": 8}, {"info": {"count": 2096, "group": 0}, "id": 9}, {"info": {"count": 5187, "group": 0}, "id": 10}, {"info": {"count": 2515, "group": 0}, "id": 11}, {"info": {"count": 1674, "group": 0}, "id": 12}, {"info": {"count": 6, "group": 0}, "id": 1112}, {"info": {"count": 93, "group": 1}, "id": 1800}, {"info": {"count": 112, "group": 1}, "id": 1815}, {"info": {"count": 29, "group": 1}, "id": 1830}, {"info": {"count": 23, "group": 1}, "id": 1837}, {"info": {"count": 55, "group": 1}, "id": 1843}, {"info": {"count": 30, "group": 1}, "id": 1850}, {"info": {"count": 25, "group": 1}, "id": 1867}, {"info": {"count": 40, "group": 1}, "id": 1868}, {"info": {"count": 44, "group": 1}, "id": 1869}, {"info": {"count": 36, "group": 1}, "id": 1870}, {"info": {"count": 37, "group": 1}, "id": 1871}, {"info": {"count": 31, "group": 1}, "id": 1872}, {"info": {"count": 28, "group": 1}, "id": 1873}, {"info": {"count": 32, "group": 1}, "id": 1874}, {"info": {"count": 25, "group": 1}, "id": 1875}, {"info": {"count": 36, "group": 1}, "id": 1876}, {"info": {"count": 30, "group": 1}, "id": 1877}, {"info": {"count": 37, "group": 1}, "id": 1878}, {"info": {"count": 33, "group": 1}, "id": 1879}, {"info": {"count": 24, "group": 1}, "id": 1880}, {"info": {"count": 26, "group": 1}, "id": 1881}, {"info": {"count": 25, "group": 1}, "id": 1882}, {"info": {"count": 35, "group": 1}, "id": 1883}, {"info": {"count": 86, "group": 1}, "id": 1884}, {"info": {"count": 89, "group": 1}, "id": 1885}, {"info": {"count": 79, "group": 1}, "id": 1886}, {"info": {"count": 76, "group": 1}, "id": 1887}, {"info": {"count": 107, "group": 1}, "id": 1888}, {"info": {"count": 90, "group": 1}, "id": 1889}, {"info": {"count": 77, "group": 1}, "id": 1890}, {"info": {"count": 80, "group": 1}, "id": 1891}, {"info": {"count": 71, "group": 1}, "id": 1892}, {"info": {"count": 81, "group": 1}, "id": 1893}, {"info": {"count": 71, "group": 1}, "id": 1894}, {"info": {"count": 109, "group": 1}, "id": 1895}, {"info": {"count": 88, "group": 1}, "id": 1896}, {"info": {"count": 95, "group": 1}, "id": 1897}, {"info": {"count": 102, "group": 1}, "id": 1898}, {"info": {"count": 89, "group": 1}, "id": 1899}, {"info": {"count": 119, "group": 1}, "id": 1900}, {"info": {"count": 88, "group": 1}, "id": 1901}, {"info": {"count": 87, "group": 1}, "id": 1902}, {"info": {"count": 67, "group": 1}, "id": 1903}, {"info": {"count": 74, "group": 1}, "id": 1904}, {"info": {"count": 77, "group": 1}, "id": 1905}, {"info": {"count": 91, "group": 1}, "id": 1906}, {"info": {"count": 103, "group": 1}, "id": 1907}, {"info": {"count": 99, "group": 1}, "id": 1908}, {"info": {"count": 103, "group": 1}, "id": 1909}, {"info": {"count": 108, "group": 1}, "id": 1910}, {"info": {"count": 123, "group": 1}, "id": 1911}, {"info": {"count": 140, "group": 1}, "id": 1912}, {"info": {"count": 115, "group": 1}, "id": 1913}, {"info": {"count": 135, "group": 1}, "id": 1914}, {"info": {"count": 122, "group": 1}, "id": 1915}, {"info": {"count": 122, "group": 1}, "id": 1916}, {"info": {"count": 151, "group": 1}, "id": 1917}, {"info": {"count": 119, "group": 1}, "id": 1918}, {"info": {"count": 128, "group": 1}, "id": 1919}, {"info": {"count": 131, "group": 1}, "id": 1920}, {"info": {"count": 127, "group": 1}, "id": 1921}, {"info": {"count": 138, "group": 1}, "id": 1922}, {"info": {"count": 135, "group": 1}, "id": 1923}, {"info": {"count": 161, "group": 1}, "id": 1924}, {"info": {"count": 142, "group": 1}, "id": 1925}, {"info": {"count": 165, "group": 1}, "id": 1926}, {"info": {"count": 157, "group": 1}, "id": 1927}, {"info": {"count": 170, "group": 1}, "id": 1928}, {"info": {"count": 164, "group": 1}, "id": 1929}, {"info": {"count": 163, "group": 1}, "id": 1930}, {"info": {"count": 165, "group": 1}, "id": 1931}, {"info": {"count": 176, "group": 1}, "id": 1932}, {"info": {"count": 160, "group": 1}, "id": 1933}, {"info": {"count": 167, "group": 1}, "id": 1934}, {"info": {"count": 209, "group": 1}, "id": 1935}, {"info": {"count": 183, "group": 1}, "id": 1936}, {"info": {"count": 171, "group": 1}, "id": 1937}, {"info": {"count": 250, "group": 1}, "id": 1938}, {"info": {"count": 238, "group": 1}, "id": 1939}, {"info": {"count": 208, "group": 1}, "id": 1940}, {"info": {"count": 247, "group": 1}, "id": 1941}, {"info": {"count": 216, "group": 1}, "id": 1942}, {"info": {"count": 225, "group": 1}, "id": 1943}, {"info": {"count": 203, "group": 1}, "id": 1944}, {"info": {"count": 208, "group": 1}, "id": 1945}, {"info": {"count": 211, "group": 1}, "id": 1946}, {"info": {"count": 206, "group": 1}, "id": 1947}, {"info": {"count": 200, "group": 1}, "id": 1948}, {"info": {"count": 168, "group": 1}, "id": 1949}, {"info": {"count": 205, "group": 1}, "id": 1950}, {"info": {"count": 172, "group": 1}, "id": 1951}, {"info": {"count": 165, "group": 1}, "id": 1952}, {"info": {"count": 169, "group": 1}, "id": 1953}, {"info": {"count": 182, "group": 1}, "id": 1954}, {"info": {"count": 197, "group": 1}, "id": 1955}, {"info": {"count": 199, "group": 1}, "id": 1956}, {"info": {"count": 197, "group": 1}, "id": 1957}, {"info": {"count": 204, "group": 1}, "id": 1958}, {"info": {"count": 211, "group": 1}, "id": 1959}, {"info": {"count": 237, "group": 1}, "id": 1960}, {"info": {"count": 287, "group": 1}, "id": 1961}, {"info": {"count": 283, "group": 1}, "id": 1962}, {"info": {"count": 267, "group": 1}, "id": 1963}, {"info": {"count": 278, "group": 1}, "id": 1964}, {"info": {"count": 307, "group": 1}, "id": 1965}, {"info": {"count": 344, "group": 1}, "id": 1966}, {"info": {"count": 331, "group": 1}, "id": 1967}, {"info": {"count": 373, "group": 1}, "id": 1968}, {"info": {"count": 388, "group": 1}, "id": 1969}, {"info": {"count": 386, "group": 1}, "id": 1970}, {"info": {"count": 409, "group": 1}, "id": 1971}, {"info": {"count": 448, "group": 1}, "id": 1972}, {"info": {"count": 489, "group": 1}, "id": 1973}, {"info": {"count": 463, "group": 1}, "id": 1974}, {"info": {"count": 471, "group": 1}, "id": 1975}, {"info": {"count": 482, "group": 1}, "id": 1976}, {"info": {"count": 533, "group": 1}, "id": 1977}, {"info": {"count": 526, "group": 1}, "id": 1978}, {"info": {"count": 550, "group": 1}, "id": 1979}, {"info": {"count": 563, "group": 1}, "id": 1980}, {"info": {"count": 572, "group": 1}, "id": 1981}, {"info": {"count": 589, "group": 1}, "id": 1982}, {"info": {"count": 574, "group": 1}, "id": 1983}, {"info": {"count": 673, "group": 1}, "id": 1984}, {"info": {"count": 618, "group": 1}, "id": 1985}, {"info": {"count": 686, "group": 1}, "id": 1986}, {"info": {"count": 711, "group": 1}, "id": 1987}, {"info": {"count": 687, "group": 1}, "id": 1988}, {"info": {"count": 690, "group": 1}, "id": 1989}, {"info": {"count": 651, "group": 1}, "id": 1990}, {"info": {"count": 654, "group": 1}, "id": 1991}, {"info": {"count": 641, "group": 1}, "id": 1992}, {"info": {"count": 636, "group": 1}, "id": 1993}, {"info": {"count": 659, "group": 1}, "id": 1994}, {"info": {"count": 642, "group": 1}, "id": 1995}, {"info": {"count": 665, "group": 1}, "id": 1996}, {"info": {"count": 672, "group": 1}, "id": 1997}, {"info": {"count": 730, "group": 1}, "id": 1998}, {"info": {"count": 674, "group": 1}, "id": 1999}, {"info": {"count": 769, "group": 1}, "id": 2000}, {"info": {"count": 769, "group": 1}, "id": 2001}, {"info": {"count": 674, "group": 1}, "id": 2002}, {"info": {"count": 775, "group": 1}, "id": 2003}, {"info": {"count": 744, "group": 1}, "id": 2004}, {"info": {"count": 779, "group": 1}, "id": 2005}, {"info": {"count": 739, "group": 1}, "id": 2006}, {"info": {"count": 846, "group": 1}, "id": 2007}, {"info": {"count": 764, "group": 1}, "id": 2008}, {"info": {"count": 802, "group": 1}, "id": 2009}, {"info": {"count": 798, "group": 1}, "id": 2010}, {"info": {"count": 732, "group": 1}, "id": 2011}, {"info": {"count": 492, "group": 1}, "id": 2012}, {"info": {"count": 482, "group": 1}, "id": 2013}, {"info": {"count": 199, "group": 1}, "id": 2014}, {"info": {"count": 151, "group": 1}, "id": 2015}], "links": [{"source": 1981, "target": 6, "value": 10}, {"source": 1981, "target": 9, "value": 25}, {"source": 1982, "target": 6, "value": 8}, {"source": 1983, "target": 6, "value": 10}, {"source": 1983, "target": 9, "value": 19}, {"source": 1984, "target": 3, "value": 19}, {"source": 1984, "target": 6, "value": 12}, {"source": 1984, "target": 9, "value": 25}, {"source": 1985, "target": 7, "value": 82}, {"source": 1985, "target": 10, "value": 67}, {"source": 1986, "target": 4, "value": 77}, {"source": 1986, "target": 7, "value": 61}, {"source": 1986, "target": 10, "value": 86}, {"source": 1987, "target": 1, "value": 250}, {"source": 1987, "target": 4, "value": 88}, {"source": 1987, "target": 7, "value": 89}, {"source": 1987, "target": 12, "value": 35}, {"source": 1988, "target": 4, "value": 71}, {"source": 1988, "target": 7, "value": 80}, {"source": 1988, "target": 10, "value": 70}, {"source": 1988, "target": 12, "value": 20}, {"source": 1975, "target": 1, "value": 164}, {"source": 1982, "target": 1, "value": 201}, {"source": 1984, "target": 1, "value": 260}, {"source": 1985, "target": 1, "value": 194}, {"source": 1986, "target": 1, "value": 260}, {"source": 1990, "target": 1, "value": 217}, {"source": 1991, "target": 1, "value": 206}, {"source": 1992, "target": 1, "value": 197}, {"source": 1993, "target": 1, "value": 193}, {"source": 1994, "target": 1, "value": 192}, {"source": 1995, "target": 1, "value": 169}, {"source": 1996, "target": 1, "value": 190}, {"source": 1997, "target": 1, "value": 178}, {"source": 1998, "target": 1, "value": 164}, {"source": 1843, "target": 1, "value": 55}, {"source": 1850, "target": 1, "value": 30}, {"source": 1800, "target": 1, "value": 93}, {"source": 1815, "target": 1, "value": 112}, {"source": 1830, "target": 1, "value": 29}, {"source": 1837, "target": 1, "value": 23}, {"source": 1967, "target": 12, "value": 6}, {"source": 1969, "target": 12, "value": 9}, {"source": 1971, "target": 10, "value": 57}, {"source": 1974, "target": 1, "value": 178}, {"source": 1988, "target": 1, "value": 267}, {"source": 2002, "target": 1, "value": 161}, {"source": 2003, "target": 1, "value": 247}, {"source": 2004, "target": 1, "value": 188}, {"source": 2006, "target": 1, "value": 171}, {"source": 2008, "target": 1, "value": 185}, {"source": 1989, "target": 1, "value": 301}, {"source": 1999, "target": 1, "value": 149}, {"source": 2000, "target": 1, "value": 186}, {"source": 2001, "target": 1, "value": 160}, {"source": 2005, "target": 1, "value": 180}, {"source": 2007, "target": 1, "value": 185}, {"source": 2009, "target": 1, "value": 192}, {"source": 2010, "target": 1, "value": 188}, {"source": 2011, "target": 1, "value": 168}, {"source": 2012, "target": 1, "value": 142}, {"source": 2013, "target": 1, "value": 131}, {"source": 1952, "target": 7, "value": 31}, {"source": 1953, "target": 4, "value": 30}, {"source": 1954, "target": 7, "value": 42}, {"source": 1954, "target": 10, "value": 27}, {"source": 1955, "target": 4, "value": 29}, {"source": 1956, "target": 4, "value": 39}, {"source": 1956, "target": 11, "value": 14}, {"source": 1957, "target": 4, "value": 33}, {"source": 1957, "target": 6, "value": 7}, {"source": 1957, "target": 11, "value": 13}, {"source": 1958, "target": 4, "value": 30}, {"source": 1958, "target": 11, "value": 19}, {"source": 1959, "target": 1, "value": 50}, {"source": 1959, "target": 4, "value": 32}, {"source": 1959, "target": 6, "value": 7}, {"source": 1960, "target": 2, "value": 19}, {"source": 1960, "target": 6, "value": 16}, {"source": 1960, "target": 10, "value": 31}, {"source": 1960, "target": 12, "value": 15}, {"source": 1961, "target": 2, "value": 29}, {"source": 1961, "target": 6, "value": 1}, {"source": 1961, "target": 10, "value": 46}, {"source": 1962, "target": 2, "value": 25}, {"source": 1962, "target": 6, "value": 2}, {"source": 1962, "target": 10, "value": 42}, {"source": 1962, "target": 12, "value": 4}, {"source": 1963, "target": 8, "value": 21}, {"source": 1963, "target": 10, "value": 38}, {"source": 1977, "target": 5, "value": 37}, {"source": 1977, "target": 8, "value": 8}, {"source": 1979, "target": 1, "value": 203}, {"source": 1985, "target": 9, "value": 29}, {"source": 1986, "target": 11, "value": 23}, {"source": 1989, "target": 8, "value": 27}, {"source": 1993, "target": 6, "value": 24}, {"source": 1993, "target": 12, "value": 19}, {"source": 2001, "target": 2, "value": 45}, {"source": 2012, "target": 12, "value": 49}, {"source": 1972, "target": 9, "value": 16}, {"source": 1972, "target": 10, "value": 54}, {"source": 1973, "target": 1, "value": 133}, {"source": 1976, "target": 1, "value": 138}, {"source": 1977, "target": 1, "value": 190}, {"source": 1978, "target": 1, "value": 181}, {"source": 1980, "target": 1, "value": 162}, {"source": 1981, "target": 1, "value": 182}, {"source": 1983, "target": 1, "value": 214}, {"source": 1990, "target": 2, "value": 38}, {"source": 1990, "target": 5, "value": 34}, {"source": 1990, "target": 7, "value": 67}, {"source": 1990, "target": 8, "value": 34}, {"source": 1990, "target": 12, "value": 22}, {"source": 1990, "target": 9, "value": 28}, {"source": 1991, "target": 2, "value": 30}, {"source": 1991, "target": 4, "value": 58}, {"source": 1991, "target": 5, "value": 32}, {"source": 1991, "target": 9, "value": 33}, {"source": 1991, "target": 11, "value": 42}, {"source": 1991, "target": 12, "value": 27}, {"source": 1992, "target": 2, "value": 34}, {"source": 1992, "target": 4, "value": 75}, {"source": 1992, "target": 5, "value": 30}, {"source": 1992, "target": 6, "value": 24}, {"source": 1992, "target": 8, "value": 29}, {"source": 1992, "target": 11, "value": 34}, {"source": 1993, "target": 2, "value": 36}, {"source": 1993, "target": 5, "value": 41}, {"source": 1993, "target": 8, "value": 17}, {"source": 1993, "target": 10, "value": 76}, {"source": 1993, "target": 11, "value": 41}, {"source": 1994, "target": 3, "value": 24}, {"source": 1994, "target": 5, "value": 36}, {"source": 1994, "target": 7, "value": 82}, {"source": 1994, "target": 9, "value": 35}, {"source": 1994, "target": 11, "value": 39}, {"source": 1994, "target": 12, "value": 24}, {"source": 1995, "target": 2, "value": 37}, {"source": 1995, "target": 5, "value": 31}, {"source": 1995, "target": 6, "value": 30}, {"source": 1995, "target": 9, "value": 34}, {"source": 1995, "target": 12, "value": 37}, {"source": 1996, "target": 2, "value": 36}, {"source": 1996, "target": 5, "value": 32}, {"source": 1996, "target": 11, "value": 45}, {"source": 1996, "target": 9, "value": 34}, {"source": 1997, "target": 3, "value": 25}, {"source": 1997, "target": 5, "value": 33}, {"source": 1997, "target": 6, "value": 32}, {"source": 1997, "target": 8, "value": 24}, {"source": 1997, "target": 9, "value": 38}, {"source": 1997, "target": 12, "value": 33}, {"source": 1998, "target": 2, "value": 55}, {"source": 1998, "target": 3, "value": 33}, {"source": 1998, "target": 5, "value": 39}, {"source": 1998, "target": 6, "value": 37}, {"source": 1998, "target": 8, "value": 31}, {"source": 1998, "target": 11, "value": 43}, {"source": 1998, "target": 12, "value": 57}, {"source": 1998, "target": 9, "value": 45}, {"source": 1999, "target": 2, "value": 40}, {"source": 1999, "target": 3, "value": 31}, {"source": 1999, "target": 5, "value": 43}, {"source": 1999, "target": 6, "value": 35}, {"source": 1999, "target": 9, "value": 40}, {"source": 1999, "target": 11, "value": 33}, {"source": 1999, "target": 12, "value": 30}, {"source": 2000, "target": 2, "value": 43}, {"source": 2000, "target": 3, "value": 44}, {"source": 2000, "target": 5, "value": 47}, {"source": 2000, "target": 8, "value": 35}, {"source": 2000, "target": 9, "value": 50}, {"source": 2000, "target": 11, "value": 44}, {"source": 2000, "target": 12, "value": 43}, {"source": 2001, "target": 3, "value": 31}, {"source": 2001, "target": 5, "value": 44}, {"source": 2001, "target": 8, "value": 42}, {"source": 2001, "target": 9, "value": 48}, {"source": 2001, "target": 11, "value": 49}, {"source": 2001, "target": 12, "value": 45}, {"source": 2002, "target": 2, "value": 36}, {"source": 2002, "target": 3, "value": 39}, {"source": 2002, "target": 5, "value": 45}, {"source": 2002, "target": 6, "value": 34}, {"source": 2002, "target": 8, "value": 38}, {"source": 2002, "target": 12, "value": 26}, {"source": 2003, "target": 2, "value": 33}, {"source": 2003, "target": 3, "value": 31}, {"source": 2003, "target": 5, "value": 40}, {"source": 2003, "target": 6, "value": 31}, {"source": 2003, "target": 8, "value": 35}, {"source": 2003, "target": 11, "value": 39}, {"source": 2003, "target": 12, "value": 45}, {"source": 2004, "target": 5, "value": 51}, {"source": 2004, "target": 8, "value": 43}, {"source": 2004, "target": 11, "value": 69}, {"source": 2004, "target": 12, "value": 67}, {"source": 2005, "target": 3, "value": 59}, {"source": 2005, "target": 5, "value": 50}, {"source": 2005, "target": 6, "value": 54}, {"source": 2005, "target": 8, "value": 45}, {"source": 2006, "target": 2, "value": 38}, {"source": 2006, "target": 3, "value": 49}, {"source": 2006, "target": 5, "value": 64}, {"source": 2006, "target": 6, "value": 47}, {"source": 2006, "target": 8, "value": 49}, {"source": 2006, "target": 9, "value": 42}, {"source": 2006, "target": 11, "value": 46}, {"source": 2006, "target": 12, "value": 56}, {"source": 2007, "target": 2, "value": 48}, {"source": 2007, "target": 4, "value": 75}, {"source": 2007, "target": 6, "value": 45}, {"source": 2007, "target": 7, "value": 75}, {"source": 2007, "target": 9, "value": 51}, {"source": 2007, "target": 11, "value": 54}, {"source": 2007, "target": 12, "value": 60}, {"source": 2008, "target": 5, "value": 55}, {"source": 2008, "target": 6, "value": 45}, {"source": 2008, "target": 9, "value": 56}, {"source": 2008, "target": 12, "value": 48}, {"source": 2008, "target": 11, "value": 46}, {"source": 2009, "target": 2, "value": 51}, {"source": 2009, "target": 3, "value": 49}, {"source": 2009, "target": 5, "value": 39}, {"source": 2009, "target": 6, "value": 56}, {"source": 2009, "target": 7, "value": 68}, {"source": 2009, "target": 9, "value": 52}, {"source": 2009, "target": 11, "value": 46}, {"source": 2009, "target": 12, "value": 54}, {"source": 2010, "target": 3, "value": 95}, {"source": 2010, "target": 5, "value": 40}, {"source": 2010, "target": 7, "value": 66}, {"source": 2010, "target": 11, "value": 43}, {"source": 2010, "target": 12, "value": 52}, {"source": 2011, "target": 2, "value": 49}, {"source": 2011, "target": 3, "value": 42}, {"source": 2011, "target": 5, "value": 38}, {"source": 2011, "target": 6, "value": 49}, {"source": 2011, "target": 7, "value": 60}, {"source": 2011, "target": 9, "value": 60}, {"source": 2011, "target": 12, "value": 44}, {"source": 2012, "target": 2, "value": 22}, {"source": 2012, "target": 3, "value": 35}, {"source": 2012, "target": 5, "value": 31}, {"source": 2012, "target": 7, "value": 39}, {"source": 2012, "target": 9, "value": 41}, {"source": 2012, "target": 11, "value": 23}, {"source": 2013, "target": 2, "value": 29}, {"source": 2013, "target": 3, "value": 32}, {"source": 2013, "target": 4, "value": 44}, {"source": 2013, "target": 5, "value": 27}, {"source": 2013, "target": 9, "value": 32}, {"source": 2013, "target": 10, "value": 46}, {"source": 2013, "target": 11, "value": 30}, {"source": 2013, "target": 12, "value": 30}, {"source": 1972, "target": 1, "value": 122}, {"source": 1938, "target": 10, "value": 32}, {"source": 1938, "target": 11, "value": 19}, {"source": 1939, "target": 1, "value": 47}, {"source": 1939, "target": 2, "value": 7}, {"source": 1939, "target": 10, "value": 33}, {"source": 1939, "target": 11, "value": 25}, {"source": 1940, "target": 3, "value": 21}, {"source": 1940, "target": 4, "value": 22}, {"source": 1940, "target": 5, "value": 14}, {"source": 1940, "target": 10, "value": 33}, {"source": 1940, "target": 11, "value": 25}, {"source": 1940, "target": 12, "value": 7}, {"source": 1941, "target": 5, "value": 17}, {"source": 1941, "target": 11, "value": 18}, {"source": 1941, "target": 12, "value": 11}, {"source": 1942, "target": 3, "value": 15}, {"source": 1942, "target": 4, "value": 31}, {"source": 1942, "target": 10, "value": 22}, {"source": 1943, "target": 1, "value": 34}, {"source": 1943, "target": 4, "value": 22}, {"source": 1943, "target": 5, "value": 21}, {"source": 1943, "target": 12, "value": 6}, {"source": 1944, "target": 1, "value": 29}, {"source": 1944, "target": 3, "value": 18}, {"source": 1944, "target": 4, "value": 30}, {"source": 1944, "target": 10, "value": 36}, {"source": 1944, "target": 11, "value": 18}, {"source": 1945, "target": 1, "value": 30}, {"source": 1945, "target": 2, "value": 5}, {"source": 1945, "target": 5, "value": 13}, {"source": 1946, "target": 2, "value": 10}, {"source": 1946, "target": 3, "value": 16}, {"source": 1946, "target": 4, "value": 38}, {"source": 1946, "target": 10, "value": 29}, {"source": 1946, "target": 11, "value": 13}, {"source": 1946, "target": 12, "value": 11}, {"source": 1947, "target": 12, "value": 9}, {"source": 1947, "target": 1, "value": 34}, {"source": 1947, "target": 3, "value": 13}, {"source": 1947, "target": 5, "value": 19}, {"source": 1948, "target": 11, "value": 19}, {"source": 1949, "target": 1, "value": 36}, {"source": 1949, "target": 3, "value": 11}, {"source": 1949, "target": 4, "value": 24}, {"source": 1949, "target": 5, "value": 15}, {"source": 1949, "target": 11, "value": 13}, {"source": 1949, "target": 12, "value": 6}, {"source": 1950, "target": 1, "value": 37}, {"source": 1950, "target": 2, "value": 7}, {"source": 1950, "target": 5, "value": 20}, {"source": 1950, "target": 11, "value": 22}, {"source": 1951, "target": 2, "value": 8}, {"source": 1951, "target": 3, "value": 13}, {"source": 1951, "target": 10, "value": 23}, {"source": 1952, "target": 1, "value": 24}, {"source": 1952, "target": 12, "value": 8}, {"source": 1953, "target": 2, "value": 6}, {"source": 1953, "target": 5, "value": 18}, {"source": 1954, "target": 1, "value": 30}, {"source": 1954, "target": 2, "value": 5}, {"source": 1954, "target": 3, "value": 11}, {"source": 1954, "target": 4, "value": 32}, {"source": 1954, "target": 5, "value": 9}, {"source": 1955, "target": 1, "value": 58}, {"source": 1955, "target": 3, "value": 9}, {"source": 1955, "target": 5, "value": 12}, {"source": 1955, "target": 10, "value": 30}, {"source": 1955, "target": 12, "value": 7}, {"source": 1956, "target": 1, "value": 43}, {"source": 1956, "target": 3, "value": 10}, {"source": 1956, "target": 5, "value": 11}, {"source": 1956, "target": 10, "value": 24}, {"source": 1956, "target": 12, "value": 16}, {"source": 1957, "target": 1, "value": 37}, {"source": 1957, "target": 5, "value": 12}, {"source": 1958, "target": 1, "value": 39}, {"source": 1958, "target": 10, "value": 26}, {"source": 1959, "target": 2, "value": 13}, {"source": 1959, "target": 5, "value": 12}, {"source": 1960, "target": 3, "value": 10}, {"source": 1960, "target": 4, "value": 30}, {"source": 1960, "target": 5, "value": 16}, {"source": 1960, "target": 11, "value": 23}, {"source": 1961, "target": 1, "value": 43}, {"source": 1961, "target": 4, "value": 40}, {"source": 1961, "target": 5, "value": 30}, {"source": 1961, "target": 11, "value": 20}, {"source": 1961, "target": 12, "value": 5}, {"source": 1962, "target": 3, "value": 13}, {"source": 1962, "target": 4, "value": 42}, {"source": 1962, "target": 5, "value": 30}, {"source": 1962, "target": 11, "value": 17}, {"source": 1963, "target": 1, "value": 45}, {"source": 1963, "target": 2, "value": 31}, {"source": 1963, "target": 3, "value": 15}, {"source": 1963, "target": 4, "value": 29}, {"source": 1963, "target": 5, "value": 23}, {"source": 1964, "target": 1, "value": 67}, {"source": 1964, "target": 2, "value": 22}, {"source": 1964, "target": 3, "value": 21}, {"source": 1964, "target": 4, "value": 34}, {"source": 1964, "target": 5, "value": 20}, {"source": 1964, "target": 10, "value": 29}, {"source": 1964, "target": 11, "value": 22}, {"source": 1965, "target": 4, "value": 28}, {"source": 1965, "target": 5, "value": 28}, {"source": 1965, "target": 8, "value": 28}, {"source": 1965, "target": 9, "value": 25}, {"source": 1965, "target": 10, "value": 28}, {"source": 1965, "target": 11, "value": 19}, {"source": 1966, "target": 1, "value": 104}, {"source": 1966, "target": 12, "value": 5}, {"source": 1966, "target": 2, "value": 22}, {"source": 1966, "target": 5, "value": 28}, {"source": 1966, "target": 8, "value": 23}, {"source": 1966, "target": 9, "value": 21}, {"source": 1966, "target": 10, "value": 39}, {"source": 1966, "target": 11, "value": 21}, {"source": 1967, "target": 1, "value": 77}, {"source": 1967, "target": 2, "value": 19}, {"source": 1967, "target": 3, "value": 17}, {"source": 1967, "target": 4, "value": 38}, {"source": 1967, "target": 5, "value": 28}, {"source": 1967, "target": 9, "value": 16}, {"source": 1967, "target": 10, "value": 40}, {"source": 1968, "target": 1, "value": 92}, {"source": 1968, "target": 12, "value": 4}, {"source": 1968, "target": 3, "value": 13}, {"source": 1968, "target": 5, "value": 26}, {"source": 1968, "target": 8, "value": 41}, {"source": 1968, "target": 9, "value": 14}, {"source": 1968, "target": 10, "value": 42}, {"source": 1968, "target": 11, "value": 26}, {"source": 1969, "target": 1, "value": 81}, {"source": 1969, "target": 2, "value": 37}, {"source": 1969, "target": 3, "value": 15}, {"source": 1969, "target": 4, "value": 40}, {"source": 1969, "target": 5, "value": 32}, {"source": 1969, "target": 9, "value": 21}, {"source": 1969, "target": 11, "value": 18}, {"source": 1970, "target": 1, "value": 111}, {"source": 1970, "target": 4, "value": 36}, {"source": 1970, "target": 5, "value": 31}, {"source": 1970, "target": 9, "value": 24}, {"source": 1970, "target": 10, "value": 32}, {"source": 1970, "target": 11, "value": 40}, {"source": 1970, "target": 12, "value": 5}, {"source": 1971, "target": 1, "value": 141}, {"source": 1971, "target": 2, "value": 11}, {"source": 1971, "target": 3, "value": 13}, {"source": 1971, "target": 4, "value": 49}, {"source": 1971, "target": 9, "value": 20}, {"source": 1971, "target": 11, "value": 26}, {"source": 1971, "target": 12, "value": 5}, {"source": 1972, "target": 2, "value": 15}, {"source": 1972, "target": 3, "value": 21}, {"source": 1972, "target": 4, "value": 60}, {"source": 1972, "target": 5, "value": 47}, {"source": 1972, "target": 11, "value": 17}, {"source": 1972, "target": 12, "value": 6}, {"source": 1973, "target": 2, "value": 17}, {"source": 1973, "target": 4, "value": 68}, {"source": 1973, "target": 5, "value": 32}, {"source": 1973, "target": 9, "value": 27}, {"source": 1973, "target": 10, "value": 64}, {"source": 1973, "target": 11, "value": 24}, {"source": 1973, "target": 12, "value": 5}, {"source": 1974, "target": 3, "value": 27}, {"source": 1974, "target": 4, "value": 52}, {"source": 1974, "target": 5, "value": 15}, {"source": 1974, "target": 9, "value": 22}, {"source": 1974, "target": 10, "value": 65}, {"source": 1974, "target": 11, "value": 22}, {"source": 1974, "target": 12, "value": 4}, {"source": 1975, "target": 2, "value": 9}, {"source": 1975, "target": 3, "value": 23}, {"source": 1975, "target": 4, "value": 64}, {"source": 1975, "target": 5, "value": 23}, {"source": 1975, "target": 9, "value": 29}, {"source": 1975, "target": 10, "value": 53}, {"source": 1975, "target": 11, "value": 24}, {"source": 1975, "target": 12, "value": 3}, {"source": 1976, "target": 2, "value": 19}, {"source": 1976, "target": 3, "value": 28}, {"source": 1976, "target": 4, "value": 57}, {"source": 1976, "target": 5, "value": 37}, {"source": 1976, "target": 9, "value": 27}, {"source": 1976, "target": 10, "value": 63}, {"source": 1976, "target": 11, "value": 33}, {"source": 1976, "target": 12, "value": 5}, {"source": 1977, "target": 3, "value": 24}, {"source": 1977, "target": 4, "value": 51}, {"source": 1977, "target": 9, "value": 32}, {"source": 1977, "target": 11, "value": 35}, {"source": 1977, "target": 12, "value": 5}, {"source": 1978, "target": 2, "value": 15}, {"source": 1978, "target": 3, "value": 25}, {"source": 1978, "target": 4, "value": 54}, {"source": 1978, "target": 5, "value": 41}, {"source": 1978, "target": 9, "value": 28}, {"source": 1978, "target": 10, "value": 58}, {"source": 1978, "target": 11, "value": 25}, {"source": 1978, "target": 12, "value": 9}, {"source": 1979, "target": 2, "value": 21}, {"source": 1979, "target": 3, "value": 26}, {"source": 1979, "target": 4, "value": 67}, {"source": 1979, "target": 5, "value": 22}, {"source": 1979, "target": 9, "value": 28}, {"source": 1979, "target": 10, "value": 53}, {"source": 1979, "target": 11, "value": 24}, {"source": 1979, "target": 12, "value": 17}, {"source": 1980, "target": 2, "value": 25}, {"source": 1980, "target": 3, "value": 22}, {"source": 1980, "target": 4, "value": 72}, {"source": 1980, "target": 5, "value": 42}, {"source": 1980, "target": 9, "value": 27}, {"source": 1980, "target": 10, "value": 68}, {"source": 1980, "target": 11, "value": 34}, {"source": 1980, "target": 12, "value": 16}, {"source": 1981, "target": 2, "value": 25}, {"source": 1981, "target": 3, "value": 31}, {"source": 1981, "target": 4, "value": 70}, {"source": 1981, "target": 5, "value": 31}, {"source": 1981, "target": 10, "value": 73}, {"source": 1981, "target": 11, "value": 27}, {"source": 1982, "target": 2, "value": 25}, {"source": 1982, "target": 3, "value": 29}, {"source": 1982, "target": 4, "value": 68}, {"source": 1982, "target": 5, "value": 38}, {"source": 1982, "target": 9, "value": 20}, {"source": 1982, "target": 11, "value": 30}, {"source": 1983, "target": 2, "value": 24}, {"source": 1983, "target": 3, "value": 29}, {"source": 1983, "target": 4, "value": 53}, {"source": 1983, "target": 11, "value": 31}, {"source": 1983, "target": 12, "value": 17}, {"source": 1984, "target": 2, "value": 35}, {"source": 1984, "target": 4, "value": 70}, {"source": 1984, "target": 10, "value": 87}, {"source": 1985, "target": 2, "value": 25}, {"source": 1985, "target": 3, "value": 27}, {"source": 1985, "target": 4, "value": 69}, {"source": 1985, "target": 5, "value": 42}, {"source": 1985, "target": 11, "value": 25}, {"source": 1986, "target": 2, "value": 29}, {"source": 1986, "target": 3, "value": 23}, {"source": 1986, "target": 5, "value": 31}, {"source": 1986, "target": 9, "value": 25}, {"source": 1987, "target": 2, "value": 25}, {"source": 1987, "target": 3, "value": 24}, {"source": 1987, "target": 9, "value": 17}, {"source": 1987, "target": 11, "value": 42}, {"source": 1988, "target": 2, "value": 35}, {"source": 1988, "target": 3, "value": 20}, {"source": 1988, "target": 5, "value": 26}, {"source": 1988, "target": 9, "value": 29}, {"source": 1988, "target": 11, "value": 33}, {"source": 1989, "target": 2, "value": 34}, {"source": 1989, "target": 3, "value": 24}, {"source": 1989, "target": 4, "value": 56}, {"source": 1989, "target": 9, "value": 25}, {"source": 1989, "target": 10, "value": 85}, {"source": 1989, "target": 11, "value": 29}, {"source": 1990, "target": 3, "value": 24}, {"source": 1990, "target": 4, "value": 77}, {"source": 1990, "target": 11, "value": 22}, {"source": 1991, "target": 3, "value": 22}, {"source": 1991, "target": 10, "value": 84}, {"source": 1992, "target": 3, "value": 33}, {"source": 1992, "target": 9, "value": 25}, {"source": 1992, "target": 10, "value": 73}, {"source": 1993, "target": 3, "value": 21}, {"source": 1993, "target": 4, "value": 81}, {"source": 1994, "target": 2, "value": 36}, {"source": 1994, "target": 4, "value": 65}, {"source": 1994, "target": 10, "value": 80}, {"source": 1995, "target": 3, "value": 27}, {"source": 1995, "target": 4, "value": 74}, {"source": 1995, "target": 10, "value": 84}, {"source": 1996, "target": 3, "value": 22}, {"source": 1996, "target": 4, "value": 76}, {"source": 1996, "target": 10, "value": 65}, {"source": 1997, "target": 2, "value": 43}, {"source": 1997, "target": 4, "value": 78}, {"source": 1997, "target": 11, "value": 38}, {"source": 1998, "target": 4, "value": 81}, {"source": 1998, "target": 10, "value": 74}, {"source": 1999, "target": 4, "value": 83}, {"source": 1999, "target": 10, "value": 82}, {"source": 2000, "target": 4, "value": 93}, {"source": 2000, "target": 6, "value": 36}, {"source": 2000, "target": 10, "value": 78}, {"source": 2001, "target": 10, "value": 97}, {"source": 2002, "target": 4, "value": 85}, {"source": 2002, "target": 10, "value": 69}, {"source": 2002, "target": 11, "value": 39}, {"source": 2003, "target": 4, "value": 82}, {"source": 2003, "target": 9, "value": 29}, {"source": 2003, "target": 10, "value": 80}, {"source": 2004, "target": 2, "value": 33}, {"source": 2004, "target": 4, "value": 51}, {"source": 2004, "target": 9, "value": 41}, {"source": 2005, "target": 2, "value": 40}, {"source": 2005, "target": 10, "value": 60}, {"source": 2005, "target": 11, "value": 47}, {"source": 2006, "target": 4, "value": 65}, {"source": 2006, "target": 10, "value": 58}, {"source": 2007, "target": 3, "value": 78}, {"source": 2007, "target": 5, "value": 40}, {"source": 2008, "target": 2, "value": 54}, {"source": 2008, "target": 3, "value": 41}, {"source": 2008, "target": 4, "value": 79}, {"source": 2008, "target": 10, "value": 56}, {"source": 2009, "target": 8, "value": 54}, {"source": 2009, "target": 10, "value": 67}, {"source": 2010, "target": 2, "value": 46}, {"source": 2010, "target": 4, "value": 65}, {"source": 2010, "target": 9, "value": 37}, {"source": 2010, "target": 10, "value": 78}, {"source": 2011, "target": 4, "value": 64}, {"source": 2011, "target": 8, "value": 45}, {"source": 2011, "target": 10, "value": 74}, {"source": 2011, "target": 11, "value": 39}, {"source": 2012, "target": 4, "value": 38}, {"source": 2012, "target": 8, "value": 15}, {"source": 2012, "target": 10, "value": 31}, {"source": 2012, "target": 1112, "value": 3}, {"source": 2014, "target": 2, "value": 9}, {"source": 2014, "target": 3, "value": 11}, {"source": 2014, "target": 4, "value": 15}, {"source": 2014, "target": 5, "value": 13}, {"source": 2014, "target": 8, "value": 16}, {"source": 2014, "target": 9, "value": 10}, {"source": 2014, "target": 1112, "value": 3}, {"source": 2015, "target": 1, "value": 22}, {"source": 2015, "target": 2, "value": 15}, {"source": 2015, "target": 3, "value": 18}, {"source": 2015, "target": 5, "value": 12}, {"source": 2015, "target": 6, "value": 10}, {"source": 2015, "target": 10, "value": 16}, {"source": 2015, "target": 11, "value": 13}, {"source": 1911, "target": 7, "value": 14}, {"source": 1912, "target": 10, "value": 20}, {"source": 1913, "target": 4, "value": 25}, {"source": 1913, "target": 9, "value": 3}, {"source": 1914, "target": 1, "value": 24}, {"source": 1914, "target": 4, "value": 22}, {"source": 1914, "target": 10, "value": 19}, {"source": 1915, "target": 1, "value": 21}, {"source": 1915, "target": 7, "value": 17}, {"source": 1916, "target": 4, "value": 22}, {"source": 1916, "target": 7, "value": 21}, {"source": 1917, "target": 1, "value": 27}, {"source": 1917, "target": 4, "value": 27}, {"source": 1917, "target": 10, "value": 28}, {"source": 1918, "target": 4, "value": 37}, {"source": 1919, "target": 1, "value": 21}, {"source": 1919, "target": 7, "value": 19}, {"source": 1919, "target": 10, "value": 28}, {"source": 1920, "target": 1, "value": 29}, {"source": 1920, "target": 4, "value": 24}, {"source": 1921, "target": 7, "value": 26}, {"source": 1921, "target": 10, "value": 23}, {"source": 1922, "target": 1, "value": 32}, {"source": 1923, "target": 1, "value": 33}, {"source": 1923, "target": 7, "value": 29}, {"source": 1923, "target": 10, "value": 18}, {"source": 1924, "target": 1, "value": 37}, {"source": 1924, "target": 4, "value": 30}, {"source": 1924, "target": 7, "value": 28}, {"source": 1924, "target": 10, "value": 27}, {"source": 1925, "target": 1, "value": 27}, {"source": 1925, "target": 4, "value": 28}, {"source": 1926, "target": 1, "value": 37}, {"source": 1926, "target": 10, "value": 30}, {"source": 1927, "target": 1, "value": 35}, {"source": 1927, "target": 4, "value": 33}, {"source": 1927, "target": 7, "value": 30}, {"source": 1928, "target": 10, "value": 27}, {"source": 1929, "target": 1, "value": 34}, {"source": 1929, "target": 4, "value": 27}, {"source": 1929, "target": 7, "value": 34}, {"source": 1929, "target": 10, "value": 35}, {"source": 1931, "target": 1, "value": 32}, {"source": 1931, "target": 4, "value": 27}, {"source": 1931, "target": 10, "value": 37}, {"source": 1932, "target": 4, "value": 25}, {"source": 1932, "target": 7, "value": 37}, {"source": 1933, "target": 4, "value": 31}, {"source": 1933, "target": 10, "value": 37}, {"source": 1934, "target": 4, "value": 31}, {"source": 1934, "target": 7, "value": 33}, {"source": 1935, "target": 4, "value": 33}, {"source": 1935, "target": 10, "value": 26}, {"source": 1936, "target": 7, "value": 41}, {"source": 1937, "target": 4, "value": 21}, {"source": 1937, "target": 10, "value": 35}, {"source": 1938, "target": 4, "value": 38}, {"source": 1938, "target": 7, "value": 52}, {"source": 1940, "target": 1, "value": 27}, {"source": 1940, "target": 7, "value": 40}, {"source": 1941, "target": 7, "value": 45}, {"source": 1942, "target": 1, "value": 38}, {"source": 1942, "target": 7, "value": 36}, {"source": 1943, "target": 7, "value": 37}, {"source": 1943, "target": 10, "value": 31}, {"source": 1944, "target": 7, "value": 28}, {"source": 1945, "target": 4, "value": 30}, {"source": 1947, "target": 7, "value": 29}, {"source": 1948, "target": 1, "value": 36}, {"source": 1948, "target": 4, "value": 35}, {"source": 1949, "target": 7, "value": 20}, {"source": 1951, "target": 4, "value": 19}, {"source": 1952, "target": 4, "value": 15}, {"source": 1952, "target": 10, "value": 18}, {"source": 1958, "target": 7, "value": 28}, {"source": 1959, "target": 10, "value": 28}, {"source": 1960, "target": 1, "value": 32}, {"source": 1960, "target": 7, "value": 34}, {"source": 1961, "target": 7, "value": 40}, {"source": 1965, "target": 1, "value": 66}, {"source": 1965, "target": 7, "value": 40}, {"source": 1966, "target": 4, "value": 38}, {"source": 1968, "target": 7, "value": 40}, {"source": 1969, "target": 7, "value": 36}, {"source": 1973, "target": 7, "value": 62}, {"source": 1974, "target": 7, "value": 51}, {"source": 1975, "target": 7, "value": 73}, {"source": 1976, "target": 7, "value": 66}, {"source": 1979, "target": 7, "value": 61}, {"source": 1981, "target": 7, "value": 64}, {"source": 1987, "target": 10, "value": 80}, {"source": 1989, "target": 7, "value": 50}, {"source": 1990, "target": 10, "value": 71}, {"source": 1991, "target": 7, "value": 76}, {"source": 1993, "target": 7, "value": 71}, {"source": 1995, "target": 7, "value": 63}, {"source": 1997, "target": 7, "value": 74}, {"source": 1997, "target": 10, "value": 76}, {"source": 2001, "target": 4, "value": 91}, {"source": 2002, "target": 7, "value": 73}, {"source": 2003, "target": 7, "value": 83}, {"source": 2004, "target": 7, "value": 59}, {"source": 2005, "target": 4, "value": 68}, {"source": 2007, "target": 10, "value": 78}, {"source": 2008, "target": 7, "value": 61}, {"source": 2009, "target": 4, "value": 74}, {"source": 1914, "target": 11, "value": 11}, {"source": 1915, "target": 3, "value": 4}, {"source": 1915, "target": 5, "value": 7}, {"source": 1915, "target": 10, "value": 19}, {"source": 1915, "target": 11, "value": 4}, {"source": 1916, "target": 12, "value": 3}, {"source": 1916, "target": 10, "value": 23}, {"source": 1917, "target": 7, "value": 24}, {"source": 1917, "target": 11, "value": 7}, {"source": 1918, "target": 2, "value": 6}, {"source": 1918, "target": 10, "value": 22}, {"source": 1918, "target": 11, "value": 5}, {"source": 1919, "target": 12, "value": 3}, {"source": 1919, "target": 5, "value": 10}, {"source": 1919, "target": 11, "value": 9}, {"source": 1920, "target": 12, "value": 3}, {"source": 1920, "target": 3, "value": 7}, {"source": 1920, "target": 5, "value": 7}, {"source": 1920, "target": 6, "value": 2}, {"source": 1920, "target": 10, "value": 20}, {"source": 1920, "target": 11, "value": 8}, {"source": 1921, "target": 1, "value": 30}, {"source": 1921, "target": 12, "value": 1}, {"source": 1921, "target": 2, "value": 2}, {"source": 1921, "target": 4, "value": 20}, {"source": 1922, "target": 2, "value": 3}, {"source": 1922, "target": 5, "value": 9}, {"source": 1922, "target": 6, "value": 3}, {"source": 1922, "target": 7, "value": 28}, {"source": 1923, "target": 12, "value": 2}, {"source": 1923, "target": 3, "value": 5}, {"source": 1923, "target": 6, "value": 2}, {"source": 1924, "target": 12, "value": 2}, {"source": 1924, "target": 3, "value": 10}, {"source": 1924, "target": 6, "value": 3}, {"source": 1924, "target": 11, "value": 9}, {"source": 1925, "target": 2, "value": 4}, {"source": 1925, "target": 3, "value": 3}, {"source": 1925, "target": 5, "value": 7}, {"source": 1925, "target": 6, "value": 3}, {"source": 1926, "target": 5, "value": 8}, {"source": 1926, "target": 7, "value": 35}, {"source": 1926, "target": 11, "value": 10}, {"source": 1927, "target": 2, "value": 3}, {"source": 1927, "target": 5, "value": 8}, {"source": 1927, "target": 6, "value": 2}, {"source": 1927, "target": 10, "value": 28}, {"source": 1928, "target": 12, "value": 2}, {"source": 1928, "target": 2, "value": 8}, {"source": 1928, "target": 3, "value": 8}, {"source": 1928, "target": 4, "value": 35}, {"source": 1928, "target": 11, "value": 11}, {"source": 1929, "target": 6, "value": 3}, {"source": 1930, "target": 12, "value": 2}, {"source": 1930, "target": 4, "value": 27}, {"source": 1930, "target": 6, "value": 4}, {"source": 1930, "target": 7, "value": 28}, {"source": 1930, "target": 11, "value": 9}, {"source": 1931, "target": 12, "value": 2}, {"source": 1931, "target": 2, "value": 10}, {"source": 1931, "target": 5, "value": 11}, {"source": 1931, "target": 7, "value": 23}, {"source": 1932, "target": 1, "value": 33}, {"source": 1932, "target": 12, "value": 3}, {"source": 1932, "target": 2, "value": 5}, {"source": 1932, "target": 3, "value": 9}, {"source": 1932, "target": 5, "value": 13}, {"source": 1932, "target": 6, "value": 3}, {"source": 1932, "target": 11, "value": 13}, {"source": 1933, "target": 1, "value": 30}, {"source": 1933, "target": 3, "value": 5}, {"source": 1934, "target": 1, "value": 26}, {"source": 1934, "target": 2, "value": 5}, {"source": 1934, "target": 5, "value": 13}, {"source": 1934, "target": 10, "value": 27}, {"source": 1935, "target": 2, "value": 5}, {"source": 1935, "target": 5, "value": 13}, {"source": 1935, "target": 6, "value": 4}, {"source": 1935, "target": 7, "value": 42}, {"source": 1936, "target": 1, "value": 35}, {"source": 1936, "target": 12, "value": 6}, {"source": 1936, "target": 2, "value": 6}, {"source": 1936, "target": 3, "value": 3}, {"source": 1936, "target": 4, "value": 33}, {"source": 1936, "target": 5, "value": 11}, {"source": 1936, "target": 6, "value": 4}, {"source": 1936, "target": 10, "value": 23}, {"source": 1937, "target": 1, "value": 26}, {"source": 1937, "target": 2, "value": 3}, {"source": 1937, "target": 3, "value": 13}, {"source": 1937, "target": 6, "value": 4}, {"source": 1937, "target": 7, "value": 32}, {"source": 1937, "target": 11, "value": 13}, {"source": 1938, "target": 1, "value": 42}, {"source": 1938, "target": 12, "value": 7}, {"source": 1938, "target": 2, "value": 10}, {"source": 1938, "target": 3, "value": 14}, {"source": 1938, "target": 5, "value": 19}, {"source": 1938, "target": 6, "value": 4}, {"source": 1939, "target": 12, "value": 8}, {"source": 1939, "target": 3, "value": 19}, {"source": 1939, "target": 4, "value": 31}, {"source": 1939, "target": 5, "value": 16}, {"source": 1939, "target": 6, "value": 4}, {"source": 1939, "target": 7, "value": 41}, {"source": 1940, "target": 6, "value": 6}, {"source": 1941, "target": 1, "value": 36}, {"source": 1941, "target": 2, "value": 12}, {"source": 1941, "target": 3, "value": 22}, {"source": 1941, "target": 4, "value": 36}, {"source": 1941, "target": 10, "value": 34}, {"source": 1942, "target": 12, "value": 8}, {"source": 1942, "target": 2, "value": 10}, {"source": 1942, "target": 5, "value": 18}, {"source": 1942, "target": 6, "value": 4}, {"source": 1942, "target": 11, "value": 20}, {"source": 1943, "target": 2, "value": 13}, {"source": 1943, "target": 3, "value": 26}, {"source": 1943, "target": 11, "value": 21}, {"source": 1944, "target": 2, "value": 4}, {"source": 1944, "target": 5, "value": 15}, {"source": 1944, "target": 6, "value": 5}, {"source": 1945, "target": 12, "value": 7}, {"source": 1945, "target": 3, "value": 14}, {"source": 1945, "target": 7, "value": 35}, {"source": 1945, "target": 10, "value": 31}, {"source": 1945, "target": 11, "value": 16}, {"source": 1946, "target": 1, "value": 29}, {"source": 1946, "target": 5, "value": 11}, {"source": 1947, "target": 4, "value": 36}, {"source": 1947, "target": 6, "value": 5}, {"source": 1947, "target": 10, "value": 30}, {"source": 1947, "target": 11, "value": 15}, {"source": 1948, "target": 12, "value": 10}, {"source": 1948, "target": 3, "value": 17}, {"source": 1948, "target": 5, "value": 17}, {"source": 1948, "target": 6, "value": 3}, {"source": 1948, "target": 7, "value": 28}, {"source": 1949, "target": 2, "value": 11}, {"source": 1949, "target": 6, "value": 2}, {"source": 1949, "target": 10, "value": 19}, {"source": 1950, "target": 12, "value": 5}, {"source": 1950, "target": 3, "value": 18}, {"source": 1950, "target": 4, "value": 25}, {"source": 1950, "target": 6, "value": 3}, {"source": 1950, "target": 7, "value": 34}, {"source": 1950, "target": 10, "value": 23}, {"source": 1951, "target": 5, "value": 13}, {"source": 1951, "target": 6, "value": 6}, {"source": 1951, "target": 11, "value": 18}, {"source": 1952, "target": 2, "value": 8}, {"source": 1952, "target": 3, "value": 17}, {"source": 1952, "target": 5, "value": 16}, {"source": 1952, "target": 11, "value": 14}, {"source": 1953, "target": 6, "value": 5}, {"source": 1953, "target": 7, "value": 28}, {"source": 1953, "target": 10, "value": 30}, {"source": 1953, "target": 11, "value": 12}, {"source": 1954, "target": 12, "value": 6}, {"source": 1954, "target": 6, "value": 4}, {"source": 1954, "target": 11, "value": 9}, {"source": 1955, "target": 2, "value": 4}, {"source": 1955, "target": 11, "value": 8}, {"source": 1956, "target": 6, "value": 4}, {"source": 1956, "target": 7, "value": 29}, {"source": 1957, "target": 3, "value": 11}, {"source": 1957, "target": 7, "value": 34}, {"source": 1958, "target": 2, "value": 17}, {"source": 1958, "target": 5, "value": 13}, {"source": 1958, "target": 6, "value": 9}, {"source": 1959, "target": 12, "value": 6}, {"source": 1959, "target": 3, "value": 12}, {"source": 1959, "target": 7, "value": 22}, {"source": 1959, "target": 11, "value": 19}, {"source": 1961, "target": 3, "value": 8}, {"source": 1961, "target": 9, "value": 12}, {"source": 1962, "target": 1, "value": 42}, {"source": 1962, "target": 7, "value": 42}, {"source": 1962, "target": 8, "value": 16}, {"source": 1963, "target": 11, "value": 18}, {"source": 1963, "target": 7, "value": 30}, {"source": 1963, "target": 9, "value": 10}, {"source": 1964, "target": 7, "value": 31}, {"source": 1964, "target": 8, "value": 17}, {"source": 1964, "target": 9, "value": 11}, {"source": 1965, "target": 3, "value": 9}, {"source": 1966, "target": 3, "value": 10}, {"source": 1966, "target": 7, "value": 32}, {"source": 1967, "target": 11, "value": 25}, {"source": 1967, "target": 7, "value": 36}, {"source": 1967, "target": 8, "value": 27}, {"source": 1968, "target": 2, "value": 33}, {"source": 1968, "target": 4, "value": 41}, {"source": 1969, "target": 8, "value": 44}, {"source": 1969, "target": 10, "value": 47}, {"source": 1970, "target": 3, "value": 18}, {"source": 1970, "target": 7, "value": 38}, {"source": 1970, "target": 8, "value": 19}, {"source": 1971, "target": 5, "value": 18}, {"source": 1971, "target": 8, "value": 16}, {"source": 1972, "target": 7, "value": 61}, {"source": 1972, "target": 8, "value": 20}, {"source": 1973, "target": 3, "value": 21}, {"source": 1973, "target": 8, "value": 25}, {"source": 1974, "target": 2, "value": 8}, {"source": 1974, "target": 8, "value": 5}, {"source": 1976, "target": 8, "value": 9}, {"source": 1977, "target": 2, "value": 15}, {"source": 1977, "target": 7, "value": 76}, {"source": 1977, "target": 10, "value": 60}, {"source": 1978, "target": 7, "value": 80}, {"source": 1978, "target": 8, "value": 10}, {"source": 1979, "target": 8, "value": 20}, {"source": 1980, "target": 7, "value": 63}, {"source": 1980, "target": 8, "value": 26}, {"source": 1982, "target": 7, "value": 67}, {"source": 1982, "target": 10, "value": 65}, {"source": 1983, "target": 5, "value": 20}, {"source": 1983, "target": 7, "value": 67}, {"source": 1983, "target": 8, "value": 29}, {"source": 1983, "target": 10, "value": 61}, {"source": 1984, "target": 11, "value": 33}, {"source": 1984, "target": 5, "value": 23}, {"source": 1984, "target": 7, "value": 66}, {"source": 1984, "target": 8, "value": 28}, {"source": 1985, "target": 12, "value": 15}, {"source": 1985, "target": 8, "value": 27}, {"source": 1986, "target": 12, "value": 19}, {"source": 1986, "target": 6, "value": 25}, {"source": 1986, "target": 8, "value": 27}, {"source": 1987, "target": 6, "value": 22}, {"source": 1987, "target": 8, "value": 22}, {"source": 1988, "target": 6, "value": 17}, {"source": 1988, "target": 8, "value": 19}, {"source": 1989, "target": 12, "value": 14}, {"source": 1989, "target": 5, "value": 27}, {"source": 1989, "target": 6, "value": 18}, {"source": 1990, "target": 6, "value": 17}, {"source": 1991, "target": 6, "value": 19}, {"source": 1991, "target": 8, "value": 25}, {"source": 1992, "target": 12, "value": 18}, {"source": 1992, "target": 7, "value": 69}, {"source": 1993, "target": 9, "value": 16}, {"source": 1994, "target": 6, "value": 18}, {"source": 1994, "target": 8, "value": 28}, {"source": 1995, "target": 11, "value": 32}, {"source": 1995, "target": 8, "value": 24}, {"source": 1996, "target": 12, "value": 40}, {"source": 1996, "target": 6, "value": 25}, {"source": 1996, "target": 7, "value": 63}, {"source": 1996, "target": 8, "value": 37}, {"source": 1998, "target": 7, "value": 71}, {"source": 1999, "target": 7, "value": 77}, {"source": 1999, "target": 8, "value": 31}, {"source": 2001, "target": 6, "value": 47}, {"source": 2001, "target": 7, "value": 70}, {"source": 2002, "target": 9, "value": 29}, {"source": 2004, "target": 10, "value": 74}, {"source": 2004, "target": 3, "value": 34}, {"source": 2004, "target": 6, "value": 34}, {"source": 2005, "target": 12, "value": 57}, {"source": 2005, "target": 7, "value": 71}, {"source": 2005, "target": 9, "value": 48}, {"source": 2006, "target": 7, "value": 54}, {"source": 2007, "target": 8, "value": 57}, {"source": 2008, "target": 8, "value": 38}, {"source": 2010, "target": 6, "value": 48}, {"source": 2010, "target": 8, "value": 40}, {"source": 1909, "target": 12, "value": 7}, {"source": 1910, "target": 6, "value": 3}, {"source": 1911, "target": 1, "value": 28}, {"source": 1911, "target": 6, "value": 3}, {"source": 1912, "target": 7, "value": 27}, {"source": 1912, "target": 1, "value": 27}, {"source": 1912, "target": 3, "value": 8}, {"source": 1913, "target": 1, "value": 25}, {"source": 1913, "target": 3, "value": 8}, {"source": 1913, "target": 10, "value": 26}, {"source": 1914, "target": 7, "value": 19}, {"source": 1914, "target": 2, "value": 6}, {"source": 1914, "target": 5, "value": 11}, {"source": 1915, "target": 9, "value": 6}, {"source": 1916, "target": 1, "value": 24}, {"source": 1916, "target": 5, "value": 7}, {"source": 1917, "target": 5, "value": 6}, {"source": 1918, "target": 1, "value": 24}, {"source": 1918, "target": 5, "value": 3}, {"source": 1919, "target": 9, "value": 7}, {"source": 1921, "target": 3, "value": 8}, {"source": 1921, "target": 5, "value": 5}, {"source": 1921, "target": 11, "value": 4}, {"source": 1922, "target": 11, "value": 7}, {"source": 1923, "target": 11, "value": 11}, {"source": 1924, "target": 9, "value": 5}, {"source": 1928, "target": 1, "value": 26}, {"source": 1929, "target": 9, "value": 4}, {"source": 1929, "target": 5, "value": 8}, {"source": 1933, "target": 7, "value": 28}, {"source": 1933, "target": 11, "value": 10}, {"source": 1934, "target": 3, "value": 6}, {"source": 1934, "target": 9, "value": 7}, {"source": 1934, "target": 11, "value": 12}, {"source": 1935, "target": 1, "value": 46}, {"source": 1935, "target": 3, "value": 13}, {"source": 1935, "target": 9, "value": 8}, {"source": 1935, "target": 11, "value": 16}, {"source": 1936, "target": 9, "value": 8}, {"source": 1936, "target": 11, "value": 13}, {"source": 1937, "target": 5, "value": 14}, {"source": 1937, "target": 9, "value": 7}, {"source": 1938, "target": 9, "value": 13}, {"source": 1939, "target": 9, "value": 7}, {"source": 1940, "target": 9, "value": 10}, {"source": 1941, "target": 9, "value": 9}, {"source": 1942, "target": 9, "value": 14}, {"source": 1943, "target": 9, "value": 11}, {"source": 1945, "target": 9, "value": 23}, {"source": 1946, "target": 7, "value": 33}, {"source": 1946, "target": 9, "value": 17}, {"source": 1947, "target": 9, "value": 9}, {"source": 1948, "target": 9, "value": 7}, {"source": 1949, "target": 9, "value": 11}, {"source": 1950, "target": 9, "value": 11}, {"source": 1951, "target": 7, "value": 25}, {"source": 1951, "target": 9, "value": 15}, {"source": 1955, "target": 7, "value": 28}, {"source": 1957, "target": 10, "value": 28}, {"source": 1971, "target": 7, "value": 44}, {"source": 2000, "target": 7, "value": 70}, {"source": 2013, "target": 7, "value": 29}, {"source": 1867, "target": 3, "value": 5}, {"source": 1867, "target": 6, "value": 2}, {"source": 1867, "target": 7, "value": 2}, {"source": 1867, "target": 8, "value": 2}, {"source": 1867, "target": 10, "value": 6}, {"source": 1867, "target": 11, "value": 2}, {"source": 1868, "target": 1, "value": 2}, {"source": 1868, "target": 2, "value": 2}, {"source": 1868, "target": 12, "value": 4}, {"source": 1868, "target": 4, "value": 3}, {"source": 1868, "target": 5, "value": 5}, {"source": 1868, "target": 6, "value": 2}, {"source": 1868, "target": 7, "value": 5}, {"source": 1868, "target": 8, "value": 5}, {"source": 1868, "target": 9, "value": 4}, {"source": 1868, "target": 10, "value": 3}, {"source": 1868, "target": 11, "value": 4}, {"source": 1869, "target": 1, "value": 3}, {"source": 1869, "target": 2, "value": 3}, {"source": 1869, "target": 3, "value": 5}, {"source": 1869, "target": 12, "value": 5}, {"source": 1869, "target": 6, "value": 6}, {"source": 1869, "target": 7, "value": 3}, {"source": 1869, "target": 9, "value": 4}, {"source": 1869, "target": 10, "value": 3}, {"source": 1869, "target": 11, "value": 3}, {"source": 1870, "target": 2, "value": 2}, {"source": 1870, "target": 3, "value": 2}, {"source": 1870, "target": 12, "value": 4}, {"source": 1870, "target": 4, "value": 3}, {"source": 1870, "target": 5, "value": 2}, {"source": 1870, "target": 9, "value": 4}, {"source": 1870, "target": 10, "value": 3}, {"source": 1870, "target": 11, "value": 6}, {"source": 1871, "target": 2, "value": 4}, {"source": 1871, "target": 11, "value": 1}, {"source": 1871, "target": 4, "value": 5}, {"source": 1871, "target": 5, "value": 2}, {"source": 1871, "target": 6, "value": 4}, {"source": 1871, "target": 8, "value": 5}, {"source": 1871, "target": 9, "value": 7}, {"source": 1872, "target": 1, "value": 2}, {"source": 1872, "target": 11, "value": 5}, {"source": 1872, "target": 12, "value": 2}, {"source": 1872, "target": 4, "value": 3}, {"source": 1872, "target": 5, "value": 5}, {"source": 1872, "target": 6, "value": 2}, {"source": 1872, "target": 7, "value": 4}, {"source": 1872, "target": 8, "value": 2}, {"source": 1873, "target": 1, "value": 1}, {"source": 1873, "target": 11, "value": 3}, {"source": 1873, "target": 12, "value": 2}, {"source": 1873, "target": 2, "value": 1}, {"source": 1873, "target": 3, "value": 3}, {"source": 1873, "target": 4, "value": 2}, {"source": 1873, "target": 6, "value": 2}, {"source": 1873, "target": 7, "value": 3}, {"source": 1873, "target": 8, "value": 2}, {"source": 1873, "target": 9, "value": 3}, {"source": 1874, "target": 1, "value": 4}, {"source": 1874, "target": 10, "value": 4}, {"source": 1874, "target": 2, "value": 5}, {"source": 1874, "target": 4, "value": 5}, {"source": 1874, "target": 5, "value": 3}, {"source": 1874, "target": 8, "value": 2}, {"source": 1874, "target": 9, "value": 4}, {"source": 1875, "target": 1, "value": 3}, {"source": 1875, "target": 3, "value": 2}, {"source": 1875, "target": 4, "value": 3}, {"source": 1875, "target": 5, "value": 4}, {"source": 1875, "target": 9, "value": 3}, {"source": 1876, "target": 10, "value": 3}, {"source": 1876, "target": 12, "value": 2}, {"source": 1876, "target": 2, "value": 4}, {"source": 1876, "target": 3, "value": 3}, {"source": 1876, "target": 5, "value": 5}, {"source": 1876, "target": 6, "value": 4}, {"source": 1876, "target": 9, "value": 3}, {"source": 1877, "target": 1, "value": 2}, {"source": 1877, "target": 12, "value": 4}, {"source": 1877, "target": 2, "value": 3}, {"source": 1877, "target": 4, "value": 6}, {"source": 1877, "target": 6, "value": 3}, {"source": 1877, "target": 8, "value": 2}, {"source": 1877, "target": 9, "value": 1}, {"source": 1878, "target": 1, "value": 3}, {"source": 1878, "target": 10, "value": 3}, {"source": 1878, "target": 11, "value": 3}, {"source": 1878, "target": 2, "value": 1}, {"source": 1878, "target": 4, "value": 3}, {"source": 1878, "target": 7, "value": 5}, {"source": 1878, "target": 8, "value": 4}, {"source": 1879, "target": 1, "value": 2}, {"source": 1879, "target": 10, "value": 5}, {"source": 1879, "target": 11, "value": 3}, {"source": 1879, "target": 12, "value": 2}, {"source": 1879, "target": 2, "value": 3}, {"source": 1879, "target": 3, "value": 2}, {"source": 1879, "target": 4, "value": 3}, {"source": 1879, "target": 6, "value": 2}, {"source": 1879, "target": 8, "value": 4}, {"source": 1880, "target": 10, "value": 1}, {"source": 1880, "target": 11, "value": 3}, {"source": 1880, "target": 2, "value": 2}, {"source": 1880, "target": 4, "value": 5}, {"source": 1880, "target": 5, "value": 3}, {"source": 1881, "target": 11, "value": 1}, {"source": 1881, "target": 12, "value": 3}, {"source": 1881, "target": 2, "value": 5}, {"source": 1881, "target": 5, "value": 3}, {"source": 1882, "target": 1, "value": 4}, {"source": 1882, "target": 10, "value": 1}, {"source": 1882, "target": 11, "value": 2}, {"source": 1882, "target": 4, "value": 2}, {"source": 1882, "target": 5, "value": 2}, {"source": 1882, "target": 6, "value": 1}, {"source": 1882, "target": 7, "value": 4}, {"source": 1882, "target": 8, "value": 2}, {"source": 1883, "target": 10, "value": 1}, {"source": 1883, "target": 11, "value": 3}, {"source": 1883, "target": 12, "value": 4}, {"source": 1883, "target": 2, "value": 2}, {"source": 1883, "target": 3, "value": 5}, {"source": 1883, "target": 5, "value": 6}, {"source": 1883, "target": 6, "value": 4}, {"source": 1883, "target": 9, "value": 1}, {"source": 1884, "target": 10, "value": 15}, {"source": 1884, "target": 11, "value": 3}, {"source": 1884, "target": 12, "value": 4}, {"source": 1884, "target": 4, "value": 17}, {"source": 1884, "target": 5, "value": 4}, {"source": 1884, "target": 6, "value": 2}, {"source": 1884, "target": 7, "value": 14}, {"source": 1884, "target": 8, "value": 2}, {"source": 1884, "target": 9, "value": 1}, {"source": 1885, "target": 11, "value": 3}, {"source": 1885, "target": 3, "value": 6}, {"source": 1885, "target": 4, "value": 15}, {"source": 1885, "target": 6, "value": 4}, {"source": 1885, "target": 7, "value": 17}, {"source": 1886, "target": 1, "value": 12}, {"source": 1886, "target": 2, "value": 3}, {"source": 1886, "target": 3, "value": 2}, {"source": 1886, "target": 4, "value": 23}, {"source": 1886, "target": 6, "value": 5}, {"source": 1886, "target": 8, "value": 1}, {"source": 1886, "target": 9, "value": 3}, {"source": 1887, "target": 1, "value": 17}, {"source": 1887, "target": 10, "value": 13}, {"source": 1887, "target": 11, "value": 6}, {"source": 1887, "target": 12, "value": 2}, {"source": 1887, "target": 3, "value": 3}, {"source": 1887, "target": 4, "value": 14}, {"source": 1887, "target": 5, "value": 3}, {"source": 1887, "target": 6, "value": 2}, {"source": 1887, "target": 8, "value": 4}, {"source": 1887, "target": 9, "value": 2}, {"source": 1888, "target": 2, "value": 9}, {"source": 1888, "target": 5, "value": 3}, {"source": 1888, "target": 7, "value": 14}, {"source": 1888, "target": 8, "value": 7}, {"source": 1888, "target": 9, "value": 6}, {"source": 1888, "target": 11, "value": 7}, {"source": 1889, "target": 3, "value": 3}, {"source": 1889, "target": 4, "value": 17}, {"source": 1889, "target": 5, "value": 11}, {"source": 1889, "target": 6, "value": 1}, {"source": 1889, "target": 7, "value": 13}, {"source": 1889, "target": 8, "value": 7}, {"source": 1889, "target": 11, "value": 4}, {"source": 1890, "target": 4, "value": 12}, {"source": 1890, "target": 5, "value": 4}, {"source": 1890, "target": 8, "value": 5}, {"source": 1890, "target": 9, "value": 2}, {"source": 1890, "target": 11, "value": 3}, {"source": 1891, "target": 3, "value": 5}, {"source": 1891, "target": 5, "value": 1}, {"source": 1891, "target": 6, "value": 3}, {"source": 1891, "target": 7, "value": 10}, {"source": 1891, "target": 8, "value": 2}, {"source": 1891, "target": 9, "value": 3}, {"source": 1891, "target": 10, "value": 11}, {"source": 1891, "target": 11, "value": 6}, {"source": 1892, "target": 4, "value": 12}, {"source": 1892, "target": 7, "value": 20}, {"source": 1892, "target": 8, "value": 3}, {"source": 1893, "target": 1, "value": 14}, {"source": 1893, "target": 5, "value": 3}, {"source": 1893, "target": 7, "value": 16}, {"source": 1893, "target": 8, "value": 3}, {"source": 1893, "target": 9, "value": 7}, {"source": 1894, "target": 1, "value": 9}, {"source": 1894, "target": 2, "value": 2}, {"source": 1894, "target": 4, "value": 19}, {"source": 1894, "target": 7, "value": 7}, {"source": 1894, "target": 10, "value": 6}, {"source": 1894, "target": 11, "value": 1}, {"source": 1895, "target": 5, "value": 3}, {"source": 1895, "target": 10, "value": 9}, {"source": 1896, "target": 3, "value": 5}, {"source": 1896, "target": 4, "value": 11}, {"source": 1896, "target": 8, "value": 2}, {"source": 1896, "target": 9, "value": 8}, {"source": 1896, "target": 10, "value": 13}, {"source": 1896, "target": 12, "value": 5}, {"source": 1897, "target": 3, "value": 6}, {"source": 1897, "target": 4, "value": 23}, {"source": 1897, "target": 6, "value": 7}, {"source": 1897, "target": 7, "value": 9}, {"source": 1897, "target": 9, "value": 7}, {"source": 1897, "target": 10, "value": 14}, {"source": 1898, "target": 1, "value": 19}, {"source": 1898, "target": 5, "value": 5}, {"source": 1898, "target": 8, "value": 8}, {"source": 1898, "target": 11, "value": 4}, {"source": 1898, "target": 12, "value": 5}, {"source": 1899, "target": 2, "value": 3}, {"source": 1899, "target": 4, "value": 10}, {"source": 1899, "target": 5, "value": 2}, {"source": 1899, "target": 6, "value": 11}, {"source": 1899, "target": 8, "value": 5}, {"source": 1899, "target": 9, "value": 7}, {"source": 1899, "target": 10, "value": 15}, {"source": 1899, "target": 11, "value": 4}, {"source": 1899, "target": 12, "value": 5}, {"source": 1900, "target": 1, "value": 16}, {"source": 1900, "target": 3, "value": 8}, {"source": 1900, "target": 5, "value": 7}, {"source": 1900, "target": 6, "value": 11}, {"source": 1900, "target": 8, "value": 6}, {"source": 1900, "target": 12, "value": 10}, {"source": 1901, "target": 1, "value": 11}, {"source": 1901, "target": 2, "value": 1}, {"source": 1901, "target": 3, "value": 9}, {"source": 1901, "target": 4, "value": 16}, {"source": 1901, "target": 5, "value": 3}, {"source": 1901, "target": 7, "value": 8}, {"source": 1901, "target": 9, "value": 6}, {"source": 1901, "target": 10, "value": 18}, {"source": 1901, "target": 11, "value": 7}, {"source": 1902, "target": 2, "value": 4}, {"source": 1902, "target": 3, "value": 6}, {"source": 1902, "target": 6, "value": 9}, {"source": 1902, "target": 7, "value": 14}, {"source": 1902, "target": 11, "value": 2}, {"source": 1902, "target": 12, "value": 2}, {"source": 1903, "target": 3, "value": 5}, {"source": 1903, "target": 6, "value": 6}, {"source": 1903, "target": 10, "value": 11}, {"source": 1903, "target": 11, "value": 1}, {"source": 1904, "target": 2, "value": 2}, {"source": 1904, "target": 7, "value": 19}, {"source": 1904, "target": 11, "value": 4}, {"source": 1905, "target": 1, "value": 13}, {"source": 1905, "target": 2, "value": 2}, {"source": 1905, "target": 3, "value": 2}, {"source": 1905, "target": 7, "value": 14}, {"source": 1905, "target": 8, "value": 3}, {"source": 1905, "target": 9, "value": 2}, {"source": 1905, "target": 11, "value": 4}, {"source": 1906, "target": 3, "value": 4}, {"source": 1906, "target": 5, "value": 3}, {"source": 1906, "target": 8, "value": 1}, {"source": 1906, "target": 9, "value": 3}, {"source": 1906, "target": 11, "value": 3}, {"source": 1906, "target": 12, "value": 2}, {"source": 1907, "target": 3, "value": 3}, {"source": 1907, "target": 4, "value": 24}, {"source": 1907, "target": 5, "value": 2}, {"source": 1907, "target": 6, "value": 2}, {"source": 1907, "target": 7, "value": 19}, {"source": 1907, "target": 8, "value": 3}, {"source": 1907, "target": 9, "value": 3}, {"source": 1907, "target": 10, "value": 17}, {"source": 1907, "target": 11, "value": 2}, {"source": 1907, "target": 12, "value": 4}, {"source": 1908, "target": 1, "value": 23}, {"source": 1908, "target": 2, "value": 1}, {"source": 1908, "target": 3, "value": 6}, {"source": 1908, "target": 4, "value": 26}, {"source": 1908, "target": 5, "value": 3}, {"source": 1908, "target": 8, "value": 2}, {"source": 1908, "target": 9, "value": 2}, {"source": 1908, "target": 12, "value": 1}, {"source": 1909, "target": 2, "value": 1}, {"source": 1909, "target": 4, "value": 19}, {"source": 1909, "target": 7, "value": 19}, {"source": 1909, "target": 8, "value": 3}, {"source": 1909, "target": 10, "value": 19}, {"source": 1910, "target": 1, "value": 24}, {"source": 1910, "target": 2, "value": 3}, {"source": 1910, "target": 3, "value": 3}, {"source": 1910, "target": 4, "value": 24}, {"source": 1910, "target": 7, "value": 19}, {"source": 1910, "target": 8, "value": 5}, {"source": 1910, "target": 11, "value": 2}, {"source": 1910, "target": 12, "value": 4}, {"source": 1911, "target": 3, "value": 4}, {"source": 1911, "target": 5, "value": 5}, {"source": 1911, "target": 9, "value": 6}, {"source": 1911, "target": 11, "value": 3}, {"source": 1911, "target": 12, "value": 2}, {"source": 1912, "target": 2, "value": 3}, {"source": 1912, "target": 4, "value": 33}, {"source": 1912, "target": 5, "value": 5}, {"source": 1912, "target": 8, "value": 4}, {"source": 1912, "target": 9, "value": 3}, {"source": 1912, "target": 11, "value": 3}, {"source": 1912, "target": 12, "value": 3}, {"source": 1913, "target": 7, "value": 15}, {"source": 1913, "target": 11, "value": 3}, {"source": 1914, "target": 3, "value": 6}, {"source": 1914, "target": 6, "value": 4}, {"source": 1914, "target": 9, "value": 6}, {"source": 1914, "target": 12, "value": 4}, {"source": 1915, "target": 2, "value": 11}, {"source": 1915, "target": 4, "value": 24}, {"source": 1915, "target": 8, "value": 2}, {"source": 1915, "target": 12, "value": 5}, {"source": 1916, "target": 2, "value": 8}, {"source": 1916, "target": 9, "value": 6}, {"source": 1916, "target": 11, "value": 2}, {"source": 1917, "target": 3, "value": 7}, {"source": 1917, "target": 6, "value": 5}, {"source": 1917, "target": 9, "value": 8}, {"source": 1918, "target": 6, "value": 3}, {"source": 1919, "target": 3, "value": 7}, {"source": 1920, "target": 7, "value": 23}, {"source": 1920, "target": 9, "value": 3}, {"source": 1921, "target": 9, "value": 7}, {"source": 1922, "target": 3, "value": 8}, {"source": 1922, "target": 9, "value": 3}, {"source": 1923, "target": 9, "value": 4}, {"source": 1925, "target": 7, "value": 33}, {"source": 1925, "target": 11, "value": 8}, {"source": 1926, "target": 3, "value": 8}, {"source": 1927, "target": 3, "value": 7}, {"source": 1927, "target": 9, "value": 5}, {"source": 1927, "target": 11, "value": 5}, {"source": 1928, "target": 5, "value": 6}, {"source": 1928, "target": 9, "value": 6}, {"source": 1929, "target": 11, "value": 10}, {"source": 1930, "target": 3, "value": 6}, {"source": 1931, "target": 9, "value": 5}, {"source": 1931, "target": 11, "value": 11}, {"source": 1932, "target": 9, "value": 7}, {"source": 1933, "target": 5, "value": 6}, {"source": 1951, "target": 1, "value": 29}, {"source": 1952, "target": 9, "value": 9}, {"source": 1953, "target": 9, "value": 6}, {"source": 1954, "target": 9, "value": 7}, {"source": 1955, "target": 9, "value": 5}, {"source": 1957, "target": 9, "value": 4}, {"source": 1958, "target": 9, "value": 7}, {"source": 1960, "target": 9, "value": 4}, {"source": 1962, "target": 9, "value": 8}, {"source": 1979, "target": 6, "value": 8}, {"source": 1981, "target": 8, "value": 23}, {"source": 1982, "target": 8, "value": 27}, {"source": 1982, "target": 12, "value": 11}, {"source": 1984, "target": 12, "value": 15}, {"source": 1985, "target": 6, "value": 16}, {"source": 1987, "target": 5, "value": 17}, {"source": 2012, "target": 6, "value": 23}, {"source": 2013, "target": 6, "value": 31}, {"source": 2013, "target": 8, "value": 21}, {"source": 2014, "target": 1, "value": 44}, {"source": 2014, "target": 6, "value": 6}, {"source": 2014, "target": 7, "value": 22}, {"source": 2014, "target": 10, "value": 32}, {"source": 2014, "target": 11, "value": 12}, {"source": 2014, "target": 12, "value": 6}, {"source": 2015, "target": 4, "value": 10}, {"source": 2015, "target": 7, "value": 9}, {"source": 2015, "target": 8, "value": 8}, {"source": 2015, "target": 9, "value": 11}, {"source": 2015, "target": 12, "value": 7}, {"source": 1965, "target": 2, "value": 29}, {"source": 1970, "target": 2, "value": 25}, {"source": 1888, "target": 6, "value": 4}, {"source": 1889, "target": 2, "value": 7}, {"source": 1890, "target": 12, "value": 4}, {"source": 1892, "target": 10, "value": 11}, {"source": 1892, "target": 12, "value": 4}, {"source": 1893, "target": 6, "value": 5}, {"source": 1893, "target": 12, "value": 8}, {"source": 1894, "target": 6, "value": 4}, {"source": 1894, "target": 12, "value": 8}, {"source": 1895, "target": 3, "value": 3}, {"source": 1895, "target": 6, "value": 7}, {"source": 1895, "target": 9, "value": 5}, {"source": 1895, "target": 12, "value": 4}, {"source": 1896, "target": 6, "value": 5}, {"source": 1897, "target": 12, "value": 4}, {"source": 1898, "target": 9, "value": 5}, {"source": 1899, "target": 3, "value": 4}, {"source": 1901, "target": 6, "value": 6}, {"source": 1901, "target": 12, "value": 2}, {"source": 1902, "target": 9, "value": 5}, {"source": 1903, "target": 9, "value": 2}, {"source": 1904, "target": 1, "value": 17}, {"source": 1904, "target": 4, "value": 19}, {"source": 1905, "target": 4, "value": 13}, {"source": 1905, "target": 10, "value": 17}, {"source": 1906, "target": 1, "value": 17}, {"source": 1906, "target": 4, "value": 21}, {"source": 1906, "target": 7, "value": 16}, {"source": 1906, "target": 10, "value": 19}, {"source": 1907, "target": 1, "value": 21}, {"source": 1908, "target": 7, "value": 19}, {"source": 1910, "target": 10, "value": 20}, {"source": 1911, "target": 10, "value": 25}, {"source": 1911, "target": 4, "value": 29}, {"source": 1918, "target": 7, "value": 12}, {"source": 1919, "target": 4, "value": 21}, {"source": 1922, "target": 4, "value": 26}, {"source": 1922, "target": 10, "value": 18}, {"source": 1923, "target": 4, "value": 27}, {"source": 1925, "target": 10, "value": 23}, {"source": 1926, "target": 4, "value": 23}, {"source": 1928, "target": 7, "value": 41}, {"source": 1930, "target": 1, "value": 34}, {"source": 1930, "target": 10, "value": 39}, {"source": 1932, "target": 10, "value": 28}, {"source": 1953, "target": 1, "value": 21}, {"source": 1969, "target": 6, "value": 8}, {"source": 1970, "target": 6, "value": 7}, {"source": 1971, "target": 6, "value": 9}, {"source": 1972, "target": 6, "value": 9}, {"source": 1973, "target": 6, "value": 11}, {"source": 1974, "target": 6, "value": 14}, {"source": 1980, "target": 6, "value": 6}, {"source": 1981, "target": 12, "value": 11}, {"source": 1917, "target": 2, "value": 6}, {"source": 1920, "target": 2, "value": 5}, {"source": 1923, "target": 2, "value": 1}, {"source": 1924, "target": 2, "value": 6}, {"source": 1930, "target": 2, "value": 4}, {"source": 1930, "target": 9, "value": 3}, {"source": 1933, "target": 2, "value": 4}, {"source": 1933, "target": 9, "value": 6}, {"source": 1940, "target": 2, "value": 3}, {"source": 1944, "target": 9, "value": 11}, {"source": 1947, "target": 2, "value": 7}, {"source": 1956, "target": 9, "value": 3}, {"source": 1889, "target": 1, "value": 16}, {"source": 1890, "target": 1, "value": 18}, {"source": 1892, "target": 1, "value": 12}, {"source": 1902, "target": 1, "value": 20}, {"source": 1946, "target": 6, "value": 4}, {"source": 1965, "target": 6, "value": 2}, {"source": 1965, "target": 12, "value": 5}, {"source": 1894, "target": 9, "value": 9}, {"source": 1895, "target": 7, "value": 25}, {"source": 1895, "target": 1, "value": 23}, {"source": 1895, "target": 4, "value": 26}, {"source": 1896, "target": 5, "value": 4}, {"source": 1896, "target": 7, "value": 13}, {"source": 1896, "target": 11, "value": 6}, {"source": 1897, "target": 1, "value": 12}, {"source": 1898, "target": 2, "value": 5}, {"source": 1898, "target": 10, "value": 14}, {"source": 1900, "target": 2, "value": 3}, {"source": 1900, "target": 4, "value": 23}, {"source": 1884, "target": 1, "value": 18}, {"source": 1885, "target": 1, "value": 19}, {"source": 1885, "target": 10, "value": 20}, {"source": 1886, "target": 7, "value": 17}, {"source": 1886, "target": 10, "value": 11}, {"source": 1887, "target": 7, "value": 9}, {"source": 1888, "target": 1, "value": 19}, {"source": 1888, "target": 4, "value": 13}, {"source": 1888, "target": 10, "value": 21}, {"source": 1889, "target": 10, "value": 7}, {"source": 1890, "target": 7, "value": 9}, {"source": 1890, "target": 10, "value": 19}, {"source": 1891, "target": 1, "value": 16}, {"source": 1891, "target": 4, "value": 17}, {"source": 1893, "target": 10, "value": 11}, {"source": 1896, "target": 1, "value": 14}, {"source": 1898, "target": 4, "value": 17}, {"source": 1898, "target": 7, "value": 12}, {"source": 1899, "target": 1, "value": 8}, {"source": 1899, "target": 7, "value": 15}, {"source": 1900, "target": 7, "value": 17}, {"source": 1900, "target": 10, "value": 15}, {"source": 1902, "target": 4, "value": 13}, {"source": 1902, "target": 10, "value": 11}, {"source": 1903, "target": 1, "value": 22}, {"source": 1903, "target": 4, "value": 8}, {"source": 1903, "target": 7, "value": 6}, {"source": 1904, "target": 10, "value": 8}, {"source": 1908, "target": 10, "value": 15}, {"source": 1909, "target": 1, "value": 19}, {"source": 1948, "target": 10, "value": 26}, {"source": 1957, "target": 8, "value": 8}, {"source": 1958, "target": 8, "value": 7}, {"source": 1959, "target": 8, "value": 7}, {"source": 1960, "target": 8, "value": 7}, {"source": 1961, "target": 8, "value": 13}, {"source": 1944, "target": 12, "value": 9}, {"source": 1951, "target": 12, "value": 3}, {"source": 1953, "target": 3, "value": 8}, {"source": 1953, "target": 12, "value": 5}, {"source": 1957, "target": 12, "value": 4}, {"source": 1958, "target": 12, "value": 4}, {"source": 1964, "target": 12, "value": 3}, {"source": 1915, "target": 6, "value": 2}, {"source": 1916, "target": 3, "value": 2}, {"source": 1917, "target": 12, "value": 4}, {"source": 1918, "target": 12, "value": 1}, {"source": 1918, "target": 3, "value": 3}, {"source": 1924, "target": 5, "value": 4}, {"source": 1925, "target": 12, "value": 2}, {"source": 1926, "target": 12, "value": 3}, {"source": 1926, "target": 6, "value": 3}, {"source": 1929, "target": 12, "value": 1}, {"source": 1930, "target": 5, "value": 7}, {"source": 1931, "target": 3, "value": 3}, {"source": 1931, "target": 6, "value": 4}, {"source": 1934, "target": 12, "value": 5}, {"source": 1934, "target": 6, "value": 2}, {"source": 1937, "target": 12, "value": 3}, {"source": 1941, "target": 6, "value": 7}, {"source": 1945, "target": 6, "value": 4}, {"source": 1948, "target": 2, "value": 2}, {"source": 1952, "target": 6, "value": 5}, {"source": 1955, "target": 6, "value": 7}, {"source": 1956, "target": 2, "value": 6}, {"source": 1957, "target": 2, "value": 6}, {"source": 1958, "target": 3, "value": 5}, {"source": 1975, "target": 8, "value": 6}, {"source": 1925, "target": 9, "value": 4}, {"source": 1929, "target": 3, "value": 6}, {"source": 1867, "target": 12, "value": 2}, {"source": 1867, "target": 9, "value": 2}, {"source": 1868, "target": 3, "value": 1}, {"source": 1869, "target": 4, "value": 1}, {"source": 1869, "target": 5, "value": 4}, {"source": 1869, "target": 8, "value": 4}, {"source": 1870, "target": 1, "value": 3}, {"source": 1870, "target": 6, "value": 1}, {"source": 1870, "target": 7, "value": 3}, {"source": 1871, "target": 3, "value": 2}, {"source": 1871, "target": 12, "value": 2}, {"source": 1871, "target": 7, "value": 2}, {"source": 1872, "target": 3, "value": 1}, {"source": 1872, "target": 9, "value": 1}, {"source": 1873, "target": 10, "value": 2}, {"source": 1873, "target": 5, "value": 4}, {"source": 1874, "target": 11, "value": 1}, {"source": 1874, "target": 3, "value": 3}, {"source": 1875, "target": 12, "value": 2}, {"source": 1875, "target": 2, "value": 1}, {"source": 1875, "target": 6, "value": 3}, {"source": 1875, "target": 7, "value": 3}, {"source": 1876, "target": 4, "value": 4}, {"source": 1876, "target": 7, "value": 3}, {"source": 1876, "target": 8, "value": 5}, {"source": 1877, "target": 11, "value": 2}, {"source": 1877, "target": 3, "value": 2}, {"source": 1877, "target": 5, "value": 4}, {"source": 1877, "target": 7, "value": 1}, {"source": 1878, "target": 3, "value": 3}, {"source": 1878, "target": 5, "value": 4}, {"source": 1878, "target": 6, "value": 5}, {"source": 1878, "target": 9, "value": 1}, {"source": 1879, "target": 5, "value": 2}, {"source": 1879, "target": 7, "value": 3}, {"source": 1879, "target": 9, "value": 2}, {"source": 1880, "target": 6, "value": 3}, {"source": 1880, "target": 7, "value": 4}, {"source": 1880, "target": 9, "value": 1}, {"source": 1881, "target": 1, "value": 3}, {"source": 1881, "target": 4, "value": 4}, {"source": 1881, "target": 6, "value": 2}, {"source": 1882, "target": 12, "value": 3}, {"source": 1882, "target": 2, "value": 2}, {"source": 1882, "target": 9, "value": 1}, {"source": 1883, "target": 1, "value": 3}, {"source": 1883, "target": 4, "value": 5}, {"source": 1884, "target": 2, "value": 4}, {"source": 1884, "target": 3, "value": 2}, {"source": 1885, "target": 2, "value": 2}, {"source": 1885, "target": 5, "value": 1}, {"source": 1887, "target": 2, "value": 1}, {"source": 1888, "target": 12, "value": 3}, {"source": 1889, "target": 9, "value": 2}, {"source": 1890, "target": 2, "value": 1}, {"source": 1891, "target": 12, "value": 5}, {"source": 1892, "target": 2, "value": 2}, {"source": 1892, "target": 3, "value": 2}, {"source": 1892, "target": 11, "value": 2}, {"source": 1893, "target": 2, "value": 2}, {"source": 1893, "target": 3, "value": 4}, {"source": 1893, "target": 4, "value": 7}, {"source": 1894, "target": 3, "value": 2}, {"source": 1894, "target": 5, "value": 2}, {"source": 1894, "target": 8, "value": 2}, {"source": 1895, "target": 11, "value": 2}, {"source": 1896, "target": 2, "value": 2}, {"source": 1897, "target": 5, "value": 3}, {"source": 1898, "target": 6, "value": 6}, {"source": 1900, "target": 9, "value": 3}, {"source": 1901, "target": 8, "value": 1}, {"source": 1902, "target": 8, "value": 1}, {"source": 1903, "target": 8, "value": 2}, {"source": 1903, "target": 12, "value": 3}, {"source": 1904, "target": 9, "value": 3}, {"source": 1905, "target": 5, "value": 2}, {"source": 1905, "target": 12, "value": 2}, {"source": 1906, "target": 2, "value": 1}, {"source": 1907, "target": 2, "value": 3}, {"source": 1909, "target": 3, "value": 4}, {"source": 1909, "target": 5, "value": 4}, {"source": 1909, "target": 6, "value": 3}, {"source": 1909, "target": 11, "value": 3}, {"source": 1911, "target": 8, "value": 2}, {"source": 1913, "target": 2, "value": 3}, {"source": 1913, "target": 8, "value": 1}, {"source": 1913, "target": 12, "value": 3}, {"source": 1914, "target": 8, "value": 3}, {"source": 1916, "target": 6, "value": 2}, {"source": 1916, "target": 8, "value": 2}, {"source": 1917, "target": 8, "value": 2}, {"source": 1923, "target": 5, "value": 3}, {"source": 1926, "target": 9, "value": 2}, {"source": 1918, "target": 9, "value": 1}, {"source": 1919, "target": 2, "value": 2}, {"source": 1926, "target": 2, "value": 6}, {"source": 1929, "target": 2, "value": 2}, {"source": 1943, "target": 6, "value": 3}, {"source": 1959, "target": 9, "value": 3}, {"source": 1963, "target": 12, "value": 5}, {"source": 1964, "target": 6, "value": 1}, {"source": 1967, "target": 6, "value": 2}, {"source": 1963, "target": 6, "value": 2}, {"source": 1919, "target": 6, "value": 1}, {"source": 1921, "target": 6, "value": 1}, {"source": 1922, "target": 12, "value": 1}, {"source": 1927, "target": 12, "value": 1}, {"source": 1933, "target": 12, "value": 2}, {"source": 1933, "target": 6, "value": 1}, {"source": 1935, "target": 12, "value": 3}, {"source": 1867, "target": 4, "value": 1}, {"source": 1867, "target": 5, "value": 1}, {"source": 1870, "target": 8, "value": 3}, {"source": 1871, "target": 1, "value": 1}, {"source": 1871, "target": 10, "value": 2}, {"source": 1872, "target": 10, "value": 3}, {"source": 1872, "target": 2, "value": 1}, {"source": 1874, "target": 12, "value": 1}, {"source": 1875, "target": 10, "value": 1}, {"source": 1878, "target": 12, "value": 2}, {"source": 1880, "target": 1, "value": 1}, {"source": 1880, "target": 12, "value": 1}, {"source": 1881, "target": 3, "value": 2}, {"source": 1881, "target": 7, "value": 1}, {"source": 1881, "target": 9, "value": 2}, {"source": 1882, "target": 3, "value": 1}, {"source": 1883, "target": 8, "value": 1}, {"source": 1885, "target": 8, "value": 1}, {"source": 1885, "target": 9, "value": 1}, {"source": 1886, "target": 11, "value": 1}, {"source": 1886, "target": 5, "value": 1}, {"source": 1888, "target": 3, "value": 1}, {"source": 1889, "target": 12, "value": 2}, {"source": 1891, "target": 2, "value": 1}, {"source": 1892, "target": 5, "value": 1}, {"source": 1892, "target": 6, "value": 2}, {"source": 1893, "target": 11, "value": 1}, {"source": 1895, "target": 2, "value": 1}, {"source": 1895, "target": 8, "value": 1}, {"source": 1897, "target": 2, "value": 5}, {"source": 1897, "target": 8, "value": 4}, {"source": 1897, "target": 11, "value": 1}, {"source": 1898, "target": 3, "value": 2}, {"source": 1903, "target": 5, "value": 1}, {"source": 1904, "target": 3, "value": 1}, {"source": 1904, "target": 5, "value": 1}, {"source": 1905, "target": 6, "value": 3}, {"source": 1906, "target": 6, "value": 1}, {"source": 1908, "target": 6, "value": 1}, {"source": 1909, "target": 9, "value": 2}, {"source": 1910, "target": 5, "value": 1}, {"source": 1911, "target": 2, "value": 2}, {"source": 1912, "target": 6, "value": 4}, {"source": 1913, "target": 5, "value": 2}, {"source": 1913, "target": 6, "value": 1}, {"source": 1918, "target": 8, "value": 2}, {"source": 1966, "target": 6, "value": 1}, {"source": 1968, "target": 6, "value": 1}]}
+{
+    "nodes": [
+        {
+            "info": {
+                "count": 12, 
+                "group": 0
+            }, 
+            "id": "the american ornithologists\u2019 union"
+        }, 
+        {
+            "info": {
+                "count": 14, 
+                "group": 0
+            }, 
+            "id": "department of agri-food production and environmental sciences, university of florence"
+        }, 
+        {
+            "info": {
+                "count": 269, 
+                "group": 0
+            }, 
+            "id": "peabody academy of science"
+        }, 
+        {
+            "info": {
+                "count": 6280, 
+                "group": 0
+            }, 
+            "id": "the american ornithologists' union"
+        }, 
+        {
+            "info": {
+                "count": 870, 
+                "group": 0
+            }, 
+            "id": "the university of chicago press"
+        }, 
+        {
+            "info": {
+                "count": 3, 
+                "group": 0
+            }, 
+            "id": "department of agrifood production and environmental sciences, university of florence"
+        }, 
+        {
+            "info": {
+                "count": 74, 
+                "group": 0
+            }, 
+            "id": "ferris bros."
+        }, 
+        {
+            "info": {
+                "count": 66, 
+                "group": 0
+            }, 
+            "id": "h. o. houghton and co."
+        }, 
+        {
+            "info": {
+                "count": 390, 
+                "group": 0
+            }, 
+            "id": "university of california press"
+        }, 
+        {
+            "info": {
+                "count": 18, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board, formed by the finnish academy of sciences, societas scientiarum fennica, societas biologica fennica vanamo and societas pro fauna et flora fennica"
+        }, 
+        {
+            "info": {
+                "count": 464, 
+                "group": 0
+            }, 
+            "id": "brooklyn botanic garden"
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "group": 0
+            }, 
+            "id": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem n\u00f6v\u00e9nyrendszertani \u00e9s n\u00f6v\u00e9nyf\u00f6ldrajzi tansz\u00e9k\u00e9nek"
+        }, 
+        {
+            "info": {
+                "count": 102, 
+                "group": 0
+            }, 
+            "id": "akademie-verlag gmbh"
+        }, 
+        {
+            "info": {
+                "count": 77, 
+                "group": 0
+            }, 
+            "id": "blackwell publishing, ltd."
+        }, 
+        {
+            "info": {
+                "count": 2748, 
+                "group": 0
+            }, 
+            "id": "oxford university press"
+        }, 
+        {
+            "info": {
+                "count": 963, 
+                "group": 0
+            }, 
+            "id": "american society of zoologists"
+        }, 
+        {
+            "info": {
+                "count": 4, 
+                "group": 0
+            }, 
+            "id": "the american fern society"
+        }, 
+        {
+            "info": {
+                "count": 89, 
+                "group": 0
+            }, 
+            "id": "finnish botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 322, 
+                "group": 0
+            }, 
+            "id": "department of horticulture, university of florence"
+        }, 
+        {
+            "info": {
+                "count": 301, 
+                "group": 0
+            }, 
+            "id": "queensland herbarium"
+        }, 
+        {
+            "info": {
+                "count": 651, 
+                "group": 0
+            }, 
+            "id": "l. s. foster"
+        }, 
+        {
+            "info": {
+                "count": 194, 
+                "group": 0
+            }, 
+            "id": "societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 106, 
+                "group": 0
+            }, 
+            "id": "gray memorial botanical chapter of the agassiz association"
+        }, 
+        {
+            "info": {
+                "count": 98, 
+                "group": 0
+            }, 
+            "id": "the department of plant taxonomy and ecology, l. e\u00f6tv\u00f6s university"
+        }, 
+        {
+            "info": {
+                "count": 123, 
+                "group": 0
+            }, 
+            "id": "the finnish botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 3867, 
+                "group": 0
+            }, 
+            "id": "american botanical society"
+        }, 
+        {
+            "info": {
+                "count": 1322, 
+                "group": 0
+            }, 
+            "id": "missouri botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 1142, 
+                "group": 0
+            }, 
+            "id": "institute of arctic and alpine research"
+        }, 
+        {
+            "info": {
+                "count": 23, 
+                "group": 0
+            }, 
+            "id": "binder and kelly"
+        }, 
+        {
+            "info": {
+                "count": 2652, 
+                "group": 0
+            }, 
+            "id": "american association of avian pathologists, inc."
+        }, 
+        {
+            "info": {
+                "count": 1425, 
+                "group": 0
+            }, 
+            "id": "botanical society of america"
+        }, 
+        {
+            "info": {
+                "count": 109, 
+                "group": 0
+            }, 
+            "id": "edwards and docker"
+        }, 
+        {
+            "info": {
+                "count": 37, 
+                "group": 0
+            }, 
+            "id": "american ornithologists\u2019 union"
+        }, 
+        {
+            "info": {
+                "count": 50, 
+                "group": 0
+            }, 
+            "id": "alfred h\u00f6lder"
+        }, 
+        {
+            "info": {
+                "count": 342, 
+                "group": 0
+            }, 
+            "id": "the royal society"
+        }, 
+        {
+            "info": {
+                "count": 157, 
+                "group": 0
+            }, 
+            "id": "annual reviews"
+        }, 
+        {
+            "info": {
+                "count": 189, 
+                "group": 0
+            }, 
+            "id": "finnish academy of sciences, societas scientiarum fennica, societas pro fauna et flora fennica and societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 873, 
+                "group": 0
+            }, 
+            "id": "academic press"
+        }, 
+        {
+            "info": {
+                "count": 283, 
+                "group": 0
+            }, 
+            "id": "academic press limited"
+        }, 
+        {
+            "info": {
+                "count": 83, 
+                "group": 0
+            }, 
+            "id": "association of avian veterinarians"
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "group": 0
+            }, 
+            "id": "national tropical botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 193, 
+                "group": 0
+            }, 
+            "id": "opulus press"
+        }, 
+        {
+            "info": {
+                "count": 46, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board, formed by the finnish academy of sciences, societas biologica fennica vanamo, societas pro fauna et flora fennica, and societas scientiarum fennica"
+        }, 
+        {
+            "info": {
+                "count": 81, 
+                "group": 0
+            }, 
+            "id": "naturhistorischen museums in wien"
+        }, 
+        {
+            "info": {
+                "count": 1, 
+                "group": 0
+            }, 
+            "id": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem n\u00f6v\u00e9nyrendszertani \u00e9s \u00f6kol\u00f3giai tansz\u00e9k\u00e9nek"
+        }, 
+        {
+            "info": {
+                "count": 1748, 
+                "group": 0
+            }, 
+            "id": "university of chicago press"
+        }, 
+        {
+            "info": {
+                "count": 3, 
+                "group": 0
+            }, 
+            "id": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem term\u00e9szettudom\u00e1nyi kara n\u00f6v\u00e9nyrendszertani \u00e9s \u00f6kol\u00f3giai tansz\u00e9k\u00e9nek"
+        }, 
+        {
+            "info": {
+                "count": 69, 
+                "group": 0
+            }, 
+            "id": "cornell veterinarian, inc."
+        }, 
+        {
+            "info": {
+                "count": 859, 
+                "group": 0
+            }, 
+            "id": "american fern society"
+        }, 
+        {
+            "info": {
+                "count": 16, 
+                "group": 0
+            }, 
+            "id": "arnold arboretum of harvard university"
+        }, 
+        {
+            "info": {
+                "count": 890, 
+                "group": 0
+            }, 
+            "id": "finnish zoological and botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 29, 
+                "group": 0
+            }, 
+            "id": "essex institute"
+        }, 
+        {
+            "info": {
+                "count": 413, 
+                "group": 0
+            }, 
+            "id": "annual reviews inc."
+        }, 
+        {
+            "info": {
+                "count": 34, 
+                "group": 0
+            }, 
+            "id": "pacific tropical botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 111, 
+                "group": 0
+            }, 
+            "id": "estes & lauriat"
+        }, 
+        {
+            "info": {
+                "count": 562, 
+                "group": 0
+            }, 
+            "id": "arnold arboretum"
+        }, 
+        {
+            "info": {
+                "count": 1334, 
+                "group": 0
+            }, 
+            "id": "royal swedish academy of sciences"
+        }, 
+        {
+            "info": {
+                "count": 416, 
+                "group": 0
+            }, 
+            "id": "american association of avian pathologists"
+        }, 
+        {
+            "info": {
+                "count": 104, 
+                "group": 0
+            }, 
+            "id": "societas zoologica botanica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 93, 
+                "group": 0
+            }, 
+            "id": "springer"
+        }, 
+        {
+            "info": {
+                "count": 39, 
+                "group": 0
+            }, 
+            "id": "fundaci\u00f3n instituto bot\u00e1nico de venezuela"
+        }, 
+        {
+            "info": {
+                "count": 3560, 
+                "group": 0
+            }, 
+            "id": "university of notre dame"
+        }, 
+        {
+            "info": {
+                "count": 17, 
+                "group": 0
+            }, 
+            "id": "american ornithological society"
+        }, 
+        {
+            "info": {
+                "count": 89, 
+                "group": 0
+            }, 
+            "id": "american ornithologists' union"
+        }, 
+        {
+            "info": {
+                "count": 336, 
+                "group": 0
+            }, 
+            "id": "mccalla and stavely"
+        }, 
+        {
+            "info": {
+                "count": 24, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board, formed by the finnish academy of sciences, societas scientiarum fennica, societas pro fauna et flora fennica and societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 228, 
+                "group": 0
+            }, 
+            "id": "naturhistorisches museum wien"
+        }, 
+        {
+            "info": {
+                "count": 2443, 
+                "group": 0
+            }, 
+            "id": "national association of biology teachers"
+        }, 
+        {
+            "info": {
+                "count": 1137, 
+                "group": 0
+            }, 
+            "id": "science press"
+        }, 
+        {
+            "info": {
+                "count": 279, 
+                "group": 0
+            }, 
+            "id": "ginn and co."
+        }, 
+        {
+            "info": {
+                "count": 40, 
+                "group": 0
+            }, 
+            "id": "department of plant, soil and environmental science, university of florence"
+        }, 
+        {
+            "info": {
+                "count": 837, 
+                "group": 0
+            }, 
+            "id": "academic press inc."
+        }, 
+        {
+            "info": {
+                "count": 226, 
+                "group": 0
+            }, 
+            "id": "society for integrative and comparative biology"
+        }, 
+        {
+            "info": {
+                "count": 7, 
+                "group": 0
+            }, 
+            "id": "finnish zoological and botanical publishing board, formed by the finnish academy of sciences, societas biologica fennica vanamo, societas pro fauna et flora fennica, and societas scientiarum fennica"
+        }, 
+        {
+            "info": {
+                "count": 106, 
+                "group": 0
+            }, 
+            "id": "american institute of biological sciences"
+        }, 
+        {
+            "info": {
+                "count": 43, 
+                "group": 1
+            }, 
+            "id": "aav today"
+        }, 
+        {
+            "info": {
+                "count": 4741, 
+                "group": 1
+            }, 
+            "id": "annals of botany"
+        }, 
+        {
+            "info": {
+                "count": 106, 
+                "group": 1
+            }, 
+            "id": "aibs bulletin"
+        }, 
+        {
+            "info": {
+                "count": 491, 
+                "group": 1
+            }, 
+            "id": "arctic, antarctic, and alpine research"
+        }, 
+        {
+            "info": {
+                "count": 104, 
+                "group": 1
+            }, 
+            "id": "abstracta botanica"
+        }, 
+        {
+            "info": {
+                "count": 804, 
+                "group": 1
+            }, 
+            "id": "annales botanici fennici"
+        }, 
+        {
+            "info": {
+                "count": 880, 
+                "group": 1
+            }, 
+            "id": "annales zoologici fennici"
+        }, 
+        {
+            "info": {
+                "count": 379, 
+                "group": 1
+            }, 
+            "id": "advances in horticultural science"
+        }, 
+        {
+            "info": {
+                "count": 863, 
+                "group": 1
+            }, 
+            "id": "american fern journal"
+        }, 
+        {
+            "info": {
+                "count": 301, 
+                "group": 1
+            }, 
+            "id": "austrobaileya"
+        }, 
+        {
+            "info": {
+                "count": 85, 
+                "group": 1
+            }, 
+            "id": "abstracts of the papers communicated to the royal society of london"
+        }, 
+        {
+            "info": {
+                "count": 4940, 
+                "group": 1
+            }, 
+            "id": "the american naturalist"
+        }, 
+        {
+            "info": {
+                "count": 3137, 
+                "group": 1
+            }, 
+            "id": "avian diseases"
+        }, 
+        {
+            "info": {
+                "count": 131, 
+                "group": 1
+            }, 
+            "id": "annalen des naturhistorischen museums in wien"
+        }, 
+        {
+            "info": {
+                "count": 143, 
+                "group": 1
+            }, 
+            "id": "annual review of ecology, evolution, and systematics"
+        }, 
+        {
+            "info": {
+                "count": 102, 
+                "group": 1
+            }, 
+            "id": "archiv f\u00fcr gartenbau"
+        }, 
+        {
+            "info": {
+                "count": 651, 
+                "group": 1
+            }, 
+            "id": "arctic and alpine research"
+        }, 
+        {
+            "info": {
+                "count": 40, 
+                "group": 1
+            }, 
+            "id": "a.a.v. newsletter"
+        }, 
+        {
+            "info": {
+                "count": 1400, 
+                "group": 1
+            }, 
+            "id": "ambio"
+        }, 
+        {
+            "info": {
+                "count": 1322, 
+                "group": 1
+            }, 
+            "id": "annals of the missouri botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 43, 
+                "group": 1
+            }, 
+            "id": "american midland naturalist"
+        }, 
+        {
+            "info": {
+                "count": 36, 
+                "group": 1
+            }, 
+            "id": "allertonia"
+        }, 
+        {
+            "info": {
+                "count": 1189, 
+                "group": 1
+            }, 
+            "id": "american zoologist"
+        }, 
+        {
+            "info": {
+                "count": 228, 
+                "group": 1
+            }, 
+            "id": "annalen des naturhistorischen museums in wien. serie b f\u00fcr botanik und zoologie"
+        }, 
+        {
+            "info": {
+                "count": 427, 
+                "group": 1
+            }, 
+            "id": "annual review of ecology and systematics"
+        }, 
+        {
+            "info": {
+                "count": 578, 
+                "group": 1
+            }, 
+            "id": "arnoldia"
+        }, 
+        {
+            "info": {
+                "count": 106, 
+                "group": 1
+            }, 
+            "id": "the asa gray bulletin"
+        }, 
+        {
+            "info": {
+                "count": 2716, 
+                "group": 1
+            }, 
+            "id": "the american biology teacher"
+        }, 
+        {
+            "info": {
+                "count": 270, 
+                "group": 1
+            }, 
+            "id": "applied vegetation science"
+        }, 
+        {
+            "info": {
+                "count": 39, 
+                "group": 1
+            }, 
+            "id": "acta bot\u00e1nica venezu\u00e9lica"
+        }, 
+        {
+            "info": {
+                "count": 3517, 
+                "group": 1
+            }, 
+            "id": "the american midland naturalist"
+        }, 
+        {
+            "info": {
+                "count": 7314, 
+                "group": 1
+            }, 
+            "id": "the auk"
+        }, 
+        {
+            "info": {
+                "count": 257, 
+                "group": 1
+            }, 
+            "id": "abstracts of the papers printed in the philosophical transactions of the royal society of london"
+        }, 
+        {
+            "info": {
+                "count": 27, 
+                "group": 1
+            }, 
+            "id": "ambio special report"
+        }, 
+        {
+            "info": {
+                "count": 5756, 
+                "group": 1
+            }, 
+            "id": "american journal of botany"
+        }
+    ], 
+    "links": [
+        {
+            "source": "a.a.v. newsletter", 
+            "target": "association of avian veterinarians", 
+            "value": 40
+        }, 
+        {
+            "source": "aav today", 
+            "target": "association of avian veterinarians", 
+            "value": 43
+        }, 
+        {
+            "source": "abstracta botanica", 
+            "target": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem n\u00f6v\u00e9nyrendszertani \u00e9s \u00f6kol\u00f3giai tansz\u00e9k\u00e9nek", 
+            "value": 1
+        }, 
+        {
+            "source": "abstracta botanica", 
+            "target": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem term\u00e9szettudom\u00e1nyi kara n\u00f6v\u00e9nyrendszertani \u00e9s \u00f6kol\u00f3giai tansz\u00e9k\u00e9nek", 
+            "value": 3
+        }, 
+        {
+            "source": "abstracta botanica", 
+            "target": "the department of plant taxonomy and ecology, l. e\u00f6tv\u00f6s university", 
+            "value": 98
+        }, 
+        {
+            "source": "abstracts of the papers communicated to the royal society of london", 
+            "target": "the royal society", 
+            "value": 85
+        }, 
+        {
+            "source": "abstracts of the papers printed in the philosophical transactions of the royal society of london", 
+            "target": "the royal society", 
+            "value": 257
+        }, 
+        {
+            "source": "acta bot\u00e1nica venezu\u00e9lica", 
+            "target": "fundaci\u00f3n instituto bot\u00e1nico de venezuela", 
+            "value": 39
+        }, 
+        {
+            "source": "advances in horticultural science", 
+            "target": "department of horticulture, university of florence", 
+            "value": 322
+        }, 
+        {
+            "source": "advances in horticultural science", 
+            "target": "department of plant, soil and environmental science, university of florence", 
+            "value": 40
+        }, 
+        {
+            "source": "advances in horticultural science", 
+            "target": "department of agri-food production and environmental sciences, university of florence", 
+            "value": 14
+        }, 
+        {
+            "source": "advances in horticultural science", 
+            "target": "department of agrifood production and environmental sciences, university of florence", 
+            "value": 3
+        }, 
+        {
+            "source": "aibs bulletin", 
+            "target": "american institute of biological sciences", 
+            "value": 106
+        }, 
+        {
+            "source": "allertonia", 
+            "target": "pacific tropical botanical garden", 
+            "value": 34
+        }, 
+        {
+            "source": "allertonia", 
+            "target": "national tropical botanical garden", 
+            "value": 2
+        }, 
+        {
+            "source": "ambio", 
+            "target": "royal swedish academy of sciences", 
+            "value": 1307
+        }, 
+        {
+            "source": "ambio", 
+            "target": "springer", 
+            "value": 93
+        }, 
+        {
+            "source": "ambio special report", 
+            "target": "royal swedish academy of sciences", 
+            "value": 27
+        }, 
+        {
+            "source": "the american biology teacher", 
+            "target": "national association of biology teachers", 
+            "value": 2443
+        }, 
+        {
+            "source": "the american biology teacher", 
+            "target": "university of california press", 
+            "value": 273
+        }, 
+        {
+            "source": "american fern journal", 
+            "target": "american fern society", 
+            "value": 859
+        }, 
+        {
+            "source": "american fern journal", 
+            "target": "the american fern society", 
+            "value": 4
+        }, 
+        {
+            "source": "american journal of botany", 
+            "target": "brooklyn botanic garden", 
+            "value": 464
+        }, 
+        {
+            "source": "american journal of botany", 
+            "target": "american botanical society", 
+            "value": 3867
+        }, 
+        {
+            "source": "american journal of botany", 
+            "target": "botanical society of america", 
+            "value": 1425
+        }, 
+        {
+            "source": "the american midland naturalist", 
+            "target": "university of notre dame", 
+            "value": 3517
+        }, 
+        {
+            "source": "american midland naturalist", 
+            "target": "university of notre dame", 
+            "value": 43
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "essex institute", 
+            "value": 29
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "peabody academy of science", 
+            "value": 269
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "h. o. houghton and co.", 
+            "value": 66
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "mccalla and stavely", 
+            "value": 336
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "ferris bros.", 
+            "value": 74
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "binder and kelly", 
+            "value": 23
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "edwards and docker", 
+            "value": 109
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "ginn and co.", 
+            "value": 279
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "science press", 
+            "value": 1137
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "university of chicago press", 
+            "value": 1748
+        }, 
+        {
+            "source": "the american naturalist", 
+            "target": "the university of chicago press", 
+            "value": 870
+        }, 
+        {
+            "source": "american zoologist", 
+            "target": "american society of zoologists", 
+            "value": 963
+        }, 
+        {
+            "source": "american zoologist", 
+            "target": "society for integrative and comparative biology", 
+            "value": 226
+        }, 
+        {
+            "source": "annals of botany", 
+            "target": "oxford university press", 
+            "value": 2748
+        }, 
+        {
+            "source": "annals of botany", 
+            "target": "academic press inc.", 
+            "value": 837
+        }, 
+        {
+            "source": "annals of botany", 
+            "target": "academic press", 
+            "value": 873
+        }, 
+        {
+            "source": "annals of botany", 
+            "target": "academic press limited", 
+            "value": 283
+        }, 
+        {
+            "source": "annales botanici fennici", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 40
+        }, 
+        {
+            "source": "annales botanici fennici", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 85
+        }, 
+        {
+            "source": "annales botanici fennici", 
+            "target": "finnish botanical publishing board", 
+            "value": 89
+        }, 
+        {
+            "source": "annales botanici fennici", 
+            "target": "the finnish botanical publishing board", 
+            "value": 123
+        }, 
+        {
+            "source": "annales botanici fennici", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 467
+        }, 
+        {
+            "source": "annals of the missouri botanical garden", 
+            "target": "missouri botanical garden", 
+            "value": 1322
+        }, 
+        {
+            "source": "annalen des naturhistorischen museums in wien", 
+            "target": "alfred h\u00f6lder", 
+            "value": 50
+        }, 
+        {
+            "source": "annalen des naturhistorischen museums in wien", 
+            "target": "naturhistorischen museums in wien", 
+            "value": 81
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 64
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 109
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish academy of sciences, societas scientiarum fennica, societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 189
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish zoological publishing board, formed by the finnish academy of sciences, societas scientiarum fennica, societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 24
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish zoological publishing board, formed by the finnish academy of sciences, societas scientiarum fennica, societas biologica fennica vanamo and societas pro fauna et flora fennica", 
+            "value": 18
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish zoological publishing board, formed by the finnish academy of sciences, societas biologica fennica vanamo, societas pro fauna et flora fennica, and societas scientiarum fennica", 
+            "value": 46
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish zoological and botanical publishing board, formed by the finnish academy of sciences, societas biologica fennica vanamo, societas pro fauna et flora fennica, and societas scientiarum fennica", 
+            "value": 7
+        }, 
+        {
+            "source": "annales zoologici fennici", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 423
+        }, 
+        {
+            "source": "annalen des naturhistorischen museums in wien. serie b f\u00fcr botanik und zoologie", 
+            "target": "naturhistorisches museum wien", 
+            "value": 228
+        }, 
+        {
+            "source": "annual review of ecology, evolution, and systematics", 
+            "target": "annual reviews", 
+            "value": 143
+        }, 
+        {
+            "source": "annual review of ecology and systematics", 
+            "target": "annual reviews inc.", 
+            "value": 413
+        }, 
+        {
+            "source": "annual review of ecology and systematics", 
+            "target": "annual reviews", 
+            "value": 14
+        }, 
+        {
+            "source": "applied vegetation science", 
+            "target": "opulus press", 
+            "value": 193
+        }, 
+        {
+            "source": "applied vegetation science", 
+            "target": "blackwell publishing, ltd.", 
+            "value": 77
+        }, 
+        {
+            "source": "archiv f\u00fcr gartenbau", 
+            "target": "akademie-verlag gmbh", 
+            "value": 102
+        }, 
+        {
+            "source": "arctic and alpine research", 
+            "target": "institute of arctic and alpine research", 
+            "value": 651
+        }, 
+        {
+            "source": "arctic, antarctic, and alpine research", 
+            "target": "institute of arctic and alpine research", 
+            "value": 491
+        }, 
+        {
+            "source": "arnoldia", 
+            "target": "arnold arboretum", 
+            "value": 562
+        }, 
+        {
+            "source": "arnoldia", 
+            "target": "arnold arboretum of harvard university", 
+            "value": 16
+        }, 
+        {
+            "source": "the asa gray bulletin", 
+            "target": "gray memorial botanical chapter of the agassiz association", 
+            "value": 106
+        }, 
+        {
+            "source": "the auk", 
+            "target": "estes & lauriat", 
+            "value": 111
+        }, 
+        {
+            "source": "the auk", 
+            "target": "l. s. foster", 
+            "value": 651
+        }, 
+        {
+            "source": "the auk", 
+            "target": "the american ornithologists' union", 
+            "value": 6280
+        }, 
+        {
+            "source": "the auk", 
+            "target": "american ornithologists' union", 
+            "value": 89
+        }, 
+        {
+            "source": "the auk", 
+            "target": "the american ornithologists\u2019 union", 
+            "value": 12
+        }, 
+        {
+            "source": "the auk", 
+            "target": "university of california press", 
+            "value": 117
+        }, 
+        {
+            "source": "the auk", 
+            "target": "american ornithological society", 
+            "value": 17
+        }, 
+        {
+            "source": "the auk", 
+            "target": "american ornithologists\u2019 union", 
+            "value": 37
+        }, 
+        {
+            "source": "austrobaileya", 
+            "target": "queensland herbarium", 
+            "value": 301
+        }, 
+        {
+            "source": "avian diseases", 
+            "target": "cornell veterinarian, inc.", 
+            "value": 69
+        }, 
+        {
+            "source": "avian diseases", 
+            "target": "american association of avian pathologists, inc.", 
+            "value": 2652
+        }, 
+        {
+            "source": "avian diseases", 
+            "target": "american association of avian pathologists", 
+            "value": 416
+        }, 
+        {
+            "source": "abstracta botanica", 
+            "target": "e\u00f6tv\u00f6s lor\u00e1nd tudom\u00e1nyegyetem n\u00f6v\u00e9nyrendszertani \u00e9s n\u00f6v\u00e9nyf\u00f6ldrajzi tansz\u00e9k\u00e9nek", 
+            "value": 2
+        }
+    ]
+}

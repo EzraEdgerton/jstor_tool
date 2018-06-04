@@ -14,33 +14,45 @@ def generate_force_data(normal_node, key_node, groups, path):
 
 	keyDict = dict()
 	normalDict = dict()
-
-	for a in d:
-		if a[key_node] in keyDict:
-			keyDict[a[key_node]]["count"] += 1
+	def add_article(kDict, nDict, a, knode, nnode, subnorm=None, subkey=None):
+		if a[knode] in kDict:
+			kDict[a[knode]]["count"] += 1
 		else:
-			keyDict[a[key_node]] = { "count" : 1,
+			kDict[a[knode]] = { "count" : 1,
 				"group": 0 }
 
-		if a[normal_node] in normalDict:
-			normalDict[a[normal_node]]["count"] += 1
+		if a[nnode] in nDict:
+			nDict[a[nnode]]["count"] += 1
 		else:
-			normalDict[a[normal_node]] = {
+			nDict[a[nnode]] = {
 				"count" : 1,
 				"group" : 1
 			}
 		found = False
 		for link in returnObj['links']:
-			if link['source'] == a[normal_node] and link['target'] == a[key_node]:
+			if link['source'] == a[nnode] and link['target'] == a[knode]:
 				link['value'] = link['value'] + 1
 				found = True
 		if not found:
 			returnObj["links"].append({
-					"source" : a[normal_node],
-					"target" : a[key_node],
+					"source" : a[nnode],
+					"target" : a[knode],
 					"value" : 1
 					})
 
+	for article in d:
+		if type(article[key_node]) == list and type(article[normal_node]) == list:
+			for subkey in article[key_node]:
+				for subnorm in article[normal_node]:
+
+		if type(add_article[normal_node]) and not type(article[key_node]) == list:
+			for subnorm in article[normal_node]
+
+		if not type(add_article[normal_node]) and type(article[key_node]) == list:
+			for subkey in article[key_node]
+		else:
+			add_article(keyDict, normalDict, article, key_node, normal_node)
+		
 	for key in keyDict:
 		returnObj["nodes"].append({
 			"id" : key,
@@ -57,14 +69,8 @@ def generate_force_data(normal_node, key_node, groups, path):
 def generate_force_html():
 	force_stub_f = open("stubs/force_stub.html", "r")
 	force_stub_s = force_stub_f.read()
-	g = force_stub_s.split("***")
+	force_html_s = force_stub_s
 
-	for x in range(0, len(g) - 1):
-		if g[x] == "data":
-			g[x] = "forcetestdata.json"
-	force_html_s = ""
-	for x in g:
-		force_html_s = force_html_s + x
 
 	force_html_f = open("writeplace/force.html", "w")
 
@@ -124,10 +130,13 @@ def generate_bar_files(bars, path):
 
 def generate_force_files(normal_node, key_node, groups, path):
 
+
+	print "Generating force formatted data..."
 	thing = generate_force_data(normal_node, key_node, groups, path)
 
 	writer = open(path + "/force_data.json", "w")
-	json.dump(thing, writer)
+	json.dump(thing, writer, indent=4)
+	print "Done"
 	#write the file
 
 	generate_force_html()
