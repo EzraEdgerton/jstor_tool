@@ -1,0 +1,149 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519230</article-id>
+         <title-group>
+            <article-title>New floristic records from the Gerecse Mountains</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>K.</given-names>
+                  <surname>Penksza</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1991</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139775</issue-id>
+         <fpage>61</fpage>
+         <lpage>62</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519230"/>
+         <abstract>
+            <p>The eastern part of the Gerecse Mountains, Hungary, is floristically much less known than the other parts of the country. A small area at Bajna has contributed with 11 new records to the flora of the mountains.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d11399e114a1310">
+            <mixed-citation id="d11399e118" publication-type="other">
+Boros, Á. 1938. Florisztikai jegyzetek. manu-
+script.</mixed-citation>
+         </ref>
+         <ref id="d11399e128a1310">
+            <mixed-citation id="d11399e132" publication-type="other">
+Boros, Á. 1952. Florisztikai jegyzetek. manu-
+script.</mixed-citation>
+         </ref>
+         <ref id="d11399e142a1310">
+            <mixed-citation id="d11399e146" publication-type="other">
+Boros, Á. 1953. AGerecsehegysegnövenyföldrajza.
+Földr. Ért. 4:471-484.</mixed-citation>
+         </ref>
+         <ref id="d11399e156a1310">
+            <mixed-citation id="d11399e160" publication-type="other">
+Domokos, J. 1938. Terem-e a Cotoneaster inte-
+gerrima az Ösmátrában. Borbássya 1:9-10.</mixed-citation>
+         </ref>
+         <ref id="d11399e171a1310">
+            <mixed-citation id="d11399e175" publication-type="other">
+Feichtinger, S. 1899. Közlemények Esztergom
+megye helyrajzából Magyar Orvosok es Termé-
+szetvizsgálók 1864-ben tartott 10. gyulésének
+munk. Pest, 273-285.</mixed-citation>
+         </ref>
+         <ref id="d11399e191a1310">
+            <mixed-citation id="d11399e195" publication-type="other">
+Feichtinger, S. 1899. Esztergom megye és kôrnyé-
+kének flóřája. Esztergom.</mixed-citation>
+         </ref>
+         <ref id="d11399e205a1310">
+            <mixed-citation id="d11399e209" publication-type="other">
+Gáyer, Gy. .1916. Komarom megye viragos nôvé-
+nyeiröl. (Uber die Blütenpflanzen des Komitates
+Komarom.) Magyar Bot. Lap. 15:37-54.</mixed-citation>
+         </ref>
+         <ref id="d11399e222a1310">
+            <mixed-citation id="d11399e226" publication-type="other">
+Gründl, I. 1865. Mitteilungen aus Ungarn. Öst.
+Bot. Zeit. 15:12.</mixed-citation>
+         </ref>
+         <ref id="d11399e236a1310">
+            <mixed-citation id="d11399e240" publication-type="other">
+Hillebrand, F. 1858. Beitrag zur Flora von Ungarn
+Öst. Bot. Zeit. 8:297-300.</mixed-citation>
+         </ref>
+         <ref id="d11399e250a1310">
+            <mixed-citation id="d11399e254" publication-type="other">
+Papp, J. 1937. A Gerecse flórája. Turisták Lapja
+49:191-194.</mixed-citation>
+         </ref>
+         <ref id="d11399e265a1310">
+            <mixed-citation id="d11399e269" publication-type="other">
+Priszter, Sz. 1985. A magyar flòra és vegetáció
+rendszertani-növenyföldrajzi kezikönyve VII. Bu-
+dapest, Akadémiai Kiadó.</mixed-citation>
+         </ref>
+         <ref id="d11399e282a1310">
+            <mixed-citation id="d11399e286" publication-type="other">
+Rédl, R. 1926. Adatok a Gerecse hegység növeny-
+zetének ismeretéhez. manuscript.</mixed-citation>
+         </ref>
+         <ref id="d11399e296a1310">
+            <mixed-citation id="d11399e300" publication-type="other">
+Seregélyes, T. 1977. Adatok a Gerecse hegység
+flórájához. Abstr. Bot. 5:45-55.</mixed-citation>
+         </ref>
+         <ref id="d11399e310a1310">
+            <mixed-citation id="d11399e314" publication-type="other">
+Soó, R. 1964-1980. A magyar flora és vegetáció
+rendszertani-növenyföldrajzikezikönyve I-VI. Bu
+dapest, Akadémiai Kiadó.</mixed-citation>
+         </ref>
+         <ref id="d11399e327a1310">
+            <mixed-citation id="d11399e331" publication-type="other">
+Soó, R. &amp;, Jávorka, S. 1951. A magyar novény világ
+keziköny ve. Budapest, Akadémiai Kiadó.</mixed-citation>
+         </ref>
+         <ref id="d11399e341a1310">
+            <mixed-citation id="d11399e345" publication-type="other">
+Soó, R. &amp; Kárpáti, Z. 1963. Nóvényhatározó II.
+Budapest, Tankónyvkiadó.</mixed-citation>
+         </ref>
+         <ref id="d11399e356a1310">
+            <mixed-citation id="d11399e360" publication-type="other">
+Szolláth, Gy. 1980. Data of flora and vegetation
+of the Gerecse Mountains. I. Studia bot. hung.
+14:83-105.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

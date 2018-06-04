@@ -1,0 +1,246 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519448</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part Two: Theoretical Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Symmetry and topology in cellular automatic transformations: the solution of the indirect von Neumann problem for the transfigurations of cylindrical cell-mosaic systems of Fibonacci plants</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sz.</given-names>
+                  <surname>Bérczi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>225</fpage>
+         <lpage>239</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519448"/>
+         <abstract>
+            <p>A physical-topological model of the Fibonacci plant symmetries was described and developed from many aspects by the author earlier. The cell-mosaic frame of reference determines the topological characteristics of both the global and the local versions of the model and its hierarchical generalization. The model construction starts with transformations of topological type in order to normalize different Fibonacci plant structures to their cell-mosaic-lattice representatives on a cylinder. Then Fibonacci plant structure representatives are arranged into a sequence according to their band systems determined by the growing pairs of neighbour Fibonacci numbers. Reading the sequence of normalized Fibonacci cell-mosaic structures into a transformational chain starting from the simplest (and most symmetric) 1 + 1 band mosaic to cell-mosaics with higher and higher pairs of Fibonacci numbers we get both a developmental and and evolutionary path for this class of structures and a cellular automaton description of its operation, which also has topological character.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d5020e260a1310">
+            <mixed-citation id="d5020e264" publication-type="other">
+Bérczi Sz. 1976. Nôvényi szimmetriák (Plant Symmetries).
+Fizikai Szemle (Physical Review, Bulletin of the Eötvös
+Loránd Physical Society, Hungary). 26(2):59-62.</mixed-citation>
+         </ref>
+         <ref id="d5020e277a1310">
+            <mixed-citation id="d5020e281" publication-type="other">
+Bérczi Sz. 1978. Rácsok forgásfeltileteken (Lattices on Rota-
+tional Surfaces). In: I. Abonyi (ed.), Fizika 78. pp. 87-102.
+Gondolât, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5020e294a1310">
+            <mixed-citation id="d5020e298" publication-type="other">
+Bérczi Sz. 1978. The Periodic System of Platonic and Ar-
+chimedean Solid s and Tessellations. (Lect. Conf. on
+Cyclicity: Theory and Practice, Budapest, 1978 Nov.) Acta
+Geologica Acad. Sci. Hung. (1980) 23(1-4):184-200.</mixed-citation>
+         </ref>
+         <ref id="d5020e314a1310">
+            <mixed-citation id="d5020e318" publication-type="other">
+Bérczi Sz. 1985. Symmetries in the Plant Surface Lattice Sys-
+tems: Development of Fibonacci Numbered Structure in a
+Cellular Automation Model. (Abstr. Lect. on Conf. Intui-
+tive Geometry. Balatonszéplak, May 1985. Ref. in: K.
+Böröczky &amp; G. Fejes Töth (eds.), Intuitive Geometry,
+North Holland, Amsterdam (1987).</mixed-citation>
+         </ref>
+         <ref id="d5020e342a1310">
+            <mixed-citation id="d5020e346" publication-type="other">
+Bérczi Sz. 1987. Symmetry Constraints in Development and
+Evolution of Fibonacci Plants, (lect. in Symp. on Organiza-
+tional Constraints on the Dynamics of Evolution,
+Budapest, 1987, June 29-July 3. and in: J. Maynard-Smith
+&amp; G. Vida (eds.), Proceedings in Non-Linear Science IV.
+pp. 79-88. Manchester University Press, Manchester
+(1990).</mixed-citation>
+         </ref>
+         <ref id="d5020e372a1310">
+            <mixed-citation id="d5020e376" publication-type="other">
+Bérczi Sz. 1989. Symmetry and Tèchnology in Ornamental Art
+of Old Hungarians and Avar-Onogurians from the Ar-
+chaeological Finds of the Carpathian Basin, Seventh to
+Tfenth Century A D. In: I. Hargittai (ed.), Symmetry 2.
+Computers Math. Applic. CAMWA 17(4-6):715730. Per-
+gamon Press, Oxford,</mixed-citation>
+         </ref>
+         <ref id="d5020e399a1310">
+            <mixed-citation id="d5020e403" publication-type="other">
+Bérczi Sz. 1990. Local and Global Models of Fibonacci Plant
+Symmetries. In: B. Gruber &amp; J. H. Yopp (eds.), Symmetries
+in Science IV., Biological and Biophysical Systems, pp. 15-
+28. Plenum Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d5020e419a1310">
+            <mixed-citation id="d5020e425" publication-type="other">
+Bérczi Sz. 1990. Deformáció-ekvivalens rácsok osztályai a
+hengeren. (Classes of Deformation-Equivalent Lattices on
+the Cylinder.) In: Szimmetria és Strukturaépítés - (Sym-
+metry and Structure-Building: Symmetry by cellular
+Automata, in Hungarian,-Lecture Note Series J3-1441.
+Eötvös University.) Tknkônyvkiadó, Budapest, p. 260.</mixed-citation>
+         </ref>
+         <ref id="d5020e448a1310">
+            <mixed-citation id="d5020e452" publication-type="other">
+Bérczi Sz. 1990. Szimmetria és Topológia: Rácsátrendezõdések
+a Möbius-szalag - Törusz TVanszformáció Során. (Sym-
+metry and Topology: Mosaic-rearrangements in Möbius-
+band-to-Torus Transformation). Természet Világa
+121(10):464-466.</mixed-citation>
+         </ref>
+         <ref id="d5020e471a1310">
+            <mixed-citation id="d5020e475" publication-type="other">
+Bérczi Sz. 1991. Symmetry and Topology in a Cell-Mosaic-
+Automata Model of the Fibonacci-Plant Structures. In: B.
+Lukács, Sz. Bérczi, I. Molnár, &amp; Gy. Paál (eds.), Symmetry
+and Topology in Evolution, pp. 80-90. Hungarian Academy
+of Sciences, Central Research Institute for Physics,
+Budapest. (KFKI-1991-32/C.)</mixed-citation>
+         </ref>
+         <ref id="d5020e499a1310">
+            <mixed-citation id="d5020e503" publication-type="other">
+Bérczi Sz. 1991. Platonic-Archimedean Spherical Cellular
+Automata in the Solution of the Indirect Von-Neumann
+Problem on Sphere for Transformations of Regular Tessel-
+lations. In: B. Lukács, Sz. Bérczi, I. Molnár, &amp; Gy. Paál
+(eds.), Symmetry and Tbpology in Evolution, pp. 111-116.
+Hungarian Academy of Sciences, Central Research In-
+stitute for Physics, Budapest. (KFKI-1991-32/C.)</mixed-citation>
+         </ref>
+         <ref id="d5020e529a1310">
+            <mixed-citation id="d5020e533" publication-type="other">
+Bérczi, Sz. 1992. The indirect von Neumann problem:
+Deciphering the local transformations from the local ones
+of the systems structurally determined by both hierarchical
+levels of their symmetry. In: Lukács, B., Bérczi, Sz., Lábos,
+E. and Molnár, I. (eds.), Mutual dynemics of organizational
+levels in evolution, pp. 40-49. Hung. Acad. Sci. Central Res.
+Inst. Physics, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5020e559a1310">
+            <mixed-citation id="d5020e563" publication-type="other">
+Bérczi Sz. , Lukács B. &amp; Molnár I. 1991. On Symmetry and
+Topology of the Organisms in Macroevolution. In: B.
+Lukács, Sz. Bérczi, I. Molnár, &amp; Gy. Paál (eds.), Symmetry
+and Tbpology in Evolution, pp. 73-79. Hungarian Academy
+of Sciences, Central Research Institute for Physics,
+Budapest. (KFKI-1991-32/C.)</mixed-citation>
+         </ref>
+         <ref id="d5020e586a1310">
+            <mixed-citation id="d5020e592" publication-type="other">
+Bilinski, S. 1952. Homogene netze geschlossener orientierbarer
+flachen. RAD Bulletin International 277. pp. 129-164.
+Académie Yougoslave des Sciences et des Beaux-Arts,
+Zagreb</mixed-citation>
+         </ref>
+         <ref id="d5020e608a1310">
+            <mixed-citation id="d5020e612" publication-type="other">
+Boltyanszkij, V G. &amp; Jefremovics, V A 1965. Szemléletes
+Topológia. 4. kiad. Thnkônyvkiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d5020e622a1310">
+            <mixed-citation id="d5020e626" publication-type="other">
+Codd, E. F. 1968. Cellular Automata. Academic Press, New
+York.</mixed-citation>
+         </ref>
+         <ref id="d5020e637a1310">
+            <mixed-citation id="d5020e641" publication-type="other">
+Coxeter, H. S. M. 1969. Introduction to Geometry. 2e. John
+Wiley and Sons, New York</mixed-citation>
+         </ref>
+         <ref id="d5020e651a1310">
+            <mixed-citation id="d5020e655" publication-type="other">
+Lukács, B., Bérczi, Sz., Molnár, I. , &amp; Paál, Gy. 1990. Evolu-
+tion: From Cosmogenesis to Biogenesis. Hungarian
+Academy of Sciences, Central Research Institute for
+Physics, KFKI-1990-50/C. Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5020e671a1310">
+            <mixed-citation id="d5020e675" publication-type="other">
+Maróti, I. 1980. The Symmetry of Living Beings I. The
+Decrease in Symmetries and Evolution, Acta Biol. Szeged.
+26. p. 95.</mixed-citation>
+         </ref>
+         <ref id="d5020e688a1310">
+            <mixed-citation id="d5020e692" publication-type="other">
+Molnár, I. &amp; Verhás, J. 1987. Mechanical Transformations of
+Development in Evolution. (Lect. Conf. Organizational
+Constraints on the Dynamics of Evolution, Budapest, 1987
+June.) (J. Maynard Smith, G. Vida, Eds.) Manchester
+University Press, 1990. Manchester.</mixed-citation>
+         </ref>
+         <ref id="d5020e711a1310">
+            <mixed-citation id="d5020e715" publication-type="other">
+von Neumann, J. 1966. Theory of Self-Reproducing Automata.
+Edited and completed by A W. Burks. Urbana, Illinois</mixed-citation>
+         </ref>
+         <ref id="d5020e725a1310">
+            <mixed-citation id="d5020e729" publication-type="other">
+Peák 1. 1980. Bevezetés az Automaták Elméletébe I. (Introduc-
+tion to the Theory of Automata. 3e. Lect. Note Series J3-
+1115.) Tknkônyvkiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5020e743a1310">
+            <mixed-citation id="d5020e747" publication-type="other">
+Tákács V Dné. (ed.) 1978. Sejtautomaták. (Cellular Automata).
+Gondolât, Budapest</mixed-citation>
+         </ref>
+         <ref id="d5020e757a1310">
+            <mixed-citation id="d5020e761" publication-type="other">
+Vollmar, R. 1982. Sejtautomata Algoritmusok. (Algorithmen in
+Zellularautomaten, Verlag B. G. Tèubner, Stuttgart).
+Múszaki Kônyvkiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d5020e774a1310">
+            <mixed-citation id="d5020e778" publication-type="other">
+Weyl, H. 1952. Symmetry. Princeton University Press, (Szim-
+metria, Gondolât, Budapest, 1982.)</mixed-citation>
+         </ref>
+         <ref id="d5020e788a1310">
+            <mixed-citation id="d5020e792" publication-type="other">
+Wigner, E. 1964. Symmetry and Conservation Laws. Proc. Natl.
+Acad. Sci. USA 51. p. 956.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

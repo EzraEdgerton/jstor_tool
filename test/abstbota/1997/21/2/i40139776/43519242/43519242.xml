@@ -1,0 +1,282 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519242</article-id>
+         <title-group>
+            <article-title>Plant canopy development and turnover in a range of British native species grown at elevated CO₂ and temperature</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>C. M.</given-names>
+                  <surname>Stirling</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T. G.</given-names>
+                  <surname>Williams</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M. L.</given-names>
+                  <surname>Jones</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T. W.</given-names>
+                  <surname>Ashenden</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>265</fpage>
+         <lpage>274</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519242"/>
+         <abstract>
+            <p>Eight British native plant species were grown for 125 to 140 days in a suite of Solardome glasshouses set up to provide a factorial combination of two levels of CO₂ (ambient/ambient + 340 ppm), two levels of temperature (ambient/ambient + 3° C) with two replicates of each CO₂ × temperature combination. Species provided two contrasting examples (a grass and forb) each of a competitor, stress tolerator, a ruderal (associated with highly disturbed environments) and mixed strategist. Treatment effects on plant canopy development were assessed at ca. weekly intervals over a twelve week period and a final destructive growth analysis was performed between 125 and 140 days. Elevated [CO₂] and/or elevated temperature (T° C) had little effect on tiller and leaf number, the most marked effect being an increase in final leaf length during the early stages of growth in Dactylis glomerata and Poa alpina, relative to the ambient [CO₂]/ambient T° C control. Elevated [CO₂] resulted in a significant (p&lt; 0.05) decrease in leaf duration of Dactylis glomerata and Bellisperennis, but had no effect on the onset of leaf senescence in Poa alpina. The significant (p&lt; 0.05) reduction in leaf duration at elevated T° C in Poa alpina most likely reflected its alpine origins. The more rapid rate of leaf extension early in the season (Dactylis glomerata and Poa alpina) and earlier onset of leaf senescence (Dactylis glomerata and Bellisperennis), suggested that elevated [CO₂] increased the rate of plant canopy development in some species. There was no clear pattern of growth response to elevated [CO₂] that could be related to functional type, with four of the eight species showing a significantly greater dry matter productivity at elevated than ambient [CO₂], two of which were slow-growing stress tolerators. A 3° C increase in temperature had little direct effect on final dry matter productivity, but when combined with an increase in [CO₂], most species showed an enhanced growth response, which was significant in three of the eight species studied.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4573e273a1310">
+            <mixed-citation id="d4573e279" publication-type="other">
+Barnes, J.D., J.H. Ollerenshaw &amp; C.P. Whitfield. 1995. Effects of
+elevated CO₂ and/or O₃ on growth, development and physiol-
+ogy of wheat (Triticum aestivum L). Global Change Biology
+1:129-142.</mixed-citation>
+         </ref>
+         <ref id="d4573e295a1310">
+            <mixed-citation id="d4573e299" publication-type="other">
+Batts, G.R., T.R. Wheeler, J.I.L. Morison, R.H. Ellis &amp; P. Hadley.
+1996. Developmental and tillering responses of winter-wheat
+(Triticum aestivum) crops to CO₂ and temperature. Journal of
+Agricultural Science 127: 23-35.</mixed-citation>
+         </ref>
+         <ref id="d4573e315a1310">
+            <mixed-citation id="d4573e319" publication-type="other">
+Baxter, R., T.W. Ashenden, T.H. Sparks &amp; J.F. Farrar. 1994. Effects
+of elevated carbon dioxide on three montane grass species. I.
+Growth and dry matter partitioning. Journal of Experimental
+Botany 45: 305-315.</mixed-citation>
+         </ref>
+         <ref id="d4573e335a1310">
+            <mixed-citation id="d4573e339" publication-type="other">
+Bazzaz, F.A. &amp; K. Garbutt. 1988. The response of annuals in com-
+petitive neighbourhoods: effects of elevated CO₂. Ecology
+69:937-946.</mixed-citation>
+         </ref>
+         <ref id="d4573e353a1310">
+            <mixed-citation id="d4573e357" publication-type="other">
+Bazzaz, F.A., M. Jasienski, S.C. Thomas, &amp; P. Wayne. 1995.
+Microevolutionary responses in experimental populations of
+plants to CO₂-enrichment environments - parallel results from 2
+model systems. Proceedings of the National Academy of Scien-
+ces of the United States of America 92:8161-8165.</mixed-citation>
+         </ref>
+         <ref id="d4573e376a1310">
+            <mixed-citation id="d4573e380" publication-type="other">
+Carlsson, B.A. &amp; T.V. Callaghan. 1994. Impact of climate change
+factors on the clonal sedge Carex bigelowii - implications for
+population growth and vegetative spread. Ecography 17:321 -
+330</mixed-citation>
+         </ref>
+         <ref id="d4573e396a1310">
+            <mixed-citation id="d4573e400" publication-type="other">
+Clark, H„ P.C.D. Newton, C.C. Bell &amp; E.M. Glasgow. 1995. The
+influence of elevated CO₂ and simulated seasonal changes in
+temperature on tissue turnover in perennial ryegrass (Lolium
+perenne) and white clover (Trifolium repens) dominated pasture
+turves. Journal of Applied Ecology 32: 128-136.</mixed-citation>
+         </ref>
+         <ref id="d4573e419a1310">
+            <mixed-citation id="d4573e423" publication-type="other">
+Coleman, J.S. &amp; F.A. Bazzaz. 1992. Effects of CO2 and temperature
+on growth and resource use of co-occurring C₃ and C₄ annuals.
+Ecology 73:1244-1259.</mixed-citation>
+         </ref>
+         <ref id="d4573e436a1310">
+            <mixed-citation id="d4573e440" publication-type="other">
+Fajer, E.D., M.D. Bowers &amp; F.A. Bazzaz. 1991. Performance and
+allocation patterns of the perennial herb, Plantago lanceolata,
+in response to simulated herbivory and elevated CO₂ environ-
+ments. Oecologia 87:37-42.</mixed-citation>
+         </ref>
+         <ref id="d4573e456a1310">
+            <mixed-citation id="d4573e460" publication-type="other">
+Ferris, R. &amp; G. Taylor. 1993. Contrasting effects of elevated CO2 on
+the root and shoot growth of 4 native herbs commonly found in
+chalk grassland. New Phytologist 125: 855-866.</mixed-citation>
+         </ref>
+         <ref id="d4573e474a1310">
+            <mixed-citation id="d4573e478" publication-type="other">
+Garbutt, K., W.E. Williams &amp; F.A. Bazzaz. 1990. Analysis of the
+different response of five annuals to elevated CO₂ during
+growth. Ecology 71:1185-1194.</mixed-citation>
+         </ref>
+         <ref id="d4573e491a1310">
+            <mixed-citation id="d4573e495" publication-type="other">
+Grime, J. P. 1974. Vegetation classification by reference to strategies.
+Nature 250: 26-31.</mixed-citation>
+         </ref>
+         <ref id="d4573e505a1310">
+            <mixed-citation id="d4573e509" publication-type="other">
+Houghton, J.T., L.G. Meira Filho, J. Bruce, L. Hoesung, B.A. Cal-
+lander, E. Haites, N. Harris &amp; K. Maskell. 1994. Climate
+Change. 1994. radiative Forcing of Climate Change and An
+Evaluation of the IPCC IS92 Emission Scenarios. Cambridge
+University Press, Cambridge, U.K.</mixed-citation>
+         </ref>
+         <ref id="d4573e528a1310">
+            <mixed-citation id="d4573e532" publication-type="other">
+Hunt, R., D.W. Hand, M.A. Hannah &amp; A.M. Neal. 1991. Response
+to CO2 enrichment in 27 herbaceous species. Functional Ecol-
+ogy 5: 410-421.</mixed-citation>
+         </ref>
+         <ref id="d4573e545a1310">
+            <mixed-citation id="d4573e549" publication-type="other">
+Hunt, R., D.W. Hand, M.A. Hannah &amp; A.M. Neal. 1993. Further
+response to CO₂ enrichment in British herbaceous species.
+Functional Ecology 7:661-668.</mixed-citation>
+         </ref>
+         <ref id="d4573e562a1310">
+            <mixed-citation id="d4573e566" publication-type="other">
+Morse, S.R. &amp; F.A. Bazzaz. 1994. Elevated CO2 and temperature
+alter recruitment and size hierarchies in C₃ and C₄ annuals.
+Ecology 75:966-975.</mixed-citation>
+         </ref>
+         <ref id="d4573e580a1310">
+            <mixed-citation id="d4573e584" publication-type="other">
+Oechel, W.C. &amp; G.I. Reicher. 1987. Response of a Tundra Ecosystem
+to Elevated Atmospheric CO₂. U.S. Department of Energy,
+Washington, D.C.</mixed-citation>
+         </ref>
+         <ref id="d4573e597a1310">
+            <mixed-citation id="d4573e601" publication-type="other">
+Paez, A., H. Hellmers &amp; B.R. Strain. 1980. CO₂ effects on apical
+dominance in Pisum sativum. Physiologia Plantarum 58:161-
+165.</mixed-citation>
+         </ref>
+         <ref id="d4573e614a1310">
+            <mixed-citation id="d4573e618" publication-type="other">
+Paez, A., H. Hellmers &amp; B.R. Strain. 1983. CO₂ enrichment, drought
+stress and growth of Alaska pea plants (Pisum sativum).
+Physiologia Plantarum 58:161-165.</mixed-citation>
+         </ref>
+         <ref id="d4573e631a1310">
+            <mixed-citation id="d4573e635" publication-type="other">
+Paez, A., H. Hellmers &amp; B.R. Strain. 1984. CO₂ enrichment and
+water interactions on growth of two tomato cultivars. Journal of
+Agricultural Science 102:687-693.</mixed-citation>
+         </ref>
+         <ref id="d4573e648a1310">
+            <mixed-citation id="d4573e652" publication-type="other">
+Rafarei, C.R., T.W. Ashenden &amp; T.M. Roberts. 1995. An improved
+solardome system for exposing plants to elevated CO₂ and
+temperature. New Phytologist 131: 481-490.</mixed-citation>
+         </ref>
+         <ref id="d4573e665a1310">
+            <mixed-citation id="d4573e669" publication-type="other">
+Sionit, N., H. Hellmers &amp; B.R. Strain. 1980. Growth and yield of
+wheat under CO₂ enrichment and water stress. Crop Science
+20:687-690.</mixed-citation>
+         </ref>
+         <ref id="d4573e683a1310">
+            <mixed-citation id="d4573e687" publication-type="other">
+St-Omer, X &amp; S.M. Horvath. 1983. Elevated carbon dioxide con-
+centration and whole plant senescence. Ecology 64:1311-1314.</mixed-citation>
+         </ref>
+         <ref id="d4573e697a1310">
+            <mixed-citation id="d4573e701" publication-type="other">
+Stirling, C.M., C.R. Black &amp; C.K. Ong. 1989. Effects of timing of
+irrigation on groundnut (Arac his hypogaea L.). II. Water status
+and ¹⁴C-partitioning. Journal of Experimental Botany</mixed-citation>
+         </ref>
+         <ref id="d4573e714a1310">
+            <mixed-citation id="d4573e718" publication-type="other">
+Stirling CM, H. Harmens &amp; T.W. Ashenden. 1996. Physiological
+responses to elevated CO₂ and temperature treatments. Annual
+Report. Institute of Terrestrial Ecology, U.K.</mixed-citation>
+         </ref>
+         <ref id="d4573e731a1310">
+            <mixed-citation id="d4573e735" publication-type="other">
+Stirling, C.M., P.A. Davey, T.G. Williams &amp; SP Long. 1997. Ac-
+climation of photosynthesis to elevated CO₂ and temperature in
+five British native species of contrasting functional type. Global
+Change Biology 3:237-246.</mixed-citation>
+         </ref>
+         <ref id="d4573e751a1310">
+            <mixed-citation id="d4573e755" publication-type="other">
+Stitt, M. 1991. Rising CO₂ levels and their potential significance for
+carbon flow in photosynthetic cells. Plant Cell &amp; Environment
+14: 741-762.</mixed-citation>
+         </ref>
+         <ref id="d4573e768a1310">
+            <mixed-citation id="d4573e772" publication-type="other">
+Tissue, D.T. 1984. Physiological and growth responses of
+Eriphorum vaginatum to elevated CO₂ and temperature in the
+Alaskan tundra. Thesis. San Diego State University, San Diego,
+California, USA.</mixed-citation>
+         </ref>
+         <ref id="d4573e789a1310">
+            <mixed-citation id="d4573e793" publication-type="other">
+Webber, A.N., G.Y. Nie &amp; S.R Long. 1994. Acclimation of
+photosynthetic proteins to rising atmospheric CO₂. Photosyn-
+thesis Research 39:413-426.</mixed-citation>
+         </ref>
+         <ref id="d4573e806a1310">
+            <mixed-citation id="d4573e810" publication-type="other">
+Wheeler, T.R., R.H. Ellis, P. Hadley &amp; J.I.L. Morison. 1996. Effects
+of CO₂, temperature and their interaction on the growth,
+development and yield of cauliflower (Brassica oleracea L. cv.
+botrytis). Scientia Horticulturae 60:181-197.</mixed-citation>
+         </ref>
+         <ref id="d4573e826a1310">
+            <mixed-citation id="d4573e830" publication-type="other">
+Woodin, S.J., B. Graham, A. Killick, U. Skiba &amp; M. Cresses. . 1992.
+Nutrient limitation of the long-term response of heather (Cal-
+luna vulgaris (L.) Hull) to CO₂ enrichment. New Phytologist.
+122:636-642.</mixed-citation>
+         </ref>
+         <ref id="d4573e846a1310">
+            <mixed-citation id="d4573e850" publication-type="other">
+Ziska, L.H. &amp; J.A. Bunce. 1994. Increasing growth temperature
+reduces the stimulatory effect of elevated CO₂ on photosyn-
+thesis or biomass in two perennial species. Physiologia Plan-
+tarum 91: 183-190.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

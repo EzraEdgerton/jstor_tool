@@ -1,0 +1,169 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519091</article-id>
+         <title-group>
+            <article-title>A PACKAGE FOR THE ANALYSIS OF VEGETATION DATA BY MICROCOMPUTERS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Otto</given-names>
+                  <surname>WILDI</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139765</issue-id>
+         <fpage>153</fpage>
+         <lpage>159</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519091"/>
+         <abstract>
+            <p>A program package, originally developed for mainframe computers, has been adapted for a recent generation of MS-DOS microcomputers. The package offers a solution to many problems which hitherto limited the application of multivariate methods in vegetation studies. The programs in the package can be used instantly even by a beginner and they offer choice of well known multivariate algorithms. The hardware is affordable and even portable. Computer and program may therefore become part of the standard tools in research and teaching.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d4748e126a1310">
+            <mixed-citation id="d4748e130" publication-type="other">
+Ellenberg, H. 1956. Aufgaben und Methoden der Vegetationskunde.
+In: Walter, H. (ed.), Einführung in die Phytologie IV, 1,
+136 p.</mixed-citation>
+         </ref>
+         <ref id="d4748e143a1310">
+            <mixed-citation id="d4748e147" publication-type="other">
+Ellenberg, H. and F. Klötzli. 1972. Waldgesellschaften und Wald-
+standorte der Schweiz. Eidg. Anst. forstl. Versuchswes.,
+Mitt. 48/4.</mixed-citation>
+         </ref>
+         <ref id="d4748e160a1310">
+            <mixed-citation id="d4748e164" publication-type="other">
+Feoli, E., M. Lagonegro and L. Orlóci. 1984. Information
+Analysis of Vegetation Data. Junk, The Hague</mixed-citation>
+         </ref>
+         <ref id="d4748e174a1310">
+            <mixed-citation id="d4748e178" publication-type="other">
+Gauch, H. G. 1977. ORDIFLEX - a flexible computer program for
+four ordination techniques: Weighted Averages, Polar
+Ordination, Principal Components Analysis, and Reciprocal
+Averaging, release B. Cornell University, Ithaca, N. Y.</mixed-citation>
+         </ref>
+         <ref id="d4748e195a1310">
+            <mixed-citation id="d4748e199" publication-type="other">
+Gauch, H. G. 1979. COMPCLUS - a FORTRAN program for rapid
+clustering of large data sets. Cornell Univ. Ithaca, N. Y.</mixed-citation>
+         </ref>
+         <ref id="d4748e209a1310">
+            <mixed-citation id="d4748e213" publication-type="other">
+Gauch, H. G. 1982. Multivariate Analysis in Community Ecology.
+Cambridge University Press, Cambridge</mixed-citation>
+         </ref>
+         <ref id="d4748e223a1310">
+            <mixed-citation id="d4748e227" publication-type="other">
+Goodall, D. W. 1954. Objective methods for the classification of
+vegetation. III. An essay in the use of factor analysis.
+Australian Journal of Botany 2:304-324</mixed-citation>
+         </ref>
+         <ref id="d4748e240a1310">
+            <mixed-citation id="d4748e244" publication-type="other">
+Green, R. H. 1979. Sampling Design and Statistical Methods for
+Environmental Biologists. Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d4748e254a1310">
+            <mixed-citation id="d4748e258" publication-type="other">
+Greig-Smith, P. 1982. Quantitative Plant Ecology. 3rd ed.
+Studies in Ecology, Vol. 9, Blackwell, Oxford</mixed-citation>
+         </ref>
+         <ref id="d4748e268a1310">
+            <mixed-citation id="d4748e272" publication-type="other">
+Groth, E. J., P. J. E. Peebles, M. Seldner and R. M. Soniera.
+1977. The Clustering of Galaxies. Scientific American 237,5:
+76-98</mixed-citation>
+         </ref>
+         <ref id="d4748e286a1310">
+            <mixed-citation id="d4748e290" publication-type="other">
+Huntley, B., J. P. Huntley and H. J. B. Birks. 1981. PHYTOPAK, a
+suite of computer programs designed for the handling and
+analysis of phytosociological data. Vegetatio 45:85-95</mixed-citation>
+         </ref>
+         <ref id="d4748e303a1310">
+            <mixed-citation id="d4748e307" publication-type="other">
+Kuhn, N. 1983. VEGTAB, ein Computer-Programm als Hilfe zur
+tabellarischen Vegetationsgliederung. Tuexenia 3:499-522</mixed-citation>
+         </ref>
+         <ref id="d4748e317a1310">
+            <mixed-citation id="d4748e321" publication-type="other">
+Lagonegro, M. and E. Feoli. 1984. THREE-PAckages for
+classification and ordination of multivariate data. Libreria
+Goliardica, Trieste</mixed-citation>
+         </ref>
+         <ref id="d4748e334a1310">
+            <mixed-citation id="d4748e338" publication-type="other">
+Légendre, L. et P. Légendre. 1979. Ecologie numerique. Tome II.
+La structure des donnes ecologiques. Masson, Paris</mixed-citation>
+         </ref>
+         <ref id="d4748e348a1310">
+            <mixed-citation id="d4748e352" publication-type="other">
+Maarel, van der, E. 1982. On the manipulation and editing of
+phytosociological and ecological data. Vegetatio 50:71-76</mixed-citation>
+         </ref>
+         <ref id="d4748e362a1310">
+            <mixed-citation id="d4748e366" publication-type="other">
+Mueller-Dombois, D. and H. Ellenberg. 1974. Aims and Methods of
+Vegetation Ecology. Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d4748e377a1310">
+            <mixed-citation id="d4748e381" publication-type="other">
+Orlóci, L. 1978. Multivariate Analysis in Vegetation Research.
+Junk, The Hague</mixed-citation>
+         </ref>
+         <ref id="d4748e391a1310">
+            <mixed-citation id="d4748e395" publication-type="other">
+Pielou, E. C. 1977. Mathematical Ecology. 2nd ed. Wiley, New
+York</mixed-citation>
+         </ref>
+         <ref id="d4748e405a1310">
+            <mixed-citation id="d4748e409" publication-type="other">
+Pielou, E. C. 1984. The Interpretation of Ecological Data.
+Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d4748e419a1310">
+            <mixed-citation id="d4748e423" publication-type="other">
+Van der Maarel, E., J. G. M. Janssen and J. M. W. Louppen. 1978.
+Tabord, a Program for Structuring Phytosociological Tables.
+Vegetatio 38:143-156</mixed-citation>
+         </ref>
+         <ref id="d4748e436a1310">
+            <mixed-citation id="d4748e440" publication-type="other">
+Wildi, O. and L. Orlóci. 1983. Management and Multivariate
+Analysis of Vegetation Data. 2nd revised ed. Eidg. Anst.
+forstl. Versuchswes., Ber. 215</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

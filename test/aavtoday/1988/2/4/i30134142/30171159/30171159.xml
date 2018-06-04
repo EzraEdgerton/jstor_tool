@@ -1,0 +1,59 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group>
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/30171159</article-id>
+         <title-group>
+            <article-title>Association of Pigeon Veterinarians: Highlights of APV Meeting</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>J.</given-names>
+                  <surname>Raddei</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>R.</given-names>
+                  <surname>Ruger</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>4</issue>
+         <issue-id>i30134142</issue-id>
+         <fpage>203</fpage>
+         <lpage>203</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1988 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/30171159"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

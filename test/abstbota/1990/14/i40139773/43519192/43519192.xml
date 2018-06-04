@@ -1,0 +1,235 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519192</article-id>
+         <title-group>
+            <article-title>An exploratory method for determining optimal plot size in plant community studies</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>S.</given-names>
+                  <surname>Camiz</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>A.</given-names>
+                  <surname>Gergely</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1990</year>
+         </pub-date>
+         <volume>14</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139773</issue-id>
+         <fpage>83</fpage>
+         <lpage>108</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519192"/>
+         <abstract>
+            <p>In order to reduce the amount of data collection necessary to use the Juhász-Nagy model, the STATIS three-way technique is proposed for pilot analyses. The application of STATIS to two spatial processes, yields results approaching very well the synphenetic pattern as obtained by the Juhász-Nagy model. In particular, optimal size of plots can be identified, corresponding to one extreme of the second interstructure axis. In a similar way, the trajectories of plots along the spatial process, as they are represented on the first two principal components of the compromise result, show maximum distances from the center corresponding to maximum associatum.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d10215e263a1310">
+            <mixed-citation id="d10215e267" publication-type="other">
+Bartha, S. and F. Horváth. 1987. Application of long transects and information
+theoretical functions to pattern detection. I. Transects versus isodiametric sam-
+pling units. Abstracta Botanica 11:9-26.</mixed-citation>
+         </ref>
+         <ref id="d10215e280a1310">
+            <mixed-citation id="d10215e284" publication-type="other">
+Bartha, S. 1990. Spatial processes in developing plant communities: pattern forma-
+tion detected using information theory. In: Krahulec, F., Agnew, A.&amp;Q. and
+Willems, J.H. (eds.): Spatial processes in plant communities (in press).</mixed-citation>
+         </ref>
+         <ref id="d10215e297a1310">
+            <mixed-citation id="d10215e301" publication-type="other">
+Benzécri, J.P. 1973-82. L'Analyse des données. Tome II. L'analyse des correspon-
+dances. Dunod, Paris.</mixed-citation>
+         </ref>
+         <ref id="d10215e311a1310">
+            <mixed-citation id="d10215e315" publication-type="other">
+Blasi, C., G. Abbate, M.S. Amadori, F. Bruno, S. Camiz and F. Manes. 1988.
+Analisi floristica e strutturale di una radura in cerreta. Braun-Blanquetia 2:189-
+202.</mixed-citation>
+         </ref>
+         <ref id="d10215e329a1310">
+            <mixed-citation id="d10215e333" publication-type="other">
+Camiz, S. 1988. Expert systems: utility in community studies and examples.
+Coenoses 3(1):33-39.</mixed-citation>
+         </ref>
+         <ref id="d10215e343a1310">
+            <mixed-citation id="d10215e347" publication-type="other">
+Camiz, S. 1989. Analisi multivariate sui rilievi di una lecceta: metodi a confronto.
+Giornale Botanico Italiano 123(1-2,suppl.1): 92.</mixed-citation>
+         </ref>
+         <ref id="d10215e357a1310">
+            <mixed-citation id="d10215e361" publication-type="other">
+Camiz, S. 1990a. La procedura STATIS per il confronto fra diverse matrici di
+similarità: un esempio ecologico. Società Italiana di Statistica - Atti della XXXV
+Riunione Scientifica, CEDAM, Padova, voi. 2:461-408.</mixed-citation>
+         </ref>
+         <ref id="d10215e374a1310">
+            <mixed-citation id="d10215e378" publication-type="other">
+Camiz, S. 1990b. Computer assisted procedures for community data analysis.
+Coenoses (in press).</mixed-citation>
+         </ref>
+         <ref id="d10215e388a1310">
+            <mixed-citation id="d10215e392" publication-type="other">
+Cochran, W.G. 1977. Sampling techniques. 3rd ed. J. Wiley, New York.</mixed-citation>
+         </ref>
+         <ref id="d10215e399a1310">
+            <mixed-citation id="d10215e403" publication-type="other">
+Escoufier, Y. 1973. Le traitement des variables vectorielles. Biometrics 29:751-760.</mixed-citation>
+         </ref>
+         <ref id="d10215e411a1310">
+            <mixed-citation id="d10215e415" publication-type="other">
+Escouñer, Y. 1980. Exploratory data analysis when data are matrices. In: Matusita
+K. (ed.), Recent developments in statistical inference and data analysis. North-
+Holland, pp.45-53.</mixed-citation>
+         </ref>
+         <ref id="d10215e428a1310">
+            <mixed-citation id="d10215e432" publication-type="other">
+Fewster, P.H. and L. Orlóci. 1983. On choosing a resemblance measure for non-
+linear predictive ordination. Vegetatio 54:27-35.</mixed-citation>
+         </ref>
+         <ref id="d10215e442a1310">
+            <mixed-citation id="d10215e446" publication-type="other">
+Foucart, T. 1983. Une nouvelle approche de la méthode STATIS. Revue de statis-
+tique appliquée 31(2): 61-75.</mixed-citation>
+         </ref>
+         <ref id="d10215e456a1310">
+            <mixed-citation id="d10215e460" publication-type="other">
+Gergely, A. 1990. Information theory fonctions for pattern detection: a comparative
+study in a sandy grassland community, (in prep).</mixed-citation>
+         </ref>
+         <ref id="d10215e470a1310">
+            <mixed-citation id="d10215e474" publication-type="other">
+Gittins, R. 1985. Canonical Analysis. A review with applications in Ecology.
+Springer Verlag, Berlin.</mixed-citation>
+         </ref>
+         <ref id="d10215e484a1310">
+            <mixed-citation id="d10215e488" publication-type="other">
+Glaçon, F. 1981. Analyse conjointe de plusieurs matrices de cycle, Université de
+Grenoble.</mixed-citation>
+         </ref>
+         <ref id="d10215e499a1310">
+            <mixed-citation id="d10215e503" publication-type="other">
+Gower, J.C. 1966. Some distance properties of latent and vector methods used in
+multivariate analysis. Biometrika 53:325-328.</mixed-citation>
+         </ref>
+         <ref id="d10215e513a1310">
+            <mixed-citation id="d10215e517" publication-type="other">
+Juhász-Nagy, P. 1963. Investigations on the Bulgarian vegetation. Some hygrophy-
+lous plant communities (I-III). Acta Biol. Debrecina 2:47-70.</mixed-citation>
+         </ref>
+         <ref id="d10215e527a1310">
+            <mixed-citation id="d10215e531" publication-type="other">
+Juhász-Nagy, P. 1967. On some "characteristic areas" of plant community stands.
+Proc. of Colloquium on Information Theory, Bolyai Math. Soc., Debrecen, pp.
+269-282.</mixed-citation>
+         </ref>
+         <ref id="d10215e544a1310">
+            <mixed-citation id="d10215e548" publication-type="other">
+Juhász-Nagy, P. 1968. Ueber die Zusammenhaenge zwischen dem Parameter-prae-
+servierungsvermoegen und der Resistenz bei Pflanzenassoziationen. Vortraege
+der II. Ungarischen Biometrischen Konferenz. Akadémiai Kiadó, Budapest, pp.
+365-367.</mixed-citation>
+         </ref>
+         <ref id="d10215e564a1310">
+            <mixed-citation id="d10215e568" publication-type="other">
+Juhász-Nagy, P. 1976. Spatial dependence of plant populations. Part I: Equivalence
+analysis (an outline for a new model). Acta Bot. Acad. Sci. Hung. 22: 61-78.</mixed-citation>
+         </ref>
+         <ref id="d10215e578a1310">
+            <mixed-citation id="d10215e582" publication-type="other">
+Juhász-Nagy, P. 1984. Spatial dependence of plant populations. Part 2: A family
+of new models. Acta Bot. Hung. 30(3-4): 363-402.</mixed-citation>
+         </ref>
+         <ref id="d10215e593a1310">
+            <mixed-citation id="d10215e597" publication-type="other">
+Juhász-Nagy, P. and J. Podani. 1983. Information theory methods for the study of
+spatial processes and succession. Vegetatio 51:129-140.</mixed-citation>
+         </ref>
+         <ref id="d10215e607a1310">
+            <mixed-citation id="d10215e611" publication-type="other">
+Kobajashi, S. 1981. Diversity indices relations to sample size and spatial distribu-
+tion. Jap. J. Ecol. 31: 231-236.</mixed-citation>
+         </ref>
+         <ref id="d10215e621a1310">
+            <mixed-citation id="d10215e625" publication-type="other">
+Lavit, C. 1988. Analyse conjointe de plusieurs matrices. Masson, Paris.</mixed-citation>
+         </ref>
+         <ref id="d10215e632a1310">
+            <mixed-citation id="d10215e636" publication-type="other">
+Lebart, L., A. Morineau and N. Tabard. 1977. Techniques de la description statis-
+tique. Dunod, Paris.</mixed-citation>
+         </ref>
+         <ref id="d10215e646a1310">
+            <mixed-citation id="d10215e650" publication-type="other">
+Matthews, J. A. 1978. An application of non-metric multidimensional scaling to
+the construction of an improved species plexus. J. Ecol. 66: 157-173.</mixed-citation>
+         </ref>
+         <ref id="d10215e660a1310">
+            <mixed-citation id="d10215e664" publication-type="other">
+Matthews, J. A. 1979. A study of the variability of some successibnal and climax
+plant assemblage types using multiple discriminant analysis. J. Ecol. 67: 255-
+271.</mixed-citation>
+         </ref>
+         <ref id="d10215e678a1310">
+            <mixed-citation id="d10215e682" publication-type="other">
+Orlóci, L. 1978. Multivariate Analysis in Vegetation Research. Junk. The Hague.</mixed-citation>
+         </ref>
+         <ref id="d10215e689a1310">
+            <mixed-citation id="d10215e693" publication-type="other">
+Podani, J. 1984a. Spatial processes in the analysis of vegetation: theory and review.
+Acta Bot. Hung. 30:75-118.</mixed-citation>
+         </ref>
+         <ref id="d10215e703a1310">
+            <mixed-citation id="d10215e707" publication-type="other">
+Podani, J. 1984b. Analysis of mapped and simulated vegetation pattern by means
+of computerized sampling techniques. Acta Bot. Hung. 30:403-425.</mixed-citation>
+         </ref>
+         <ref id="d10215e717a1310">
+            <mixed-citation id="d10215e721" publication-type="other">
+Soo, R. and S. Javorka. 1951. A Magyar Növényvilág Kézikönyve. I-n. (Manual of
+Hungarian Flora). Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d10215e731a1310">
+            <mixed-citation id="d10215e735" publication-type="other">
+Ter Braak, C.J.F. 1988. CANOCO: A FORTRAN program for canonical commu-
+nity ordination by partial detrended correspondence analysis and redundancy
+analysis (Version 2.1). Techn. Rep. LWA-88-02, GLW Wageningen, The Nether-
+lans.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

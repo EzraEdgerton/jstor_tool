@@ -1,0 +1,403 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519237</article-id>
+         <title-group>
+            <article-title>Temperate grass swards and climatic changes. The role of plant-soil interactions in elevated CO₂</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. F.</given-names>
+                  <surname>Soussana</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>P.</given-names>
+                  <surname>Loiseau</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>223</fpage>
+         <lpage>234</lpage>
+         <page-range>223-230, 232-234</page-range>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519237"/>
+         <abstract>
+            <p>Results from a case study with perennial ryegrass stands grown during 27 months on a soil at two N fertilizer suppplies in ambient or in elevated CO₂ and at outdoor temperature or +3° C, with (or without) a summer water limitation are discussed. Elevated CO₂ effects on the above-ground productivity of the grass sward and on the herbage quality were found to be partly mediated by plant-soil interactions. An increased allocation of growth to the roots was observed under elevated CO₂ and, despite an enhancement of carbon turnover in the soil macro-organic fractions, a supplemental sequestration of carbon occurred below-ground. Nitrogen immobilization in the soil macro-organic matter was enhanced under elevated CO₂ and the net mineralization rate was reduced. These changes in the soil N cycle under elevated CO₂ led to a reduction in the availability of inorganic Í to the grass (decline in the N nutrition index) and, therefore, to a decline in the harvest index. In case of a combined increase in CO₂ concentration and in air temperature, the decline in the sward productivity during summer was offset by an increase during early spring and late autumn. A supplemental 3° C in elevated CO₂ mitigated the changes in the soil N cycle, without diminishing the sequestration of below-ground carbon, due apparently to the reduction in the soil water content, which partly counterbalanced the positive effect of an increased air temperature on SOM decomposition.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4587e147a1310">
+            <mixed-citation id="d4587e151" publication-type="other">
+Akin, D.E., B.A. Kimball, W.R. Windham, P.J. Pinter Jr., G.W. Wall,
+R.L. Garcia, R.L. La Morte &amp; III.V.H. Morrison. 1995. Effect
+of free-air CO₂ enrichment (FACE) on forage quality. Anim.
+Feed Sci. Technol. 53:29-43.</mixed-citation>
+         </ref>
+         <ref id="d4587e167a1310">
+            <mixed-citation id="d4587e171" publication-type="other">
+Arp, W. J. 1991 Effects of source-sink relations on photosynthetic
+acclimation to elevated CO₂. Plant Cell Environ. 14:869-875.</mixed-citation>
+         </ref>
+         <ref id="d4587e181a1310">
+            <mixed-citation id="d4587e185" publication-type="other">
+Bazzaz, F. A. 1990 The response of natural ecosystems to the rising
+global CO₂ levels. Ann. Rev. Ecol. Syst. 21:176-196.</mixed-citation>
+         </ref>
+         <ref id="d4587e195a1310">
+            <mixed-citation id="d4587e199" publication-type="other">
+Besle, J.M., B. Lassalas &amp; P. Thivend. 1981. Digestion des glucides
+cytoplasmiques de la fé veröle par le veau pré-ruminant. Reprod.
+Nutr. Dévelop. 21:641-649.</mixed-citation>
+         </ref>
+         <ref id="d4587e213a1310">
+            <mixed-citation id="d4587e217" publication-type="other">
+Bouman, B. A. M., A.H.C.M. Schapendonk, W. Stol &amp; D.W. van
+Kraalingen 1 996. Description of the growth model LINGRA as
+implemented in CGMS. Quantitative approaches in systems
+analysis, n°7. AB-DLO Pub., Wageningen, 56 pp.</mixed-citation>
+         </ref>
+         <ref id="d4587e233a1310">
+            <mixed-citation id="d4587e237" publication-type="other">
+Campbell, B. D., D. M. Stafford Smith &amp; G.M. McKeon. 1997.
+Elevated CO₂ and water supply interactions in grasslands: a pas-
+ture and rangelands management perspective. Global Change
+Biol, (in press).</mixed-citation>
+         </ref>
+         <ref id="d4587e253a1310">
+            <mixed-citation id="d4587e257" publication-type="other">
+Casella, E., J.F. Soussana &amp; P. Loiseau. 1996. Long term effects of
+CO₂ enrichment and temperature increase on a temperate grass
+sward. I. Productivity and water use, Plant and Soil 182:83-99.</mixed-citation>
+         </ref>
+         <ref id="d4587e270a1310">
+            <mixed-citation id="d4587e274" publication-type="other">
+Casella, E. &amp; J.F. Soussana. 1997. Long term effects of CO₂ enrich-
+ment and temperature increase on the carbon balance of a
+temperate grass sward. J. Exp. Bot., in press.</mixed-citation>
+         </ref>
+         <ref id="d4587e287a1310">
+            <mixed-citation id="d4587e291" publication-type="other">
+Comins, H. N. &amp; E. R. McMurtrie. 1993. Long term response of
+nutrient limited forests to CO₂ enrichment; equilibrium be-
+haviour of plant-soil models. Ecol. Appl. 3:666-681.</mixed-citation>
+         </ref>
+         <ref id="d4587e304a1310">
+            <mixed-citation id="d4587e308" publication-type="other">
+Demarquilly, C. &amp; M. Chenost. 1969. Etude de la digestion des four-
+rages dans le rumen par la méthode des sachets de nylon, liaison
+avec la valeur alimentaire. Ann. Zootech. 18:419-436.</mixed-citation>
+         </ref>
+         <ref id="d4587e322a1310">
+            <mixed-citation id="d4587e326" publication-type="other">
+Diaz, S., J.P. Grime, J. Harris &amp; E. McPherson. 1993. Evidence of a
+feedback mechanism limiting plant response to elevated carbon
+dioxide. Nature 364:616-617.</mixed-citation>
+         </ref>
+         <ref id="d4587e339a1310">
+            <mixed-citation id="d4587e343" publication-type="other">
+Farquhar, G.D., J.R. Ehleringer &amp; K.T. Hubick. 1989. Carbon
+isotope discrimination and photosynthesis, Ann. Rev. Plant
+Physiol., Plant Mol. Biol., 40:503-537.</mixed-citation>
+         </ref>
+         <ref id="d4587e356a1310">
+            <mixed-citation id="d4587e360" publication-type="other">
+Field, C.B., F.S. Chapin III, P.A. Matson &amp; H.A. Mooney. 1992.
+Responses of terrestrial ecosystems to the changing atmosphere:
+a resource based approach. Ann. Rev. Ecol. Syst. 23:201-235.</mixed-citation>
+         </ref>
+         <ref id="d4587e373a1310">
+            <mixed-citation id="d4587e377" publication-type="other">
+Gay, A. P. &amp; B. Hauck. 1994. Acclimation of Lolium temulentum to
+enhanced carbon dioxide concentration. J. exp. Bot. 45:1133-
+1141.</mixed-citation>
+         </ref>
+         <ref id="d4587e390a1310">
+            <mixed-citation id="d4587e394" publication-type="other">
+Gifford, R.M. 1994. The global carbon cycle: a viewpoint on the
+missing sink. Australian Journal of Plant Physiology 21:1-15.</mixed-citation>
+         </ref>
+         <ref id="d4587e404a1310">
+            <mixed-citation id="d4587e408" publication-type="other">
+Goering, H.K. &amp; P.J. Van Soest. 1970. Forage fiber analyses (ap-
+paratus, reagents, procedures and some applications). Agricul-
+ture handbook n° 379, ARS, USDA.</mixed-citation>
+         </ref>
+         <ref id="d4587e422a1310">
+            <mixed-citation id="d4587e426" publication-type="other">
+Gorissen, A., J.H. Van Ginkel, J.J.B. Keurentjes &amp; J.A. Van Veen.
+1995. Grass root decomposition is retarded when grass has been
+grown under elevated CO₂. Soil Biol. Biochem. 27:117-120.</mixed-citation>
+         </ref>
+         <ref id="d4587e439a1310">
+            <mixed-citation id="d4587e443" publication-type="other">
+Greenwood, D.J., G. Lemaire, G. Gosse, P. Cruz, A. Draycott &amp; J.J.
+Neeteson. 1990. Decline in percentage N of C₃ and C₄ crops
+with increasing plant mass. Ann. Bot. 66:425-436.</mixed-citation>
+         </ref>
+         <ref id="d4587e456a1310">
+            <mixed-citation id="d4587e460" publication-type="other">
+Grulke, N.E., G.H. Riechers, W.C. Oechel, U. Hjelm &amp; C. Jaeger.
+1990. Carbon balance in tussock tundra under ambient and
+elevated atmospheric CO₂. Oecologia 83:485-494.</mixed-citation>
+         </ref>
+         <ref id="d4587e473a1310">
+            <mixed-citation id="d4587e477" publication-type="other">
+Ham, J. M., E.C. Owensby, P.I. Coyne &amp; J.D. Bremer. 1995. Fluxes
+of CO₂ and water vapor from a prairie ecosystem exposed to
+ambient and elevated atmospheric CO₂. Agricultural and Forest
+Meteorology 77:73-93.</mixed-citation>
+         </ref>
+         <ref id="d4587e493a1310">
+            <mixed-citation id="d4587e497" publication-type="other">
+Hilbert, D.W., A. Larigauderie &amp; J.F. Reynolds. 1991 . The influence
+of carbon dioxide and daily photon-flux density on optimal leaf
+nitrogen concentration and root:shoot ratio. Ann. Bot. 68:365-
+376.</mixed-citation>
+         </ref>
+         <ref id="d4587e513a1310">
+            <mixed-citation id="d4587e517" publication-type="other">
+Jarrige, R. 1961. Analyse des constituants glucidiques des plantes
+fourragères. I. Fractionnement des constituants de la membrane
+par les hydrolyses acides. Ann. Biol. anim. Biochem. Biophys.
+1:163-212.</mixed-citation>
+         </ref>
+         <ref id="d4587e534a1310">
+            <mixed-citation id="d4587e538" publication-type="other">
+Jenkinson, D.S., R.H. Fox &amp; J.H. Rayner. 1985. Interactions bet-
+ween fertilizer nitrogen and soil nitrogen-the so-called priming
+effect, J. Soil Sci. 36:425-444.</mixed-citation>
+         </ref>
+         <ref id="d4587e551a1310">
+            <mixed-citation id="d4587e555" publication-type="other">
+Jenkinson, D.S., D.E. Adams &amp; A. Wild. 1991. Model estimates of
+CO₂ emissions from soil in response to global warming. Nature
+351:304-306.</mixed-citation>
+         </ref>
+         <ref id="d4587e568a1310">
+            <mixed-citation id="d4587e572" publication-type="other">
+Keeling, C.D., T.P Whorf, M. Wahlen &amp; J. van der Pflicht. 1995.
+Interannual extremes in the rate of rise of atmospheric carbon
+dioxide concentration since 1980. Nature 375:666-670.</mixed-citation>
+         </ref>
+         <ref id="d4587e585a1310">
+            <mixed-citation id="d4587e591" publication-type="other">
+Lemaire, G. &amp; J. Salette. 1984. Relation entre dynamique de crois-
+sance et dynamique de prélèvement d'azote pour un peuplement
+de graminées fourragères. I.-Etude de l'effet du milieu.
+Agronomie 4:423-430.</mixed-citation>
+         </ref>
+         <ref id="d4587e607a1310">
+            <mixed-citation id="d4587e611" publication-type="other">
+Lemaire, G., F. Gastai &amp; J. Salette. 1989. Analysis of the effect of N
+nutrition on dry matter yield of a sward by reference to potential
+yield and optimum N content. In Proc. XVI Int. Grassi. Cong.,
+AFPF, Nice, France, 179-180.</mixed-citation>
+         </ref>
+         <ref id="d4587e627a1310">
+            <mixed-citation id="d4587e631" publication-type="other">
+Luo, Y., C.B. Field &amp; H.A. Mooney. 1994. Predicting responses of
+photosynthesis and root fraction to elevated [CO₂]a: interactions
+among carbon, nitrogen, and growth. Plant Cell Environ.
+17:1195-1204.</mixed-citation>
+         </ref>
+         <ref id="d4587e648a1310">
+            <mixed-citation id="d4587e652" publication-type="other">
+Mitchell J.F.B., F.C. Johns, J.M. Gregory &amp; F. S. Telt. 1995. Climate
+response to increasing levels of greenhouse gases and sulphate
+aerosol. Nature 376:501-504.</mixed-citation>
+         </ref>
+         <ref id="d4587e665a1310">
+            <mixed-citation id="d4587e669" publication-type="other">
+Mooney, H.A., G.B. Drake, J.R. Luxmore, W.C. Oechel &amp; F.L.
+Pitelka. 1991. Predicting ecosystem responses to elevated CO₂.
+Bioscience 41 :96-104.</mixed-citation>
+         </ref>
+         <ref id="d4587e682a1310">
+            <mixed-citation id="d4587e686" publication-type="other">
+Navas, M.L., J.L. Guillerm, J. Fabreguettes &amp; J. Roy. 1995. The in-
+fluence of elevated CO₂ on community structure, biomass and
+carbon balance of mediterranean old-field microcosms. Global
+Change Biology 1:325-335.</mixed-citation>
+         </ref>
+         <ref id="d4587e702a1310">
+            <mixed-citation id="d4587e706" publication-type="other">
+Newton P. C. D. 1991. Direct effects of increasing carbon dioxide
+concentrations on pasture plants and communities. New
+Zealand J. Agr. Res. 34: 1-24.</mixed-citation>
+         </ref>
+         <ref id="d4587e719a1310">
+            <mixed-citation id="d4587e723" publication-type="other">
+Nijs, I., I. Impens &amp; T. Behaeghe. 1988. Effects of rising carbon
+dioxide concentration on gas exchange and growth of perennial
+ryegrass. Photosynthetica 22:44-50.</mixed-citation>
+         </ref>
+         <ref id="d4587e736a1310">
+            <mixed-citation id="d4587e740" publication-type="other">
+Nijs, I., I. Impens &amp; T. Behaeghe. 1989. Leaf and canopy responses
+of Lolium perenne to long-term elevated atmospheric carbon-
+dioxide concentration. Planta 177:312-320.</mixed-citation>
+         </ref>
+         <ref id="d4587e754a1310">
+            <mixed-citation id="d4587e758" publication-type="other">
+Owensby, C. 1993 Potential impact of elevated CO₂ and above-and
+belowground litter quality of a tall grass prairie. Water, Air and
+Soil Poll. 70:413-424.</mixed-citation>
+         </ref>
+         <ref id="d4587e771a1310">
+            <mixed-citation id="d4587e775" publication-type="other">
+Owensby, C.E., P.I. Coyne, J.M. Ham, L.M. Auen &amp; A.K. Knapp.
+1993. Biomass production in a tallgrass prairie ecosystem ex-
+posed to ambient and elevated CO₂. Ecol. Applications 3:644-
+653.</mixed-citation>
+         </ref>
+         <ref id="d4587e791a1310">
+            <mixed-citation id="d4587e795" publication-type="other">
+Poorter, H. 1993 Interspecific variation in the growth response of
+plants to an elevated ambient CO2 concentration. Vegetatio 104:
+77-97.</mixed-citation>
+         </ref>
+         <ref id="d4587e808a1310">
+            <mixed-citation id="d4587e812" publication-type="other">
+Ross D.J., K.R. Tate &amp; P.C.D. Newton. 1995. Elevated CO₂ and
+temperature effects on soil carbon and nitrogen cycling in
+ryegrass/white clover turves of an Endoquaept soil. Plant and
+Soil 176:37-49.</mixed-citation>
+         </ref>
+         <ref id="d4587e828a1310">
+            <mixed-citation id="d4587e832" publication-type="other">
+Ryle, G. J. A., C.E. Powell &amp; V. Tewson. 1992. Effect of elevated
+CO₂ on the photosynthesis, respiration and growth of perennial
+ryegrass. J. Exp. Bot. 43:811-818.</mixed-citation>
+         </ref>
+         <ref id="d4587e845a1310">
+            <mixed-citation id="d4587e849" publication-type="other">
+Schapendonk, A.H.C.M. &amp; J. Goudriaan. 1995. The effects of in-
+creased CO₂ on the annual carbon balance of a Lolium perenne
+
+              sward. Proc. X
+              
+              Int. Photosynth. Congress, Montpellier, in
+            
+press.</mixed-citation>
+         </ref>
+         <ref id="d4587e869a1310">
+            <mixed-citation id="d4587e873" publication-type="other">
+Schenck, U., R. Manderscheid, J. Hugen &amp; J.H. Weigel. 1995. Ef-
+fects of CO₂ enrichment and intraspecific competition on
+biomass partitioning, nitrogen content and microbial biomass
+carbon in soil of perennial ryegrass and white clover. J. Exp.
+Bot. 46:987-993.</mixed-citation>
+         </ref>
+         <ref id="d4587e892a1310">
+            <mixed-citation id="d4587e896" publication-type="other">
+Schlesinger, W.H. 1991. Biogeochemistry: an analysis of global
+change. New York, Academic Press.</mixed-citation>
+         </ref>
+         <ref id="d4587e906a1310">
+            <mixed-citation id="d4587e910" publication-type="other">
+Soussana, J.F., E. Casella &amp; P Loiseau. 1994. Regrowth components
+of perennial ryegrass swards under climate change. In Grassland
+and Society (Eds. L. 't Mannetje and J. Frame), pp. 402-407.
+Wageningen Pers Pub.</mixed-citation>
+         </ref>
+         <ref id="d4587e926a1310">
+            <mixed-citation id="d4587e930" publication-type="other">
+Soussana J.F. &amp; U.A. Hartwig. 1997. The effects of elevated CO₂ on
+symbiotic N₂ fixation: a link between the carbon and nitrogen
+cycles. Plant and Soil (in press).</mixed-citation>
+         </ref>
+         <ref id="d4587e943a1310">
+            <mixed-citation id="d4587e947" publication-type="other">
+Soussana J.F., E. Casella &amp; P. Loiseau. 1996. Long term effects of
+CO₂ enrichment and temperature on a temperate grass sward. II.
+Nitrogen and root fraction. Plant and Soil 182:101-114.</mixed-citation>
+         </ref>
+         <ref id="d4587e960a1310">
+            <mixed-citation id="d4587e964" publication-type="other">
+Soussana J. F., J.M. Besle, I. Chabaux &amp; P. Loiseau. 1997. Long-
+term effects of CO₂ enrichment and temperature on forage
+
+              quality in a temperate grassland. XVIII
+              
+              Int. Grassi. Conf., in
+            
+press.</mixed-citation>
+         </ref>
+         <ref id="d4587e984a1310">
+            <mixed-citation id="d4587e988" publication-type="other">
+Van de Geijn, S. C., J.V. Groenwold, J. Goudriaan &amp; P. A. Leffelaar.
+1994. The Wageningen rhizolab - facility to study soil-root-
+shoot-atmosphere interactions in crops. Plant and Soil 161 :275-
+287.</mixed-citation>
+         </ref>
+         <ref id="d4587e1004a1310">
+            <mixed-citation id="d4587e1008" publication-type="other">
+Van Loo, E.N. 1993. On the relation between tillering, leaf area
+dynamics and growth of perennial ryegrass (Lolium perenne L.).
+Ph D thesis, Wageningen Agricultural University, 169 pp.</mixed-citation>
+         </ref>
+         <ref id="d4587e1021a1310">
+            <mixed-citation id="d4587e1025" publication-type="other">
+Varlet-Grancher, C., B. Moulia, H. Sinoquet &amp; G. Russell. 1993.
+Spectral modification of light within plant canopies: how to
+quantify its effects on the architecture of the plant stand. In:
+Crop structure and light microclimate. Characterization and ap-
+plications. (Eds. C. Varlet-Grancher, R. Bonhomme &amp; H. Sino-
+quet), pp. 427-451. INRA Edition, ISBN 2 7380 0448 2. Paris.</mixed-citation>
+         </ref>
+         <ref id="d4587e1048a1310">
+            <mixed-citation id="d4587e1052" publication-type="other">
+Watson, R.T., H. Rodhe, H. Oescheger &amp; U. Siegenthaler. 1990
+Greenhouse gases and aerosols. In Climate: the IPCC scientific
+assessment. (Eds. J.T. Houghton, G.J. Jenkins &amp; J.J.
+Ephranums), pp. 1-40, Cambrige Univ. Press, Cambridge.</mixed-citation>
+         </ref>
+         <ref id="d4587e1068a1310">
+            <mixed-citation id="d4587e1072" publication-type="other">
+Wilson, J.R. &amp; C.C. Wong. 1982. Effects of shade on some factors
+influencing nutritive quality of green panic and sirato pastures.
+Aust. J. Agric. Res. 33:937-949.</mixed-citation>
+         </ref>
+         <ref id="d4587e1085a1310">
+            <mixed-citation id="d4587e1089" publication-type="other">
+Zak, D.R., K.S. Pregitzer, P.S. Curtis, J.A. Teeri, R. Fogel &amp; D.
+Randlett. 1993 Elevated atmospheric CO₂ and feedback bet-
+ween carbon and nitrogen cycles. Plant and Soil 151:105-117.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,141 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43504895</article-id>
+         <title-group>
+            <article-title>VIZI HYPHOMYCETES TANULMÁNYOK A BÖRZSÖNY-HEGYSÉGI MORGÓ-PATAK VTZRENDSZERÉBŐL</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>János</given-names>
+                  <surname>Gönczöl</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139187</issue-id>
+         <fpage>39</fpage>
+         <lpage>47</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1975</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43504895"/>
+         <abstract>
+            <p>Aquatic Hyphomycetes of foam-samples were monthly observed from a stream-system /Morgó-patak/ of Mts. Börzsöny /Northern-Hungary/, during 1969-1973. 25 species belonging to 18 genera werw observed. From them 14 species + 1 form are new data to Hungary. The seasonal frequence, occurence and distribition in the stream-system of the observes species in addition to the sporemorphological observations are discussed. It was pointed out by investigations on certain course of the stream-system there are great differences in the frequence of some species. Two course were found in the stream system where in the species communities different species were dominant.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d2330e132a1310">
+            <mixed-citation id="d2330e136" publication-type="other">
+BÁNHEGYI,I./1962/: Aquatic Hyphomycetea of the Danube
+/Danuhialia Hungarica 18/.-Ann. Univers .Sci.
+Budapest Sect. Biol. 5 : 13-26.</mixed-citation>
+         </ref>
+         <ref id="d2330e149a1310">
+            <mixed-citation id="d2330e153" publication-type="other">
+BESSEY,E.A./1939/: Varicosporium elodeae Kegel, an uncommon
+soil fungus. Papers Michigan Acad. Sc. Arts Lett .35:
+15-17.</mixed-citation>
+         </ref>
+         <ref id="d2330e166a1310">
+            <mixed-citation id="d2330e170" publication-type="other">
+DUDKA, I. /1964/: On the ecology and seasonal dinamics of Aqua-
+tic Hyphomycetesof the southern part of the Kiev
+Polessye.-Ukrainszkij Bot .Zsurnal. 21:50-57.</mixed-citation>
+         </ref>
+         <ref id="d2330e183a1310">
+            <mixed-citation id="d2330e187" publication-type="other">
+GONCZÖL, J./1971/: Aquatic Hyphomycetes from the Mts.Börzsöny.
+-Ann.Hist.Nat.Mus. 63: 57-75.</mixed-citation>
+         </ref>
+         <ref id="d2330e198a1310">
+            <mixed-citation id="d2330e202" publication-type="other">
+HUBER-PESTALOZZI, G. /1925/: Zur Morphologie und Entwicklungs-
+geschichte von Asterothrix /Cerasterias/raphidioides
+/Reinsch/Printz.-Hedwigia 65: 169-178.</mixed-citation>
+         </ref>
+         <ref id="d2330e215a1310">
+            <mixed-citation id="d2330e219" publication-type="other">
+INGOLD, C. T. /1942/: Aquatic Hyphomycetes of decaying older
+leaves.-Trans. Brit.mycol. Soc. 25: 339-417.</mixed-citation>
+         </ref>
+         <ref id="d2330e229a1310">
+            <mixed-citation id="d2330e233" publication-type="other">
+INGOLD,C.T./1943/: Further observations on aquatic Hyphomy -
+cetes of decaying leaves.-Trans.Brit.mycol.Soc.
+26: 104-115.</mixed-citation>
+         </ref>
+         <ref id="d2330e246a1310">
+            <mixed-citation id="d2330e250" publication-type="other">
+INGOLD,C.T./1956/: Stream spora in Nigeria.-Trans.Brit.mycol.
+Soc. 39: 108-110.</mixed-citation>
+         </ref>
+         <ref id="d2330e260a1310">
+            <mixed-citation id="d2330e264" publication-type="other">
+INGOLD, C.T./1966/: The tetraradiate aquatic fungal spore. -
+Mycologia. 58: 43-56.</mixed-citation>
+         </ref>
+         <ref id="d2330e274a1310">
+            <mixed-citation id="d2330e278" publication-type="other">
+KEGEL, W./1906/: Varicosporium Elodeae, ein Wasserpilz mit aufi-
+fallender Konidienbildung.-Ber. Deutsch. Bot. Ges.
+24: 213-216.</mixed-citation>
+         </ref>
+         <ref id="d2330e292a1310">
+            <mixed-citation id="d2330e296" publication-type="other">
+MAVANOVA, L., MARVAN,P./1963/: Nekolik hyfomycetü z tekoucích
+vod Hrubeno Jeseniku /Einige Hyp homy ce ten aus den
+fliessenden Gew-ssern des Hruby Jeaenik/.-Acta Mus.
+Siles. Ser. A. 12: 105-118.</mixed-citation>
+         </ref>
+         <ref id="d2330e312a1310">
+            <mixed-citation id="d2330e316" publication-type="other">
+NILSSON,S./1964/: Freshwater Hyphomycetes. Taxonomy ,morphology
+and ecology.-Symb. Bot. Upsal. 18:2.: 5-130.</mixed-citation>
+         </ref>
+         <ref id="d2330e326a1310">
+            <mixed-citation id="d2330e330" publication-type="other">
+PETERSEN, R.H./1962/: Aquatic Hyphomycetes from North America
+I. Aleuriosporae /Part 1/,and key to the genera.
+-Mycologia. 54: 117-151.</mixed-citation>
+         </ref>
+         <ref id="d2330e343a1310">
+            <mixed-citation id="d2330e347" publication-type="other">
+R\ANZONI, F.V./1953/: The aquatic Hyphomycetes of California.
+- Farlowia 4: 353-398.</mixed-citation>
+         </ref>
+         <ref id="d2330e357a1310">
+            <mixed-citation id="d2330e361" publication-type="other">
+TUBAKI, K./1957/: Studies of Japanese Hyphomycetes III. Aquatic
+group.-Bull. Kat. Sci.Mus. Tokyo. 41: 249-268.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

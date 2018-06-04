@@ -1,0 +1,323 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519434</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part One: Ecology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Graphs and multigraphs depict the change of community structure by scale</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M.</given-names>
+                  <surname>Hauser</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>103</fpage>
+         <lpage>114</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519434"/>
+         <abstract>
+            <p>The scale of investigation is an essential factor in community analysis. It is common sense that changes of scale by a factor of 10 and more depict often a completely different community structure. Even smaller changes of scale delineate dramatic changes of association for some groups of species but not so for others. Combining the results of pairwise cross-classifications for all species as sampled at various scales shows more or less scale invariant groups. A secondary dry grassland (Festuco-Caricetum humilis Sillinger 1930) has been investigated. A sample in form of a grid of contiguous quadrats has been used. In order to investigate the scale dependencies samples consisting of quadrats of larger window size have been produced by subsequent fusions of the original plots. Analyses of pairwise associations have been carried out with presence/absence data. The resulting graphs (showing the associations at only one level of scale) and multigraphs (combined views of samples at different scales) show changing both positive and negative associations for different plot sizes. The coalition of the winter annuals and moss species -found on shallow soils or on all but bare rocks - is the most scale independent. It can be separated from another group made up by Genista pilosa and Festuca carnuntina, which grow on deeper soils. The dominant matrix species Carex humilis, growing primarily on deeper soils, is only negatively associated with all other species. It forms a group for itself alone, a so-called one-species group.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4992e242a1310">
+            <mixed-citation id="d4992e246" publication-type="other">
+Barkman, J. J. 1989. A critical evaluation of minimum area
+concepts. Vegetatio 85: 89-104.</mixed-citation>
+         </ref>
+         <ref id="d4992e256a1310">
+            <mixed-citation id="d4992e260" publication-type="other">
+Bartha, S. 1990. Spatial processes in developing plant com-
+munities: Pattern formation detected using information
+theory. In: Krahulec, F., A D. Q. Agnew, S. Agnew &amp; H. J.
+Willems (eds.), Spatial processes in plant communities,
+Academia, Prague, pp. 31-47.</mixed-citation>
+         </ref>
+         <ref id="d4992e279a1310">
+            <mixed-citation id="d4992e283" publication-type="other">
+Bouxin, G. 1990. The measurement of horizontal patterns in
+vegetation: a review and proposals for models. Coenoses 5:
+97-112.</mixed-citation>
+         </ref>
+         <ref id="d4992e296a1310">
+            <mixed-citation id="d4992e300" publication-type="other">
+Camiz, S. &amp; A Gergely 1990. An exploratory method for
+determing optimal plot size in plant community studies.
+Abstr. Bot. Hung. 14: 83-108.</mixed-citation>
+         </ref>
+         <ref id="d4992e314a1310">
+            <mixed-citation id="d4992e318" publication-type="other">
+Dale, M. 1977a. Graph theoretical analysis of the
+phytosociological structure of plant communities: the
+theoretical basis. Vegetatio 34: 137-154.</mixed-citation>
+         </ref>
+         <ref id="d4992e331a1310">
+            <mixed-citation id="d4992e335" publication-type="other">
+Dale, M. 1977b. Graph theoretical analysis of the
+phytosociological structure of plant communities: an ap-
+plication to mixed forest. Vegetatio 35: 35-46.</mixed-citation>
+         </ref>
+         <ref id="d4992e348a1310">
+            <mixed-citation id="d4992e352" publication-type="other">
+Erschbamer, B., G. Grabherr &amp; H. Reisigl 1983. Spatial pat-
+tern in diy grassland communities of the Central Alps and
+its ecophysiological significance. Vegetatio 54: 143-151.</mixed-citation>
+         </ref>
+         <ref id="d4992e365a1310">
+            <mixed-citation id="d4992e369" publication-type="other">
+Galiano, E. F. 1983. Detection of multi-species patterns in
+plant populations. Vegetatio 53: 129-138.</mixed-citation>
+         </ref>
+         <ref id="d4992e379a1310">
+            <mixed-citation id="d4992e383" publication-type="other">
+Galiano, E. F. 1986. The use of conditional probability spectra
+in the detection of segregation between plant species.
+Oikos 46: 132-138.</mixed-citation>
+         </ref>
+         <ref id="d4992e396a1310">
+            <mixed-citation id="d4992e400" publication-type="other">
+Glenn-Lewin, D. C. &amp; J. M. Ver Hoef 1988. Scale, pattern
+analysis, and species diversity in grasslands. In: During, H.
+J., M. J. A Werger &amp; J. H. Willems (eds.), Diversity and
+pattern in plant communities, SPB Academic Publishing,
+The Hague, pp. 115-129.</mixed-citation>
+         </ref>
+         <ref id="d4992e420a1310">
+            <mixed-citation id="d4992e424" publication-type="other">
+Godehardt, E. 1990. The Connectivity of Random Graphs of
+small order and Statistical Tèsting. In: Karonski, M. (ed.),
+Random Graphs 87 (Proceedings of the 3. International
+Seminar on Random Graphs. Poznan 1987), North-Hol-
+land, Amsterdam-New York-Oxford.</mixed-citation>
+         </ref>
+         <ref id="d4992e443a1310">
+            <mixed-citation id="d4992e447" publication-type="other">
+Godehardt, E. &amp; H. Herrmann 1988. Multigraphs as a tool for
+numerical classification. In: Bock, H. H. (ed.), Classifica-
+tion and related methods of data analysis, Elsevier,
+Amsterdam, pp. 219-228.</mixed-citation>
+         </ref>
+         <ref id="d4992e463a1310">
+            <mixed-citation id="d4992e467" publication-type="other">
+Goodall, D. W. 1974. A new method for the analysis of spatial
+pattern by random pairing of quadrats. Vegetatio 29: 135-
+146.</mixed-citation>
+         </ref>
+         <ref id="d4992e480a1310">
+            <mixed-citation id="d4992e484" publication-type="other">
+Greig-Smith, P. 1952. The use of random and contiguous quad-
+rats in the study of the structure of plant communities.
+Ann. Bot. 16: 293-316.</mixed-citation>
+         </ref>
+         <ref id="d4992e497a1310">
+            <mixed-citation id="d4992e501" publication-type="other">
+Greig-Smith, P. 1983. Quantitative Plant Ecology. 3. Ed.,
+Blackwell Sci. Publ., Oxford.</mixed-citation>
+         </ref>
+         <ref id="d4992e511a1310">
+            <mixed-citation id="d4992e515" publication-type="other">
+Grime, J. P. 1979. Plant strategies and vegetation processes.
+John Wiley &amp; Sons, Chichester.</mixed-citation>
+         </ref>
+         <ref id="d4992e526a1310">
+            <mixed-citation id="d4992e530" publication-type="other">
+Hauser, M. 1991a. Spatial aspects of community structure in a
+secondary dry grassland: A two dimensional approach.
+PhD Thesis, Univ. Vienna.</mixed-citation>
+         </ref>
+         <ref id="d4992e543a1310">
+            <mixed-citation id="d4992e547" publication-type="other">
+Hauser, M. 1991b. Stepwise fusion of quadrats, semi-
+varioplanes, fractoplanes, and conditional probability-
+planes. In: Horváth, F. (ed.), Abstracts of the 34th LAVS
+Symposium on "Mechanisms in Vegetation Dynamics",
+Eger 26-30. Aug. 1991, Hung. Acad. Sci, pp. 74-75.</mixed-citation>
+         </ref>
+         <ref id="d4992e566a1310">
+            <mixed-citation id="d4992e570" publication-type="other">
+Jackson, D. A, K. M. Somers &amp; H. H. Harvey 1989. Similarity
+Coefficients: Measures of Co-Occurence and Association
+or simply Measures of Occurence? Am. Nat. 133: 436-453.</mixed-citation>
+         </ref>
+         <ref id="d4992e583a1310">
+            <mixed-citation id="d4992e587" publication-type="other">
+Janson, S. &amp; J. Vegelius 1981. Measures of ecological associa-
+tion. Oecologia (Berl.) 49: 371-376.</mixed-citation>
+         </ref>
+         <ref id="d4992e597a1310">
+            <mixed-citation id="d4992e601" publication-type="other">
+Juhász-Nagy, P. 1992. Scaling problems almost everywhere; an
+introduction. Abstracta Botanica 16:1-5.</mixed-citation>
+         </ref>
+         <ref id="d4992e611a1310">
+            <mixed-citation id="d4992e615" publication-type="other">
+Juhász-Nagy, P. &amp; J. Podáni 1983. Information theory methods
+for the study of spatial processes and succession. Vegetatio
+51: 129-140.</mixed-citation>
+         </ref>
+         <ref id="d4992e629a1310">
+            <mixed-citation id="d4992e633" publication-type="other">
+Kenkel, N. C., P. Juhász-Nagy &amp; J. Podani 1989. On sampling
+procedures in population and community ecology.
+Vegetatio 83: 195-204.</mixed-citation>
+         </ref>
+         <ref id="d4992e646a1310">
+            <mixed-citation id="d4992e650" publication-type="other">
+Kwiatkowska, A J. &amp; E. Symonides 1985. Statistical analysis of
+the phytocoenose homogeneity. 5. Frequency distributions
+of similarity and distance coefficients as a function of the
+area size. Acta Soc. Bot. Polon. 54: 511-521.</mixed-citation>
+         </ref>
+         <ref id="d4992e666a1310">
+            <mixed-citation id="d4992e670" publication-type="other">
+Legendre, P. &amp; M.-J. Fortin 1989. Spatial pattern and ecologi-
+cal analysis. Vegetatio 80: 107-138.</mixed-citation>
+         </ref>
+         <ref id="d4992e680a1310">
+            <mixed-citation id="d4992e686" publication-type="other">
+Lovett Doust, L. 1981. Population dynamics and local
+specialization in a clonal perennial (Ranunculus repens) 1.
+The dynamics of ramets in contrasting habitats. J. Ecol. 69:
+743-755.</mixed-citation>
+         </ref>
+         <ref id="d4992e702a1310">
+            <mixed-citation id="d4992e706" publication-type="other">
+Lovett Doust, L. &amp; J. Lovett Doust 1982. War games in a
+green glade. The battle strategies of plants. New Scientist,
+95: 1-4.</mixed-citation>
+         </ref>
+         <ref id="d4992e719a1310">
+            <mixed-citation id="d4992e723" publication-type="other">
+McConnaughay, K. D. M. &amp; F. A Bazzaz 1991. Is physical
+space a soil resource? Ecology 72: 94-103.</mixed-citation>
+         </ref>
+         <ref id="d4992e734a1310">
+            <mixed-citation id="d4992e738" publication-type="other">
+Mcintosh, R. P. 1973. Matrix and plexus techniques. In: Whit-
+taker, R. H. (ed.), Ordination and classification of com-
+munities, Junk, The Hague, pp. 159-191.</mixed-citation>
+         </ref>
+         <ref id="d4992e751a1310">
+            <mixed-citation id="d4992e755" publication-type="other">
+Nikifeld, H. 1964. Zur xerothermen Vegetation im Osten
+Niederösterreichs (mit Berücksichtigung angrenzender
+Gebiete). Verh. Zool.-Bot. Ges. Wien 103/104: 152-181.</mixed-citation>
+         </ref>
+         <ref id="d4992e768a1310">
+            <mixed-citation id="d4992e772" publication-type="other">
+Openshaw, S. &amp; P. J. Tàylor 1979. A million or so correlation
+coefficients: three experiments on the modifiable areal
+unit problem. In: Wrigley, N. (ed.), Statistical Applications
+in the Spatial Sciences, pp. 127-144. Pion, London.</mixed-citation>
+         </ref>
+         <ref id="d4992e788a1310">
+            <mixed-citation id="d4992e792" publication-type="other">
+Pielou, E. C. 1977. Mathematical ecology. J. Wiley &amp; Sons,
+New York.</mixed-citation>
+         </ref>
+         <ref id="d4992e802a1310">
+            <mixed-citation id="d4992e806" publication-type="other">
+Pirie, W. R. &amp; M. A Hamdan 1972. Some revised continuity
+corrections for discrete distributions. Biometrics, 28: 693-
+701.</mixed-citation>
+         </ref>
+         <ref id="d4992e819a1310">
+            <mixed-citation id="d4992e823" publication-type="other">
+Podani, J. 1987. Computerized sampling in vegetation studies.
+Coenoses 2: 9-18.</mixed-citation>
+         </ref>
+         <ref id="d4992e834a1310">
+            <mixed-citation id="d4992e838" publication-type="other">
+Silvertown, J. W. 1987. Introduction to plant population ecol-
+ogy. 2. ed. Wiley, New York.</mixed-citation>
+         </ref>
+         <ref id="d4992e848a1310">
+            <mixed-citation id="d4992e852" publication-type="other">
+Upton, G. &amp; B. Fingleton 1985. Spatial data analysis by ex-
+ample 1. Point pattern and quantitative data. Wiley, Chi-
+chester.</mixed-citation>
+         </ref>
+         <ref id="d4992e865a1310">
+            <mixed-citation id="d4992e869" publication-type="other">
+Upton, G. &amp; B. Fingleton 1989. Spatial data analysis by ex-
+ample. 2. Categorical and directional data. Wiley, Chi-
+chester.</mixed-citation>
+         </ref>
+         <ref id="d4992e882a1310">
+            <mixed-citation id="d4992e886" publication-type="other">
+van Groenewoud, H. &amp; P. Ihm 1974. A cluster analysis based
+on graph theory. Vegetatio 29: 115-120.</mixed-citation>
+         </ref>
+         <ref id="d4992e896a1310">
+            <mixed-citation id="d4992e900" publication-type="other">
+Waitzbauer, W. 1990. Die Naturschutzgebiete der Hunds-
+heimer Berge in Niederösterreich. Abh. Zool.-Bot. Ges.
+Österr. 24.</mixed-citation>
+         </ref>
+         <ref id="d4992e913a1310">
+            <mixed-citation id="d4992e917" publication-type="other">
+Wilker, J., P. J. H. Sharpe, L. K. Penridge &amp; H. Wu 1989.
+Ecological field theoiy: the concept and field tests.
+Vegetatio 83: 81-95.</mixed-citation>
+         </ref>
+         <ref id="d4992e931a1310">
+            <mixed-citation id="d4992e935" publication-type="other">
+Watt, A S. 1947. Pattern and process in the plant community.
+J. Ecol. 35: 1-22.</mixed-citation>
+         </ref>
+         <ref id="d4992e945a1310">
+            <mixed-citation id="d4992e949" publication-type="other">
+Westhoff, V. &amp; E. van der Maarel 1973. The Braun-Blanquet
+approach. In: Whittaker, R. H. (ed.), Ordination and clas-
+sification of communities, Junk, The Hague, pp. 617-726.</mixed-citation>
+         </ref>
+         <ref id="d4992e962a1310">
+            <mixed-citation id="d4992e966" publication-type="other">
+Wendelberger, G. 1959. Die Waldsteppen des pannonischen
+Raumes. Veröff. Geobot. Inst. Rübel 35: 76-113.</mixed-citation>
+         </ref>
+         <ref id="d4992e976a1310">
+            <mixed-citation id="d4992e980" publication-type="other">
+Yarranton, G. A 1973. A graph theoretical test of phyto-
+sociological homogeneity. Vegetatio 28: 283-298.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,62 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519189</article-id>
+         <title-group>
+            <article-title>SYN-TAX III-pc - Supplement 3: Macintosh version</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J.</given-names>
+                  <surname>Podani</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1990</year>
+         </pub-date>
+         <volume>14</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139773</issue-id>
+         <fpage>23</fpage>
+         <lpage>29</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519189"/>
+         <abstract>
+            <p>This paper summarizes differences between the original IBM-PC and the new Macintosh versions of the SYN-TAX III program package developed for data analysis in community ecology and systematica. Output examples are presented for the interactive graphics routines.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Reference</title>
+         <ref id="d10222e150a1310">
+            <mixed-citation id="d10222e154" publication-type="other">
+Podani, J. 1989. SYN-TAX DI-PC. Computer programs for data analysis in ecology
+and systematics. J. Classification 6:273-278.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

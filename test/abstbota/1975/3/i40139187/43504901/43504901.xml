@@ -1,0 +1,79 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43504901</article-id>
+         <title-group>
+            <article-title>A SZERENCSI SZIGETHEGYSÉG ÉS A HATÁROS HERNÁD-VÖLGY NÖVÉNYTÁRSULÁSAI</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Endre</given-names>
+                  <surname>Lakatos</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139187</issue-id>
+         <fpage>113</fpage>
+         <lpage>120</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1975</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43504901"/>
+         <abstract>
+            <p>Making the summary according to the table of contents, as a preface I have gigen a review of the investigation tasks: investigation on the relict territories of Szerencs Sziget - mountain and of Hernád-valley, study of their flora and a detalied examination and description of coenological relations. For the sake of its successful carrying out, it seemed to be necessary to study the natural relations determining the formation of flora and vegetation /geology, climate and morphology of the territory/· After having stressed the working method it was continued by a brief account on flora and vegetetion. It was considered to be important to give an account on the table of per cent devision of the ways of life and of the flora elements as well as on the list of Pannonian endemic, subendemic, continental, relict and other interesting species. I have gigen only the list of associations with the exception of the theree of them worth for stressing in a floristic and of coenological way. They are as follows: 1. Tussilaginetum tipicum et crambetosum. 2. Pulsatillae Pestucetum sulcatae = rupicolae, 3. Genisto tinctoriae -Quercetum petraeae subcarpaticum.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d2365e141a1310">
+            <mixed-citation id="d2365e145" publication-type="other">
+HOPPER, A/1937/: A Szerencsi Sziget földtani viszonyai.Debr.Tud.
+Egy. Ásv.-Földt. Int. Közl. 8: 1-307.</mixed-citation>
+         </ref>
+         <ref id="d2365e155a1310">
+            <mixed-citation id="d2365e159" publication-type="other">
+KITAIBEL,P./1863/: Additamenta ad floram hungaricum.</mixed-citation>
+         </ref>
+         <ref id="d2365e166a1310">
+            <mixed-citation id="d2365e170" publication-type="other">
+LAKATOS, E. /1964/: A Crambe tataria löszpusztai reliktumnövény
+uj hazai elófordulása. Ein neues Vorkommen des Löss-
+reliktenpflanze Crambe tataria in Ungarn. Bot. Közl.
+51: 233-238.</mixed-citation>
+         </ref>
+         <ref id="d2365e186a1310">
+            <mixed-citation id="d2365e190" publication-type="other">
+PÉJA, GY./1958/: A Zempléni-hegység felépitáse,kialakulása ss
+felszine.In NAGY,L./szerk./:Zerapléni hegysśg uti-
+kalauz. 3-20.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

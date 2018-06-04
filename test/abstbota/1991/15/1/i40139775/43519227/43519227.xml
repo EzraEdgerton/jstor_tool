@@ -1,0 +1,254 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519227</article-id>
+         <title-group>
+            <article-title>Hiding mechanisms in populations and the entropy maximum of death causes: are they related?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J.</given-names>
+                  <surname>Izsák</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1991</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139775</issue-id>
+         <fpage>37</fpage>
+         <lpage>42</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519227"/>
+         <abstract>
+            <p>Some mild or severe defects of individuals may influence the predator-prey coevolution and mate choice. Increasing the (polynomial) entropy of defects can serve as a special hiding mechanism. This is presumably the most effective around the middle of the reproductive life period, when the selection pressure is at its maximum. These assumptions are contrasted with some findings on the entropy maximum of human death causes.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d11371e125a1310">
+            <mixed-citation id="d11371e129" publication-type="other">
+Begon, M., Harper, J. L. S¿ Townsend, C. R.
+1986. Ecology: Individuals, Population and
+Communities. Blackwell Scientific, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d11371e142a1310">
+            <mixed-citation id="d11371e146" publication-type="other">
+Bremermann, H. J. 1980. Sex and polymorphism
+as strategies in host -pathogen interactions. J.
+Theor. Biol. 87:671-702.</mixed-citation>
+         </ref>
+         <ref id="d11371e159a1310">
+            <mixed-citation id="d11371e163" publication-type="other">
+Coleman, D. L. 1979. Obesity genes: beneficial
+effects in heterozygous mice. Science 603:663-
+665.</mixed-citation>
+         </ref>
+         <ref id="d11371e176a1310">
+            <mixed-citation id="d11371e180" publication-type="other">
+Diamond, J. &amp; Case, T. J. 1986. Community
+Ecology. Harper &amp; Row, N. Y. pp. 339-340.</mixed-citation>
+         </ref>
+         <ref id="d11371e191a1310">
+            <mixed-citation id="d11371e195" publication-type="other">
+Emlen, J. M. 1970. Age specificity and ecological
+theory. Ecology 51: 588-601.</mixed-citation>
+         </ref>
+         <ref id="d11371e205a1310">
+            <mixed-citation id="d11371e209" publication-type="other">
+Halliday, T. R. 1978. Sexual selection and mate
+choice, In: Krebs, J. R. &amp; Davies, N. B. (eds),
+Behavioral Ecology: an Evolutionary Approach.
+Blackwell Scientific, Oxford, England, pp. 180-
+213.</mixed-citation>
+         </ref>
+         <ref id="d11371e228a1310">
+            <mixed-citation id="d11371e232" publication-type="other">
+Hamilton, W. D. 1966. The moulding of senescence
+by natural selection. J. Theor. Biol. 12:12-45.</mixed-citation>
+         </ref>
+         <ref id="d11371e242a1310">
+            <mixed-citation id="d11371e246" publication-type="other">
+Harvey, P. H. &amp; Greenwood, P. J. 1978. Anti-
+predator defence strategies: some evolutionary
+problems. In: Krebs, J. R. &amp; Davies, N.B. (eds),
+Behavioral Ecology: an Evolutionary Approach.
+Blackwell Sientific, Oxford, pp. 129-151.</mixed-citation>
+         </ref>
+         <ref id="d11371e265a1310">
+            <mixed-citation id="d11371e269" publication-type="other">
+Hurlbert, S. H. 1981. The nonconcept of species
+diversity: a critique and alternative parameters.
+Ecology 52:577-586.</mixed-citation>
+         </ref>
+         <ref id="d11371e282a1310">
+            <mixed-citation id="d11371e286" publication-type="other">
+Izsák, J. 1988. Secular changes of the concentration
+of neoplasm death causes in the male population
+of some countries. Genus 44:119-130.</mixed-citation>
+         </ref>
+         <ref id="d11371e300a1310">
+            <mixed-citation id="d11371e304" publication-type="other">
+Izsák, J. 1989a. Untersuchungen zur epidemiolo-
+gischen Diversitat. Zeitschrift für die gesamte
+Hygiene und ihre Grenzgebiete 35:223-224.</mixed-citation>
+         </ref>
+         <ref id="d11371e317a1310">
+            <mixed-citation id="d11371e321" publication-type="other">
+Izsák, J. 1989b. Numerical experimentation on
+diversity. Biométrie-Praximétrie 29:97-113.</mixed-citation>
+         </ref>
+         <ref id="d11371e331a1310">
+            <mixed-citation id="d11371e335" publication-type="other">
+Izsák, J. &amp;, Juhász-Nagy, P. 1984. On the expla-
+nation of the changes in age of the concentra-
+tion of the death causes. Zeitschrift für Aiterns-
+forschung 39:31-36.</mixed-citation>
+         </ref>
+         <ref id="d11371e351a1310">
+            <mixed-citation id="d11371e355" publication-type="other">
+Izsák J . &amp; Juhász-Nagy, P. 1985a. Studies of
+diversity indices on mortality statistics. Annales
+Univ. Sci. Budapestinensis, Sectio Biologica
+24-26:11-27.</mixed-citation>
+         </ref>
+         <ref id="d11371e371a1310">
+            <mixed-citation id="d11371e375" publication-type="other">
+Izsák, J. &amp; Juhász-Nagy, P. 1985b. Diversity
+studies on mortality data. Annales Univ. Sci.
+Budapestinensis, Sectio Biologica 24-26:29-46.</mixed-citation>
+         </ref>
+         <ref id="d11371e388a1310">
+            <mixed-citation id="d11371e392" publication-type="other">
+Jones, J. S. 1982. St Patrick and the bacteria.
+Nature 296:113-114.</mixed-citation>
+         </ref>
+         <ref id="d11371e403a1310">
+            <mixed-citation id="d11371e407" publication-type="other">
+Krebs, J. R. &amp;, Davies, N. B. 1978. Behavioral
+Ecology: an Evolutionary Approach. Blackwell
+Scientific, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d11371e420a1310">
+            <mixed-citation id="d11371e424" publication-type="other">
+Levin, S. A. 1982. Models of the influence of préda-
+tion on aspect diversity in prey populations. J.
+Math. Biol. 14:253-284.</mixed-citation>
+         </ref>
+         <ref id="d11371e437a1310">
+            <mixed-citation id="d11371e441" publication-type="other">
+Lewis, A. C. 1986. Memory constraints and flower
+choice in Pieris rapae. Science 232:863-865.</mixed-citation>
+         </ref>
+         <ref id="d11371e451a1310">
+            <mixed-citation id="d11371e455" publication-type="other">
+Manton, K. G. &amp; Poss, S. S. 1979. Effects of
+dependency among causes of death for cause
+elimination life table strategies. Demography
+16:313-327.</mixed-citation>
+         </ref>
+         <ref id="d11371e471a1310">
+            <mixed-citation id="d11371e475" publication-type="other">
+Manton, K. G., Stallard, E. S¿ Vaupel, J. W.
+1986. Alternative models for the heterogeneity
+of mortality risks among the aged. J. Am. Stat.
+Assoc. 81:635-644.</mixed-citation>
+         </ref>
+         <ref id="d11371e491a1310">
+            <mixed-citation id="d11371e495" publication-type="other">
+Maynard Smith, J. 1986. Contemplating life with-
+out sox. Nature 324:300-301.</mixed-citation>
+         </ref>
+         <ref id="d11371e506a1310">
+            <mixed-citation id="d11371e510" publication-type="other">
+Murphy, E. A. 1981. The genetic dynamics of
+Hispan. Am. J. Mpd. Genetics 8:35-52.</mixed-citation>
+         </ref>
+         <ref id="d11371e520a1310">
+            <mixed-citation id="d11371e524" publication-type="other">
+Noonburg, V. W. 1982. Effects of behavioral adap-
+tation on a predator-prey model. J. Math. Biol.
+15:239-247.</mixed-citation>
+         </ref>
+         <ref id="d11371e537a1310">
+            <mixed-citation id="d11371e541" publication-type="other">
+Pomiankowski, A. 1989. Choosing parasite-free
+mates. Nature 338:115-116.</mixed-citation>
+         </ref>
+         <ref id="d11371e551a1310">
+            <mixed-citation id="d11371e555" publication-type="other">
+Siljak, D. D. 1983. Complex dynamic systems: di-
+mensionality, structure and uncertainty. Large-
+scale Systems 4:279-294.</mixed-citation>
+         </ref>
+         <ref id="d11371e568a1310">
+            <mixed-citation id="d11371e572" publication-type="other">
+Temple, S. A. 1987. Do predators always cap-
+ture substandard individuals disproportionately
+from prey populations? Ecology 68:669-674.</mixed-citation>
+         </ref>
+         <ref id="d11371e585a1310">
+            <mixed-citation id="d11371e591" publication-type="other">
+Thompson, J. N. 1987. Variance in number of eggs
+per patch: oviposition, behaviour and popula-
+tion dispersion in a seed parasitic moth. Ecol.
+Entomol. 12:311-320.</mixed-citation>
+         </ref>
+         <ref id="d11371e608a1310">
+            <mixed-citation id="d11371e612" publication-type="other">
+Tooby, J. 1982. Pathogens, polymorphism and the
+evolution of sex. J.Theor. Biol. 97:557-576.</mixed-citation>
+         </ref>
+         <ref id="d11371e622a1310">
+            <mixed-citation id="d11371e626" publication-type="other">
+Van Valen, L. 1983. A new evolutionary law. Evol.
+Theory 1:1-30.</mixed-citation>
+         </ref>
+         <ref id="d11371e636a1310">
+            <mixed-citation id="d11371e640" publication-type="other">
+West, L. 1988. Prey selection by the tropical snail
+Thais melones: a study of interindividual varia-
+tion. Ecology 69:1839-1854.</mixed-citation>
+         </ref>
+         <ref id="d11371e653a1310">
+            <mixed-citation id="d11371e657" publication-type="other">
+Williams, G. C. 1957. Pleiotropy, natural selec-
+tion and the evolution of senescence. Evolution
+11:398-411.</mixed-citation>
+         </ref>
+         <ref id="d11371e670a1310">
+            <mixed-citation id="d11371e674" publication-type="other">
+Zammuto, R. M. 1987. Life histories of mam-
+mals: analyses among and within Spermophilus
+columbianus life tables. Ecology 68:1351-1363.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

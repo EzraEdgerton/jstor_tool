@@ -1,0 +1,175 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43518934</article-id>
+         <title-group>
+            <article-title>Distance distribution between patch systems: a new method to analyse community mosaics</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G.</given-names>
+                  <surname>Fekete</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Z.</given-names>
+                  <surname>Fekete</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1998</year>
+         </pub-date>
+         <volume>22</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139754</issue-id>
+         <fpage>29</fpage>
+         <lpage>35</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43518934"/>
+         <abstract>
+            <p>Adjacent patches of different community types interact with each other via the efflux of individuals of component populations, influenced by the size, shape, arrangement and distance of patches. In a spatial micromosaic of two vegetation types, it is reasonable to assume that the intensity of interactions is proportional to the distances between patches (more precisely, to the distribution of distances). In this paper, a special type of distance distribution functions (DDF) is introduced to predict potential interactions between two communities. Each community is characterised by two functions (i. e., comm. A -» comm. Â and comm. Â -&gt; comm. A). The applicability of the new function is presented in the evaluation of a vegetation map.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7271e190a1310">
+            <mixed-citation id="d7271e194" publication-type="other">
+Cale, P. G. &amp; R. J. Hobbs 1994. Landscape heterogeneity indices:
+problems of scale and applicability, with particular reference to
+animal habitat description. Pacific Conservation Biology 1:
+183-193.</mixed-citation>
+         </ref>
+         <ref id="d7271e210a1310">
+            <mixed-citation id="d7271e214" publication-type="other">
+Cox, G. W. 1987. Nearest-neighbour relationships of overlapping
+circles and the dispersion pattern of desert shrubs. J. Ecol. 75:
+193-199.</mixed-citation>
+         </ref>
+         <ref id="d7271e227a1310">
+            <mixed-citation id="d7271e231" publication-type="other">
+Dierschke, H. 1994. Pflanzensoziologie. Eugen Ulmer, Stuttgart.</mixed-citation>
+         </ref>
+         <ref id="d7271e238a1310">
+            <mixed-citation id="d7271e242" publication-type="other">
+Forman, R. T. T. 1995. Land Mosaics. The Ecology of Landscapes
+and Regions. Cambridge University Press, Cambridge.</mixed-citation>
+         </ref>
+         <ref id="d7271e253a1310">
+            <mixed-citation id="d7271e257" publication-type="other">
+Glass, L. &amp; W. R. Tobler 1971. Uniform distribution of objects in a
+homogenous field: cities on a plain. Nature 233: 67-68.</mixed-citation>
+         </ref>
+         <ref id="d7271e267a1310">
+            <mixed-citation id="d7271e271" publication-type="other">
+Green, D. G. 1994. Connectivity and complexity in landscapes and
+ecosystems. Pacific Conservation Biology 1: 194-200.</mixed-citation>
+         </ref>
+         <ref id="d7271e281a1310">
+            <mixed-citation id="d7271e285" publication-type="other">
+Gustafson, E. J. &amp; R. H. Gardner, 1996. The effect of landscape
+heterogeneity on the probability of patch colonization. Ecology
+77:94-107.</mixed-citation>
+         </ref>
+         <ref id="d7271e298a1310">
+            <mixed-citation id="d7271e302" publication-type="other">
+Gustafson, E. J. &amp; G. R. Parker 1992. Relationship between
+landcover proportion and indices of landscape spatial pattern.
+Landscape Ecology 7: 101-110.</mixed-citation>
+         </ref>
+         <ref id="d7271e315a1310">
+            <mixed-citation id="d7271e319" publication-type="other">
+Gustafson, E. J. &amp; G. R. Parker 1994. Using an index of habitat patch
+proximity for landscape design. Landscape and Urban Planning
+29: 117-130.</mixed-citation>
+         </ref>
+         <ref id="d7271e332a1310">
+            <mixed-citation id="d7271e336" publication-type="other">
+Jakucs, P. 1972. Dynamische Verbindung der Wälder und Rasen.
+Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d7271e347a1310">
+            <mixed-citation id="d7271e351" publication-type="other">
+Krishna-Iyer, P. V. 1949. The first and second moments of some
+probability distributions arising from points on a lattice and their
+application. Biometrika 36: 135-141.</mixed-citation>
+         </ref>
+         <ref id="d7271e364a1310">
+            <mixed-citation id="d7271e368" publication-type="other">
+McGarigal, K. &amp; B. Marks 1995. FRAGSTATS Manual. Spatial pat-
+tern analysis program for quantifying landscape structure.
+USDA Forest Service. General Technical Report PNW-GTR-
+351 (August 1995).</mixed-citation>
+         </ref>
+         <ref id="d7271e384a1310">
+            <mixed-citation id="d7271e388" publication-type="other">
+Murcia, C. 1995. Edge effect in fragmented forests: implications for
+conservation. TREE 10: 58-62.</mixed-citation>
+         </ref>
+         <ref id="d7271e398a1310">
+            <mixed-citation id="d7271e402" publication-type="other">
+Saunders, D. A., R. J. Hobbs &amp; C. R. Margules 1990. Biological
+consequences of ecosystem fragmentation: a review. Conserva-
+tion Biology 5: 18-32.</mixed-citation>
+         </ref>
+         <ref id="d7271e415a1310">
+            <mixed-citation id="d7271e419" publication-type="other">
+Simberloff, D. 1979. Nearest neighbor assessments of spatial con-
+figurations of circles rather than points. Ecology 60: 679-685.</mixed-citation>
+         </ref>
+         <ref id="d7271e429a1310">
+            <mixed-citation id="d7271e433" publication-type="other">
+Simon, T. &amp; R. Mészáros-Draskovits 1972. The vegetation map of
+the nature reserve area of Csévharaszt in Hungary. Ann. Univ.
+Budapest, Sect. Biol. 14: 133-158.</mixed-citation>
+         </ref>
+         <ref id="d7271e447a1310">
+            <mixed-citation id="d7271e451" publication-type="other">
+Stoyan, D. &amp; J. Ohser 1982. Correlation between planar random
+structures, with an ecological application. Biom. J. 24: 631-647.</mixed-citation>
+         </ref>
+         <ref id="d7271e461a1310">
+            <mixed-citation id="d7271e465" publication-type="other">
+Turner, M. G. 1989. Landscape ecology: the effect of pattern on
+process. Ann. Rev. Ecol. Syst. 20: 171-197.</mixed-citation>
+         </ref>
+         <ref id="d7271e475a1310">
+            <mixed-citation id="d7271e479" publication-type="other">
+With, K. A. &amp; T. O. Crist 1995. Critical thresholds in species' respon-
+ses to landscape structure. Ecology 76: 2446-2459.</mixed-citation>
+         </ref>
+         <ref id="d7271e489a1310">
+            <mixed-citation id="d7271e493" publication-type="other">
+Zonneveld, I. S. 1990. Scope and concepts of landscape ecology as
+an emerging science. In: Zonneveld, I. S. &amp; R. T. T. Forman:
+Changing Landscapes: An Ecological Perspective. Springer, pp.
+3-20.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

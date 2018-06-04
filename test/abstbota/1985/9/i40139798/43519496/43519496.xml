@@ -1,0 +1,192 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519496</article-id>
+         <title-group>
+            <article-title>SOME ASPECTS OF BRYOLOGICAL DOCUMENTATION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Stanley W.</given-names>
+                  <surname>GREENE</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139798</issue-id>
+         <fpage>1</fpage>
+         <lpage>9</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519496"/>
+         <abstract>
+            <p>In the field of specimen retrieval the usefulness of some recent works is evaluated. The fiche method of publishing data about the algological collections in the British Museum (Natural History) is described and its potential usefulness in bryology considered. Some comments are also made on a possible new approach to the production of a type register for bryophytes. While summarizing progress with the preparation of the Conspectus of bryological taxonomic literature it is pointed out that a whole level of literature dealing with local distribution and site records within countries is hardly being touched. Progress with the Bryohistorical Project, established in collaboration with the British Bryological Society (BBS) to assess such literature and bryophyte collections within the British Isles and Ireland, is briefly described.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d9512e107a1310">
+            <mixed-citation id="d9512e111" publication-type="other">
+Boros, Á. 1944. Magyarország moháira vonatkozô irodalom,
+Bibliographia bryologia Hungarica. Fontes Florae Hungaricae
+(A Magyar Flóra Forrásmüvei). II, 1-74</mixed-citation>
+         </ref>
+         <ref id="d9512e124a1310">
+            <mixed-citation id="d9512e128" publication-type="other">
+Crosby, M. R. and C. R. Bauer. 1983. Index muscorum
+supplementum: 1980-1981. Taxon 32:670-691</mixed-citation>
+         </ref>
+         <ref id="d9512e138a1310">
+            <mixed-citation id="d9512e142" publication-type="other">
+Crosby, M. R. and R. E. Magill. 1977. A dictionary of mosses. An
+alphabetical listing of genera indicating familial
+dispostion, nomenclatural and taxonomie synonymy, together
+with a systematic arrangement of the families of mosses and
+a catalogue of family names used for mosses. Missouri
+Botanical Garden, St. Louis. 43 pp.</mixed-citation>
+         </ref>
+         <ref id="d9512e165a1310">
+            <mixed-citation id="d9512e169" publication-type="other">
+Ellis, L. T. and S. W. Greene. 1984. The builders of British and
+Irish bryology: a bryohistorical project. Bull. Brit. Bryol.
+Soc. 43:29-32</mixed-citation>
+         </ref>
+         <ref id="d9512e183a1310">
+            <mixed-citation id="d9512e187" publication-type="other">
+Engel, J. J. 1982. Hepa t icopsida and Anthoceropsida. In: S. P.
+Parker (ed.): Synopsis and Classification of Living
+Organisms, Vol. I., McGraw-Hill, New York. pp. 271-305.</mixed-citation>
+         </ref>
+         <ref id="d9512e200a1310">
+            <mixed-citation id="d9512e204" publication-type="other">
+Engel, J. J. 1984. Index hepaticarum supplementum: 1978-1979.
+Taxon 33:761-779</mixed-citation>
+         </ref>
+         <ref id="d9512e214a1310">
+            <mixed-citation id="d9512e218" publication-type="other">
+Gradstein, S. R. 1979. Directory of bryologists and bryological
+research. Ed. 2. Regnum Veg. 99:1-81</mixed-citation>
+         </ref>
+         <ref id="d9512e228a1310">
+            <mixed-citation id="d9512e232" publication-type="other">
+Gradstein, S. R. 1981. The IAB business meeting, Sydney, 24th
+August, 1981. Bryol. Times 12:3-4</mixed-citation>
+         </ref>
+         <ref id="d9512e242a1310">
+            <mixed-citation id="d9512e246" publication-type="other">
+Greene, S. W. 1981. Retrieval works useful to the bryological
+taxonomist. Occas. Paps. Farlow Herb. 16:83-99</mixed-citation>
+         </ref>
+         <ref id="d9512e256a1310">
+            <mixed-citation id="d9512e260" publication-type="other">
+Greene, S. W. 1982. The conspectus of bryological taxonomie
+literature, In: P. Geissler and S. W. Greene (eds):
+Bryophyte Taxonomy, Methods, Practices and Floristic
+Exploration. Proceedings of the International Association of
+Bryologists taxonomie workshop meeting, Geneve, 27 Aug. - 2
+Sept. 1979. Beiheft Nova Hedwigia 71:173-176</mixed-citation>
+         </ref>
+         <ref id="d9512e284a1310">
+            <mixed-citation id="d9512e288" publication-type="other">
+Greene, S. W. 1984a. A new approach to the production of type
+registers. Bryol. Times 27:8</mixed-citation>
+         </ref>
+         <ref id="d9512e298a1310">
+            <mixed-citation id="d9512e302" publication-type="other">
+Greene, S. W. 1984b. Bryological bibliographic data bases.
+Journ. Hattori Bot. Lab. 55:321-325</mixed-citation>
+         </ref>
+         <ref id="d9512e312a1310">
+            <mixed-citation id="d9512e316" publication-type="other">
+Greene, S. W. 1985. Bry ohistorical project: progress report
+1984/85. Bull. Brit. Bryol. Soc. 46:29</mixed-citation>
+         </ref>
+         <ref id="d9512e326a1310">
+            <mixed-citation id="d9512e330" publication-type="other">
+Grolle, R. 1983. Nomina generica Hepaticarum : references, types
+and synonymies. Acta Bot. Fennica 121:1-62</mixed-citation>
+         </ref>
+         <ref id="d9512e340a1310">
+            <mixed-citation id="d9512e344" publication-type="other">
+Hattori, S. and A. Noguchi. 1960. Index speciminium typicorum in
+herbariis Japonensibus. Pars Bryophyta. Japan Society for
+the Promotion of Science, Tokyo. 169 pp.</mixed-citation>
+         </ref>
+         <ref id="d9512e357a1310">
+            <mixed-citation id="d9512e361" publication-type="other">
+Holmgren, P. K., W. Keuken and E. K. Schofield. 1981. Index
+herbariorum. Part 1. The herbaria of the world. Regnum Veg.
+106:1-452</mixed-citation>
+         </ref>
+         <ref id="d9512e375a1310">
+            <mixed-citation id="d9512e379" publication-type="other">
+Iwatsuki, Z., D. H. Vitt and S. R. Gradstein. 1976. Bryological
+herbaria. A guide to the bryological herbaria of the world.
+Bryophytorum Bibliotheca 8:1-44</mixed-citation>
+         </ref>
+         <ref id="d9512e392a1310">
+            <mixed-citation id="d9512e396" publication-type="other">
+Koponen, T. 1982. On a type specimen register of bryophytes. In:
+P. Geissler and S. W. Greene (eds): Bryophyte Taxonomy,
+Methods, Practices and Floristic Exploration. Proceedings of
+the International Association of Bryologists taxonomie
+workshop meeting, Geneve, 27 Aug. - 2 Sept. 1979. Beiheft
+Nova Hedwigia 711:179-185</mixed-citation>
+         </ref>
+         <ref id="d9512e419a1310">
+            <mixed-citation id="d9512e423" publication-type="other">
+Murray, B. 1982. Andreaeopsida. In: S. R. Parker (ed.): Synopsis
+and Classification of Living Organisms. Vol. I. McGraw-Hill,
+pp. 305-306</mixed-citation>
+         </ref>
+         <ref id="d9512e436a1310">
+            <mixed-citation id="d9512e440" publication-type="other">
+Pões, T. 1977. Type catalogue of the bryophyte herbarium of Ho
+Si Minh Teachers' College, Eger, Hungary. Fol. Hist. Nat.
+Mus. Matr. 4:15-36</mixed-citation>
+         </ref>
+         <ref id="d9512e453a1310">
+            <mixed-citation id="d9512e457" publication-type="other">
+Vitt, D. H. 1982. Sphagnopsida, Bryopsida. In: S. R. Parker
+(ed.): Synopsis and Classification of Living Organisms. Vol.
+1., McGraw-Hill, New York. pp. 305, 307-336</mixed-citation>
+         </ref>
+         <ref id="d9512e470a1310">
+            <mixed-citation id="d9512e474" publication-type="other">
+Vitt, D. H., S. R. Gradstein and Z. Iwatsuki. 1985. Compendium
+of bryology. A world listing of herbaria, collectors,
+bryologists and current research. Bryophyt. Bibl. 30:1-355</mixed-citation>
+         </ref>
+         <ref id="d9512e488a1310">
+            <mixed-citation id="d9512e492" publication-type="other">
+Walther, K.1983. Bryophytina Laubmoose. In: J. Gerloff and
+Poelt (eds): A. Engler. Syllabus der Pflanzenfamilien. 13.
+Auflage. Gebrüder Borntraeger, Berlin, Stuttgart, pp. 1-108</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

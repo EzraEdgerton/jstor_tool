@@ -1,0 +1,285 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519433</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part One: Ecology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Ranked set sampling for vegetation research</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G. D.</given-names>
+                  <surname>Johnson</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G. P.</given-names>
+                  <surname>Patil</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>A. K.</given-names>
+                  <surname>Sinha</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>87</fpage>
+         <lpage>102</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519433"/>
+         <abstract>
+            <p>Estimates of mean values of forest, grassland or other vegetation resources may be obtained with greater precision than other common sampling techniques by using ranked set sampling (RSS). This works by maintaining the unbiasedness of random sampling while increasing the chances of representing the full range of the underlying population by capitalizing on expert judgment or quantitative information about the population at the sample level. Precision of an RSS estimator will always be greater than or equal to that of a simple random sample estimator and will be greater than an estimator from double sampling for regression in many realistic situations. Methods and case studies are presented here along with theoretical considerations of the various factors affecting relative precision and a discussion of future directions.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4999e266a1310">
+            <mixed-citation id="d4999e270" publication-type="other">
+Bohn, L. L. and Wolfe, D. A. 1992. Nonparametric two-sample
+procedures for ranked-set samples data. Journal of the
+American Statistical Association 87:552-561.</mixed-citation>
+         </ref>
+         <ref id="d4999e283a1310">
+            <mixed-citation id="d4999e287" publication-type="other">
+Cobby, J. M., Ridout, M. S., Bassett, P. J., and Large, R. V.
+1985. An investigation into the use of ranked set sampling
+on grass and grass-clover swards. Grass and Forage
+Science 40:257-263.</mixed-citation>
+         </ref>
+         <ref id="d4999e303a1310">
+            <mixed-citation id="d4999e307" publication-type="other">
+Cochran, W. G. 1963. Sampling Techniques (second edition).
+Wiley, New York.</mixed-citation>
+         </ref>
+         <ref id="d4999e317a1310">
+            <mixed-citation id="d4999e321" publication-type="other">
+Crow, E. L. and Shimizu, K, (eds.) 1988. Lognormal Distribu-
+tions: Theory and Applications. Dekker, New York.</mixed-citation>
+         </ref>
+         <ref id="d4999e332a1310">
+            <mixed-citation id="d4999e336" publication-type="other">
+David, H. A. and Levine, D. N. 1972. Ranked set sampling in
+the presence of judgment error. Biometrics 28:553-555.</mixed-citation>
+         </ref>
+         <ref id="d4999e346a1310">
+            <mixed-citation id="d4999e350" publication-type="other">
+Dell, T. R. 1969. The theory and some applications of ranked
+set sampling. Ph.D. Thesis, Department of Statistics,
+University of Georgia, Athens, Georgia.</mixed-citation>
+         </ref>
+         <ref id="d4999e363a1310">
+            <mixed-citation id="d4999e367" publication-type="other">
+Dell, T. R. and Clutter, J. L. 1972. Ranked set sampling theory
+with order statistics background. Biometrics 28:545-553.</mixed-citation>
+         </ref>
+         <ref id="d4999e377a1310">
+            <mixed-citation id="d4999e381" publication-type="other">
+Diaconis, P. 1988. Group Representations in Probability and
+Statistics. IMS Lecture Notes, Volume 11. Institute of
+Mathematical Statistics, Hayward, California.</mixed-citation>
+         </ref>
+         <ref id="d4999e394a1310">
+            <mixed-citation id="d4999e398" publication-type="other">
+Evans, M. J. 1967. Application of ranked set sampling to
+regeneration surveys in areas direct-seeded to longleaf
+pine. Masters Thesis, School of Forestry and Wildlife
+Management, Louisiana State University, Baton Rouge.</mixed-citation>
+         </ref>
+         <ref id="d4999e414a1310">
+            <mixed-citation id="d4999e418" publication-type="other">
+Gore, S. D., Patii, G. P., Sinha, A. K., and Ihillie, C. 1992. Cer-
+tain multivariate considerations in ranked set sampling and
+composite sampling designs. Technical Report Number 92-
+0806, Center for Statistical Ecology and Environmental
+Statistics, Pennsylvania State University, University Park,
+PA 16802. lb appear in Multivariate Environmental Statis-
+tics, G. P. Patii and C. R. Rao, eds. North-Holland El-
+sevier, New York.</mixed-citation>
+         </ref>
+         <ref id="d4999e448a1310">
+            <mixed-citation id="d4999e452" publication-type="other">
+Halls, L. K. and Dell, T. R. 1966. lhal of ranked set sampling
+for forage yields. Forest Science 12:22-26.</mixed-citation>
+         </ref>
+         <ref id="d4999e462a1310">
+            <mixed-citation id="d4999e466" publication-type="other">
+Hettmansperger, T. P. 1992. The ranked-set sample sign test.
+Technical Reports and Preprints Number 109, Department
+of Statistics. Pennsylvania State University.</mixed-citation>
+         </ref>
+         <ref id="d4999e479a1310">
+            <mixed-citation id="d4999e483" publication-type="other">
+Jewiss, O. R. 1981. Shoot development and number. In Sward
+Measurement Handbook, J. Hodgson, et al., (eds.) Hurley:
+The British Grassland Society, pp. 93-114.</mixed-citation>
+         </ref>
+         <ref id="d4999e496a1310">
+            <mixed-citation id="d4999e500" publication-type="other">
+Johnson, G. D., and Myers, W. L. 1993. Potential of ranked-set
+sampling for disaster assessment. Presented at IUFRO
+S4.02 Conference on "Inventory and Management Techni-
+ques in the Context of Catastrophic Events," June 1993.</mixed-citation>
+         </ref>
+         <ref id="d4999e516a1310">
+            <mixed-citation id="d4999e520" publication-type="other">
+Mannetje, Lt. 1978. Measuring quantity of grassland vegeta-
+tion. In Measurement of Grassland Vegetation and Animal
+Production, Mannetje Lt., (ed.) Bulletin 52, Common-
+wealth Bureau of Pastures and Field Crops, Hurley U.K.
+pp. 63-95</mixed-citation>
+         </ref>
+         <ref id="d4999e539a1310">
+            <mixed-citation id="d4999e543" publication-type="other">
+Martin, W. L., Sharik, T. L., Oderwald, R. G., and Smith, D. W.
+1980. Evaluation of ranked set sampling for estimating
+shrub phytomass in Appalachian oak forests. Publication
+Number FWS-4-80, School of Forestiy and Wildlife
+Resources, Virginia Polytechnic Institute and State
+University, Blacksburg, Virginia.</mixed-citation>
+         </ref>
+         <ref id="d4999e567a1310">
+            <mixed-citation id="d4999e571" publication-type="other">
+Mclntyre, G. A. 1952. A method for unbiased selective sam-
+pling, using ranked sets. Australian Journal of Agricultural
+Research 3:385-390.</mixed-citation>
+         </ref>
+         <ref id="d4999e584a1310">
+            <mixed-citation id="d4999e588" publication-type="other">
+Mclntyre, G. A. 1978. Statistical aspects of vegetation sam-
+pling. In Measurement of Grassland Vegetation and
+Animal Production, L 't Mannetje, (ed.) Bulletin 52, Com-
+monwealth Bureau of Pastures and Field Crops, Hurley,
+Berkshire, England, pp. 8-21.</mixed-citation>
+         </ref>
+         <ref id="d4999e607a1310">
+            <mixed-citation id="d4999e611" publication-type="other">
+Patii, G. P., Sinha, A. K, and Ihillie, C. 1992a. Relative
+precision of ranked set sampling: A comparison with the
+regression estimator. Technical Report Number 92-1009,
+Center for Statistical Ecology and Environmental Statis-
+tics, Pennsylvania State University, University Park, PA
+16802. To appear in Environmetrics.</mixed-citation>
+         </ref>
+         <ref id="d4999e634a1310">
+            <mixed-citation id="d4999e638" publication-type="other">
+Patii, G. P., Sinha, A. K, and Ihillie, C. 1992b. Unbiased es-
+timation of the population variance using ranked set sam-
+pling. Technical Report, Center for Statistical Ecology and
+Environmental Statistics, Pennsylvania State University,
+University Park, PA 16802.</mixed-citation>
+         </ref>
+         <ref id="d4999e657a1310">
+            <mixed-citation id="d4999e661" publication-type="other">
+Patii, G. P., Sinha, A. K, and Ihillie, C. 1993. Ranked set sam-
+pling. In Handbook of Statistics, Volume 12: Environmen-
+tal Statistics, G. P. Patii and C. R. Rao, (eds.) North
+Holland/Elsevier Science Publishers, (To appear).</mixed-citation>
+         </ref>
+         <ref id="d4999e677a1310">
+            <mixed-citation id="d4999e681" publication-type="other">
+Ridout, M. S. and Cobby, J. M. 1987. Ranked set sampling with
+non-random selection of sets and errors in ranking. Ap-
+plied Statistics 36:145-152.</mixed-citation>
+         </ref>
+         <ref id="d4999e695a1310">
+            <mixed-citation id="d4999e699" publication-type="other">
+Stokes, S. L. 1976. An investigation of the consequences of
+ranked set sampling. Ph.D. Thesis, Department of Statis-
+tics, University of North Carolina, Chapel Hill, North
+Carolina.</mixed-citation>
+         </ref>
+         <ref id="d4999e715a1310">
+            <mixed-citation id="d4999e719" publication-type="other">
+Stokes, S. L. 1977. Ranked set sampling with concomitant vari-
+ables. Communications in Statistics - Theory and Methods,
+A6, 1207-1211.</mixed-citation>
+         </ref>
+         <ref id="d4999e732a1310">
+            <mixed-citation id="d4999e736" publication-type="other">
+Stokes, S. L. 1980a. Estimation of variance using judgment or-
+dered ranked set samples. Biometrics 36:35-42.</mixed-citation>
+         </ref>
+         <ref id="d4999e746a1310">
+            <mixed-citation id="d4999e750" publication-type="other">
+Stokes, S. L. 1980b. Inferences on the correlation coefficient in
+bivariate normal populations from ranked set samples. J.
+Amer. Stat. Ass. 75:989-995.</mixed-citation>
+         </ref>
+         <ref id="d4999e763a1310">
+            <mixed-citation id="d4999e767" publication-type="other">
+Stokes, S. L. 1986. Ranked set sampling. In Encyclopedia of
+Statistical Sciences, Volume 7, S. Kotz, N. L. Johnson and
+C. B. Read, (eds.) Wiley, pp. 585-588.</mixed-citation>
+         </ref>
+         <ref id="d4999e780a1310">
+            <mixed-citation id="d4999e784" publication-type="other">
+Stokes, S. L. and Sager, T. W. 1988. Characterization of a
+ranked set sample with application to estimating distribu-
+tion functions. J. Amer. Stat. Ass. 83:374-381.</mixed-citation>
+         </ref>
+         <ref id="d4999e798a1310">
+            <mixed-citation id="d4999e802" publication-type="other">
+Sukhatme, P. V and Sukhatme, B. V 1970. Sampling Theory of
+Surveys with Applications. Iowa State University Press,
+Ames, Iowa.</mixed-citation>
+         </ref>
+         <ref id="d4999e815a1310">
+            <mixed-citation id="d4999e821" publication-type="other">
+Thkahasi, K. 1969. On the estimation of the population mean
+based on ordered samples from an equicorrelated multi-
+variate distribution. Annals of the Institute of Statistical
+Mathematics 21:249-255.</mixed-citation>
+         </ref>
+         <ref id="d4999e837a1310">
+            <mixed-citation id="d4999e841" publication-type="other">
+Ihkahasi, K. and Wakimoto, K. 1968. On unbiased estimates of
+the population mean based on the sample stratified by
+means of ordering. Annals of the Institute of Statistical
+Mathematics 20:1-31.</mixed-citation>
+         </ref>
+         <ref id="d4999e857a1310">
+            <mixed-citation id="d4999e861" publication-type="other">
+Teichroew, D. 1956. Ihbles of expected values of order statis-
+tics and products of order statistics from samples of size
+twenty and less from the normal distribution. Annals of
+Mathematical Statistics 27:410-426.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

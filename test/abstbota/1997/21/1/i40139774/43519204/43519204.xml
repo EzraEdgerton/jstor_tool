@@ -1,0 +1,159 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519204</article-id>
+         <title-group>
+            <article-title>Checklist of foliicolous lichenized fungi from North-Eastern Argentina (Corrientes and Misiones), with notes on adjacent areas of Paraguay and Brasil</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Lidia Itati</given-names>
+                  <surname>Ferraro</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139774</issue-id>
+         <fpage>53</fpage>
+         <lpage>63</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519204"/>
+         <abstract>
+            <p>In the present paper the author updates the taxonomic and floristic knowledge of foliicolous lichenized fungi in Argentina, with emphasis on Corrientes province, and adjacent Paraguay and southern Brazil. Fifteen families, 25 genera and 80 species were collected mainly in riparian forests. The following taxa are reported for the first time from Argentina: Actinoplaca strigulacea, Byssoloma absconditum, B. fadenii, B. vanderystii, Calenia monospora, Fellhanera fuscatula, F. semecarpi, Gyalectidium caucasicum, G. denticulatum, Porina atropunctata, P. distans, Striglila orbicularis, and Trichothelium argenteum. Some taxa are briefly discussed and illustrated, with comments on their distribution. The relationships between lichens, algae and bryophytes which inhabit the phyllosphere in NE Argentina are also examined.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d3429e178a1310">
+            <mixed-citation id="d3429e182" publication-type="other">
+Barillas, R. &amp; R Liicking (1992) Líquenes foliícolas de
+Guatemala. Un estudio taxonómico preliminar. Cryptogamie,
+Bryologie Lichenologie 13: 297-317</mixed-citation>
+         </ref>
+         <ref id="d3429e195a1310">
+            <mixed-citation id="d3429e199" publication-type="other">
+Farkas, E. &amp; H. J. M. Sipman (1993) Bibliography and checklist
+of foliicolous lichenized fungi up to 1992. Tropical Bryology
+7: 93-148.</mixed-citation>
+         </ref>
+         <ref id="d3429e212a1310">
+            <mixed-citation id="d3429e216" publication-type="other">
+Farkas, E. &amp; A. Vězda (1993) Five new foliicolous lichen
+species. Folia Geobotanica et Phytotaxonomica 28: 321-330.</mixed-citation>
+         </ref>
+         <ref id="d3429e226a1310">
+            <mixed-citation id="d3429e230" publication-type="other">
+Ferraro, L. I. (1982) Contribución al estudio de los líquenes
+foliícolas de Corrientes, Rep. Argentina. Facena, Corrientes,
+4: 89-98.</mixed-citation>
+         </ref>
+         <ref id="d3429e244a1310">
+            <mixed-citation id="d3429e248" publication-type="other">
+Ferraro, L. I. (1983) Novedades en líquenes foliícolas.
+Bonplandia 5: 191-202.</mixed-citation>
+         </ref>
+         <ref id="d3429e258a1310">
+            <mixed-citation id="d3429e262" publication-type="other">
+Grassi, M. M. (1950) Contribución al catálogo de los líquenes
+Argentinos. I. Lilloa 24: 5-294.</mixed-citation>
+         </ref>
+         <ref id="d3429e272a1310">
+            <mixed-citation id="d3429e276" publication-type="other">
+Liicking, R. (1992) Foliicolous Lichens -A contribution to the
+knowledge of the lichen flora of Costa Rica, Central
+America. Beih. Nova Hedwigia 104: 1-179.</mixed-citation>
+         </ref>
+         <ref id="d3429e289a1310">
+            <mixed-citation id="d3429e293" publication-type="other">
+Liicking, R. (1995) Additions and corrections to the foliicolous
+lichen flora of Costa Rica. The family Arthoniaceae, with
+notes on the genus Stirtonia. Lichenologist 27: 127-153.</mixed-citation>
+         </ref>
+         <ref id="d3429e306a1310">
+            <mixed-citation id="d3429e310" publication-type="other">
+Osorio, H. S. (1992) Contribución a la flora liquénica de
+Uruguay. XXV. Líquenes publicados entre 1972 a 1991.
+Anales del Museo Nacional de Historia Natural de
+Montevideo 8: 43-70.</mixed-citation>
+         </ref>
+         <ref id="d3429e326a1310">
+            <mixed-citation id="d3429e330" publication-type="other">
+Santesson, R. (1952) Foliicolous Lichens. I. Symbolae Botanicae
+Upsalienses 12: 1-590.</mixed-citation>
+         </ref>
+         <ref id="d3429e341a1310">
+            <mixed-citation id="d3429e347" publication-type="other">
+Schell, S. &amp; S. Winkler (1981) Zur Ökologie und
+Pflanzengeografie blattbewohnender Flechten von Rio
+Grande do Sul (Südbrasilien). Cryptogamie, Bryologie
+Lichénologie 2: 323-343.</mixed-citation>
+         </ref>
+         <ref id="d3429e363a1310">
+            <mixed-citation id="d3429e367" publication-type="other">
+Sérusiaux, E. (1979) Two new foliicolous lichens from tropical
+Africa. Lichenologist 11: 181-185.</mixed-citation>
+         </ref>
+         <ref id="d3429e377a1310">
+            <mixed-citation id="d3429e381" publication-type="other">
+Sérusiaux, E. (1989) Foliicolous lichens: ecological and
+chorological data. Botanical Journal of the Linnean Society
+100: 87-96.</mixed-citation>
+         </ref>
+         <ref id="d3429e394a1310">
+            <mixed-citation id="d3429e398" publication-type="other">
+Sérusiaux, E. &amp; J. R. De Sloover (1986) Taxonomical and
+ecological observations on foliicolous lichens in northern
+Argentina, with notes on the hyphophores of
+Asterothyriaceae. Veröffentlichungen des Geobotanischen
+Institutes ETH, Stiftung Rubel, Zürich, 91: 260-292.</mixed-citation>
+         </ref>
+         <ref id="d3429e417a1310">
+            <mixed-citation id="d3429e421" publication-type="other">
+Vézda, A. (1979) Flechtensystematische Studien XI. Beiträge
+zur Kenntnis der Familie Asterothyriaceae (Discolichenes).
+Folia Geobotanica et Phytotaxonomica, Praha, 14: 43-94.</mixed-citation>
+         </ref>
+         <ref id="d3429e434a1310">
+            <mixed-citation id="d3429e438" publication-type="other">
+Vézda, A. (1986) Neue Gattungen der Familie Lecideaceae s.
+lat. (Lichenes). Folia Geobotanica et Phytotaxonomica,
+Praha, 21: 199-219.</mixed-citation>
+         </ref>
+         <ref id="d3429e452a1310">
+            <mixed-citation id="d3429e456" publication-type="other">
+Vézda, A. &amp; Poelt, J (1987) Flechtensystematische Studien XII.
+Die Familie Gomphillaceae und ihre Gliederung. Folia
+Geobotanica et Phytotaxonomica, Praha, 22: 179-198.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

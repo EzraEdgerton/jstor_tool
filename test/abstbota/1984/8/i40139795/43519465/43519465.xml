@@ -1,0 +1,110 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519465</article-id>
+         <title-group>
+            <article-title>A KISKUNSÁGI NEMZETI PARK BUGACI BIOSZFÉRA REZERVÁTUMÁNAK ÉS KÖRNYÉKÉNEK MAKROGOMBÁI</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>István</given-names>
+                  <surname>KONECSNI</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1984</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139795</issue-id>
+         <fpage>57</fpage>
+         <lpage>72</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519465"/>
+         <abstract>
+            <p>The Bugac area includes several very different habitat types so that some characteristic fungi of coastal sand dunes, deserts, steppes, alder swamps and planted Robinia and Pinus stands occur together. The extremely arid climate causes other species to be found very rarely. This paper summarizes the mycological observations of the author performed since 1965. The list is probably not exhaustive as records of many additional species may be expected in the near future.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>IRODALOM</title>
+         <ref id="d17394e153a1310">
+            <mixed-citation id="d17394e157" publication-type="other">
+Ainsworth, G. O., F.K. Sparrow and A. S. Sussman 1973-1978.
+The Fungi. An Advanced Treatise. Vol. IV A - IV B.
+Academic Press, New York</mixed-citation>
+         </ref>
+         <ref id="d17394e170a1310">
+            <mixed-citation id="d17394e174" publication-type="other">
+Babosné Greskovits, M. 1973. A magyarországi homokterületek
+ri tka és érdekes gombafajai. I. Studia Bot. Hung. 8: 3-24</mixed-citation>
+         </ref>
+         <ref id="d17394e184a1310">
+            <mixed-citation id="d17394e188" publication-type="other">
+Babosné Greskovits, M. 1980. Seltene Pilzarten der Sandgebiete
+Ungarns III. Studia Bot. Hung. 14: 55-61</mixed-citation>
+         </ref>
+         <ref id="d17394e198a1310">
+            <mixed-citation id="d17394e202" publication-type="other">
+Bánhegyi J.f Bohus G., Kalmar Z. és Ubrizsy G. 1953. Magyar-
+ország nagygombái. (A kalaposgombák kivételével.)
+Akadémiai Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17394e216a1310">
+            <mixed-citation id="d17394e220" publication-type="other">
+Bohus G., Kalmar Z. és Ubrizsy G. 1951. Magyarország kala-
+posgombáinak meghatározó kézikônyve.
+Akadémiai Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17394e233a1310">
+            <mixed-citation id="d17394e237" publication-type="other">
+Igmándy Z. 1980. Hazánk csôvestapló (Polyporaceae ) flórája és
+a fajok nôvénykórtani jelentõsége. Nagydoktori disszer-
+táció, Kéziratr Budapest</mixed-citation>
+         </ref>
+         <ref id="d17394e250a1310">
+            <mixed-citation id="d17394e254" publication-type="other">
+Konecsni I. 1974. Adatok a Csévharaszti Termeszetvédelrai
+Terület és a ligeterdõk gombáihoz. Abstracta Botanica
+2: 77-93</mixed-citation>
+         </ref>
+         <ref id="d17394e267a1310">
+            <mixed-citation id="d17394e271" publication-type="other">
+Lange, J. E. 1935-1940. Flora Agaricina Danica. Vol. I-V.
+Soe. of Mycology in Denmark and the Danish Botanical
+Soc., Copenhagen</mixed-citation>
+         </ref>
+         <ref id="d17394e284a1310">
+            <mixed-citation id="d17394e288" publication-type="other">
+Michael, E., Hennig, B. und Kreisel, H. 1975-1981. Handbuch
+für Pilzfreunde. Band I-VI. G. Fischer, Jena</mixed-citation>
+         </ref>
+         <ref id="d17394e298a1310">
+            <mixed-citation id="d17394e302" publication-type="other">
+Moser, M. 1978. Die Röhrlinge und Blatterpilze. G. Fischer,
+Jena</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

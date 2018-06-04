@@ -1,0 +1,135 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43855998</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEWED</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Proventricular Adenocarcinoma in a Budgerigar (Melopsittacus undulatus) and a Grey-cheeked Parakeet (Brotogeris pyrrhopterus)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Robert E.</given-names>
+                  <surname>Schmidt</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Lynn R.</given-names>
+                  <surname>Dustin</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Richard W.</given-names>
+                  <surname>Slevin</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158331</issue-id>
+         <fpage>140</fpage>
+         <lpage>142</lpage>
+         <permissions>
+            <copyright-statement>© 1988 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43855998"/>
+         <abstract>
+            <p>Proventricular adenocarcinoma was diagnosed in a budgerigar (Melopsittacus undulatus) and a Grey-cheeked Parakeet (Brotogeris pyrrhopterus). A tentative diagnosis of gastric neoplasia was made in the budgerigar based on radiographic studies. The Grey-cheeked Parakeet died before clinical evaluations could be performed; histology was required to distinguish the proventricular lesion from chronic inflammatory process. Proventricular carcinoma should be considered in the differential diagnosis of upper gastrointestinal disease.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1174e160a1310">
+            <label>1</label>
+            <mixed-citation id="d1174e167" publication-type="other">
+BAKER JR: A proventricular adenoma in a Brazilian teal (Amazonet-
+ta brasiliensis). Vet Rec 107:63-64, 1980.</mixed-citation>
+         </ref>
+         <ref id="d1174e177a1310">
+            <label>2</label>
+            <mixed-citation id="d1174e184" publication-type="other">
+CAMPBELL TW: Neoplasia. In Harrison ĢJ, Harrison LR (eds): Clinical
+Avian Medicine and Surgery. Philadelphia, W.B. Saunders Co, 1986,
+pp 500-508.</mixed-citation>
+         </ref>
+         <ref id="d1174e197a1310">
+            <label>3</label>
+            <mixed-citation id="d1174e204" publication-type="other">
+CHOUDARY C: Neoplasma, cysts and obstructive diseases. In Burr
+E (ed): Companion Bird Medicine. Ames, Iowa State University Press,
+1987, pp 231-237.</mixed-citation>
+         </ref>
+         <ref id="d1174e217a1310">
+            <label>4</label>
+            <mixed-citation id="d1174e224" publication-type="other">
+HUBBARD GB, SCHMIDT RE, FLETCHER KC: Neoplasia in zoo
+animals. J Zoo Anim Med, 14:33-40, 1983.</mixed-citation>
+         </ref>
+         <ref id="d1174e235a1310">
+            <label>5</label>
+            <mixed-citation id="d1174e242" publication-type="other">
+PETRAK ML, GILMORE GE: Neoplasms. In Petrak ML (ed): Diseases
+of Cage and Aviary Birds 2nd ed. Philadelphia, Lea and Febiger, 1982,
+pp 606-637.</mixed-citation>
+         </ref>
+         <ref id="d1174e255a1310">
+            <label>6</label>
+            <mixed-citation id="d1174e262" publication-type="other">
+SCHMIDT RE, HUBBARD GB: Atlas of Zoo Animal Pathology Vol
+II. Avian, Reptile and Miscellaneous Diseases. Boca Raton, CRC Press,
+1987, pp 39-60.</mixed-citation>
+         </ref>
+         <ref id="d1174e275a1310">
+            <label>7</label>
+            <mixed-citation id="d1174e282" publication-type="other">
+WALSH M: Radiology. In Harrison GJ, Harrison LR (eds): Clinical
+Avian Medicine and Surgery. Philadelphia, WB Saunders Co, 1986,
+pp 220.</mixed-citation>
+         </ref>
+         <ref id="d1174e295a1310">
+            <label>8</label>
+            <mixed-citation id="d1174e302" publication-type="other">
+LEWANDOWSKI A, et al: Clinical chemistries. In Harrison GJ, Har-
+rison LR (eds): Clinical Avian Medicine and Surgery. Philadelphia, WB
+Saunders Co, 1986, p 197.</mixed-citation>
+         </ref>
+         <ref id="d1174e315a1310">
+            <label>9</label>
+            <mixed-citation id="d1174e322" publication-type="other">
+WOERPEL RW, ROSSKOPF WJ: Clinical experiences with avian
+laboratory diagnostics. Vet Clin North America 14(2): 254, 1984.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

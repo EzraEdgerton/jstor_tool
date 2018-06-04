@@ -1,0 +1,75 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519506</article-id>
+         <title-group>
+            <article-title>NEW RESULTS FROM FLUORESCENCE MICROSCOPY OF BRYOPHYTES</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Gisela</given-names>
+                  <surname>NORDHORN-RICHTER</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139798</issue-id>
+         <fpage>119</fpage>
+         <lpage>121</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519506"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d9652e101a1310">
+            <mixed-citation id="d9652e105" publication-type="other">
+Nordhorn-Richter, G. 1984a. Bryophytes with asexual forms of
+propagation under the fluorescence microscope. Proceed. 3.
+Meeting of CEBWG. Praha</mixed-citation>
+         </ref>
+         <ref id="d9652e118a1310">
+            <mixed-citation id="d9652e122" publication-type="other">
+Nordhorn-Richter, G. 1984b. Primäre Fluoreszenz bei Moosen.
+LEITZ-Mitt. Wiss. &amp; Techn. 8:167-170</mixed-citation>
+         </ref>
+         <ref id="d9652e132a1310">
+            <mixed-citation id="d9652e136" publication-type="other">
+Pocock, K. and J. G. Duckett. 1984. A comparative ultra-
+structural analysis of the fungal endophytes in
+Cryptothallus mirabilis Malm. and other British thalloid
+hepatics. J. Bryol. 13:227-233</mixed-citation>
+         </ref>
+         <ref id="d9652e152a1310">
+            <mixed-citation id="d9652e156" publication-type="other">
+Scheirer, D. C. 1972. Anatomical studies in the Polytrichaceae.
+I. The gametophore of Dendroligotr ichum dendroides (Hedw.)
+Broth. Bryologist 75:305-314</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,85 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519410</article-id>
+         <title-group>
+            <article-title>IZIDIUMOK SZEREPE A ZUZMÓK PLUORÉRZÉKENYSÉGÉBEN</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Péter</given-names>
+                  <surname>Solymosi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1982</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139793</issue-id>
+         <fpage>7</fpage>
+         <lpage>10</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519410"/>
+         <abstract>
+            <p>Gelegentlich der lichenologischen Untersuchungen in der regionalischen Umgebung verschiedenen Aluminium-hüttenwerken in Ungarn /Ajka, Várpalota, Tatabánya/ haben wir es bemerkt, dass der Mass der Geschädigung der unter den selben Bedigungen lebenden epiphyton Laubflechten auffalenden Unterschiede zeigt. Laut mikroskopischen Untersuchungen wurde es klar, dass die maximal geschädigte Flechtenthallen mit Isydiums dick bedeckt sind. Dieser Fakt hat uns gespornt um die Rolle der Isydiums in Fluor-Empfindlichkeit der Flekten eindringlicher zu studieren. Unter den Wirkung der Fluorverunreinigung der erwähnten Hütten haben wir keine wesentliche Unterschied gefunden. Nach unserer Feststellungen die Isydiums eine wesentliche Rolle in der Fluor-Gas-Aufnahme haben, wiel die Isydiums günstige Oberflächen der Flechtenthallen zu binden, und in der Zukunft einzudrängen. Hypogymnia bitteriana und Parmelia aspera von den unterschten Taxonen eine Fähigkeit für Fluorinduktion gezeigt haben.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d15752e117a1310">
+            <mixed-citation id="d15752e121" publication-type="other">
+MÉSZÁR0S E./1977/: A levegőkémia alapjai.Akademiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d15752e128a1310">
+            <mixed-citation id="d15752e132" publication-type="other">
+REUSMANN G .-WESTPHALEN J./1969/: Ein elektrometrisches Verfahren
+zur Bestimmung des Fluorgehalts in Pflanzenmaterial. Staub.29.
+413-515.</mixed-citation>
+         </ref>
+         <ref id="d15752e145a1310">
+            <mixed-citation id="d15752e149" publication-type="other">
+SCHÖNBECK H./1974/: Nachweis schwermetallhaltiger Imissionen durch
+ausgewählte pflanzliche Indikatoren. VDI-Berichte.203.75-85.</mixed-citation>
+         </ref>
+         <ref id="d15752e159a1310">
+            <mixed-citation id="d15752e163" publication-type="other">
+STEUBING L.-KLEE R.-KIRSCHBAUM U./1974/: Beurteilung der lufthy-
+gienisehen Bedingungen in der Region Untermain mittels niederer
+und höherer Pflanzen. Staub.34.206-209.</mixed-citation>
+         </ref>
+         <ref id="d15752e177a1310">
+            <mixed-citation id="d15752e181" publication-type="other">
+STEUBENG L.-KUNZE CHR./1975/: Pflanzenökologische experimente zur
+umweltverschmutzung. Heidelberg.</mixed-citation>
+         </ref>
+         <ref id="d15752e191a1310">
+            <mixed-citation id="d15752e195" publication-type="other">
+STEUBING L.-KIRSCHBAUM U.-GWINNER M./1976/: Nachweis von Fluor-
+immissionen durch Bioindikatoren. Angew.Botanik.50.169-185.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

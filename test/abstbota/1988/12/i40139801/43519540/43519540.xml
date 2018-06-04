@@ -1,0 +1,99 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519540</article-id>
+         <title-group>
+            <article-title>On the nature of extracontinental mountain forests in North Mongolia</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>I. A.</given-names>
+                  <surname>Bannikova</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>N. N.</given-names>
+                  <surname>Izmailova</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>12</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139801</issue-id>
+         <fpage>79</fpage>
+         <lpage>88</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519540"/>
+         <abstract>
+            <p>Based on data from many-year investigations of mountain forests in the Khangai Upland (North Mongolia), the functioning of forest ecosystems under extreme environmental conditions (winter frosts and cryogenic soil moistening) is analyzed. We consider the physical nature of forest functioning as being determined by material and energy pathways between the community and the environment, as well as by the pattern of activity revealed by the ecosystem under actual conditions. The differences in the water regime of forest communities are discussed in a wide zonal aspect as they were observed along the longitudinal climatic gradient. It is suggested that under the conditions of extracontinental arid climate, the substantial increase of the activity and flexibility of physiological reactions in autotrophic organisms is mainly responsible for the functioning of ecosystems. As a result, energy consumption by the community accelerates and becomes more effective.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2736e144a1310">
+            <mixed-citation id="d2736e148" publication-type="other">
+Bazilevich, N.I., Grebenshchikov O.S., Tishkov A.A. 1986. Geographic
+regularities in the structure and functioning of ecosystems. Moscow,
+Nauka (in Russian).</mixed-citation>
+         </ref>
+         <ref id="d2736e161a1310">
+            <mixed-citation id="d2736e165" publication-type="other">
+Beideman, I.N. 1983a. Directory on the water losses by plants in the natural
+zones of the USSR. Novosibirsk, Nauka (in Russian)</mixed-citation>
+         </ref>
+         <ref id="d2736e175a1310">
+            <mixed-citation id="d2736e179" publication-type="other">
+Beideman, I.N. 1983b. Mountain forest-steppe of East Khangai. Moscow, Nauka
+(in Russian).</mixed-citation>
+         </ref>
+         <ref id="d2736e189a1310">
+            <mixed-citation id="d2736e193" publication-type="other">
+Sudachkova, N.Ye. 1977. Metabolism in the conifers and formation of wood.
+Novosibirsk, Nauka (in Russian).</mixed-citation>
+         </ref>
+         <ref id="d2736e204a1310">
+            <mixed-citation id="d2736e208" publication-type="other">
+Takhtadjyan, A.L. 1964. Fundamentals of evolutionary morphology in
+Angiospermae. Moscow-Leningrad (in Russian).</mixed-citation>
+         </ref>
+         <ref id="d2736e218a1310">
+            <mixed-citation id="d2736e222" publication-type="other">
+Takhtadjyan, A.L. 1964. The system and phylogeny in anthophytes. Moscow-
+Leningrad (in Russian).</mixed-citation>
+         </ref>
+         <ref id="d2736e232a1310">
+            <mixed-citation id="d2736e236" publication-type="other">
+Tyrtikov, A.P. 1956. Activity of cambium in the roots and stems of trees at
+the northern limit of forests. Bull.MOIP, Otd. biol. 5 (in Russian).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

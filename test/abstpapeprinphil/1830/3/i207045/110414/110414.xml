@@ -1,0 +1,58 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">abstpapeprinphil</journal-id>
+         <journal-id journal-id-type="jstor">j100688</journal-id>
+         <journal-title-group>
+            <journal-title>Abstracts of the Papers Printed in the Philosophical Transactions of the Royal Society of London</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03655695</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">110414</article-id>
+         <title-group>
+            <article-title>On the Arcs of Certain Parabolic Curves. [Abstract]</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Henry Fox</given-names>
+                  <surname>Talbot</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1830</year>
+         
+            <day>1</day>
+            <month>1</month>
+            <year>1837</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue/>
+         <issue-id>i207045</issue-id>
+         <fpage>287</fpage>
+         <lpage>288</lpage>
+         <page-range>287-288</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/110414"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

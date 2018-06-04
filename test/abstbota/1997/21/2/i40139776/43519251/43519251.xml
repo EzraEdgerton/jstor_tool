@@ -1,0 +1,547 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519251</article-id>
+         <title-group>
+            <article-title>Elevated air CO₂ and grasslands: a brief overview</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Z.</given-names>
+                  <surname>Nagy</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>A.</given-names>
+                  <surname>Raschi</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M. B.</given-names>
+                  <surname>Jones</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Z.</given-names>
+                  <surname>Tuba</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>329</fpage>
+         <lpage>336</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519251"/>
+         <abstract>
+            <p>Rising atmospheric CO₂ concentration is a well-established phenomenon with potentially major impacts on terrestrial vegetation. Grasslands are important when considering the effects of elevated CO₂ because they make up a large and economically-significant part of the earth's plant cover, and substantial long-term changes in the functioning of grassland ecosystems may be expected. This brief overview covers some of the aspects of current research addressing such questions as the probability and possible magnitude of carbon storage by grasslands, differential responses of constituent species to rising atmospheric CO₂, changes in turnover rates and other aspects of ecosystem function. Recent methodological developments, and possible directions and needs of future research on plant responses to elevated CO₂ are briefly considered.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4545e150a1310">
+            <mixed-citation id="d4545e154" publication-type="other">
+Amthor, J.S. 1995. Terrestrial higher-plant response to increasing
+atmospheric [CO₂] in relation to the global carbon cycle. Global
+Change Biology 1:243-274.</mixed-citation>
+         </ref>
+         <ref id="d4545e167a1310">
+            <mixed-citation id="d4545e171" publication-type="other">
+Atkinson, C. J., J. M. Taylor, D. Wilkins, R. T. Besford &amp; C.J. Atkin-
+son. 1997. Effects of elevated CO₂ on chloroplast components,
+gas exchange and growth of oak and cherry. Tree Physiology
+17:319-325.</mixed-citation>
+         </ref>
+         <ref id="d4545e187a1310">
+            <mixed-citation id="d4545e191" publication-type="other">
+Ball, B. G. &amp; A. S. Drake 1997. Short-term decomposition of litter
+produced by plants grown in ambient and elevated atmospheric
+CO₂ concentrations. Global Change Biology 3:29-35.</mixed-citation>
+         </ref>
+         <ref id="d4545e204a1310">
+            <mixed-citation id="d4545e208" publication-type="other">
+Barták, M., I. Nijs &amp; I. Impens. 1997. Relation between photosyn-
+thetic CO₂ fixation and photosystem II activity in perennial
+ryegrass grown at doubled atmospheric CO₂ and elevated air
+temperature. Abstracta Botanica 21:317-322.</mixed-citation>
+         </ref>
+         <ref id="d4545e225a1310">
+            <mixed-citation id="d4545e229" publication-type="other">
+Bettarini, I., F.F. Vaccari &amp; F. Mi ghetta. 1997. Elevated CO₂ con-
+centrations and stomatal density: observations from 17 plant
+species growing in a CO₂ spring in central Italy. Global Change
+Biology, in press.</mixed-citation>
+         </ref>
+         <ref id="d4545e245a1310">
+            <mixed-citation id="d4545e249" publication-type="other">
+Casella, E., J. F. Soussana, R Loiseau &amp; D.D. Ackerly. 1996. Long-
+term effects of CO₂ enrichment and temperature increase on a
+temperate grass sward. 1. Productivity and water-use. Plant and
+Soil 182:83-99.</mixed-citation>
+         </ref>
+         <ref id="d4545e265a1310">
+            <mixed-citation id="d4545e269" publication-type="other">
+Ceulemans, R. &amp; M. Mousseau. 1994. Effects of elevated atmos-
+pheric CO₂ on woody plants. New Phytol. 127: 425-446.</mixed-citation>
+         </ref>
+         <ref id="d4545e279a1310">
+            <mixed-citation id="d4545e283" publication-type="other">
+Chen, D. X., H. W. Hunt &amp; A.J. Morgan. 1996. Responses of a C-3
+and C-4 perennial grass to CO₂ enrichment and climate-change
+-Comparison between model predictions and experimental-
+data. Ecological Modelling 87: 11-27.</mixed-citation>
+         </ref>
+         <ref id="d4545e299a1310">
+            <mixed-citation id="d4545e303" publication-type="other">
+Csintalan, Zs., Z. Takács, Z. Tuba, M. C. F. Proctor, N. Smirnoff &amp;
+J. Grace. 1997. Desiccation tolerant grassland cryptogams
+under elevated CO₂: Preliminary findings. Abstracta Botanica
+21:309-315.</mixed-citation>
+         </ref>
+         <ref id="d4545e319a1310">
+            <mixed-citation id="d4545e323" publication-type="other">
+Cure, J.D. &amp; B. Acock. 1986. Crop responses to carbon dioxide dou-
+bling: aliterature survey. Agriculture and Forest Meteorology
+38: 127-145.</mixed-citation>
+         </ref>
+         <ref id="d4545e337a1310">
+            <mixed-citation id="d4545e341" publication-type="other">
+Diaz, S., J.P. Grime, J. Harris &amp; E. McPherson. 1993. Evidence of a
+feedback mechanism limiting plant response to elevated carbon
+dioxide. Nature 364: 616-617.</mixed-citation>
+         </ref>
+         <ref id="d4545e354a1310">
+            <mixed-citation id="d4545e358" publication-type="other">
+Drake, B. G., M. A. Gonzalez Meier, S. P. Long &amp; R.E. Ackerson.
+1997. More efficient plants: A consequence of rising atmos-
+pheric CO₂? Annual Review of Plant Physiology and Plant
+Molecular Biology 48:609-639.</mixed-citation>
+         </ref>
+         <ref id="d4545e374a1310">
+            <mixed-citation id="d4545e378" publication-type="other">
+Dugas, W.A., M.L. Heuer, D. Hunsaker, B.A. Kimball, K.F. Lewin,
+J. Nagy &amp; M. Johnson. 1994. Sap flow measurements of
+transpiration from cotton grown under ambient and enriched
+CO₂ concentrations. Agricultural and Forest Meteorology 70:
+231-245.</mixed-citation>
+         </ref>
+         <ref id="d4545e397a1310">
+            <mixed-citation id="d4545e401" publication-type="other">
+Eamus, D. &amp; P.G. Jarvis. 1989. Direct effects of increase in the
+global atmospheric CO₂ concentration on natural and commer-
+cial trees and forests. Advances in Ecological Research 19: 1-55.</mixed-citation>
+         </ref>
+         <ref id="d4545e414a1310">
+            <mixed-citation id="d4545e418" publication-type="other">
+Gonzàles-Meler, M.A., M. Ribas-Carbò, J.N. Siedow &amp; B.G.Drake.
+1997. The direct inhibition of plant mitochondrial respiration by
+elevated CO₂. Plant Physiology 112: 1349-1355.</mixed-citation>
+         </ref>
+         <ref id="d4545e431a1310">
+            <mixed-citation id="d4545e435" publication-type="other">
+Goudriaan, J. 1995. Global carbon cycle and carbon sequestration.
+In: Beran, A. M. (ed. Carbon sequestration in the biosphere.
+Springer Verlag. Berlin, Heidelberg. NATO ASI series, 133. 3-
+18 p.</mixed-citation>
+         </ref>
+         <ref id="d4545e452a1310">
+            <mixed-citation id="d4545e456" publication-type="other">
+Hannukkala, A. 1997. Grasslands and global change in Northern
+Finland. Abstracta Botanica 21: 261-263.</mixed-citation>
+         </ref>
+         <ref id="d4545e466a1310">
+            <mixed-citation id="d4545e470" publication-type="other">
+Hättenschwiler, S., F. Miglietta, A. Raschi Ch. Körner. 1997. Mor-
+phological adjustments to elevated CO₂ in mature Que reus ilex
+trees growing around natural CO₂ springs. Acta Oecologica, in
+press.</mixed-citation>
+         </ref>
+         <ref id="d4545e486a1310">
+            <mixed-citation id="d4545e490" publication-type="other">
+Hebeisen, T., A. Liischer, S. Zanetti, B.U. Fischer, U.A. Hartwig, M.
+Frehner, G.R. Hendrey, H. Blum &amp; J. Nösberger. 1997. Growth
+response of Trifolium repens L. and Lolium perenne L. as
+monocultures and bi-species mixture to free air CO₂ enrichment
+and management. Global Change Biology 3: 149-160.</mixed-citation>
+         </ref>
+         <ref id="d4545e509a1310">
+            <mixed-citation id="d4545e513" publication-type="other">
+Hendrey, G.R., K.F. Lewin &amp; J. Nagy. 1993. Free air carbon dioxide
+enrichment: development, progress, results. Vegetatio 104/105:
+17-32.</mixed-citation>
+         </ref>
+         <ref id="d4545e526a1310">
+            <mixed-citation id="d4545e530" publication-type="other">
+Hilbert, D.W., T.I. Prudhomme &amp; W.C. Oechel. 1987. Response of
+tussock tundra to elevated carbon dioxide regimes: analysis of
+ecosystem CO₂ flux through nonlinear modelling. Oecologia
+72: 466-472.</mixed-citation>
+         </ref>
+         <ref id="d4545e546a1310">
+            <mixed-citation id="d4545e550" publication-type="other">
+Houghton, J.T., G.J. Jenkins &amp; J.J. Ephraums. (eds) 1990. Climate
+change: the IPCC scientific assessment. Cambridge University
+Press.</mixed-citation>
+         </ref>
+         <ref id="d4545e564a1310">
+            <mixed-citation id="d4545e568" publication-type="other">
+Hungate, B. A., E. A. Holland, R. B. Jackson, F. S. Chapin, H. A.
+Mooney &amp; C.B. Field. 1997. The fate of carbon in grasslands
+under carbon dioxide enrichment. Nature 388:576-579.</mixed-citation>
+         </ref>
+         <ref id="d4545e581a1310">
+            <mixed-citation id="d4545e585" publication-type="other">
+Hungate, B. A., R. B. Jackson, C. B. Field &amp; F.S. Chapin. 1996.
+Detecting changes in soil carbon in CO₂ enrichment experi-
+ments. Plant and Soil 187:135-145.</mixed-citation>
+         </ref>
+         <ref id="d4545e598a1310">
+            <mixed-citation id="d4545e602" publication-type="other">
+Hunt, H. W., E. T. Elliott, J. K. Detling, J. A. Morgan, D. X. Chen &amp;
+B. Acock. 1996. Responses of a C-3 and a C-4 perennial grass
+to elevated CO₂ and temperature under different water regimes.
+Global Change Biology 2:35-47.</mixed-citation>
+         </ref>
+         <ref id="d4545e618a1310">
+            <mixed-citation id="d4545e622" publication-type="other">
+Hunt, R., J.P. Grime, S. Diaz, G.M. Spring, J.H.C. Cornelissen &amp;
+R.L. Colasanti. 1997. Effects of elevated carbon dioxide on
+british native grassland species and communities. Abstracta
+Botanica 2 1 :275-288.</mixed-citation>
+         </ref>
+         <ref id="d4545e638a1310">
+            <mixed-citation id="d4545e642" publication-type="other">
+Jarvis, P.G. 1995. Scaling processes and problems. Plant, Cell and
+Environment 18: 1079-1089.</mixed-citation>
+         </ref>
+         <ref id="d4545e652a1310">
+            <mixed-citation id="d4545e656" publication-type="other">
+Junttila, O. 1996. Plant adaptation to temperature and photoperiod.
+Agrie. Food Sc. in Finland 5:251-260.</mixed-citation>
+         </ref>
+         <ref id="d4545e667a1310">
+            <mixed-citation id="d4545e671" publication-type="other">
+Kimball, B.A. 1983. Carbon dioxide and agricultural yield: an as-
+semblage and analysis of 430 prior observations. Agronomy
+Journal 75: 779-788.</mixed-citation>
+         </ref>
+         <ref id="d4545e684a1310">
+            <mixed-citation id="d4545e688" publication-type="other">
+Körner, Ch. &amp; F. Miglietta. 1994. Long term effects of naturally
+elevated CO₂ on mediterranean grassland and forest trees.
+Oecologia 99: 343-351.</mixed-citation>
+         </ref>
+         <ref id="d4545e701a1310">
+            <mixed-citation id="d4545e705" publication-type="other">
+Körner, Ch., F.A. Bazzaz &amp; C.B. Field. 1996. The significance of
+biological variation, organism interactions and life histories in
+CO₂ research. In: Körner, Ch. &amp; F.A. Bazzaz (eds). Carbon
+dioxide, Populations and Communities. Academic Press, San
+Diego, p 443-456.</mixed-citation>
+         </ref>
+         <ref id="d4545e724a1310">
+            <mixed-citation id="d4545e728" publication-type="other">
+Leadley, P.W. &amp; B.G. Drake. 1993. Open top chambers for exposing
+plant canopies to elevated CO₂ concentration and for measuring
+net gas exchange. Vegetatio 104/105: 3-16.</mixed-citation>
+         </ref>
+         <ref id="d4545e741a1310">
+            <mixed-citation id="d4545e745" publication-type="other">
+Leadley, P.W. &amp; Ch. Körner. 1 996. Effects of elevated CO2 on plant
+species dominance in a highly diverse calcareous grassland. In:
+Körner, Ch. &amp; F.A. Bazzaz (eds). Carbon dioxide, Populations
+and Communities. Academic Press, San Diego, p 159-175.</mixed-citation>
+         </ref>
+         <ref id="d4545e761a1310">
+            <mixed-citation id="d4545e765" publication-type="other">
+Leadley, P.W. &amp; J. Stöcklin. 1996. Effects of elevated CO₂ on model
+calcareous grasslands: community, species and genotype level
+responses. Global Change Biology 2:389-397.</mixed-citation>
+         </ref>
+         <ref id="d4545e779a1310">
+            <mixed-citation id="d4545e783" publication-type="other">
+Long, S.P. 1991. Modification of the response of photosynthetic
+productivity, to rising temperature by atmospheric CO₂ con-
+centrations: Has its importance been underestimated? Plant Cell
+Environ. 14: 729-739.</mixed-citation>
+         </ref>
+         <ref id="d4545e799a1310">
+            <mixed-citation id="d4545e803" publication-type="other">
+Long, S. P., M.B. Jones &amp; M.J. Roberts. 1992. Primary Productivity
+of grass ecosystems of the tropics and the sub-tropics. Chap-
+mann &amp; Hall, London, 267 p.</mixed-citation>
+         </ref>
+         <ref id="d4545e816a1310">
+            <mixed-citation id="d4545e820" publication-type="other">
+Luo, Y. Q., R. B. Jackson, C. B. Field, H. A. Mooney &amp; R.D. Bow-
+den. 1996. Elevated Co₂ Increases Below-Ground Respiration
+in California Grasslands. Oecologia 108:130-137.</mixed-citation>
+         </ref>
+         <ref id="d4545e833a1310">
+            <mixed-citation id="d4545e837" publication-type="other">
+Jongen, M. &amp; M.B. Jones. 1997. Effects of elevated CO₂ on species
+co-occurring in a neutral grassland. Abstracta Botanica 21 ;249-
+260.</mixed-citation>
+         </ref>
+         <ref id="d4545e850a1310">
+            <mixed-citation id="d4545e854" publication-type="other">
+Menconi, M., A. Raschi, V. Cosentino, C.L.M. Sgherri, &amp; F. Navari-
+Izzo. 1997. Water relations in alfalfa (Medicado sativa L.) plants
+grown under high carbon dioxide concentration. Abstracta
+Botanica 21:305-308.</mixed-citation>
+         </ref>
+         <ref id="d4545e870a1310">
+            <mixed-citation id="d4545e874" publication-type="other">
+Miglietta, F., A. Giuntoli &amp; M. Bindi. 1996. The effect of free air
+carbon dioxide enrichment (FACE) and soil nitrogen
+availability on the photosynthetic capacity of wheat. Photosyn-
+thesis Research 47: 281-290.</mixed-citation>
+         </ref>
+         <ref id="d4545e891a1310">
+            <mixed-citation id="d4545e895" publication-type="other">
+Morison, J.I.L. 1985. Sensitivity of stornata and water use efficiency
+to high CO₂. Plant Cell Environ. 8:467-474.</mixed-citation>
+         </ref>
+         <ref id="d4545e905a1310">
+            <mixed-citation id="d4545e909" publication-type="other">
+Nádas, E., Á. Balogh, F. Kiss, Z. Nagy, K. Szente &amp; Z. Tuba. 1997.
+Some aspects of carbohydrate metabolism in two C3 grassland
+species under elevated CO₂. Abstracta Botanica 21 :323-328.</mixed-citation>
+         </ref>
+         <ref id="d4545e922a1310">
+            <mixed-citation id="d4545e926" publication-type="other">
+Nagy, Z., K. Szente &amp; Z. Tuba. 1997. Acclimation of dicot and
+monocot grassland species to long-term elevated CO₂ con-
+centration. Abstracta Botanica 21 :297-304.</mixed-citation>
+         </ref>
+         <ref id="d4545e939a1310">
+            <mixed-citation id="d4545e943" publication-type="other">
+Newton, P. C. D., H. Clark, C. C. Bell, E. M. Glasgow, K. R. Tate,
+D. J. Ross, G. W. Yeates, S. Saggar &amp; C.J. Baker. 1995. Plant-
+growth and soil processes in temperate grassland communities
+at elevated CO₂. Journal of Biogeography 22:235-240.</mixed-citation>
+         </ref>
+         <ref id="d4545e959a1310">
+            <mixed-citation id="d4545e965" publication-type="other">
+Nijs, I., I. Impens &amp; S.G. Allen. 1996. Effects of elevated CO₂ con-
+centration and cli mate-warming on photosynthesis during
+winter in Lolium perenne. Journal of Experimental Botany
+47:915-924.</mixed-citation>
+         </ref>
+         <ref id="d4545e981a1310">
+            <mixed-citation id="d4545e985" publication-type="other">
+Parton, W. J., J. M. O. Scurlock, D. S. Ojima, D. S. Schimel, D. O.
+Hall &amp; R.G. Bailey. 1995. Impact of Climate-Change On
+Grassland Production and Soil Carbon Worldwide. Global
+Change Biology 1:13-22.</mixed-citation>
+         </ref>
+         <ref id="d4545e1002a1310">
+            <mixed-citation id="d4545e1006" publication-type="other">
+Posti, W. F., H. R. Bolhàr-Nordenkampf, N. Preinl, A. Kamnalrut &amp;
+M. Meister. 1997. Dry matter and energy partitioning in two
+tropical grasslands under climatic stress. Abstracta Botanica
+21:235-248.</mixed-citation>
+         </ref>
+         <ref id="d4545e1022a1310">
+            <mixed-citation id="d4545e1026" publication-type="other">
+Rafarei, C. R., T. W. Ashenden, T. M. Roberts &amp; I. Aiga. 1995. An
+improved solardome system for exposing plants to elevated CO₂
+and temperature. New Phytologist 131:481-490.</mixed-citation>
+         </ref>
+         <ref id="d4545e1039a1310">
+            <mixed-citation id="d4545e1043" publication-type="other">
+Raschi, A., M. Menconi, V. Cosentino, C.L.M. Sgherri, &amp; F. Navari-
+Izzo. 1997. Effect of atmospheric CO₂ enrichment on alfalfa
+(Medicago sativa L.) growth and nutrient status. Abstracta
+Botanica 21 :289-296.</mixed-citation>
+         </ref>
+         <ref id="d4545e1059a1310">
+            <mixed-citation id="d4545e1063" publication-type="other">
+Ross, D. J., K. R. Tate, P. C. D. Newton &amp; J.M. Anderson. 1995.
+Elevated CO₂ and temperature effects on soil carbon and
+nitrogen cycling in ryegrass/white clover turves of an endoa-
+quept soil. Plant and Soil 176:37-49.</mixed-citation>
+         </ref>
+         <ref id="d4545e1079a1310">
+            <mixed-citation id="d4545e1083" publication-type="other">
+Runion, G.B., E.A. Curl, H.H. Rogers, P.A. Backman, R. Rodriguez-
+Kabana &amp; B.E. Helms. 1994. Effects of free-air CO₂ enrichment
+on microbial populations in the rhizosphere and phyllosphere of
+cotton. Agricultural and Forest Meteorology 70:117-130.</mixed-citation>
+         </ref>
+         <ref id="d4545e1099a1310">
+            <mixed-citation id="d4545e1103" publication-type="other">
+Sadowsky, M.J. &amp; M. Schortemeyer. 1997. Soil microbial responses
+to increased concentrations of atmospheric CO₂. Global Change
+Biology 3:217-224.</mixed-citation>
+         </ref>
+         <ref id="d4545e1117a1310">
+            <mixed-citation id="d4545e1121" publication-type="other">
+Sala, O.E., W.K. Laurenroth &amp; I.C. Burke. 1996. Carbon budgets of
+temperate grasslands and the effects of global change. In:
+Breymeyer, A. I., D.O. Hall, J.M. Melillo &amp; G.I. Agren. (eds)
+Global Change: Effects on coniferous forests and grasslands.
+John Wiley &amp; Sons, Chichester, pp. 101-120.</mixed-citation>
+         </ref>
+         <ref id="d4545e1140a1310">
+            <mixed-citation id="d4545e1144" publication-type="other">
+Schappi, B. &amp; Ch. Körner. 1996. Growth responses of an alpine
+grassland to elevated CO₂. Oecologia 105:43-52.</mixed-citation>
+         </ref>
+         <ref id="d4545e1154a1310">
+            <mixed-citation id="d4545e1158" publication-type="other">
+Schortemeyer, M., U.A. Hartwig, G.R. Hendrey &amp; M.J. Sadowsky.
+1997. Microbial community changes in the rhizospheres of
+white clover and perennial ryegrass exposed to free air carbon
+dioxide enrichment (FACE). Soil Biology and Biochemistry, in
+press.</mixed-citation>
+         </ref>
+         <ref id="d4545e1177a1310">
+            <mixed-citation id="d4545e1181" publication-type="other">
+Schulze, E.D. &amp; H.A. Mooney. 1993. Design and execution of ex-
+periments on CO₂ enrichment. ECSC-EEC-EAEC, Brussels
+Luxembourg, p. 420.</mixed-citation>
+         </ref>
+         <ref id="d4545e1194a1310">
+            <mixed-citation id="d4545e1198" publication-type="other">
+Simard, S.W., D.A. Perry, M.D. Jones, D.D. Myrold, D.M. Durali &amp;
+R. Molina. 1997. Net transfer of carbon between ectomycor-
+rhizal tree species in the field. Nature 388:579 582.</mixed-citation>
+         </ref>
+         <ref id="d4545e1211a1310">
+            <mixed-citation id="d4545e1215" publication-type="other">
+Soussana J.F. &amp; P. Loiseau. 1997. Temperate grass swards and
+climatic changes. The role of plant-soil interactions in elevated
+CO₂. Abstracta Botanica 21:223-234.</mixed-citation>
+         </ref>
+         <ref id="d4545e1229a1310">
+            <mixed-citation id="d4545e1233" publication-type="other">
+Soussana, J. F., E. Casella, P. Loiseau &amp; G. Billes. 1996b. Long-
+Term Effects of Co2 Enrichment and Temperature Increase On
+a Temperate Grass Sward .2. Plant Nitrogen Budgets and Root
+Fraction. Plant and Soil 182:101-114.</mixed-citation>
+         </ref>
+         <ref id="d4545e1249a1310">
+            <mixed-citation id="d4545e1253" publication-type="other">
+Soussana, J. F., U. A.Hartwig &amp; J. A. Arnone. 1996a. The effects of
+elevated CO₂ on symbiotic N-2 fixation: A link between the car-
+bon and nitrogen cycles in grassland ecosystems. Plant and Soil
+187:321-332.</mixed-citation>
+         </ref>
+         <ref id="d4545e1269a1310">
+            <mixed-citation id="d4545e1273" publication-type="other">
+Stevenson, F.J. 1982. Humus chemistry. John Wiley &amp; Sons, New
+York, 375 pp.</mixed-citation>
+         </ref>
+         <ref id="d4545e1283a1310">
+            <mixed-citation id="d4545e1287" publication-type="other">
+Stirling, C.M., T.G. Williams, M.L. Jones &amp; T.W. Ashenden. 1997.
+Plant canopy development and turnover in a range of British
+native species grown at elevated CO₂ and temperature. Abstrac-
+ta Botanica 21 :265-274.</mixed-citation>
+         </ref>
+         <ref id="d4545e1303a1310">
+            <mixed-citation id="d4545e1307" publication-type="other">
+Stitt, M. 1993. Enhanced CO₂, photosynthesis and gowth; what
+should we measure to gain a better understanding of the plant's
+response? In:Schuulze, E.D. &amp; H. A. Mooney (eds) Design and
+Execution of Experiments on CO₂ Enrichment, p. 3-28., ECSC-
+EEC-EAEC, Brussels-Luxembourg.</mixed-citation>
+         </ref>
+         <ref id="d4545e1326a1310">
+            <mixed-citation id="d4545e1330" publication-type="other">
+Thornley, J. H. M., M. G. R. Cannell &amp; O. F. F. Met 1996. Temperate
+forest responses to carbon dioxide, temperature and nitrogen:A
+model analysis. Plant Cell and Environment 19: 1331-1348.</mixed-citation>
+         </ref>
+         <ref id="d4545e1344a1310">
+            <mixed-citation id="d4545e1348" publication-type="other">
+Tissue, D.T. &amp; W.C. Oechel. 1987. Response of Eriophorum
+vaginatum to elevated CO₂ and temperature in the Alaskan tus-
+sock tundra. Ecology 8:401-410.</mixed-citation>
+         </ref>
+         <ref id="d4545e1361a1310">
+            <mixed-citation id="d4545e1365" publication-type="other">
+Tuba, Z., H.K. Lichtenthaler, Z s. Csintalan, Z. Nagy &amp; K. Szente.
+(1994):Reconstitution of chlorophylls and photosynthetic CO₂
+assimilation in the desiccated poikilochlorophyllous plant
+Xerophyta scabrida upon rehydration. Planta 192:414-420.</mixed-citation>
+         </ref>
+         <ref id="d4545e1381a1310">
+            <mixed-citation id="d4545e1387" publication-type="other">
+Tuba, Z., K. Szente, Z. Nagy, Zs. Csintalan &amp; J. Koch. 1996a.
+Responses of photosynthesis, transpiration and water use ef-
+ficiency to long-term elevated CO₂ in four perennial C₃ dry
+loess grassland species. J. Plant Physiol. 148:356-361.</mixed-citation>
+         </ref>
+         <ref id="d4545e1403a1310">
+            <mixed-citation id="d4545e1407" publication-type="other">
+Tuba, Z., Zs. Csintalan &amp; M. C. F. Proctor. 1996b. Photosynthetic
+responses of a moss, Tortula ruralis (Hedw.) Gaertn. et al. ssp.
+r ura lis, and the lichens Cladonia convoluta (Lam.) P. Cout. and
+C. furcata (Huds.) Schrad. to water deficit and short periods of
+desiccation, and their eco-physiological significance: a baseline
+study at present-day CO₂ concentration. New. Phytol. 133:353-
+361.</mixed-citation>
+         </ref>
+         <ref id="d4545e1433a1310">
+            <mixed-citation id="d4545e1437" publication-type="other">
+Vu, J. C. V., L. H. Allen, K. J. Boote, G. Bowes &amp; J.T. Baker. 1997.
+Effects of elevated CO₂ and temperature on photosynthesis and
+Rubisco in rice and soybean. Plant Cell and Environment,
+20:68-76.</mixed-citation>
+         </ref>
+         <ref id="d4545e1453a1310">
+            <mixed-citation id="d4545e1457" publication-type="other">
+Wessman, C.A. 1992. Spatial scales and global change: Bridging the
+gap from plots to GCM grid scales. Annual Review of Ecology
+and Systematics 23: 175-200.</mixed-citation>
+         </ref>
+         <ref id="d4545e1471a1310">
+            <mixed-citation id="d4545e1475" publication-type="other">
+Whipps, J.M. 1985. Effect of CO₂ concentration on growth, carbon
+distribution and loss of carbon from the roots of maize. Journal
+of Experimental Botany 36:644-651.</mixed-citation>
+         </ref>
+         <ref id="d4545e1488a1310">
+            <mixed-citation id="d4545e1492" publication-type="other">
+Zitzer, S. F., S. R. Archer &amp; T. W. Boutton. 1996. Spatial variability
+in the potential for symbiotic N-2 fixation by woody plants in a
+subtropical savanna ecosystem. Journal of Applied Ecology,
+33:1125-1136.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

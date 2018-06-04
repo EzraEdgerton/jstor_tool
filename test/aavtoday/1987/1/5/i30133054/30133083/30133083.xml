@@ -1,0 +1,65 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group>
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/30133083</article-id>
+         <title-group>
+            <article-title>Avian Conservation News</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Susan</given-names>
+                  <surname>Wells</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Gregory L.</given-names>
+                  <surname>Moore</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>James M.</given-names>
+                  <surname>Harris</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>12</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>5</issue>
+         <issue-id>i30133054</issue-id>
+         <fpage>215</fpage>
+         <lpage>216</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1987 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/30133083"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

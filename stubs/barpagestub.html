@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>bars</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/ext/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/ext/css/dc.css"/>
+    <style>
+    .longlabel .x.axis text {
+    text-anchor: start;
+    transform: rotate(-90deg);
+    transform: translate(-14px, 0px) rotate(-90deg);
+
+
+}</style>
+</head>
+<body>
+
+<div class="container">
+<div class="row">
+
+ <h3><a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a></h3>
+ </div>
+***graph_html***
+<script type="text/javascript" src="/ext/other/d3.js"></script>
+<script type="text/javascript" src="/ext/other/crossfilter.js"></script>
+<script type="text/javascript" src="/ext/other/dc.js"></script>
+<script type="text/javascript">
+
+***graph_declarations***
+
+dc.config.defaultColors(d3.schemeCategory10)
+d3.json("data.json").then(function(json_data) {
+
+  let cs = crossfilter(json_data)
+
+  let all = cs.groupAll();
+
+  ***dimensions_and_groups***
+
+  ***length_calc***
+
+
+  ***charts***
+
+
+
+  dc.renderAll()
+
+
+});
+</script>
+
+</div>
+</body>
+</html>

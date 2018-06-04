@@ -1,0 +1,39 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">aavnewsletter</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000694</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>A.A.V. Newsletter</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">21546312</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">25630316</article-id>
+         <title-group>
+            <article-title>Status of Pacheco's Vaccine</article-title>
+         </title-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>1981</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i25630307</issue-id>
+         <fpage>15</fpage>
+         <lpage>15</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/25630316"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

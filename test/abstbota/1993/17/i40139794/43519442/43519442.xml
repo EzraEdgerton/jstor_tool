@@ -1,0 +1,188 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519442</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part One: Ecology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Interspecific relationships of herbs in a sessile oak (Quercus petraea) stand</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T.</given-names>
+                  <surname>Standovár</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>159</fpage>
+         <lpage>172</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519442"/>
+         <abstract>
+            <p>Community structure was studied by analysing interspecific relationships of herbaceous species in a sessile oak stand. Groups of species were searched for to be able to characterize previously distinguished vegetation types. The study was carried out using presence/absence data collected from sampling units that represent two different spatial scales (156 m² quadrats and 3.14 m² circular plots). In search for characteristic species groups, the species were classified using Euclidean distance. The obtained clusters reflect mainly the number of occurrences rather than habitat preferences. Three methods of reducing species number for further analyses, i.e. eliminating the not characteristically behaving species, are discussed. The exclusion of only the rare and the most abundant species was not satisfactory, since there are some relatively rare species with specific and interpretable spatial behaviour. The use of information criterion in this case ranked the species solely according to their relative frequencies. Species were ranked most sensibly by measuring the level of overall non-independence (determined by pairwise chi² test of independence). Pairwise interspecific association was studied for the selected species at both spatial scales. The two species groups distinguished using the larger scale data set reflect community-level distribution patterns. The first is characteristic of those parts of the area where herbs indicate the driest and most acidic habitat (e.g. Viscaria vulgaris, Carex digitata, Campanula persicifolia, Hieracium lachenalii, Luzula albida, Trifolium medium, Veronica officinalis). On the other hand the common characteristic of species belonging to the second group is their absence from these parts. The acidophilous species described above showed similar interspecific relationships when the smaller scale data set was analysed. Using these data, a more detailed description of interspecific relationships was given for the species that belonged to the second species group. Most importantly positive links between some Fagetalia species (Dentaria bulbifera, Lathyrus vernus, Asperula odorata) and some disturbance toleran'ng weeds (Geranium robertianum, Chaerophyllum temulum, Galium aparine, Urtica dioica, Campanula rapunculoides) were shown.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4824e269a1310">
+            <mixed-citation id="d4824e273" publication-type="other">
+Balogh, K. 1963. A Bükk-hegység és kôrnyékének földtani
+térképe 1:100 000 méretarányban. Magyar Állami Földtani
+Intézet, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4824e286a1310">
+            <mixed-citation id="d4824e290" publication-type="other">
+Begon, M., Harper, J., and Townsend, C.R. 1986. Ecology: In-
+dividuals, Populations and Communities. Blackwell, Ox-
+ford.</mixed-citation>
+         </ref>
+         <ref id="d4824e303a1310">
+            <mixed-citation id="d4824e307" publication-type="other">
+Conover, W. J. 1980. Practical Nonparametric Statistics 2nd ed.
+Wiley, New York.</mixed-citation>
+         </ref>
+         <ref id="d4824e317a1310">
+            <mixed-citation id="d4824e321" publication-type="other">
+Feoli, E. 1984. Some aspects of classification and ordination of
+vegetation data in perspective. Stud. Geobot. 4:7-21.</mixed-citation>
+         </ref>
+         <ref id="d4824e332a1310">
+            <mixed-citation id="d4824e336" publication-type="other">
+Goodall, D. W. 1963. The continuum and the individualistic as-
+sociation. Vegetatio 11:297-316.</mixed-citation>
+         </ref>
+         <ref id="d4824e346a1310">
+            <mixed-citation id="d4824e350" publication-type="other">
+Goodall, D. W. 1973. Sample similarity and species correlation.
+In: Whittaker, R.H. (ed.): Ordination and Classification of
+Vegetation. Handbook of Vegetation Science Part V. pp.
+105-56. Junk, The Hague.</mixed-citation>
+         </ref>
+         <ref id="d4824e366a1310">
+            <mixed-citation id="d4824e370" publication-type="other">
+Goodall, D. W. 1978. Numerical Classification. In: Whittaker,
+R. H. (ed.), 1978. Classification of Plant Communities pp.
+248-84. Junk, The Hague.</mixed-citation>
+         </ref>
+         <ref id="d4824e383a1310">
+            <mixed-citation id="d4824e387" publication-type="other">
+Greig-Smith, P. 1983. Quantitative Plant Ecology (third edi-
+tion). Blackwell, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d4824e397a1310">
+            <mixed-citation id="d4824e401" publication-type="other">
+Juhász-Nagy, P. 1970. Egy operativ ôkológia hiánya,
+szükséglete. MTABiol. Oszt. Közl., 12:441-64.</mixed-citation>
+         </ref>
+         <ref id="d4824e411a1310">
+            <mixed-citation id="d4824e415" publication-type="other">
+Juhász-Nagy, P. 1986. Egy operativ ökolögia hiánya, szükséglete
+és feladatai. Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4824e426a1310">
+            <mixed-citation id="d4824e430" publication-type="other">
+Krebs, C.J. 1978. Ecology: The experimental Analysis of Dis-
+tribution and Abundance. Second Edition. Harper and
+Row, New York.</mixed-citation>
+         </ref>
+         <ref id="d4824e443a1310">
+            <mixed-citation id="d4824e447" publication-type="other">
+Orlóci, L. 1976. Ranking characters by an information
+criterion. Journal of Ecology 64:417-419.</mixed-citation>
+         </ref>
+         <ref id="d4824e457a1310">
+            <mixed-citation id="d4824e461" publication-type="other">
+Podani, J. 1988. SYN-TAX III. User's manual. Abstracta
+Botanica 12suppl. 1:1-183.</mixed-citation>
+         </ref>
+         <ref id="d4824e471a1310">
+            <mixed-citation id="d4824e475" publication-type="other">
+Soó, R. 1965. Növényfôldrajz. (Plant geography), làn-
+könyvkiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4824e485a1310">
+            <mixed-citation id="d4824e489" publication-type="other">
+Soó, R. &amp; Kárpáti, Z. 1968. Növényhatározó II. Tánkönyvkiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4824e499a1310">
+            <mixed-citation id="d4824e503" publication-type="other">
+Standovár, T. 1988. Vegetation pattern in a Sessile Oak (Quer-
+cus petraea) stand. Abstracta Botanica 12:189-206.</mixed-citation>
+         </ref>
+         <ref id="d4824e514a1310">
+            <mixed-citation id="d4824e518" publication-type="other">
+Standovár, T. 1993. Vegetation studies and their applications to
+site indication in a Sessile Oak Forest. Thesis, manuscript.</mixed-citation>
+         </ref>
+         <ref id="d4824e528a1310">
+            <mixed-citation id="d4824e532" publication-type="other">
+Westhoff, V &amp; Maarel, E. van der, 1978. The Braun-Blanquet
+Approach. In: Whittaker, R. H. (ed.), 1978. Classification
+of Plant Communities, pp. 287-399. Junk, The Hague.</mixed-citation>
+         </ref>
+         <ref id="d4824e545a1310">
+            <mixed-citation id="d4824e549" publication-type="other">
+Whittaker, R.H. 1962. Classification of natural communities.
+Botanical Review 28:1-239.</mixed-citation>
+         </ref>
+         <ref id="d4824e559a1310">
+            <mixed-citation id="d4824e563" publication-type="other">
+Whittaker, R. H. (ed.), 1978. Classification of Plant Com-
+munities. Junk, The Hague.</mixed-citation>
+         </ref>
+         <ref id="d4824e573a1310">
+            <mixed-citation id="d4824e577" publication-type="other">
+Williams, W. T. and Lambert, J. M. 1959. Multivariate analysis
+in plant ecology. I. Association-analysis in plant com-
+munities. Journal of Ecology 47:83-101.</mixed-citation>
+         </ref>
+         <ref id="d4824e590a1310">
+            <mixed-citation id="d4824e594" publication-type="other">
+Williams, W. T. and Lambert, J. M. 1961. Multivariate analysis
+in plant ecology. III. Inverse association-analysis. Journal
+of Ecology 49:717-729.</mixed-citation>
+         </ref>
+         <ref id="d4824e608a1310">
+            <mixed-citation id="d4824e612" publication-type="other">
+Zólyomi, B., Baráth, Z., Fekete, G., J a ku es, P., Kárpáti, I.,
+Kárpáti, V., Kovács, M. &amp; Máthé, 1. 1967. Einreinhung von
+1400 Arten der ungarischen Flora in Ökologische Gruppen
+nach TWR-Zahlen. Fragmenta Botanica 4:101-142.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

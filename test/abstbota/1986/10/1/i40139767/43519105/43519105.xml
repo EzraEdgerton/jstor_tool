@@ -1,0 +1,131 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519105</article-id>
+         <title-group>
+            <article-title>A TORTULA HEDW. SECT. RURALES DE NOT. (MUSCI, POTTIACEAE) RENDSZERTANI REVÍZIÓJA ÉS ELTERJEDÉSE A KÁRPÁT-MEDENCÉBEN</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Zoltán</given-names>
+                  <surname>TÓTH</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139767</issue-id>
+         <fpage>145</fpage>
+         <lpage>185</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519105"/>
+         <abstract>
+            <p>Taxonomic revision of Tortula Hedw. sect. Rurales De Not. (Musci, Pottiaceae), and its distribution in the Carpathian basin — This paper is concerned with the taxa of the Tortula ruralis aggregate occurring in the Carpathian Basin. A total of 1250 specimens deposited in Hungarian herbaria (BP, EGR, VBI) was revised by anatomical and morphological methods. The evaluation is partly based on Kramer (1980) who deals with the Rurales section of the Holarctic but neglects the flora of the Carpathian Basin. It is confirmed that many characters formerly used in descriptions are in fact not suitable for the correct identification of many taxa. Of the 52 valid taxa of the Rurales section in the eastern Holarctic, the existence of 13 in Hungary is confirmed. Four proved to be new to the Hungarian flora; these are: 1) Tortula ruralis ssp. hirsuta var. hirsuta, which is distributed from the circumboreal to the warm-temperate zone; 2) T. norvegica var. norvegica, an alpine-circumboreal species which is a relict in Hungary; 3) T. ruralis ssp. hirsuta var. submamillosa whose distribution is insufficiently known; and 4) T. caninervis ssp. spuria var. spuria, a Turanian species. The key to the Tortula species is a modified and shortened version of Kramer's key: only the taxa present or expected in the Carpathian Basin are included. For each species, I list the valid names and synonyms, geographical distribution, phytosociological status, ecological requirements and the data of all specimens examined. These data are grouped according to countries and, within Hungary, floristic districts.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>IRODALOM</title>
+         <ref id="d6788e107a1310">
+            <mixed-citation id="d6788e111" publication-type="other">
+Boros Á. 1953. Magyarország mohái fBryophyta Hungariae). Magyar-
+ország virágtalan nôvényeinek határozó kezikönyve IV. Aka-
+démiai Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d6788e124a1310">
+            <mixed-citation id="d6788e128" publication-type="other">
+Boros Á. 1968. Bryogeographie und Bryoflora Ungarns. Akadémiai
+Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d6788e138a1310">
+            <mixed-citation id="d6788e142" publication-type="other">
+Chen, P.-Ch. 1941. Studien über die Ostasiatischen Arten der
+Pottiaceae I-II. Hedwigia 80:1-76, 141-322</mixed-citation>
+         </ref>
+         <ref id="d6788e152a1310">
+            <mixed-citation id="d6788e156" publication-type="other">
+Demaret, F. et É. Castagne. 1964. Bryophytes. vol. II. - Fase.
+III. (Flora générale de Belgique). Bruxelles</mixed-citation>
+         </ref>
+         <ref id="d6788e167a1310">
+            <mixed-citation id="d6788e171" publication-type="other">
+Frahm, J.-P. und W. Frey. 1983. Moosflora. Stuttgart: Ulmer</mixed-citation>
+         </ref>
+         <ref id="d6788e178a1310">
+            <mixed-citation id="d6788e182" publication-type="other">
+Gyõrffy, I. 1943. A nagybugaci erdõ borókásairól. Természettud.
+Közl. Pótf. 1943 jul.-szept.: 1-10</mixed-citation>
+         </ref>
+         <ref id="d6788e192a1310">
+            <mixed-citation id="d6788e196" publication-type="other">
+Kramer, W. 19 78. Contribution to the taxonomy and distribution
+of several taxa of Tor tula Hedw. sect. Rurales De Not.
+(Musci) with bistratose lamina. Bryologist 81:378-385</mixed-citation>
+         </ref>
+         <ref id="d6788e209a1310">
+            <mixed-citation id="d6788e213" publication-type="other">
+Kramer, W. 1980. Tortula Hedw. sect. Rurales De Not. (Pottia-
+ceae, Musei) in der östlichen Holarktis. Bryoph. Bibl. 21.
+J. Kramer, Vaduz</mixed-citation>
+         </ref>
+         <ref id="d6788e226a1310">
+            <mixed-citation id="d6788e230" publication-type="other">
+Lazarenko, A. S., E. I. Vysockaya, E. N. Lesnjak und U. K. Ma-
+matkulov. 1968. Ermittlungen der Chromosomenzahlen von Laub-
+moosen Tadhikistans. Bjull. Mosk. Ob. Ispit. Prirodi Otd.
+Biol. 73:141-152, 75:146-155</mixed-citation>
+         </ref>
+         <ref id="d6788e246a1310">
+            <mixed-citation id="d6788e250" publication-type="other">
+Nyholm, E. 1956. Musei II.. Fase. II. Illustrated Moss Flora of
+Fennoscandia. CWK Gleerup, Lund, Sweden, pp. 85-189</mixed-citation>
+         </ref>
+         <ref id="d6788e261a1310">
+            <mixed-citation id="d6788e265" publication-type="other">
+Orbán S. és Vajda L. 1983. Magyarország mohaf lórá jának kézi-
+könyve. Akadémiai Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d6788e275a1310">
+            <mixed-citation id="d6788e279" publication-type="other">
+Pócs, T. 1982. Tropical forest bryophytes. In: Bryophyte Ecology,
+(ed.: A. J; E. Smith). Chapman and Hall, London, pp. 59-
+104</mixed-citation>
+         </ref>
+         <ref id="d6788e292a1310">
+            <mixed-citation id="d6788e296" publication-type="other">
+Scott, G. A. M. 1982. Desert bryophytes. In: Bryophyte Ecology,
+(ed. A. J. E. Smith). Chapman and Hall, London, pp. 105-122</mixed-citation>
+         </ref>
+         <ref id="d6788e306a1310">
+            <mixed-citation id="d6788e310" publication-type="other">
+Simon, T. and G. Szerényi. 1975. Moss ecological investigation
+in forest-steppe associations of the IBP are at Csévha-
+raszt. Acta Bot. Acad. Sci. Hung. 21:117-136</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

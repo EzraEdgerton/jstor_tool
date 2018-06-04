@@ -1,0 +1,104 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519446</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part Two: Theoretical Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The origin of genetic systems</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>E.</given-names>
+                  <surname>Szathmáry</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. Maynard</given-names>
+                  <surname>Smith</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>197</fpage>
+         <lpage>206</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519446"/>
+         <abstract>
+            <p>The origin of the earliest genetic systems in a prebiotic setting is considered. A brief survey of units of evolution and replicators is given, and the novel distinction of limited and unlimited hereditary replicators is introduced. Merits and pitfalls of the RNA world concept are reviewed. The possibility of autonomously evolving molecular ecosystems is raised, which hinges on the realisation of a self-replicating ribozyme. The RNA world must have been preceded by something simpler, perhaps what we call the "prebiotic pizza": evolving autocatalytic networks on mineral surfaces (mainly pyrite). Such cycles are limited hereditary replicators. Occasionally, macromutations and chemical symbioses could have given rise to evolutionary novelties. Population structure (genetic viscosity) of template populations (evolving in a subsequent phase of evolution) was surely important in the selection against selfish replicators. The appearance of protocells was the culmination of prebiotic evolution. Protocells are "symbionts" of three autocatalytic subsystems: a metabolic network, a genetic replicator, and an encapsulating membrane.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Further reading</title>
+         <ref id="d4859e226a1310">
+            <mixed-citation id="d4859e230" publication-type="other">
+Gánti, T. 1987. The principle of life. OMIKK, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4859e237a1310">
+            <mixed-citation id="d4859e241" publication-type="other">
+Joyce, G.F. 1989. RNA evolution and the origins of life. Nature
+338, 217-224.</mixed-citation>
+         </ref>
+         <ref id="d4859e251a1310">
+            <mixed-citation id="d4859e255" publication-type="other">
+Maynard Smith, J. 1986. The problems of biology. Oxford
+Univ. Press.</mixed-citation>
+         </ref>
+         <ref id="d4859e265a1310">
+            <mixed-citation id="d4859e269" publication-type="other">
+Maynard Smith, J. &amp; Szathmáry, E. 1993. The major steps of
+evolution, in prep.</mixed-citation>
+         </ref>
+         <ref id="d4859e280a1310">
+            <mixed-citation id="d4859e284" publication-type="other">
+Penrose, L.S. 1959. Self-reproducing machines. Scientific
+American 200(6), 105-114.</mixed-citation>
+         </ref>
+         <ref id="d4859e294a1310">
+            <mixed-citation id="d4859e298" publication-type="other">
+Szathmáiy, E. 1989. The emergence, maintenance, and transi-
+tions of the earliest evolutionaiy units. Oxford Surveys in
+Evolutionary Biology 6, 169-205.</mixed-citation>
+         </ref>
+         <ref id="d4859e311a1310">
+            <mixed-citation id="d4859e315" publication-type="other">
+Wächtershäuser, G. 1988. Before enzymes and templates:
+Theory of surface metabolism. Microbiological Reviews 52,
+452-484.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

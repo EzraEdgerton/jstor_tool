@@ -1,0 +1,158 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519137</article-id>
+         <title-group>
+            <article-title>THE EFFECT OF HERBICIDES ON VEGETATION DYNAMICS: A MULTIVARIATE STUDY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Klára</given-names>
+                  <surname>VIRÁGH</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139769</issue-id>
+         <fpage>317</fpage>
+         <lpage>340</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519137"/>
+         <abstract>
+            <p>Major floristic changes induced by some leaf-herbicides in an old perennial grassland community were studied using permanent quadrats from 1979 to 1984. Clustering methods and principal coordinates analysis were applied to characterize vegetation pattern and to reveal trends of temporal variation. The results indicate a tendency of forming a new stable state rather than the recovery of the pre-disturbance state of the community. The multivariate techniques demonstrate that the different coenostates developed after the treatments were more or less sensitive to drought and were much influenced by the amount of herbicide applied. The expression of seasonality is also apparent especially in the ordinations. It must be noted that pure seasonal fluctuations can be detected unambiguously only in the intact community. In some treated plots, seasonal changes are also present but less clear, and in the other cases they cannot be distinguished at all from regeneration and other processes. Principal coordinates analysis reveals underlying trends in vegetation dynamics and facilitates the interpretation of factors primarily responsible for the changes. The first two axes seem to correspond to fluctuations in the control experiment or a secondary successional trend initiated by herbicide treatment, whereas the third axis reflects either seasonality or dry periods in the climate. It is concluded that the joint application of classification and ordination methods is very useful in detecting vegetational changes. The analyses confirm the findings obtained previously by different similarity indices and provide new information as to the "group-structure" of the sampling units and the temporal trajectories throughout the study.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1601e245a1310">
+            <mixed-citation id="d1601e249" publication-type="other">
+Armesto, J. J. and S. T. A. Pickett. 1986. Removal experiments
+to test mechanisms of plant succession in oldfields.
+Vegetatio 66:85-93</mixed-citation>
+         </ref>
+         <ref id="d1601e262a1310">
+            <mixed-citation id="d1601e266" publication-type="other">
+Bornkamm, R. 1981. Rates of change in vegetation during
+secondary succession. Vegetatio 47:213-220</mixed-citation>
+         </ref>
+         <ref id="d1601e276a1310">
+            <mixed-citation id="d1601e280" publication-type="other">
+Czekanowski, J. 1909. Differential diagnose der
+Neantertalgruppe. Koriespbl. dt . Ges. Anthrop. 40:44-47</mixed-citation>
+         </ref>
+         <ref id="d1601e290a1310">
+            <mixed-citation id="d1601e294" publication-type="other">
+Grime, J. P. (ed.) 1979. Plant Strategies and Vegetation
+Processes. Wiley, Chichester</mixed-citation>
+         </ref>
+         <ref id="d1601e305a1310">
+            <mixed-citation id="d1601e309" publication-type="other">
+Harrison, G. W. 1976. Stability under environmental stress:
+resistance, resilience, persistence and variability. Amer.
+Nat. 113:659-669</mixed-citation>
+         </ref>
+         <ref id="d1601e322a1310">
+            <mixed-citation id="d1601e326" publication-type="other">
+Holling, C. S. 1973. Resilience and stability of ecological
+systems. Ann. Rev. Ecol. Syst. 4:1-23</mixed-citation>
+         </ref>
+         <ref id="d1601e336a1310">
+            <mixed-citation id="d1601e340" publication-type="other">
+Kindlmann, P. and J. Lepá. 1985. What is stability? A
+mathematician's and ecologist's point of veiw. In: A. Sydow,
+M. Thoma and R. Vichnevetsky (eds), System Analysis and
+Simulation 1985, II. Applications. Proceedings of the
+Internat. Symp. held in Berlin (GDR), Aug. 15-31. Akademie
+Verlag, Berlin, pp. 201-204</mixed-citation>
+         </ref>
+         <ref id="d1601e363a1310">
+            <mixed-citation id="d1601e367" publication-type="other">
+Legendre, L. and L. Legendre. 1983. Numerical Ecology. Elsevier
+Amsterdam</mixed-citation>
+         </ref>
+         <ref id="d1601e377a1310">
+            <mixed-citation id="d1601e381" publication-type="other">
+Lepá, J., J. Osbornová-Kosinová and M. Rejmánek. 1982. Community
+stability, complexity and species life history strategies.
+Vegetatio 50:53-63</mixed-citation>
+         </ref>
+         <ref id="d1601e394a1310">
+            <mixed-citation id="d1601e398" publication-type="other">
+Podani, J. 1984. SYN-TAX II. Computer programs for data analysis
+in ecology and systematics. Abstracta Botanica 8:73-94</mixed-citation>
+         </ref>
+         <ref id="d1601e409a1310">
+            <mixed-citation id="d1601e413" publication-type="other">
+Rejmánek, M. 1979. Stability and complexity in biotic
+communities: Theoretical and empirical approach. In: M.
+Ruzicka (ed.) 5th Internat. Symp. Probi. Ecol. Land. Res.,
+Bratislava, pp. 65-72</mixed-citation>
+         </ref>
+         <ref id="d1601e429a1310">
+            <mixed-citation id="d1601e433" publication-type="other">
+Rykiel, E. J. Jr. 1985. Toward a definition of ecological
+disturbance. Aust. J. Ecol. 10:361-365</mixed-citation>
+         </ref>
+         <ref id="d1601e443a1310">
+            <mixed-citation id="d1601e447" publication-type="other">
+Stensen, T. 1948. A method for establishing groups of equal
+amplitude in plant sociology based on similarity of species
+life histories. Oecologia 45:71-81</mixed-citation>
+         </ref>
+         <ref id="d1601e460a1310">
+            <mixed-citation id="d1601e464" publication-type="other">
+Sousa, W. P. 1984. The role of disturbance in natural
+communities. Ann. Rev. Ecol. Syst. 15:353-391</mixed-citation>
+         </ref>
+         <ref id="d1601e474a1310">
+            <mixed-citation id="d1601e478" publication-type="other">
+Virágh, K. 1982. Vegetation dynamics induced by some herbicides
+in a perennial grassland community, I. Acta Bot. Acad. Sci.
+Hung. 28:427-447</mixed-citation>
+         </ref>
+         <ref id="d1601e491a1310">
+            <mixed-citation id="d1601e495" publication-type="other">
+Virágh, K. 1986. A 5 year study of temporal variation of species
+composition in permanent grassland plots. Folia Geobot.
+Phytotax. Praha, (in press)</mixed-citation>
+         </ref>
+         <ref id="d1601e509a1310">
+            <mixed-citation id="d1601e513" publication-type="other">
+Westman, W. E. and J. F. 0'Leary. 1986. Measures of resilience:
+the response of coastal sage scrub to fire. Vegetatio
+65:179-189</mixed-citation>
+         </ref>
+         <ref id="d1601e526a1310">
+            <mixed-citation id="d1601e530" publication-type="other">
+White, P. S. 1979. Pattern, process and natural disturbance in
+vegetation. Bot. Rev. 45:229-299</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

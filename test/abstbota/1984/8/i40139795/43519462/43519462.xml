@@ -1,0 +1,134 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519462</article-id>
+         <title-group>
+            <article-title>AZ IMPATIENS PARVIFLORA DC. VADÁLLÓKÖVI (PILIS) ÁLLOMÁNYÁNAK CÖNOLÓGIAI ÉS ÖKOLÓGIAI VIZSGÁLATA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Péter</given-names>
+                  <surname>CSONTOS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1984</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139795</issue-id>
+         <fpage>15</fpage>
+         <lpage>34</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519462"/>
+         <abstract>
+            <p>Several records of Impatiens parviflora have been published from Hungary (see Map 2) since its first occurrence in 1891. Recently, presumably as a consequence of indirect human activity, it appeared at the Vadálló Rocks, a study area of the MAB project, and became a widespread forest weed with a density of 190±30 individuals/m² in June. It strives for a total dominance in the understory. Strong intraspecific competition is characteristic of the stands. All stands were found in a N-NE exposition between 30-60° slope angle showing that balanced water supply is an essential environmental condition for this species. The more or less closed herb layer composed of perennial grasses represents another limiting factor, especially if combined with shortage of water. In the study sites, as field observations and results of numerical classification suggest, I. parviflora is mainly found in Querceto petraeae-Carpinetum stands, although it also occurs, in other community types (see Table 1 and Fig. 3). No correlation was observed between the environmental factors (temperature, water supply and soil acidity) and the abundance of I. parviflora. Thus, abundance depends on whether the area was earlier or later colonized by this species.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>IRODALOM</title>
+         <ref id="d17380e227a1310">
+            <mixed-citation id="d17380e231" publication-type="other">
+Borbás, V. 1891. A nôvények vándorlása s Budapest flóra jának
+vendégei. Pótf. a Természettudományi Közl.-höz 23:16-18</mixed-citation>
+         </ref>
+         <ref id="d17380e241a1310">
+            <mixed-citation id="d17380e245" publication-type="other">
+Meusel, H., E. Jäger, S. Rauschert und E. Weinert. 1978. Ver-
+gleichende Chorologie der zentraleuropäischen Flora. G.
+Fischer, Jena</mixed-citation>
+         </ref>
+         <ref id="d17380e258a1310">
+            <mixed-citation id="d17380e262" publication-type="other">
+Podani, J. 1980. SYN-TAX. Számitógépes programcsomag ökologiai,
+cônológiai és taxonómiai osztályozások végrehaj tására.
+Abstracta Botanica 6:1-158</mixed-citation>
+         </ref>
+         <ref id="d17380e275a1310">
+            <mixed-citation id="d17380e279" publication-type="other">
+Précsényi, I. 1984. Az ôkológia tárgykôrének egy lehetséges
+megkôzelitése. Bot. Közl. 71:163-165</mixed-citation>
+         </ref>
+         <ref id="d17380e290a1310">
+            <mixed-citation id="d17380e294" publication-type="other">
+Priszter, Sz. 1965. Megjegyzések adventiv növenyeinkhez. 10.
+Impatiens fajok Magyarországon és az I. balfourii Hook. f.
+meghonosodása. Bot. Közl. 52:147-150</mixed-citation>
+         </ref>
+         <ref id="d17380e307a1310">
+            <mixed-citation id="d17380e311" publication-type="other">
+Rickett, H. W. 1973. Wild Flowers of the United States, vol.
+6. part II. The Central Mountains and Plains. McGraw-Hill,
+New York</mixed-citation>
+         </ref>
+         <ref id="d17380e324a1310">
+            <mixed-citation id="d17380e328" publication-type="other">
+Simon, T. és Hortobágyi T. (szerk.) 1981. Növenyföldra jz.
+Társulástan és ôkológia. Tankônyvkiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17380e338a1310">
+            <mixed-citation id="d17380e342" publication-type="other">
+Soó, R. 1964-1980. A magyar flóra és vegetáció rendszertani-
+növenyföldrajzi kézikônyve. Synopsis systematico — geo-
+botanica florae vegeta tionisque Hungariae. I-VI. Akadémiai
+Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17380e358a1310">
+            <mixed-citation id="d17380e362" publication-type="other">
+Sváb, J. 1967. Biometriai módszerek a mezõgazdasági kutatás-
+ban. Mezõgazdasági Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17380e372a1310">
+            <mixed-citation id="d17380e376" publication-type="other">
+Tutin, T. G., V. H. Heywood, N. A. Burges, D. H. Valentine,
+S. M. Walters and D. A. Webb. 1964. Flora Europaea. Cam-
+bridge University Press, Cambridge</mixed-citation>
+         </ref>
+         <ref id="d17380e390a1310">
+            <mixed-citation id="d17380e394" publication-type="other">
+Winsor, J. 1983. Persistence by habitat dominance in the
+annual Impatiens capensis (Bal sami naceae). J. Ecol.
+71:451-466</mixed-citation>
+         </ref>
+         <ref id="d17380e407a1310">
+            <mixed-citation id="d17380e411" publication-type="other">
+Zólyomi, B. 1958, Budapest és kôrnyékének természetes nôvény-
+takarója. In: Pécsi, M. Cszerk.) : Budapest Természetì
+Képe. Akadémiai Kiadó, Budapest, pp. 508-642</mixed-citation>
+         </ref>
+         <ref id="d17380e424a1310">
+            <mixed-citation id="d17380e428" publication-type="other">
+Zólyomi, B. 1964. Metode zur ökologischen Charakterisierung
+der Vegetationseinheiten und zum Vergleich der Standorte.
+Acta Botanica Acad. Sci. Hung. 10:377-416</mixed-citation>
+         </ref>
+         <ref id="d17380e441a1310">
+            <mixed-citation id="d17380e445" publication-type="other">
+Zólyomi, B. 1966. A magyar flóra 1400 fajának besorolása T,
+W, R értékek szerint. Fragm. Bot. Mus. Hiśt. Nat. Hung. 4.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

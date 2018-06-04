@@ -1,0 +1,117 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519301</article-id>
+         <title-group>
+            <article-title>On the physiognomy of edaphic plant communities of the Bükk Mountains</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>L.</given-names>
+                  <surname>Körmöczi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1992</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139781</issue-id>
+         <fpage>91</fpage>
+         <lpage>94</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519301"/>
+         <abstract>
+            <p>The climatically zonal forest communities of the Bükk Mts. exhibit a more or less regular altitudinal zonation. The variegated geomorphology and the resulting microclimatic and hydrographie conditions, as well as the diversity of parental materials are responsible for the complex mosaic and intricate successional relationships of intrazonal communities. This review discusses the physiognomic conditions of some edaphic communities and summarizes their successional relationships. Emphasis is placed on communities extensively studied for malacofauna in other papers in this volume; no attempt is made to give a full overview of all vegetation types of the mountains.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2765e114a1310">
+            <mixed-citation id="d2765e118" publication-type="other">
+Fekete, G. &amp; Jakucs, P. 1968. A Biikk-hegység xerotherm
+tölgyerdője (Corno-Quercetum). Bot. Közlem. 55:59-66.</mixed-citation>
+         </ref>
+         <ref id="d2765e128a1310">
+            <mixed-citation id="d2765e132" publication-type="other">
+Jakucs, P. 1961. Az Északi-Kôzéphegység keleti felének
+nôvényzete. (Die Pflanzendecke der Osthalfte des
+nördlichen Mittelgebirges.). Földr. Ért. 10:357-377.</mixed-citation>
+         </ref>
+         <ref id="d2765e145a1310">
+            <mixed-citation id="d2765e149" publication-type="other">
+Jakucs, P. 1981. Magyarország legfontosabb nôvénytársulásai.
+In: Hortobágyi, T. &amp; Simon, T. (eds.) Növényföldrajz,
+társulástan és ökológia. Tankönyvkiadó, Budapest, pp. 225-
+266.</mixed-citation>
+         </ref>
+         <ref id="d2765e165a1310">
+            <mixed-citation id="d2765e169" publication-type="other">
+Jakucs, P. &amp; Fekete, G. 1957. Der Karst buschwald des
+nordöstlichen ungarischen Mittelgebirges. Acta Bot. Acad.
+Sci. Hung. 3:253-259.</mixed-citation>
+         </ref>
+         <ref id="d2765e183a1310">
+            <mixed-citation id="d2765e187" publication-type="other">
+Juhász, L. 1959. A bükki Nagymező növényzete. Acta Acad.
+Paed. Agr. 5:495-505.</mixed-citation>
+         </ref>
+         <ref id="d2765e197a1310">
+            <mixed-citation id="d2765e201" publication-type="other">
+Juhász, L. 1961. Az Eger-környéki táj szerepe a Főioskolai nö-
+vénytani oktatásban I. Szarvaskő. Acta Acad. Paed. Agr.
+7:143-149.</mixed-citation>
+         </ref>
+         <ref id="d2765e214a1310">
+            <mixed-citation id="d2765e218" publication-type="other">
+Juhász, L. 1962. Az Eger-környéki táj szerepe a Főiskolai nö-
+vénytani oktatásban I. Bélkő. Acta Acad. Paed. Agr. 8:131-
+138.</mixed-citation>
+         </ref>
+         <ref id="d2765e231a1310">
+            <mixed-citation id="d2765e235" publication-type="other">
+Soó, R. 1964. A magyar flóra és vegetáció rendszertani-
+nôvényföldrajzi kézikönyve I. Akadémiai Kiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d2765e245a1310">
+            <mixed-citation id="d2765e249" publication-type="other">
+Suba, J. 1983. A Bükk növényei. In: Sándor, A. (ed.) Kilátás a
+kövekröl. Bükki Nemzeti Park. Mezőgazdasági Kiadó,
+Budapest, pp. 189-236.</mixed-citation>
+         </ref>
+         <ref id="d2765e262a1310">
+            <mixed-citation id="d2765e266" publication-type="other">
+Zólyomi, B., Jakucs, P., Baráth, Z. &amp; Horánszky, A. 1955.
+Forstwirtschaftliche Ergebnisse der Geobotanischen Kar-
+tierung im Bükkgebirge. Acta Bot. Acad. Sei. Hung. 1:361-
+395.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

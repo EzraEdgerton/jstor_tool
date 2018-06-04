@@ -1,0 +1,140 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519461</article-id>
+         <title-group>
+            <article-title>A SIMULATION MODEL FOR GENERATING PATTERNS OF SESSILE POPULATIONS</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tamás</given-names>
+                  <surname>CZÁRÁN</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1984</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139795</issue-id>
+         <fpage>1</fpage>
+         <lpage>13</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519461"/>
+         <abstract>
+            <p>A Monte-Carlo simulation model has been developed for the study of the spatio-temporal behavior of n annual plant species. Restricted dispersion of propagules and local competition among seedlings are assumed. The main conclusion obtained by the simulation of two extreme cases regarding propagule dispersion is that space-related events may have a considerable effect on the demography of interacting plant populations.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d17401e203a1310">
+            <mixed-citation id="d17401e207" publication-type="other">
+Auld, B. A. and B. G. Coote. 1980. A model of a spreading
+plant population. Oikos 34:287-292</mixed-citation>
+         </ref>
+         <ref id="d17401e217a1310">
+            <mixed-citation id="d17401e223" publication-type="other">
+Beddington, J. R., C. A. Free and J. H. Lawton. 1978.
+Characteristics of successful natural enemies in models of
+biological control of insect pests. Nature 273:513-519</mixed-citation>
+         </ref>
+         <ref id="d17401e236a1310">
+            <mixed-citation id="d17401e240" publication-type="other">
+DeAngelis, O. L., C. C. Travis and Ví. M. Post. 1978.
+Persistence and stability of seed-dispersed species in
+a patchy environment. Theor. Population Biol. 16:107-125</mixed-citation>
+         </ref>
+         <ref id="d17401e253a1310">
+            <mixed-citation id="d17401e257" publication-type="other">
+Harper, J. L. 1977. Population Biology of Plants. Academic
+Press, London</mixed-citation>
+         </ref>
+         <ref id="d17401e268a1310">
+            <mixed-citation id="d17401e272" publication-type="other">
+Karlson, R. H. and J. B. C. Jackson. 1981. Competitive networks
+and community structure: a simulation study. Ecology
+62:670-678</mixed-citation>
+         </ref>
+         <ref id="d17401e285a1310">
+            <mixed-citation id="d17401e289" publication-type="other">
+MacArthur, R. H. and E. O. Wilson. 1967. The Theory of Island
+Biogeography. Princeton Univ. Press, Princeton</mixed-citation>
+         </ref>
+         <ref id="d17401e299a1310">
+            <mixed-citation id="d17401e303" publication-type="other">
+May, R. M. 1978. Host-parasi toid systems in patchy environments:
+a phenomenological model. J. Animal Ecol. 47:833-843</mixed-citation>
+         </ref>
+         <ref id="d17401e313a1310">
+            <mixed-citation id="d17401e317" publication-type="other">
+Maynard-Smith, J. 1974. Models in Ecology. Cambridge Univ.
+Press, Cambridge</mixed-citation>
+         </ref>
+         <ref id="d17401e327a1310">
+            <mixed-citation id="d17401e331" publication-type="other">
+Nisbet, R. M. and W. S. C. Gurney. 1982. Modelling Fluctuating
+Populations. Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d17401e341a1310">
+            <mixed-citation id="d17401e345" publication-type="other">
+Okubo, A. 1980. Diffusion and Ecological Problems: Mathematical
+Models. Bionathematics Vol 10.</mixed-citation>
+         </ref>
+         <ref id="d17401e356a1310">
+            <mixed-citation id="d17401e360" publication-type="other">
+Pielou, E. C. 1977. Mathematical Ecology. Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d17401e367a1310">
+            <mixed-citation id="d17401e371" publication-type="other">
+Ripley, B. D. 1981. Spatial Statistics. Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d17401e378a1310">
+            <mixed-citation id="d17401e382" publication-type="other">
+Strobeck, G. 1973. N-species competition. Ecology 54:650-654</mixed-citation>
+         </ref>
+         <ref id="d17401e389a1310">
+            <mixed-citation id="d17401e393" publication-type="other">
+Szobol, I. M. 1981. A Monte-Carlo módszerek alapjai. Müszaki
+Kônyvkiadó, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17401e403a1310">
+            <mixed-citation id="d17401e407" publication-type="other">
+Watt, A. S. 1947. Pattern and process in the plant community.
+J. Ecol. 35:1-22</mixed-citation>
+         </ref>
+         <ref id="d17401e417a1310">
+            <mixed-citation id="d17401e421" publication-type="other">
+Weiner, J. and P. T. Conte. 1981. Dispersal and neighborhood
+effects in an annual plant competition model. Ecol.
+Modelling 13:131-147</mixed-citation>
+         </ref>
+         <ref id="d17401e435a1310">
+            <mixed-citation id="d17401e439" publication-type="other">
+Wilson, E. O. and W. H. Bossert 1971. A Primer of Population
+Biology. Sinauer, Sunderland</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

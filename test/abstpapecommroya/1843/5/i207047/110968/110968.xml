@@ -1,0 +1,58 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">abstpapecommroya</journal-id>
+         <journal-id journal-id-type="jstor">j100687</journal-id>
+         <journal-title-group>
+            <journal-title>Abstracts of the Papers Communicated to the Royal Society of London</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03650855</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">110968</article-id>
+         <title-group>
+            <article-title>Researches into the Effects of Certain Physical and Chemical Agents on the Nervous System. [Abstract]</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Marshall</given-names>
+                  <surname>Hall</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1843</year>
+         
+            <day>1</day>
+            <month>1</month>
+            <year>1850</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue/>
+         <issue-id>i207047</issue-id>
+         <fpage>674</fpage>
+         <lpage>675</lpage>
+         <page-range>674-675</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/110968"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

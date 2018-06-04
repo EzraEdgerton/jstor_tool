@@ -1,0 +1,232 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519256</article-id>
+         <title-group>
+            <article-title>C3 and C4 grasses of Hungary: environmental requirements, phenology and role in the vegetation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T.</given-names>
+                  <surname>Kalapos</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1991</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139777</issue-id>
+         <fpage>83</fpage>
+         <lpage>88</lpage>
+         <permissions>
+            <copyright-statement>© 1991 Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519256"/>
+         <abstract>
+            <p>The grass species of Hungary are classified as C3 or C4 on the basis of taxonomic information. Various indices in the literature describing ecological behavior of species are used to compare these groups. C3 species dominate the grass flora; they are mainly perennials and occupy a great variety of habitats. Only 14.4% of the 174 grass species is of C4 type, which are mostly annuals on disturbed land. The few non-weedy species inhabit saline areas or calcareous grasslands. There is a temporal displacement in the phenology of grasses with different fixation pathways; the C4 species growing in the hot and dry summer period, while the C3 species have the maximal activity earlier, in May and June. The use of Ellenberg's ecological indicator values showed C4 species to occupy habitats with higher temperature than that of the habitat of C3 grasses, but no difference was found in the moisture requirements. The reported higher efficiency of nitrogen use in the C4 pathway has not resulted a preference of C4 grasses for habitats poor in nitrogen.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4667e178a1310">
+            <mixed-citation id="d4667e182" publication-type="other">
+Barnes, P. W., Tieszen, L. L. &amp; Ode, DJ. 1983. Distribution,
+production, and diversity of C3- and C4- dominated com-
+munities in a mixed prairie. Can. J. Bot. 61:741-751.</mixed-citation>
+         </ref>
+         <ref id="d4667e195a1310">
+            <mixed-citation id="d4667e199" publication-type="other">
+Batanouny, K.H., Stichler, W. &amp; Ziegler, H. 1988. Photosyn-
+thetic pathways, distribution, and ecological characteristics
+of grass species in Egypt. Oecologia 75:539-548.</mixed-citation>
+         </ref>
+         <ref id="d4667e212a1310">
+            <mixed-citation id="d4667e216" publication-type="other">
+Boutton, TW., Harrison, A.T. &amp; Smith, B.N. 1980. Distribution
+of biomass of species differing in photosynthetic pathway
+along an altitudinal transect in southeastern Wyoming
+grassland. Oecologia 45:287-298.</mixed-citation>
+         </ref>
+         <ref id="d4667e232a1310">
+            <mixed-citation id="d4667e236" publication-type="other">
+Chazdon, R.L. 1978. Ecological aspects of the distribution of
+C4 grasses in selected habitats of Costa Rica. Biotropica
+10:265-269.</mixed-citation>
+         </ref>
+         <ref id="d4667e250a1310">
+            <mixed-citation id="d4667e254" publication-type="other">
+Christie, E.K. &amp; Detling, J.K. 1982. Analysis of interference
+between C3 and C4 grasses in relation to temperature and
+soil nitrogen supply. Ecology 63:1277-1284.</mixed-citation>
+         </ref>
+         <ref id="d4667e267a1310">
+            <mixed-citation id="d4667e271" publication-type="other">
+Collins, R.P. &amp; Jones, M.B. 1985. The influence of climatic
+factors on the distribution of C4 species in Europe.
+Vegetatio 64:121-129.</mixed-citation>
+         </ref>
+         <ref id="d4667e284a1310">
+            <mixed-citation id="d4667e288" publication-type="other">
+Cowling, R.M. 1983. The occurrence of C3 and C4 grasses in
+fynbos and allied shrublands in the South Eastern Cape,
+South Africa. Oecologia 58:121-127.</mixed-citation>
+         </ref>
+         <ref id="d4667e301a1310">
+            <mixed-citation id="d4667e305" publication-type="other">
+Doliner, L.H. &amp; Jolliffe, P.A. 1979. Ecological evidence con-
+cerning the adaptive significance of the C4 dicarboxylic
+acid pathway of photosynthesis. Oecologia 38:23-34.</mixed-citation>
+         </ref>
+         <ref id="d4667e318a1310">
+            <mixed-citation id="d4667e322" publication-type="other">
+Ehleringer, J.R. 1978. Implications on quantum yield differen-
+ces on the distributions of C3 and C4 grasses. Oecologia
+31:255-267.</mixed-citation>
+         </ref>
+         <ref id="d4667e335a1310">
+            <mixed-citation id="d4667e339" publication-type="other">
+Ellenberg, H. 1974. Indicator values of vascular plants in
+Central Europe. Scripta Geobotanica 9:1-97.</mixed-citation>
+         </ref>
+         <ref id="d4667e350a1310">
+            <mixed-citation id="d4667e354" publication-type="other">
+Ellis, R.P., Vogel, J.C. &amp; Fuis, A. 1980. Photosynthetic path-
+ways and the geographical distribution of grasses in South-
+west Africa/Namibia. S. Afr. J. Sci. 76:307-314.</mixed-citation>
+         </ref>
+         <ref id="d4667e367a1310">
+            <mixed-citation id="d4667e371" publication-type="other">
+Gebauer, G., Schubert, B., Schumacher, M.I., Rehder, H. &amp;
+Ziegler, H. 1987. Biomass production and nitrogen con-
+tent of C3- and C4-grasses in pure and mixed culture with
+different nitrogen supply. Oecologia 71:613-617.</mixed-citation>
+         </ref>
+         <ref id="d4667e387a1310">
+            <mixed-citation id="d4667e391" publication-type="other">
+Gould, F.W. &amp; Shaw, R.B. 1983. Grass systematics. 2nd ed.,
+Texas A and M University Press, College Station.</mixed-citation>
+         </ref>
+         <ref id="d4667e401a1310">
+            <mixed-citation id="d4667e405" publication-type="other">
+Grime, J.P. 1979. Plant strategies and vegetation processes.
+John Wiley, Chichester.</mixed-citation>
+         </ref>
+         <ref id="d4667e415a1310">
+            <mixed-citation id="d4667e419" publication-type="other">
+Hartley, W. &amp; Slater, C. 1960. Studies on the origin, evolution,
+and distribution of the Gramineae. III. The tribes of the
+subfamily Eragrostoideae. Aust. J. Bot. 8:256-276.</mixed-citation>
+         </ref>
+         <ref id="d4667e432a1310">
+            <mixed-citation id="d4667e436" publication-type="other">
+Hattersley, P.W. 1983. The distribution of C3 and C4 grasses in
+Australia in relation to climate. Oecologia 57:113-128.</mixed-citation>
+         </ref>
+         <ref id="d4667e447a1310">
+            <mixed-citation id="d4667e451" publication-type="other">
+Kakas, J. (ed.) 1967. Klima Atlas von Ungarn. Band II. Tabel-
+len. Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4667e461a1310">
+            <mixed-citation id="d4667e465" publication-type="other">
+Odfc, D.J., Tieszen, L.L. &amp; Lerman, J.C. 1980. The seasonal
+contribution of C3 and C4 plant species to primary
+production in a mixed prairie. Ecology 61:1304-1311.</mixed-citation>
+         </ref>
+         <ref id="d4667e478a1310">
+            <mixed-citation id="d4667e482" publication-type="other">
+Osmond, C.B., Winter, K. &amp; Ziegler, H. 1982. Functional sig-
+nificance of different pathways of CO2 fixation in
+photosynthesis. In: O.L. Lange, P.S. Nobel, C.B. Osmond
+&amp; H. Ziegler (eds.), Physiological plant ecology II. (En-
+cyclopedia of plant physiology, New Series, vol. 12B).
+Springer, Berlin, pp 480-547.</mixed-citation>
+         </ref>
+         <ref id="d4667e505a1310">
+            <mixed-citation id="d4667e509" publication-type="other">
+Rundel, P.W. 1980. The ecological distribution of C3 and C4
+grasses in the Hawaiian Islands. Oecologia 45:354-359.</mixed-citation>
+         </ref>
+         <ref id="d4667e519a1310">
+            <mixed-citation id="d4667e523" publication-type="other">
+Simon, T. 1988. Nature conservation ranks of the Hungarian
+vascular flora. Abstracta Botanica 12:1-24.</mixed-citation>
+         </ref>
+         <ref id="d4667e533a1310">
+            <mixed-citation id="d4667e537" publication-type="other">
+Soó, R. 1973. A magyar flóra és vegetáció rendszertani
+növönyföldrajzi kézikönyve. (Synopsis Systematico-Geo-
+botanica Florae Vegetationisque Hungariae) Tbmus V.
+Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4667e554a1310">
+            <mixed-citation id="d4667e558" publication-type="other">
+Soó, R. &amp; Kárpáti, Z. 1968. A magyar Flóra. Harasztok -
+Virágos növények. (Flora of Hungary. Pteridophytes -
+Flowering Plants). Tankônyvkiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4667e571a1310">
+            <mixed-citation id="d4667e575" publication-type="other">
+Sváb, J. 1980. Biometriai módszerek a kutatásban. (Biometri-
+cal methods for scientific research.) Mezôgazdasági Kiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d4667e588a1310">
+            <mixed-citation id="d4667e592" publication-type="other">
+Teeri, J.A. &amp; Stowe, L.G. 1976. Climatic patterns and the dis-
+tribution of C4 grasses in North America. Oecologia 23:1-
+12.</mixed-citation>
+         </ref>
+         <ref id="d4667e605a1310">
+            <mixed-citation id="d4667e609" publication-type="other">
+Tieszen, L.L., Senyimba, M.M., Imbamba, S.K. &amp; Troughton,
+J.H. 1979. The distribution of C3 and C4 grasses and the
+carbon isotope discrimination along an altitudinal and
+moisture gradient in Kenya. Oecologia 37:337-350.</mixed-citation>
+         </ref>
+         <ref id="d4667e625a1310">
+            <mixed-citation id="d4667e629" publication-type="other">
+Vogel, J.C., Fuis, A. &amp; Danin, A. 1986. Geographical and en-
+vironmental distribution of C3 and C4 grasses in the Sinai,
+Negev, and Judean deserts. Oecologia 70:258-265.</mixed-citation>
+         </ref>
+         <ref id="d4667e642a1310">
+            <mixed-citation id="d4667e646" publication-type="other">
+Vogel, J.C., Fuis, A., Ellis, R.P. 1978. The geographical dis-
+tribution of Kranz grasses in South Africa. S. Afr. J. Sci.
+74:209-215.</mixed-citation>
+         </ref>
+         <ref id="d4667e660a1310">
+            <mixed-citation id="d4667e664" publication-type="other">
+Young, H.J. &amp; Young, T.P. 1983. Local distributions of C3 and
+C4 grasses in sites of overlap on Mount Kenya. Oecologia
+58:373-377.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

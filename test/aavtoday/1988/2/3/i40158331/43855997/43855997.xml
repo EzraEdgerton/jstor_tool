@@ -1,0 +1,127 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43855997</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>REVIEWED</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Egg Binding in a Budgerigar (Melopsittacus undulatus) Caused by a Cyst of the Right Oviduct</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Manfred</given-names>
+                  <surname>Hochleithner</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Christine</given-names>
+                  <surname>Lechner</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>10</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>3</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40158331</issue-id>
+         <fpage>136</fpage>
+         <lpage>138</lpage>
+         <permissions>
+            <copyright-statement>© 1988 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43855997"/>
+         <abstract>
+            <p>A congenital abnormality, characterized by two fully formed oviducts, is described in a budgerigar. The right oviduct was filled with gelatinous fluid which formed a space-occupying cyst, resulting in egg binding in the left salpinx. Clinical signs and subsequent surgical intervention are discussed.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1167e155a1310">
+            <label>1</label>
+            <mixed-citation id="d1167e162" publication-type="other">
+HARRISON GJ : Reproductive medicine. In Harrison GJ, Harrison LR
+(eds): Clinical Avian Medicine and Surgery. Philadelphia, WB Saunders
+CO, 1986, pp 625-626.</mixed-citation>
+         </ref>
+         <ref id="d1167e175a1310">
+            <label>2</label>
+            <mixed-citation id="d1167e182" publication-type="other">
+RINGER RK: Selected physiology for the avian practitioner. In Har-
+rison GJ, Harrison LR (eds): Clinical Avian Medicine and Surgery.
+Philadelphia, WB Saunders Co, 1986, pp 78-80.</mixed-citation>
+         </ref>
+         <ref id="d1167e195a1310">
+            <label>3</label>
+            <mixed-citation id="d1167e202" publication-type="other">
+GYLSDORF I, GRIMM F: Vogelkrankheiten. Eugen Ulmer Verlag Stut-
+tgart, 1987.</mixed-citation>
+         </ref>
+         <ref id="d1167e212a1310">
+            <label>4</label>
+            <mixed-citation id="d1167e219" publication-type="other">
+HOCHLEITHNER M, GEORGOPOULOS A: Experiences with
+piperacillin in psittaciforms. 6 Tagung Uber Vogelkrankheiten, Munich
+3-4 March, 1988.</mixed-citation>
+         </ref>
+         <ref id="d1167e233a1310">
+            <label>5</label>
+            <mixed-citation id="d1167e240" publication-type="other">
+ROSSKOPF W: Personal communication, 1987.</mixed-citation>
+         </ref>
+         <ref id="d1167e247a1310">
+            <label>6</label>
+            <mixed-citation id="d1167e254" publication-type="other">
+GRIMM F: Personal communication, 1985.</mixed-citation>
+         </ref>
+         <ref id="d1167e261a1310">
+            <label>7</label>
+            <mixed-citation id="d1167e268" publication-type="other">
+HARRISON GJ, DOYLE J: Proceedings Avian Microsurgical Seminar.
+Research Institute for Avian Medicine, Nutrition and Reproduction,
+1987.</mixed-citation>
+         </ref>
+         <ref id="d1167e281a1310">
+            <label>8</label>
+            <mixed-citation id="d1167e288" publication-type="other">
+HARRISON GJ: Selected surgical procedures. In Harrison GJ, Har-
+rison LR (eds): Clinical Avian Medicine and Surgery, Philadelphia, WB
+Saunders Co, 1986, pp 592-593.</mixed-citation>
+         </ref>
+         <ref id="d1167e301a1310">
+            <label>9</label>
+            <mixed-citation id="d1167e308" publication-type="other">
+MCKIBBEN J, HARRISON GJ: Clinical anatomy. In Harrison GJ, Har-
+rison LR (eds): Clinical Avian Medicine and Surgery, Philadelphia, WB
+Saunders Co, 1986, pp 59-</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,234 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519486</article-id>
+         <title-group>
+            <article-title>Genet and ramet dynamics of Cypripedium calceolus in different habitats</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tiiu</given-names>
+                  <surname>Kull</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1995</year>
+         </pub-date>
+         <volume>19</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139796</issue-id>
+         <fpage>95</fpage>
+         <lpage>104</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519486"/>
+         <abstract>
+            <p>Genet and ramet dynamics of Cypripedium calceolus L. (Orchidaceae) were studied in five populations which inhabit different plant communities in Estonia. Clones (genets), identified with the aid of isozyme electrophoresis, were observed within permanent plots for at least ten years. Matrix analysis was used to study genet dynamics, in which the genets were separated into different size classes (according to the number of aerial ramets). Genet dynamics were much more stable than ramet dynamics. The fluctuations in population size were mainly a result of changes in genet sizes. There were differences in the equilibrium structure of the populations, which were related to differences injight conditions. The relationship between vegetative and generative reproduction was analysed quantitatively, showing the dominance of vegetative reproduction.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7337e205a1310">
+            <mixed-citation id="d7337e209" publication-type="other">
+Anderson, M. C. 1964. Studies of the woodland light climate. I.
+Photographic computation of light conditions. J. Ecol. 52: 27-
+41.</mixed-citation>
+         </ref>
+         <ref id="d7337e222a1310">
+            <mixed-citation id="d7337e226" publication-type="other">
+Caswell, H. 1982. Stable population structure and reproductive
+value for populations with complex life cycles. Ecology 63(5):
+1223-1231.</mixed-citation>
+         </ref>
+         <ref id="d7337e239a1310">
+            <mixed-citation id="d7337e243" publication-type="other">
+Caswell, H. 1985. The evolutionary demography of clonal reproduc-
+tion. In: Jackson, B. C., L. W. Buss, R. E. Cook (eds), Population
+Biology and Evolution of Clonal Organisms. Yale University
+Press, New Haven and London, pp. 187-224.</mixed-citation>
+         </ref>
+         <ref id="d7337e259a1310">
+            <mixed-citation id="d7337e263" publication-type="other">
+Charron, D. &amp; D. Gagnon. 1991. The demography of northern
+populations of Panax quinquefolium (American ginseng). Jour-
+nal of Ecology 79: 431-445.</mixed-citation>
+         </ref>
+         <ref id="d7337e277a1310">
+            <mixed-citation id="d7337e281" publication-type="other">
+Ellstrand, N. C. &amp; M. L. Roose. 1987. Patterns of genotypie diversity
+in clonal plant species. American Journal of Botany 74(1): 123-
+131.</mixed-citation>
+         </ref>
+         <ref id="d7337e294a1310">
+            <mixed-citation id="d7337e298" publication-type="other">
+Eriksson, O. 1989. Seedling dynamics and life histories in clonal
+plants. Oikos 55:231-238.</mixed-citation>
+         </ref>
+         <ref id="d7337e308a1310">
+            <mixed-citation id="d7337e312" publication-type="other">
+Eriksson, O. 1993. Dynamics of genets in clonal plants. Trends in
+Ecology and Evolution 8(9): 313-316.</mixed-citation>
+         </ref>
+         <ref id="d7337e322a1310">
+            <mixed-citation id="d7337e326" publication-type="other">
+Falinska, K. 1985. Demography of coenopopulations of forest herbs.
+In: White, J. (ed.), The population structure of vegetation. Junk
+Publishers, Dordrecht, pp. 241-264.</mixed-citation>
+         </ref>
+         <ref id="d7337e339a1310">
+            <mixed-citation id="d7337e343" publication-type="other">
+Gregg, K. B. 1991. Variation in behaviour of four populations of the
+orchid Cleistes divaricata, an assessment using transition matrix
+models. In: Wells, T. C. E. &amp; J. H. Willems (eds), Population
+ecology of terrestrial orchids. SPB Academic Publishing, The
+Hague, pp. 139-159.</mixed-citation>
+         </ref>
+         <ref id="d7337e362a1310">
+            <mixed-citation id="d7337e366" publication-type="other">
+Groenendael, J. van, Kroon, H. de, Caswell, H. 1988. Projection
+matrices in population biology. Trends in Ecology and Evolu-
+tion 3(10): 264-269.</mixed-citation>
+         </ref>
+         <ref id="d7337e380a1310">
+            <mixed-citation id="d7337e384" publication-type="other">
+Harper, J. 1977. Population biology of plants. Academic Press, Lon-
+don.</mixed-citation>
+         </ref>
+         <ref id="d7337e394a1310">
+            <mixed-citation id="d7337e398" publication-type="other">
+Jaaska, V. 1981. Aspartate aminotransferase and alcohol
+dehydrogenase isoenzymes: intraspecific differentiation in
+Aegilops tauschii and the origin of the D genome polyploids in
+the wheat group. Plant Syst. Ecol. 137: 259-273.</mixed-citation>
+         </ref>
+         <ref id="d7337e414a1310">
+            <mixed-citation id="d7337e418" publication-type="other">
+Jaaska, V. &amp; V. Jaaska. 1986. Isoenzyme variation in the barley
+genus Hordeum L. I. Biochem. Physiol. Pflanzen 181: 301-320.</mixed-citation>
+         </ref>
+         <ref id="d7337e428a1310">
+            <mixed-citation id="d7337e432" publication-type="other">
+Kalda, A. 1987. Vegetation of landscape reserves of south-east Es-
+tonia, its representation and rarity. In: Laasimer, L. &amp; T. Kull
+(eds), The plant cover of the Estonian SSR: Flora, vegetation
+and ecology. Valgus, Tallinn, pp. 67-76.</mixed-citation>
+         </ref>
+         <ref id="d7337e448a1310">
+            <mixed-citation id="d7337e454" publication-type="other">
+Korczyński, M. &amp; E. R. Spiewakowski. 1991. Struktura roz-
+mieszczenia 11 wielkości populacji obuwika pospolitego
+Cypripedium calceolus L. nad jeziorem Kwiecko. Prądnik.
+Prace Muz. Szafera 3: 183-191.</mixed-citation>
+         </ref>
+         <ref id="d7337e470a1310">
+            <mixed-citation id="d7337e474" publication-type="other">
+de Kroon, H., A. Plaisier, J. van Groenendael &amp; H. Caswell. 1986.
+Elasticity: the relative contribution of demographic parameters
+to population growth rate. Ecology 67(5): 1427-1431.</mixed-citation>
+         </ref>
+         <ref id="d7337e488a1310">
+            <mixed-citation id="d7337e492" publication-type="other">
+Kull, T. 1987. Population ecology of Cypripedium calceolus L. In:
+Laasimer, L. &amp; T. Kull (eds), The plant cover of the Estonian
+SSR: Flora, vegetation and ecology. Valgus, Tallinn, pp. 77-83.</mixed-citation>
+         </ref>
+         <ref id="d7337e505a1310">
+            <mixed-citation id="d7337e509" publication-type="other">
+Kull, T. 1988. Identification of clones in Cypripedium calceolus L.
+(Orchidaceae). Proceedings of the Academy of Sciences Es-
+tonian SSR, Biology 37: 195-199.</mixed-citation>
+         </ref>
+         <ref id="d7337e522a1310">
+            <mixed-citation id="d7337e526" publication-type="other">
+Kull, T. &amp; K. Kull. 1991 . Preliminary results from a study of popula-
+tions of Cypripedium calceolus in Estonia. In: Wells, T. C. E. &amp;
+J. H. Willems (eds), Population ecology of terrestrial orchids.
+SPB Academic Publishing, The Hague, pp. 69-76.</mixed-citation>
+         </ref>
+         <ref id="d7337e542a1310">
+            <mixed-citation id="d7337e546" publication-type="other">
+Madgwick, H. A. I. &amp; G. L. Brumfield. 1969. The use of hemispheri-
+cal photographs to assess light climate in the forest. Journal of
+Ecology 57(2): 537-542.</mixed-citation>
+         </ref>
+         <ref id="d7337e559a1310">
+            <mixed-citation id="d7337e563" publication-type="other">
+Mehrhoff, L. A. 1989. The dynamics of declining populations of en-
+dangered orchid, Isotria medeoloides. Ecology 70: 783-786.</mixed-citation>
+         </ref>
+         <ref id="d7337e573a1310">
+            <mixed-citation id="d7337e577" publication-type="other">
+Sadovsky, O. 1973. Orchideen im eigenen Garten. BLV, München.</mixed-citation>
+         </ref>
+         <ref id="d7337e585a1310">
+            <mixed-citation id="d7337e589" publication-type="other">
+Sarukhan, J. &amp; M.Gadgil. 1974. Studies on plant demography:
+Ranunculus repens L., R. bulbosus L. and R. acris L. III. A math-
+ematical model incorporating multiple modes of reproduction.
+Journal of Ecology 62: 921-936.</mixed-citation>
+         </ref>
+         <ref id="d7337e605a1310">
+            <mixed-citation id="d7337e609" publication-type="other">
+Silvertown, J. W. &amp; J. Lovett Doust. 1993. Introduction to plant
+population biology. Blackwell Scientific Publications, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d7337e619a1310">
+            <mixed-citation id="d7337e623" publication-type="other">
+Voronzova, L. I. &amp; L. B. Zaugolnova. 1985. Population biology of
+steppe plants. In: White, J. (ed.), The population structure of
+vegetation. Junk Publishers, Dordrecht, pp. 143-178.</mixed-citation>
+         </ref>
+         <ref id="d7337e636a1310">
+            <mixed-citation id="d7337e640" publication-type="other">
+Waite, S. &amp; M. J. Hutchings. 1991. The effects of different manage-
+ment regimes on the population dynamics of Ophrys sphegodes :
+analysis and description using matrix models. In: Wells, T. C. E.
+&amp; J. H. Willems (eds), Population ecology of terrestrial orchids.
+SPB Academic Publishing, The Hague, pp. 161-175.</mixed-citation>
+         </ref>
+         <ref id="d7337e659a1310">
+            <mixed-citation id="d7337e663" publication-type="other">
+Wells, T. C. E. 1994. Population ecology of British terrestrial or-
+chids. In: Pridgeon, A. (ed.), Proceedings of the 14th World Or-
+chid Conference, 1993, H.M.S.O. Edinburgh, pp. 170-175.</mixed-citation>
+         </ref>
+         <ref id="d7337e676a1310">
+            <mixed-citation id="d7337e680" publication-type="other">
+Widén, B., N. Cronberg &amp; M. Widén. 1994. Génotypic diversity,
+molecular markers and spatial distribution of genets in clonal
+plants, aliterature survey. Folia Geobot. Phytotax., Praha, 29:
+245-263.</mixed-citation>
+         </ref>
+         <ref id="d7337e697a1310">
+            <mixed-citation id="d7337e701" publication-type="other">
+Ziegenspeck, H. 1936. Orchidaceae. In: Kirchner, O. et al. (eds),
+Lebensgeschichte des Blütenpflanzen Mitteleuropas Bd. 1.
+Abt.4. Ulmer Verlag, Stuttgart.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

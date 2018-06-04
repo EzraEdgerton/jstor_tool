@@ -1,0 +1,133 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519284</article-id>
+         <title-group>
+            <article-title>The effect of species dominance on information theory characteristics of plant communities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>B.</given-names>
+                  <surname>Tóthmérész</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Zs.</given-names>
+                  <surname>Erdei</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1992</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139779</issue-id>
+         <fpage>43</fpage>
+         <lpage>47</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519284"/>
+         <abstract>
+            <p>The effect of the dominance level of species or species groups on the information theory functions proposed by Juhász-Nagy was studied through spatial processes. The dominance structure of the communities was changed during simulations of completely random plant patterns. We have demonstrated that the number of peaks of information theory functions depends on the dominance structure of the community and as many peaks occur as the number of dominance groups of species. Differences between the mean density of dominance groups must increase following an exponential function in order to produce distinct peaks. Therefore, the occurrence of more than three peaks is very unlikely in a real field situation. Rare species might frequently produce a narrow and pointed second or third peak probably not detectable by methods using grid cells rather than point maps of individuals. The elimination of rare species does not change the location of the peak produced by the dominant and subdominant species. We also demonstrated that associatum is extremely sensitive to the effect of rare species, suggesting elimination of rare species from the data in association analysis.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d8007e171a1310">
+            <mixed-citation id="d8007e175" publication-type="other">
+Bartha S. &amp; Horváth F. 1987. Long transects and information
+theoretical functions to pattern detection I. TVansects ver-
+sus isodiametric sampling units. Abstracta Botanica 11:9-
+26.</mixed-citation>
+         </ref>
+         <ref id="d8007e191a1310">
+            <mixed-citation id="d8007e195" publication-type="other">
+Bartha S. 1990. Spatial processes in developing plant com-
+munities: pattern formation detected using information
+theory. In: Krahulec, F., Agnew, A.D.Q., Agnew, S. &amp; Wil-
+lems, J. (eds): Spatial Processes in Plant Communities,
+Academia, Praha, Czechoslovakia, pp. 31-47.</mixed-citation>
+         </ref>
+         <ref id="d8007e214a1310">
+            <mixed-citation id="d8007e218" publication-type="other">
+Camiz, S. &amp; Gergely, A 1990. An exploratory method for
+determining optimal plot size in plant communities.
+Abstracta Botanica 14:83-108.</mixed-citation>
+         </ref>
+         <ref id="d8007e231a1310">
+            <mixed-citation id="d8007e235" publication-type="other">
+Diggle, P. J. 1983. Statistical Analysis of Spatial Point Patterns.
+Academic Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d8007e246a1310">
+            <mixed-citation id="d8007e250" publication-type="other">
+Erdei Zs. &amp; Tôthmérész B. 1992. Sim-Pat: A program package
+to simulare community-wide patterns. Abstracta Botanica
+(to appear).</mixed-citation>
+         </ref>
+         <ref id="d8007e263a1310">
+            <mixed-citation id="d8007e267" publication-type="other">
+Juhász-Nagy, P. 1976. Spatial dependence of plant populations.
+Part 1. Equivalence analysis (An outline of a new model).
+Acta Botanica Hungarica 22:61-78.</mixed-citation>
+         </ref>
+         <ref id="d8007e280a1310">
+            <mixed-citation id="d8007e284" publication-type="other">
+Juhász-Nagy, P. 1984. Spatial dependence of plant populations.
+Part 2. A family of new models. Acta Botanica Hungarica
+30:363-402.</mixed-citation>
+         </ref>
+         <ref id="d8007e297a1310">
+            <mixed-citation id="d8007e301" publication-type="other">
+Juhász-Nagy, P. &amp; Podani J. 1983. Information theory methods
+for the study of spatial processes and succession. Vegetatio
+51: 129-140.</mixed-citation>
+         </ref>
+         <ref id="d8007e314a1310">
+            <mixed-citation id="d8007e318" publication-type="other">
+Matus G. &amp; Tôthmérész, B. 1990. The effect of grazing on the
+structure of a sandy grassland. In: Krahulec, F., Agnew,
+A.D.Q., Agnew, S. &amp; Willems, J.H. (eds): Spatial Processes
+in Plant Communities. Academia, Praha.</mixed-citation>
+         </ref>
+         <ref id="d8007e334a1310">
+            <mixed-citation id="d8007e338" publication-type="other">
+Podani J. 1984. Analysis of mapped and simulated vegetation
+pattern by means of computerized sampling techniques.
+Acta Botanica Hungarica 30:403-425.</mixed-citation>
+         </ref>
+         <ref id="d8007e352a1310">
+            <mixed-citation id="d8007e356" publication-type="other">
+Szollát, Gy. &amp; Bartha S. 1991. Pattern analysis of dolomite
+grassland communities using information theory models.
+Abstracta Botanica 15:47-60.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

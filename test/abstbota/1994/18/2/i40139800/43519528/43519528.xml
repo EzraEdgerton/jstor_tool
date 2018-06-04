@@ -1,0 +1,226 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519528</article-id>
+         <title-group>
+            <article-title>A procedure for structuring vegetation tables</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>S.</given-names>
+                  <surname>Camiz</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1994</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139800</issue-id>
+         <fpage>57</fpage>
+         <lpage>70</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519528"/>
+         <abstract>
+            <p>A semiautomatic procedure is proposed as a helpful tool for structuring vegetation data tables. Data analysis and typical procedures used for this purpose are discussed in the context of the theoretical steps involved, and an example is shown.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1467e214a1310">
+            <mixed-citation id="d1467e218" publication-type="other">
+Anderberg, M. R. 1973. Cluster Analysis for Applications.
+Academic Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d1467e228a1310">
+            <mixed-citation id="d1467e232" publication-type="other">
+Austin, M. P. 1976. On non-linear species response models in ordina-
+tion. Vegetatio 33: 33-41.</mixed-citation>
+         </ref>
+         <ref id="d1467e242a1310">
+            <mixed-citation id="d1467e246" publication-type="other">
+Benzécri, J. P. 1973. L'Analyse des Données. 2 vol. Dunod, Paris.</mixed-citation>
+         </ref>
+         <ref id="d1467e253a1310">
+            <mixed-citation id="d1467e257" publication-type="other">
+Bourbaki, N. 1962. Eléments de Mathématiques. Livre II, Algèbre,
+chap. 2, Algèbre lineaire. Hermann, Paris, ASI 1236.</mixed-citation>
+         </ref>
+         <ref id="d1467e268a1310">
+            <mixed-citation id="d1467e272" publication-type="other">
+Camiz, S. 1988. Expert systems: utility in community studies and
+examples. Coenoses 3: 33-39.</mixed-citation>
+         </ref>
+         <ref id="d1467e282a1310">
+            <mixed-citation id="d1467e286" publication-type="other">
+Camiz, S. 1991. Reflections on spaces relationships in ecological
+data analysis: effects, problems, possible solutions. Coenoses
+6(1): 3-13.</mixed-citation>
+         </ref>
+         <ref id="d1467e299a1310">
+            <mixed-citation id="d1467e303" publication-type="other">
+Camiz, S. 1993a. Computer assisted procedures for structuring com-
+munity data. Coenoses 8(2): 97-104.</mixed-citation>
+         </ref>
+         <ref id="d1467e313a1310">
+            <mixed-citation id="d1467e317" publication-type="other">
+Camiz, S. 1993b. STATIS ordinations vs. the Juhász-Nagy models:
+the predictability of an exploratory tool. Abstracta Botanica
+17(1-2): 29-36.</mixed-citation>
+         </ref>
+         <ref id="d1467e330a1310">
+            <mixed-citation id="d1467e334" publication-type="other">
+Feoli, E. &amp; L. Orlóci 1979. Analysis of concentration and detection
+of underlying factors in structured tables. Vegetatio 40: 49-54.</mixed-citation>
+         </ref>
+         <ref id="d1467e344a1310">
+            <mixed-citation id="d1467e348" publication-type="other">
+Fewster, P. H. &amp; L. Orlóçi 1983. On choosing a resemblance
+measure for non-linear predictive ordination. Vegetatio, 54: 27-
+35.</mixed-citation>
+         </ref>
+         <ref id="d1467e362a1310">
+            <mixed-citation id="d1467e366" publication-type="other">
+Gauch, H. G. jr., G. B. Chase, &amp; R. H. Whittaker 1974. Ordination
+of vegetation samples by Gaussian species distributions. Ecol-
+ogy 55: 1382-1390.</mixed-citation>
+         </ref>
+         <ref id="d1467e379a1310">
+            <mixed-citation id="d1467e383" publication-type="other">
+Godement, R. 1966. Cours d'algèbre. Hermann, Paris.</mixed-citation>
+         </ref>
+         <ref id="d1467e390a1310">
+            <mixed-citation id="d1467e394" publication-type="other">
+Goodall, D. W. &amp; R. W. Johnson 1987. Maximum-likelihood ordina-
+tion -some improvements and further tests. Vegetatio 73: 3-12.</mixed-citation>
+         </ref>
+         <ref id="d1467e404a1310">
+            <mixed-citation id="d1467e408" publication-type="other">
+Guttman, L. 1953. A note on Sir Cyril Burt's factorial analysis of
+qualitative data. British Journal of Statistical Psychology 6: 1-4.</mixed-citation>
+         </ref>
+         <ref id="d1467e418a1310">
+            <mixed-citation id="d1467e422" publication-type="other">
+Hill, M. O. 1973. Reciprocal averaging: an eigenvector method of
+ordination. Journal of Ecology 61: 237-249.</mixed-citation>
+         </ref>
+         <ref id="d1467e432a1310">
+            <mixed-citation id="d1467e436" publication-type="other">
+Hill, M. O. 1974. Correspondence analysis: a neglected multivariate
+method. Applied Statistics 23: 340-354.</mixed-citation>
+         </ref>
+         <ref id="d1467e447a1310">
+            <mixed-citation id="d1467e451" publication-type="other">
+Hill, M. O. &amp; H. G. Gauch 1980. Detrended correspondence
+analysis, an improved ordination technique. Vegetatio, 42: 47-
+58.</mixed-citation>
+         </ref>
+         <ref id="d1467e464a1310">
+            <mixed-citation id="d1467e468" publication-type="other">
+Ihm, P. &amp; H. van Groenewoud 1983. Correspondence analysis and
+Gaussian ordination. Compstat Lectures, Physica Verlag, 3: 5-
+60.</mixed-citation>
+         </ref>
+         <ref id="d1467e481a1310">
+            <mixed-citation id="d1467e485" publication-type="other">
+Lebart, L., A. Morineau &amp; N. Tabard 1977. Techniques de la
+Description Statistique. Dunod. Paris.</mixed-citation>
+         </ref>
+         <ref id="d1467e495a1310">
+            <mixed-citation id="d1467e499" publication-type="other">
+Legendre, L. &amp; P. Legendre 1983. Numerical Ecology. Elsevier Sci.
+Co., Amsterdam.</mixed-citation>
+         </ref>
+         <ref id="d1467e509a1310">
+            <mixed-citation id="d1467e513" publication-type="other">
+Mueller-Dombois, D. &amp; H. Ellenberg 1974. Aims and methods of
+vegetation ecology. J. Wiley and Sons, New York.</mixed-citation>
+         </ref>
+         <ref id="d1467e523a1310">
+            <mixed-citation id="d1467e527" publication-type="other">
+Noy-Meir, I. 1971. Multivariate analysis of the semi-arid vegetation
+in south-eastern Australia: nodal ordination by component
+analysis. Proceedings of the Ecological Society of Australia 6:
+159-193.</mixed-citation>
+         </ref>
+         <ref id="d1467e544a1310">
+            <mixed-citation id="d1467e548" publication-type="other">
+Noy-Meir, I. 1974. Catenation: quantitative methods for the defini-
+tion of coenoclińes. Vegetatio 29: 89-99.</mixed-citation>
+         </ref>
+         <ref id="d1467e558a1310">
+            <mixed-citation id="d1467e562" publication-type="other">
+Orlóci, L. 1978. Multivariate Analysis in Vegetation Research. Junk.
+The Hague.</mixed-citation>
+         </ref>
+         <ref id="d1467e572a1310">
+            <mixed-citation id="d1467e576" publication-type="other">
+Orlóci, L. 1980. Non-linear data structures and their description. In:
+L. Orlóci, C. R. Rao &amp; W. M. Stiteler (eds.). Multivariate
+Methods in Ecological Work. Statistical Ecology Series. ICPH,
+Burtonsville, MD. 7: 191-202.</mixed-citation>
+         </ref>
+         <ref id="d1467e592a1310">
+            <mixed-citation id="d1467e596" publication-type="other">
+Pignatti, S., S. Camiz, P. Squartini &amp; V. Squartini 1989. Chorological
+and ecological information as basis for the syntaxonomy of
+beech forests in Italy. Berichte der Reinhold-Tüxen-
+Gesellschaft, Göttingen, 1: 73-82.</mixed-citation>
+         </ref>
+         <ref id="d1467e612a1310">
+            <mixed-citation id="d1467e616" publication-type="other">
+ter Braak, C. J. F. 1985. Canonical Correspondence Analysis: a new
+Eigenvector Technique for Multivariate Direct Gradient
+Analysis. IWIS-TNO Wageningen (NL), A85ST17.</mixed-citation>
+         </ref>
+         <ref id="d1467e629a1310">
+            <mixed-citation id="d1467e633" publication-type="other">
+Ward, J. H. 1963. Hierarchical grouping to optimize an objective
+function. Journal of the American Statistical Association 58:
+236-244.</mixed-citation>
+         </ref>
+         <ref id="d1467e647a1310">
+            <mixed-citation id="d1467e651" publication-type="other">
+Wildi, O. 1988. Chaining multivariate techniques. New approaches
+to the classification of Vegetation Data. Symposium on Progress
+in Theoretical Vegetation Science. IAVS, Vienna.</mixed-citation>
+         </ref>
+         <ref id="d1467e664a1310">
+            <mixed-citation id="d1467e668" publication-type="other">
+Wildi, O. 1989. A new numerical solution to traditional
+phytosociological tabular classification. Vegetatio, 81:95-106.</mixed-citation>
+         </ref>
+         <ref id="d1467e678a1310">
+            <mixed-citation id="d1467e682" publication-type="other">
+Wildi, O. &amp; L. Orlóci. 1990. Numerical Exploration of Community
+Patterns. SPB Acad. Pub., The Hague.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

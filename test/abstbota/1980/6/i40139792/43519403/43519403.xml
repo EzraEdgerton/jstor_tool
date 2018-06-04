@@ -1,0 +1,72 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519403</article-id>
+         <title-group>
+            <article-title>СТРОЕНИЕ ФОТОСИНТЕТИЧЕСКОГО АППАРАТА ТРАВЯНИСТЫХ РАСТЕНИЙ ПОД ПОЛОГОМ ЛЕСА В ЗАВИСИМОСТИ ОТ СВЕТОВОГО РЕЖИМА</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Зоя</given-names>
+                  <surname>Секе</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1980</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139792</issue-id>
+         <fpage>99</fpage>
+         <lpage>105</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519403"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>rus</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Литература</title>
+         <ref id="d2030e144a1310">
+            <label>1</label>
+            <mixed-citation id="d2030e151" publication-type="other">
+Горышина Т.К., Нешатаез Ю.Н., Терешенкова Е.А.: "О роли
+травяного покрова з продуктивности и биологическом
+круговороте лесостепной дубравы", Лесоведение, №3,
+1975, стр. 29-37.</mixed-citation>
+         </ref>
+         <ref id="d2030e167a1310">
+            <label>2</label>
+            <mixed-citation id="d2030e174" publication-type="other">
+Цельникер Ю.Л. : "Физиологические основы теневыносливости
+древесных растений", "Наука", М., 1978, стр. 127-136.</mixed-citation>
+         </ref>
+         <ref id="d2030e184a1310">
+            <label>3</label>
+            <mixed-citation id="d2030e191" publication-type="other">
+Мокроносов А. Г., Багаутдинова Р. К.: "Динамика хлороплас-
+тов з листьях картофеля", Физиол. раст., 1974, т. 21,
+Ns6, стр. 1132-1138.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

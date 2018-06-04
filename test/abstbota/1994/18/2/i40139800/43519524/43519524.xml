@@ -1,0 +1,106 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519524</article-id>
+         <title-group>
+            <article-title>The treatment of spatial data in probabilistic classification</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>D. W.</given-names>
+                  <surname>Goodall</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1994</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139800</issue-id>
+         <fpage>45</fpage>
+         <lpage>47</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519524"/>
+         <abstract>
+            <p>The Similarity Index, Affinity Index and Deviant Index described previously as probability-based tools for use in numerical taxonomy are extended to cover attributes, such as geographical distribution, which can be described in terms of quantities in spatially defined cells - for instance, the squares of a grid.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d1460e114a1310">
+            <mixed-citation id="d1460e118" publication-type="other">
+Clifford, H. Ť. and Goodall, D. W. 1967. A numerical contribution to
+the classification of the Poaceae. Aust. J. Bot. 15: 499-519.</mixed-citation>
+         </ref>
+         <ref id="d1460e128a1310">
+            <mixed-citation id="d1460e132" publication-type="other">
+Goodall, D. W. 1964. A probabilistic similarity index. Nature, Lond.
+203: 1098.</mixed-citation>
+         </ref>
+         <ref id="d1460e142a1310">
+            <mixed-citation id="d1460e146" publication-type="other">
+Goodall, D. W. 1966a. A new similarity index based on probability.
+Biometrics 22: 882-905.</mixed-citation>
+         </ref>
+         <ref id="d1460e156a1310">
+            <mixed-citation id="d1460e160" publication-type="other">
+Goodall, D. W. 1966b. Deviant Index: a new tool for numerical
+taxonomy. Nature, Lond. 210: 216.</mixed-citation>
+         </ref>
+         <ref id="d1460e171a1310">
+            <mixed-citation id="d1460e175" publication-type="other">
+Goodall, D. W. 1966c. Numerical taxonomy of bacteria: some
+published data re-examined. J. gen. Microbiol. 42: 25-37.</mixed-citation>
+         </ref>
+         <ref id="d1460e185a1310">
+            <mixed-citation id="d1460e189" publication-type="other">
+Goodall, D. W. 1968. Affinity between an individual and a cluster in
+numerical taxonomy. Biométrie-Praximétrie 9: 52-55.</mixed-citation>
+         </ref>
+         <ref id="d1460e199a1310">
+            <mixed-citation id="d1460e203" publication-type="other">
+Goodall, D. W. 1993. Probabilistic indices for classification - Some
+extensions. Abs. Bot. 17: 125-132.</mixed-citation>
+         </ref>
+         <ref id="d1460e213a1310">
+            <mixed-citation id="d1460e217" publication-type="other">
+Goodall, D. W. and Feoli, E. 1990. Application of probabilistic
+methods in the analysis of phytosociological data. Coenoses 1:
+1-9.</mixed-citation>
+         </ref>
+         <ref id="d1460e230a1310">
+            <mixed-citation id="d1460e234" publication-type="other">
+Simon, J. P. and Goodall, D. W. 1968. Relationship in annual species
+of Medicago VI. Two-dimensional chromatography of the
+phenolics and analysis of the results by probabilistic similarity
+methods. Aust. J. Bot. 16: 89-100.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

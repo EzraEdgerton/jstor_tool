@@ -1,0 +1,98 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519399</article-id>
+         <title-group>
+            <article-title>ВЗАИМООТНОШЕНИЯ МЕЖДУ ЛЕСНЫМИ СООБЩЕСТВАМИ И ПОЧВАМИ ПРИДУНАЙСКОЙ НИЗМЕННОСТИ</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Михал</given-names>
+                  <surname>Джатко</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ян</given-names>
+                  <surname>Михалко</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1980</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139792</issue-id>
+         <fpage>37</fpage>
+         <lpage>44</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519399"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>rus</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Литература</title>
+         <ref id="d2044e132a1310">
+            <mixed-citation id="d2044e136" publication-type="other">
+DZATKO, M. : Synökologische Charakteristik der Waldgesell-
+schaften im nördlichen Teil des Donauflachlandes. In:
+Biol. Práce, 18, Vyd. SAV Bratislava, 1972, 4, p. 1-95.</mixed-citation>
+         </ref>
+         <ref id="d2044e149a1310">
+            <mixed-citation id="d2044e153" publication-type="other">
+DZATKO, M.: Ecological Aspects of the Differences Between
+Chierniczas and Chernozems. In: Ved. Práce Vysk. Ustav
+podoznalectva a vyzivy rastlin v Bratislave, 7,
+Priroda 1974, p. 31-39.</mixed-citation>
+         </ref>
+         <ref id="d2044e169a1310">
+            <mixed-citation id="d2044e173" publication-type="other">
+HRASKO, J.: Cernozeme Podunajskej niziny. In: Náuka o ze-
+mi II. pedologica 1, SAV Bratislava 1966, 71 s.</mixed-citation>
+         </ref>
+         <ref id="d2044e183a1310">
+            <mixed-citation id="d2044e187" publication-type="other">
+HRASKO, J.: Some Characteristic Features of the Soil Cover
+in the Zitny ostrov, Geogr. Cas., 2o, 1968, 3, p.
+246-256.</mixed-citation>
+         </ref>
+         <ref id="d2044e201a1310">
+            <mixed-citation id="d2044e205" publication-type="other">
+JURKO, A.: Podne ekologické poměry a lesné spolocenstvá
+Podunajskej niziny. Bratislava 1958, 264 s.</mixed-citation>
+         </ref>
+         <ref id="d2044e215a1310">
+            <mixed-citation id="d2044e219" publication-type="other">
+MICHALKO, J., DZATKO, M. : Fytocenologická a ekologická
+charakteristika rastlinnych spolocenstiev lesa Dubnik
+pri Seredi. In: Biol. Práce, 11, Bratislava, Vyd. SAV,
+1965, 5, p. 47-113.</mixed-citation>
+         </ref>
+         <ref id="d2044e235a1310">
+            <mixed-citation id="d2044e239" publication-type="other">
+MICHALKO, J., et all.: Potenciálna vegetácia SSR. /Mapa
+1 : 500 000/, Atlas SSR, VII, Bratislava 1979.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

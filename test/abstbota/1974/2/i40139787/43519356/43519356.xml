@@ -1,0 +1,52 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519356</article-id>
+         <title-group>
+            <article-title>ADATOK A CSÉVHARASZTI TERMÉSZETVÉDELMI TERÜLET ÉS A LIGETERDÓK GOMBÁIHOZ</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>István</given-names>
+                  <surname>Konyecsni</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139787</issue-id>
+         <fpage>77</fpage>
+         <lpage>93</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1975</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519356"/>
+         <abstract>
+            <p>From 1962 we investigated the presence of mushroows at tht Csávharaszt nature conservation area and its surraunding in 4-11 cases year by year. The fruits of mushroom were taken and conted from theree of 100 m large unvaried growing spaces. At the same timae we measured the temperature and also the humiditv of the soil. So we got data characterising, phytocenology and ecology of the area. We have found more than 400 species of mushrooms. One past of the species can be find only on sandy soil. On this area we menaged to reveal several new species or species of mushrooms being first time in our country. Such epecies are: Armillaria rickenii BOHUS, Inocybe aerusinascens BABOS, Inocybe agardhii /LUND/ORTON, Leucpaxillus tricolor /PECK,/KHUN, Pluteus pearaonii ORTON, Rhodocybe fallax /QUEL./SING etc.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

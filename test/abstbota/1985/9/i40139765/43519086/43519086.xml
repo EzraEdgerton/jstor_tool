@@ -1,0 +1,192 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519086</article-id>
+         <title-group>
+            <article-title>THE STUDY OF CONVERGENT EVOLUTION IN PLANTS AND PLANT COMMUNITIES: A QUANTITATIVE APPROACH</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Duilio</given-names>
+                  <surname>LAUSI</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Pier Luigi</given-names>
+                  <surname>NIMIS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139765</issue-id>
+         <fpage>67</fpage>
+         <lpage>77</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519086"/>
+         <abstract>
+            <p>This paper briefly describes the main methodological principles developed by the authors for a series of studies on convergence between plant communities of distant areas, within the framework of an international co-operative project between the universities of London (Canada) and Trieste (Italy).</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d4727e119a1310">
+            <mixed-citation id="d4727e123" publication-type="other">
+Allee, W. C., A. E. Emerson, O. Park and K. P. Schmidt. 1949.
+Principles of Animal Ecology. W. B. Saunders, Philadephia
+and London</mixed-citation>
+         </ref>
+         <ref id="d4727e136a1310">
+            <mixed-citation id="d4727e140" publication-type="other">
+Barkman, J. 1979. The investigation of vegetation texture and
+structure. In: M. J. A. Werger (ed.): The Study of
+Vegetation. pp. 123-160. Junk, The Hague</mixed-citation>
+         </ref>
+         <ref id="d4727e153a1310">
+            <mixed-citation id="d4727e157" publication-type="other">
+Cullen, J. 1968. Botanical Problems of Numerical Taxonomy. In:
+V. H. Heywood (ed.): Modern Methods in Plant Taxonomy. Aca-
+demic Press, London</mixed-citation>
+         </ref>
+         <ref id="d4727e170a1310">
+            <mixed-citation id="d4727e174" publication-type="other">
+Drude, O. 1890. Handbuch der Pflanzengeographie. J. Engelhorn
+Verlag, Leipzig</mixed-citation>
+         </ref>
+         <ref id="d4727e185a1310">
+            <mixed-citation id="d4727e189" publication-type="other">
+Grisebach, A. H. R. 1872. Die Vegetation der Erde nach ihrer
+klimatischen Anordnung. W. Engelmann Verlag, Leipzig</mixed-citation>
+         </ref>
+         <ref id="d4727e199a1310">
+            <mixed-citation id="d4727e203" publication-type="other">
+Heywood, V. H. 1973. Chemosystematics, an artificial discipline.
+In: G. Bendz and J. Santesson (eds): Chemistry in Botanical
+Classification. Academic Press, New York</mixed-citation>
+         </ref>
+         <ref id="d4727e216a1310">
+            <mixed-citation id="d4727e220" publication-type="other">
+Humboldt, A. von. 1807. Essay sur la Geographie des plantes.
+Paris</mixed-citation>
+         </ref>
+         <ref id="d4727e230a1310">
+            <mixed-citation id="d4727e234" publication-type="other">
+Johnson, A. W. 1979. Historical View of the Concept of Ecosystem
+Convergence. In: F. Di Castri and H. A. Mooney (eds): Medi-
+terranean Type Ecosystems. Springer Verlag</mixed-citation>
+         </ref>
+         <ref id="d4727e247a1310">
+            <mixed-citation id="d4727e251" publication-type="other">
+Lausi, D. and P. L. Nimis. 1985. Morphological variation and ad-
+aptation in plant communities. I. The high-elevation desert
+of Tenerife (Canary Islands). (in press)</mixed-citation>
+         </ref>
+         <ref id="d4727e264a1310">
+            <mixed-citation id="d4727e268" publication-type="other">
+Mooney, H. A. and E. L. Dunn. 1970a. Photosynthetic systems of
+mediterranean-climate shrubs and trees of California and
+Chile. Amer. Nat. 104:447-453</mixed-citation>
+         </ref>
+         <ref id="d4727e282a1310">
+            <mixed-citation id="d4727e286" publication-type="other">
+Mooney, H. A. and E. L. Dunn. 1970b. Convergent evolution in
+mediterranean-climate evergreen sclerophyll shrubs.
+Evolution 24:292-303</mixed-citation>
+         </ref>
+         <ref id="d4727e299a1310">
+            <mixed-citation id="d4727e303" publication-type="other">
+Mooney, H. A., E. L. Dunn, F. Shropshire and L. Song. 1970.
+Vegetation comparisons between the mediterranean climatic
+areas of California and Chile. Flora 159:480-496</mixed-citation>
+         </ref>
+         <ref id="d4727e316a1310">
+            <mixed-citation id="d4727e320" publication-type="other">
+Naveh, Z. 1967. Mediterranean ecosystems and vegetation types in
+California and Israel. Ecology 48:445-459</mixed-citation>
+         </ref>
+         <ref id="d4727e330a1310">
+            <mixed-citation id="d4727e334" publication-type="other">
+Orlóci, L., E. Feoli, D. Lausi and P. L. Nimis. 1985. Estimation
+of character structure convergence (divergence) in plant
+communities: a nested hierarchical model, (in press)</mixed-citation>
+         </ref>
+         <ref id="d4727e347a1310">
+            <mixed-citation id="d4727e351" publication-type="other">
+Sage, R. D. 1979. Ecological convergence of the lizard faunas of
+the chaparral communities of Chile and California. In: F. Di
+Castri and H. A. Mooney (eds): Mediterranean Type
+Ecosystems. Springer Verlag</mixed-citation>
+         </ref>
+         <ref id="d4727e367a1310">
+            <mixed-citation id="d4727e371" publication-type="other">
+Salisbury, E. J. 1927. On the causes and ecological significance
+of stomatal frequency, with special reference to the wood-
+land flora. Phil. Trans. r. Soc. London, Ser. B, 216:1-65</mixed-citation>
+         </ref>
+         <ref id="d4727e385a1310">
+            <mixed-citation id="d4727e389" publication-type="other">
+Schimper, A. F. 1903. Plant Geography upon a Physiological Basis.
+Clarendon Press, Oxford</mixed-citation>
+         </ref>
+         <ref id="d4727e399a1310">
+            <mixed-citation id="d4727e403" publication-type="other">
+Shmida, A. 1981. Comparison between the mediterranean
+vegetation of Israel and California. Isr. J. Bot. 30:105-123</mixed-citation>
+         </ref>
+         <ref id="d4727e413a1310">
+            <mixed-citation id="d4727e417" publication-type="other">
+Shmida, A. 1983. Biogeography of the desert floras of the world
+In: M. Even-Ari and I. Noy-Meir (eds): Hot Deserts.
+Ecosystems of the World. Vol 12. Elsevier, Amsterdam</mixed-citation>
+         </ref>
+         <ref id="d4727e430a1310">
+            <mixed-citation id="d4727e434" publication-type="other">
+Smith, P. M. 1976. The Chemotaxonomy of Plants. Arnold, London</mixed-citation>
+         </ref>
+         <ref id="d4727e441a1310">
+            <mixed-citation id="d4727e445" publication-type="other">
+Specht, R. L. 1969a. A comparison of the sclerophyllous
+vegetation characteristic of mediterranean type climates in
+France, California and Southern Australia. I. Structure,
+morphology, and succession. Aust. J. Bot. 17:277-292</mixed-citation>
+         </ref>
+         <ref id="d4727e461a1310">
+            <mixed-citation id="d4727e465" publication-type="other">
+Specht, R. L. 1969b. A comparison of the sclerophyllous
+vegetation characteristic of mediterranean type climates in
+France, California and Southern Australia. II. Dry matter
+and nutrient accumulation. Aust. J. Bot. 17:293-308</mixed-citation>
+         </ref>
+         <ref id="d4727e482a1310">
+            <mixed-citation id="d4727e486" publication-type="other">
+Warming, E. and P. Graebner. 1918. Eug. Warming's Lehrbuch der
+oekologischen Pflanzengeographie. Borntraeger, Berlin</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,125 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519140</article-id>
+         <title-group>
+            <article-title>ON THE ASYMPTOTIC BEHAVIOUR OF A CONTINUOUS TIME, AGE-SPECIFIC POPULATION GROWTH MODEL</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Zoltán</given-names>
+                  <surname>Varga</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139769</issue-id>
+         <fpage>357</fpage>
+         <lpage>366</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519140"/>
+         <abstract>
+            <p>The age-specific population growth models describe the dynamics of the age structure of a population. For the basic properties of the original, discrete time-discrete age model we refer to Leslie (1945, 1948), and to Usher (1972), and Sverezhev and Logofet (1978) for a more recent survey. There also exists a continuous time-discrete age version of the model, see e. g., Poluektov (1974) and Varga (1984), involving ordinary differential equations, and also a continuous time-continuous age variant which, surprisingly, turned out to be relevant in the mathematical realization theory of distributed parameter control systems (see Juhász-Nagy and Varga 1980, Szigeti and Vera 1986a, b). In this paper, the continuous time-discrete age version is considered. The model is set up in section 1. In sections 2 and 3, an asymptotic age distribution is obtained, based on the spectral properties of the system matrix. Our treatment is somewhat different from that of Poluektov (1974). In section 4, stability criteria are given in terms of the model parameters.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d1685e107a1310">
+            <mixed-citation id="d1685e111" publication-type="other">
+Belmann, R. 1960. Introduction to Matrix Analysis, McGraw-Hill,
+New York</mixed-citation>
+         </ref>
+         <ref id="d1685e121a1310">
+            <mixed-citation id="d1685e125" publication-type="other">
+Gantmacher, F. R. 1960. Theory of Matrices. Chelsea, New York</mixed-citation>
+         </ref>
+         <ref id="d1685e132a1310">
+            <mixed-citation id="d1685e136" publication-type="other">
+Juhász-Nagy, P. and Z. Varga. 1980. Some problems of ecosystem
+research. In: Conference on Mathematical System Theory, held
+in Salgòtar jan (Hungary, May 26-28, 1980), Publ. by Karl
+Marx Univ. of Economics, Budapest, pp. 52-57</mixed-citation>
+         </ref>
+         <ref id="d1685e152a1310">
+            <mixed-citation id="d1685e156" publication-type="other">
+Leslie, P. H. 1945. On the use of matrices in certain population
+mathematics. Biometrika 33:183-212</mixed-citation>
+         </ref>
+         <ref id="d1685e167a1310">
+            <mixed-citation id="d1685e171" publication-type="other">
+Leslie, P. H. 1948. Some further notes on the use of matrices in
+population mathematics. Biometrika 35:213-245</mixed-citation>
+         </ref>
+         <ref id="d1685e181a1310">
+            <mixed-citation id="d1685e185" publication-type="other">
+Poluektov, R. A. (ed.) 1974. Dynamics Theory of Biological
+Populations. Nauka, Moscow, (in Russian)</mixed-citation>
+         </ref>
+         <ref id="d1685e195a1310">
+            <mixed-citation id="d1685e199" publication-type="other">
+Svirezhev, Yu. M. and D. O. Logofet. 1978. Stability of
+Biological Communities. Nauka, Moscow, (in Russian)</mixed-citation>
+         </ref>
+         <ref id="d1685e209a1310">
+            <mixed-citation id="d1685e213" publication-type="other">
+Szigeti, F. and C. E. Vera. 1986a. Realization of distributed
+parameter systems I. Ann. Univ. Sci. Budapest. Sect. Comp.
+(submitted )</mixed-citation>
+         </ref>
+         <ref id="d1685e226a1310">
+            <mixed-citation id="d1685e230" publication-type="other">
+Szigeti, F. and C. E. Vera. 1986b. Realization of distributed
+parameter systems II. Ann. Univ. Sci. Budapest. Sect. Comp,
+(submitted)</mixed-citation>
+         </ref>
+         <ref id="d1685e243a1310">
+            <mixed-citation id="d1685e247" publication-type="other">
+Usher, M. B. 1972. Developments in the Leslie matrix model. In:
+J. N. R. Jeffers (ed.), Mathematical Models in Ecology.
+Blackwell, Oxford, pp. 29-60</mixed-citation>
+         </ref>
+         <ref id="d1685e261a1310">
+            <mixed-citation id="d1685e265" publication-type="other">
+Varga, R. 1967. Matrix Iterative Analysis. Prentice-Hall,
+Englewood Cliffs, New Jersey</mixed-citation>
+         </ref>
+         <ref id="d1685e275a1310">
+            <mixed-citation id="d1685e279" publication-type="other">
+Varga, Z. 1984. Un modelo en la dinàmica de poblaciones. Notas
+de Matemáticas de la Universidad Central de Venezuela
+84-ED-03:1-40</mixed-citation>
+         </ref>
+         <ref id="d1685e292a1310">
+            <mixed-citation id="d1685e296" publication-type="other">
+Zaslavski, B. G. 1972. A stochastic growth model of cell
+populations. Problemy Kibernetiki 25:139-151 (in Russian)</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

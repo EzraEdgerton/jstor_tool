@@ -1,0 +1,165 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519439</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part One: Ecology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The correspondence between geographic position and climatic ordinations of the major vegetation zones of China: a Procrustes analysis approach</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>E.</given-names>
+                  <surname>Feoli</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J.</given-names>
+                  <surname>Podani</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>C. Y.</given-names>
+                  <surname>Sun</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>141</fpage>
+         <lpage>146</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519439"/>
+         <abstract>
+            <p>The relationship between climatic ordinations and the geographic position of meteorological stations has been studied via Procrustes analysis in order to measure the effects of some geographic features on climatic variation within phytoclimatic zones of China. The analysis showed that for nearly all phytoclimatic zones there is a high correspondence between the position of the metereological stations in multidimensional climatic space and in the territory. This means that the climatic variation follows a regular pattern in the territories of phytoclimatic zones. However, multiple regression confirmed that Procrustes measures of dissimilarity within each zone are significantly correlated with the standard deviation of altitude and the number of rivers of that zone. This indicates that these two geographic features affect the pattern of climatic variation.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d5006e211a1310">
+            <mixed-citation id="d5006e215" publication-type="other">
+Anderberg, M. R. 1973. Cluster analysis for applications.
+Academic Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d5006e225a1310">
+            <mixed-citation id="d5006e229" publication-type="other">
+Chang, H. S. 1988. The potential evaporation index of vegeta-
+tion with the relations to the vegetation-climate classifica-
+tion. Acta Phytoecology and Geobotany 13(3): 198-206.</mixed-citation>
+         </ref>
+         <ref id="d5006e242a1310">
+            <mixed-citation id="d5006e246" publication-type="other">
+Digby, P. G. N. &amp; R.A. Kempton. 1987. Multivariate Analysis
+of Ecological Communities. Chapman and Hall, London.</mixed-citation>
+         </ref>
+         <ref id="d5006e256a1310">
+            <mixed-citation id="d5006e262" publication-type="other">
+Gower, J. C. 1971. Statistical methods of comparing different
+multivariate analyses of the same data. In: F. R. Hodson,
+D. G. Kendall and P. Thutu (eds), Mathematics in the Ar-
+chaeological and Historical Sciences, pp. 138-149. Edin-
+burgh University Press, Edinburgh.</mixed-citation>
+         </ref>
+         <ref id="d5006e282a1310">
+            <mixed-citation id="d5006e286" publication-type="other">
+Holdrige, L. R. 1947. Determination of world plant formations
+from simple climatic data. Science 105:367-368.</mixed-citation>
+         </ref>
+         <ref id="d5006e296a1310">
+            <mixed-citation id="d5006e300" publication-type="other">
+Jolliffe, I. T. 1986. Principal Component Analysis. Springer,
+New York.</mixed-citation>
+         </ref>
+         <ref id="d5006e310a1310">
+            <mixed-citation id="d5006e314" publication-type="other">
+Kirby, K. C., M. Pazner and N. Thies. 1989. MAP II version
+1.0. Wiley, New York.</mixed-citation>
+         </ref>
+         <ref id="d5006e324a1310">
+            <mixed-citation id="d5006e328" publication-type="other">
+Nie, N. H. et al. 1975. SPSS Statistical Package for the Social
+Sciences. Mc Graw-Hill, New York.</mixed-citation>
+         </ref>
+         <ref id="d5006e338a1310">
+            <mixed-citation id="d5006e342" publication-type="other">
+Orlóci, L. 1973. Ranking characters by a dispersion criterion.
+Nature 244:371-373.</mixed-citation>
+         </ref>
+         <ref id="d5006e352a1310">
+            <mixed-citation id="d5006e356" publication-type="other">
+Park, S. K. &amp; K. W. Miller (1988). Random number generators:
+good ones are hard to find. Communications of the ACM,
+31. No.10.</mixed-citation>
+         </ref>
+         <ref id="d5006e370a1310">
+            <mixed-citation id="d5006e374" publication-type="other">
+Podani, J. 1991a. On the standardization of Procrustes statis-
+tics for the comparison of ordinations. Abstracta Botanica
+15:43-46.</mixed-citation>
+         </ref>
+         <ref id="d5006e387a1310">
+            <mixed-citation id="d5006e391" publication-type="other">
+Podani, J. 1991b. SYN-TAX IV Computer programs for data
+analysis in ecology and systematics. In: E. Feoli and L.
+Orlóci (eds), Computer Assisted Vegetation Analysis, pp.
+437-452, Kluwer, Tlie Hague.</mixed-citation>
+         </ref>
+         <ref id="d5006e407a1310">
+            <mixed-citation id="d5006e411" publication-type="other">
+Schönemann, P. H. &amp; R. M. Carroll. 1970. Fitting one matrix to
+another under choice of a central dilation and a rigid mo-
+tion. Psychometrika 35:245-256.</mixed-citation>
+         </ref>
+         <ref id="d5006e424a1310">
+            <mixed-citation id="d5006e428" publication-type="other">
+Sibson, R. 1978. Studies in the robustness of multidimensional
+scaling: Procrustes statistics. J. Royal Statist. Soc. B.
+40:234-238.</mixed-citation>
+         </ref>
+         <ref id="d5006e441a1310">
+            <mixed-citation id="d5006e445" publication-type="other">
+Sun, Cheng-Yong &amp; E. Feoli. 1991. Numerical phytoclimatic
+classification of China. International Journal of Biome-
+teorology 35:76-87.</mixed-citation>
+         </ref>
+         <ref id="d5006e458a1310">
+            <mixed-citation id="d5006e462" publication-type="other">
+Walter, H. &amp; H. Lieth. 1967. Klimadiagramm-Weltatlas. Gus-
+tav Fischer, Jena.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

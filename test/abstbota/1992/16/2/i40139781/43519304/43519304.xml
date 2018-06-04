@@ -1,0 +1,360 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519304</article-id>
+         <title-group>
+            <article-title>Terrestrial snail assemblages in the Bükk Mountains</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>K.</given-names>
+                  <surname>Bába</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1992</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139781</issue-id>
+         <fpage>109</fpage>
+         <lpage>127</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519304"/>
+         <abstract>
+            <p>The paper analyzes the snail assemblages of 36 plant community types in the Bükk Mts, Hungary. The abiotic and biotic factors influencing spatial distribution along vegetational succession, and structural changes of assemblages during reforestation are examined. Different anthropogenic effects are detected. Differences between species composition of the various beechwoods of Europe are evaluated based on new and literature data.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2758e265a1310">
+            <mixed-citation id="d2758e269" publication-type="other">
+Abrahám, A., Bende, S., Horváth, A., Megyeri, J. 1952. Adatok
+Putnok környékének hidrobiológiai viszonyaihoz. Ann.
+Biol. Univ. Hung. I: 345-350.</mixed-citation>
+         </ref>
+         <ref id="d2758e282a1310">
+            <mixed-citation id="d2758e286" publication-type="other">
+Abrahám, A., Bende, S., Horváth, A. &amp; Megyeri, J. 1954.
+Adatok a Bánvölgy hidrobiológiai viszonyaihoz. Ann. Biol.
+Univ. Hung. 2: 327-344.</mixed-citation>
+         </ref>
+         <ref id="d2758e299a1310">
+            <mixed-citation id="d2758e303" publication-type="other">
+Ábrahám, A., Biczók, F., Horváth, A. &amp; Megyeri, J. 1956a.
+Hidrobiologische und faunistische Studien im
+südwestlichen Teile des Bükk-Gebirges. Acta Biol.
+Szegediensis 2: 137-154.</mixed-citation>
+         </ref>
+         <ref id="d2758e319a1310">
+            <mixed-citation id="d2758e323" publication-type="other">
+Ábrahám, A., Horváth, A. &amp; Megyeri, J. 1956b. Hidrobiológiai
+vizsgálatok a Szilvás patak vízgyűjtő területén. Állattani
+Közlemények 45: 13-24.</mixed-citation>
+         </ref>
+         <ref id="d2758e337a1310">
+            <mixed-citation id="d2758e341" publication-type="other">
+Ant, H. 1968. Quantitative Untersuchungen der Landschneck-
+enfauna in einigen Nordwestdeutschen Pflanzen-
+gesellschaften. Pflanzensociologie und Landschaft Ökologie
+Verlag. Junk, Den Haag, pp. 141-150.</mixed-citation>
+         </ref>
+         <ref id="d2758e357a1310">
+            <mixed-citation id="d2758e361" publication-type="other">
+Ant, H. 1969. Die Malakologische Gliederung einiger Buchen-
+wald-Typen in Nordwest-Deutschland. Vegetatio 18: 374-
+386.</mixed-citation>
+         </ref>
+         <ref id="d2758e374a1310">
+            <mixed-citation id="d2758e378" publication-type="other">
+Bába, K. 1982. Eine neue zoographische Gruppierung der Un-
+garischen Landmollusken und die Wertung des Faunabil
+des. Malacologia 22: 441-454.</mixed-citation>
+         </ref>
+         <ref id="d2758e391a1310">
+            <mixed-citation id="d2758e395" publication-type="other">
+Bába, K., Varga, A., Wagner, M. &amp; Zseni, L. 1982-83. Daten zu
+den die Verbreitung der Landschnecken im Bükk-Gebirge
+beeinflussenden biotischen Faktoren. Soósiana 10-11: 25-
+30.</mixed-citation>
+         </ref>
+         <ref id="d2758e411a1310">
+            <mixed-citation id="d2758e415" publication-type="other">
+Bába, K. &amp; Füköh, L. 1984. Evaluation of holocene and recent
+malacological data in the Bükk by zoogeographical and
+ecological methods. Malakológiai Tǎjékoztató (Eger) 4:
+42-53.</mixed-citation>
+         </ref>
+         <ref id="d2758e431a1310">
+            <mixed-citation id="d2758e435" publication-type="other">
+Bába, K. 1985. Csigaegyüttesek szukcessziójáról. In: Fekete, G.
+(ed.) A cönológiai szukcesszió kérdései. Biológiai Tanul-
+mányok 12: pp 163-187. Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2758e449a1310">
+            <mixed-citation id="d2758e453" publication-type="other">
+Bába, K. 1986. Über die Sukzession der Landschneckenbes-
+tande in den Verschiedenen Waldassoziationen der Un-
+garischen Tiefebene. Proceedings of the 8th Int.
+Malacological Congress Budapest 13-17.</mixed-citation>
+         </ref>
+         <ref id="d2758e469a1310">
+            <mixed-citation id="d2758e473" publication-type="other">
+Bába, K. 1986. Clausilia cruciata Studer 1821 im Bükk-Gebirge
+(Ungarn). Soósiana 14: 5-6.</mixed-citation>
+         </ref>
+         <ref id="d2758e483a1310">
+            <mixed-citation id="d2758e487" publication-type="other">
+Bába, K. &amp; Podani, J. 1986. Multivariate analysis of snail dis-
+tribution in the Bükk Mountains, Hungary. IXth Interna-
+tional Malacological Congress Edinburgh, Scotland
+Abstracts 7.</mixed-citation>
+         </ref>
+         <ref id="d2758e503a1310">
+            <mixed-citation id="d2758e507" publication-type="other">
+Bába, K. 1989. Zönologisch-Zoogeographische Untersuchun-
+gen bei den Schneckenzönosen in dem Ungasrischen
+Tiefebene. Abstract of the Tenth Internat. Malacological
+Congress Tübingen, 16.</mixed-citation>
+         </ref>
+         <ref id="d2758e523a1310">
+            <mixed-citation id="d2758e527" publication-type="other">
+Domokos, T. 1985. Vertigo substriata (Jeffreys 1833) in the
+Bükk-mountains. Malacologiai Tǎjékoztató 5: 45-47.</mixed-citation>
+         </ref>
+         <ref id="d2758e537a1310">
+            <mixed-citation id="d2758e541" publication-type="other">
+Dzieczkowski, A. 1971. Terrestrial Gastropods of the forest
+reserve Świnia Gora in the Kielce District. Ochrona
+Przyrody, Polskiej Akad. Nauk. 36: 257-286.</mixed-citation>
+         </ref>
+         <ref id="d2758e555a1310">
+            <mixed-citation id="d2758e559" publication-type="other">
+Feoli, E. &amp; Orlóci, L. 1979. Analysis of concentration and
+detection of underlying factors in structured tables.
+Vegetatio 40: 49-54.</mixed-citation>
+         </ref>
+         <ref id="d2758e572a1310">
+            <mixed-citation id="d2758e576" publication-type="other">
+Frömming, E. 1954. Biologie der Mitteleuropäischen
+Landgastropoden. Duncker-Humblot, Berlin.</mixed-citation>
+         </ref>
+         <ref id="d2758e586a1310">
+            <mixed-citation id="d2758e590" publication-type="other">
+Giusti, F., Castagnolo, L. &amp; Manganelli, G. 1985. La fauna
+Malacologica delle Faggete Italiane: Brevicenni di
+ecologia, elenco delle specie e chiavi per II. Riconscimento
+del Generi e delle entita più Comuni. Bolletino
+Malacologico 21: 69-144.</mixed-citation>
+         </ref>
+         <ref id="d2758e609a1310">
+            <mixed-citation id="d2758e613" publication-type="other">
+Hasslein, L. 1966. Die Molluskengesellschaften des Bayeris-
+chen Waldes und des anliegenden Donautales. Bericht der
+Naturforschenden Gesellschaft Augsburg 110: 1-176.</mixed-citation>
+         </ref>
+         <ref id="d2758e626a1310">
+            <mixed-citation id="d2758e630" publication-type="other">
+Jungbluth, J. 1975. Molluskenfauna des Vogelsberges unter be-
+sonderer Besücksichtigung biogeographischer Aspekte.
+Biogeographica 5: 1-143.</mixed-citation>
+         </ref>
+         <ref id="d2758e643a1310">
+            <mixed-citation id="d2758e647" publication-type="other">
+Justyák, J. &amp; Tar, K. 1974. Investigations on the ratio of direct
+and global radiations amounts Part. I. Radiation on a
+horizontal surface and on a southern slope. Acta
+Geographica Debrecina 12: 127-148.</mixed-citation>
+         </ref>
+         <ref id="d2758e664a1310">
+            <mixed-citation id="d2758e668" publication-type="other">
+Körnig, G. 1966. Die Molluskengesellschaften des Mittel-
+dentschen Hügellandes. Malakologische Abhandlungen
+Dresden 2: 1-112.</mixed-citation>
+         </ref>
+         <ref id="d2758e681a1310">
+            <mixed-citation id="d2758e685" publication-type="other">
+Körnig, G. 1983. Studie zur Gastropodenfauna der West-kar-
+patischen Kalk und Karstschluchten. Malakologische Ab-
+handlungen Dresden 8: 131-142.</mixed-citation>
+         </ref>
+         <ref id="d2758e698a1310">
+            <mixed-citation id="d2758e702" publication-type="other">
+Körnig, G. 1985. Die Landgastropodengesellschaften des Un-
+terharzes. Malakologische Abhandlungen Dresden 11: 57-
+85.</mixed-citation>
+         </ref>
+         <ref id="d2758e715a1310">
+            <mixed-citation id="d2758e719" publication-type="other">
+Kövecses, &amp; Varga, L. 1984. Examination of the terrestrial
+snail fauna of the Biikk based on data of 60 years of collec-
+tion. Malakológiai Tǎjékoztató 4: 59-67.</mixed-citation>
+         </ref>
+         <ref id="d2758e732a1310">
+            <mixed-citation id="d2758e736" publication-type="other">
+Lozek, V. 1964. Quartarmollusken der Tchechoslowakei.
+Tschechoslowakische Akademie der Wissenschaften Praha
+1-374.</mixed-citation>
+         </ref>
+         <ref id="d2758e749a1310">
+            <mixed-citation id="d2758e753" publication-type="other">
+Lozek, V 1965. Entwicklung der Molluskenfauna der Slowakei
+in der Nacheiszeit. Informationsbericht der Land-
+wirtschaftlichen Hochschule Nitra 1 (1-4) 9-24.</mixed-citation>
+         </ref>
+         <ref id="d2758e767a1310">
+            <mixed-citation id="d2758e771" publication-type="other">
+Neuenschwander, N. 1984. Vergleich von Pflanzengesellschaf-
+ten und Schneckengemeinschaften am Belpberg bei Bern.
+Mitteilungen der Naturfoschenden Gesellschaft in Bern
+41: 77-95.</mixed-citation>
+         </ref>
+         <ref id="d2758e787a1310">
+            <mixed-citation id="d2758e791" publication-type="other">
+Ozenda, P. 1988. Die Vegetation der Alpen in europaischen
+Gebirgsraum. Gustav Fischer, Stuttgart-New York.</mixed-citation>
+         </ref>
+         <ref id="d2758e801a1310">
+            <mixed-citation id="d2758e805" publication-type="other">
+Pintér, L., Richnovszki, A. &amp; Szigeti, A. 1979. Distribution of
+the recent Mollusca of Hungary. Soósiana Suppl. 1: 1-349.</mixed-citation>
+         </ref>
+         <ref id="d2758e815a1310">
+            <mixed-citation id="d2758e819" publication-type="other">
+Pintér, L. &amp; Szigethy, A. 1980. Die Verbreitung des rezenten
+Mouusken Ungarns. Neunachweise und Besichtungen II.
+Soósiana 8: 65-80.</mixed-citation>
+         </ref>
+         <ref id="d2758e832a1310">
+            <mixed-citation id="d2758e836" publication-type="other">
+Pintér, L. 1984. Magyarország recens puhatestűinek revideált
+katalógusa (Mollusca). Fol. Hist.-nat. Mus. Matr. 9: 79-90.</mixed-citation>
+         </ref>
+         <ref id="d2758e846a1310">
+            <mixed-citation id="d2758e850" publication-type="other">
+Péczely, Gy. 1981. Éghajlattan. Tankönyvkiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2758e858a1310">
+            <mixed-citation id="d2758e862" publication-type="other">
+Podani, J. 1984. SYN-TAX II. Computer programs for data
+analysis in ecology and systematics. Abstracta Botanica 8:
+73-94.</mixed-citation>
+         </ref>
+         <ref id="d2758e875a1310">
+            <mixed-citation id="d2758e879" publication-type="other">
+Podani, J. 1988. SYN-TAX III. User's Manual. Abstracta
+Botanica 12: 1-183.</mixed-citation>
+         </ref>
+         <ref id="d2758e889a1310">
+            <mixed-citation id="d2758e893" publication-type="other">
+Schmid, G. 1966. Die Mollusken des Spitzberges. Der
+Spitzberg bei Tübingen. Die Natur und Landschaft-
+sschutzgebiete Baden-Würtenbergs 3: 595-701.</mixed-citation>
+         </ref>
+         <ref id="d2758e906a1310">
+            <mixed-citation id="d2758e910" publication-type="other">
+Soó, R. 1984. Synopsis systematico-geobotanica florae
+Vegetationisque Hungariae I. Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2758e920a1310">
+            <mixed-citation id="d2758e924" publication-type="other">
+Soó, R. 1980. Synopsis systematico-geobotanica florae
+Vegetationisque Hungariae VI. Akadémiai Kiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2758e937a1310">
+            <mixed-citation id="d2758e941" publication-type="other">
+Stamol, V. 1990. Coenological investigations of snails (Mollus-
+ca: Gastropoda) in some phytocoenosises of the Bijele
+Stijene (Velika Kapela, Croatia Yugoslavia). Biolosky
+vestnik Ljubljana 38 (4): 29-36.</mixed-citation>
+         </ref>
+         <ref id="d2758e958a1310">
+            <mixed-citation id="d2758e962" publication-type="other">
+Steffek, J. 1978. Malakofauna Małych Karpat Zhladisko Vaj-
+vona Krajiny. Kandidatska dizestacna, Bratislava 1-172.</mixed-citation>
+         </ref>
+         <ref id="d2758e972a1310">
+            <mixed-citation id="d2758e976" publication-type="other">
+Szôrényi, L. 1984. Vergleichende Untersuchung der Mollusken
+in den Waldtypen von Sopron. Soósiana 12: 61-68.</mixed-citation>
+         </ref>
+         <ref id="d2758e986a1310">
+            <mixed-citation id="d2758e990" publication-type="other">
+Varga, A. 1976-77. A Bükk-hegység Mollusca faunája. Fol.
+Hist.-nat. Mus. Matr. 4: 37-82.</mixed-citation>
+         </ref>
+         <ref id="d2758e1000a1310">
+            <mixed-citation id="d2758e1004" publication-type="other">
+Varga, A. 1980a. Vásárhelyi István gyüjteménye a Herman
+Ottó Múzeumban I. (Mollusca-Puhatestűek). Herman
+Ottó Múzeum Évkönyve 19: 375-390.</mixed-citation>
+         </ref>
+         <ref id="d2758e1017a1310">
+            <mixed-citation id="d2758e1021" publication-type="other">
+Varga, A. 1980b. Vásárhelyi István gyüjteménye a Miskolci
+Hermann Ottó Múzeumban II. (Mollusca-Puhatestűek).
+Fol. Hist.-nat. Mus. Matr. 6: 147-158.</mixed-citation>
+         </ref>
+         <ref id="d2758e1034a1310">
+            <mixed-citation id="d2758e1038" publication-type="other">
+Waiden, H. W. 1981. Communities and diversity of land mol-
+luscs in Scandinavian Woodlands I. High diversity com-
+munities in Tklusser and Boulde slopes in SW Sweden.
+Journal of Conchiology 30: 351-372.</mixed-citation>
+         </ref>
+         <ref id="d2758e1055a1310">
+            <mixed-citation id="d2758e1059" publication-type="other">
+Wiktor, A. &amp; Szigethy, A. S. 1982-83. The distribution of slugs
+in Hungary (Gastropoda: Pulmonata). Soósiana 10-11: 87-
+111.</mixed-citation>
+         </ref>
+         <ref id="d2758e1072a1310">
+            <mixed-citation id="d2758e1076" publication-type="other">
+Zólyomi, B. 1952. Magyarország növénytakarójának
+fejlődéstôrténete az utolsó jégkorszaktól. A Magyar Tud.
+Akad. Biol. Oszt. Közl. I. 4: 491-525.</mixed-citation>
+         </ref>
+         <ref id="d2758e1089a1310">
+            <mixed-citation id="d2758e1093" publication-type="other">
+Zólyomi, B. 1958. Budapest kôrnyékének természetes növény-
+takarója. In: Pécsi, M. (ed.), Budapest természeti képe. pp.
+511-642. Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2758e1106a1310">
+            <mixed-citation id="d2758e1110" publication-type="other">
+Zólyomi, B., Baráth, Z., Fekete, G., Jakucs, P., Kárpáti, I., Frau
+Kárpáti, V., Kovács, M. &amp; Máté, M. 1964. Einreihung von
+1400 Arten der ungarischen Flora in ökologische Gruppen
+nach TWR-Zahlen. Fragmenta Botanica, Mus. Hist.-nat.
+Hung. 4 (1-4): 101-143.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,88 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519420</article-id>
+         <title-group>
+            <article-title>HIGTRÁGYÁZOTT VETETT GYEPEK PRODUKTUM VIZSGÁLATAI</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>András</given-names>
+                  <surname>Kovács</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>István</given-names>
+                  <surname>Bercsek</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1982</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139793</issue-id>
+         <fpage>95</fpage>
+         <lpage>116</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519420"/>
+         <abstract>
+            <p>Our experiments on leys treated with liquid manure with addition of and K fertilizer werer conducted at the "Petőfi" Cooperative Farm in Dunavarsány by grass compound /e.g. Festuca pratensis, Lolium perenne, Phleum pratense, Poa pratensis/. We made our experiments on sown grass stand with liquid manure of cattle, pig and rabbit, and parallel with this, at some places chemical fertilizers were applied in equal amounts of nutriment and cattle liquid manure of double amount of active agent. In the grass stand its cenological composition and its crude and dry crop were estimated, in addition to the root mass in 0-50 cm soil layer, by accretions. The grass stand sowed in 1975 got strongly weedy, due to the liquid manure and to the natural succesion of grass stands. The sown species were destroyed in 50-80 per cent. The weediness showd the highest value on the liquid manure treated plots. The quantity of grass mass both in the crude and dry materials reached the cropgrade of intensively treated grasses, but its quality decreased year by year in proportion with the weediness. The shape of the root mass examined on 0-50 cm layers of soil showed an arid enviroment with a characteristic seasonal fluctuation of nutritive material and water supply /Table 5.-10./· The weight proportion of the overground and underground phytomass showes - in the all treatment - a vegetatio and habitat with meso-frequency, in opposition the controll grass stand showed a xerofrequency condition. On the bases of our five years experiments with liquid manure were established the following: The method of liquid manure can be useful only at such sown grass stands, wich hawe a great demant for N, or have some so called "aggressive" species for the compensation of the relatyvely quick wediness.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d15689e211a1310">
+            <mixed-citation id="d15689e215" publication-type="other">
+BARCSÁK Z.-TASI J./1981/: A N-mütrágyázás hatása a gyepek termésére
+és nyersfehérje tartalmára.-Gödöllői Tudományos Napok.1981 feb-
+ruár 5. 60-64.</mixed-citation>
+         </ref>
+         <ref id="d15689e228a1310">
+            <mixed-citation id="d15689e232" publication-type="other">
+KOVÁCS A.-ANGELI A./1977/: Higtrágyázott vetett gyepek produkciós
+vlzsgálatai a Dunavarsányl Petőfi Mg.Tsz.ben az 1976.év tenyész-
+időszakában.-Abstracta Botanica V. 91-106®</mixed-citation>
+         </ref>
+         <ref id="d15689e245a1310">
+            <mixed-citation id="d15689e249" publication-type="other">
+KOVÁCS A./1979/: Fitoprodukciós vizsgálatok higtrágyázott vetett
+gyepeken.-Novénytermelés.28.5.461-472.</mixed-citation>
+         </ref>
+         <ref id="d15689e259a1310">
+            <mixed-citation id="d15689e263" publication-type="other">
+KOVÁCS A.-BENEDEKNÉ LÁZÁR M./1981/: Telepitett gyepek produkciós
+vizsgálatai. Gödölloi Tudományos Napok.1981 február 5. 42-46.</mixed-citation>
+         </ref>
+         <ref id="d15689e274a1310">
+            <mixed-citation id="d15689e278" publication-type="other">
+KOVÁCS A.-GÁSPÁR Z./1976-1977/: Neues Verfahren und Gerät zur pro-
+beantnahme bei der Untersuchung von Wurzelmassen der Kultur-
+pflanzenbestände.-Annil.Univo.Sci.Budapest.Sect.Biol.18-12.83-90.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

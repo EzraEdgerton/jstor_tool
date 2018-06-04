@@ -1,0 +1,73 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519021</article-id>
+         <title-group>
+            <article-title>A MAGYAR FÜVEK ÉS SÁSOK GYÜJTEMÉNYÉNEK JEGYZÉKE: /Magyar exsiccatumok. 3./</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>PRISZTER</given-names>
+                  <surname>SZANISZLÓ</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1978</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139759</issue-id>
+         <fpage>5</fpage>
+         <lpage>11</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1978</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519021"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Idézett irodalom</title>
+         <ref id="d3129e130a1310">
+            <mixed-citation id="d3129e134" publication-type="other">
+JÁVORKA S. - CSAPODY V. 1975: Moonographia florae partis
+austro-oriemtalis Europae Centralis. - Akadémiai Kiadó,
+Budapest</mixed-citation>
+         </ref>
+         <ref id="d3129e147a1310">
+            <mixed-citation id="d3129e151" publication-type="other">
+PRISZTER SZ. 1976: Az első magyar exsiceatum-kiadványok
+\1823-1841, SADLER JÓZSEF/. Dis ersten ungarischen
+Exsiceatenausgaben /von JOSEPH SADLER, zwischen 1823-
+1841/. - Bot.Közlem. 63: 217-229.</mixed-citation>
+         </ref>
+         <ref id="d3129e167a1310">
+            <mixed-citation id="d3129e171" publication-type="other">
+PRISZTER SZ. 1978: JÖZSEF SADLER and the Kungarian Exsicca-
+tes. /Hungarian Exsiceates.2./ - Acta Agron.Hung.
+27: 331-338.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,88 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519499</article-id>
+         <title-group>
+            <article-title>A TAXONOMICAL RE-INVESTIGATION OF EIGHT CRITICAL EUROPEAN TAXA OF THE GENUS DIDYMODON</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Irene</given-names>
+                  <surname>DÜLL-HERMANNS</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ruprecht</given-names>
+                  <surname>DÜLL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139798</issue-id>
+         <fpage>33</fpage>
+         <lpage>44</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519499"/>
+         <abstract>
+            <p>Eight critical European Didymodon taxa have been investigated. Data containing 13 quantitative and 13 qualitative characters are checked by cluster-analysis. The resulting dendrogram suggests that the formerly proposed phylogenetic relationship (Düll 1984) should be altered in some respects. It is also shown that cluster-analysis can be helpful in the identification of difficult taxa if one already suggests to which different taxa it could belong. By a different procedure of the same computer-program, the correlation between different characters was also calculated.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d9540e193a1310">
+            <mixed-citation id="d9540e197" publication-type="other">
+Crundwell, A. C. 1965. The status of Barbula valida and
+its relationship to B. acuta. Svensk Bot. Tidskrift 59:
+211-215</mixed-citation>
+         </ref>
+         <ref id="d9540e210a1310">
+            <mixed-citation id="d9540e214" publication-type="other">
+Dtill, R. 1984. Taxonomy and distribution of some critical taxa
+of the genus Didymodon in Europe. J. Hatt. Bot. Lab. 55:
+259-266</mixed-citation>
+         </ref>
+         <ref id="d9540e227a1310">
+            <mixed-citation id="d9540e231" publication-type="other">
+Diill-Hermanns, I. 1984. Evaluation of different characters of
+Didymodon taxa by modern statistical methods. Journ. Hattori
+Bot. Lab. 55:253-257</mixed-citation>
+         </ref>
+         <ref id="d9540e244a1310">
+            <mixed-citation id="d9540e248" publication-type="other">
+Wishart, D. 1984. Clustan. Benutzerhandbuch. Stuttgart, New York</mixed-citation>
+         </ref>
+         <ref id="d9540e256a1310">
+            <mixed-citation id="d9540e260" publication-type="other">
+Zander, R. H. 1978. New combinations in Didymodon (Musei) and a
+key to the taxa in North America north of Mexico. Phytologia
+41 : 11-32</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

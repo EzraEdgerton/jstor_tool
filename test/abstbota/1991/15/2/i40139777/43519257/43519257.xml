@@ -1,0 +1,121 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519257</article-id>
+         <title-group>
+            <article-title>An asymmetric bin-free method for measuring two-dimensional niche overlap</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>B.</given-names>
+                  <surname>Tóthmérész</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1991</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139777</issue-id>
+         <fpage>89</fpage>
+         <lpage>98</lpage>
+         <permissions>
+            <copyright-statement>© 1991 Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519257"/>
+         <abstract>
+            <p>Each of the traditional niche overlap statistics requires the estimation of a density function (the so-called resource utilization function) and the result depends heavily on the arbitrary choice of the bin size or bandwidth. I propose an original two-dimensional niche overlap index which does not require the direct estimation of the resource utilization function, hence does not depend on the arbitrary choice of the bin size. The method measures a real two-dimensional overlap, not the overlap of one-dimensional 'shadows' (marginal distributions). The procedure of calculation is illustrated by an elementary example. Using computer simulation, an ecologically relevant situation is studied and the result is compared with the results of traditional methods (Levins, Schoener, Pianka, Petraitis). It is demonstrated that the presented method can overcome the artifacts of the one-dimensional overlap estimations and it is capable of describing correctly the resource utilization structure of species in the niche space. The method is effective when the overlap statistics are calculated from small samples.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4646e242a1310">
+            <mixed-citation id="d4646e246" publication-type="other">
+Dagpunar, J. 1988. Principles of Random Number Generation.
+Clarendon Press, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d4646e256a1310">
+            <mixed-citation id="d4646e260" publication-type="other">
+Hutchinson, G. E. 1957. Concluding remarks. Cold Spring
+Harbor Symp. Quant. Biol. 22:415-427.</mixed-citation>
+         </ref>
+         <ref id="d4646e270a1310">
+            <mixed-citation id="d4646e274" publication-type="other">
+Levins, R. 1968. Evolution in Changing Environments. Prin-
+ceton University Press, Princeton.</mixed-citation>
+         </ref>
+         <ref id="d4646e284a1310">
+            <mixed-citation id="d4646e288" publication-type="other">
+Petraitis, P. S. 1979. Likelihood measures of niche breadth and
+overlap. Ecology 60:703-710.</mixed-citation>
+         </ref>
+         <ref id="d4646e299a1310">
+            <mixed-citation id="d4646e303" publication-type="other">
+Petraitis, P. S. 1985. The relationship between likelihood niche
+measures and replicated tests for goodness-of-fit. Ecology
+66:1983-1985.</mixed-citation>
+         </ref>
+         <ref id="d4646e316a1310">
+            <mixed-citation id="d4646e320" publication-type="other">
+Pianka, E. R. 1973. The structure of lizard communities. An-
+nual Review of Ecology and Systematics 4:53-74.</mixed-citation>
+         </ref>
+         <ref id="d4646e330a1310">
+            <mixed-citation id="d4646e334" publication-type="other">
+Pianka, E. R. 1981. Competition and niche theoiy. In: R. M.
+May (ed.) Theoretical Ecology, 2nd ed., pp. 167-196.</mixed-citation>
+         </ref>
+         <ref id="d4646e344a1310">
+            <mixed-citation id="d4646e348" publication-type="other">
+Smith, E. P. 1984. A note on the general likelihood measure of
+overlap. Ecology 65:323-324.</mixed-citation>
+         </ref>
+         <ref id="d4646e358a1310">
+            <mixed-citation id="d4646e362" publication-type="other">
+Schoener, T. W. 1968. The Anolis lizards of Bimini: resource
+partitioning in a complex fauna. Ecology 49:704-726.</mixed-citation>
+         </ref>
+         <ref id="d4646e372a1310">
+            <mixed-citation id="d4646e376" publication-type="other">
+Schoener, T. W. 1974. Resource partitioning in ecological
+communities. Science 185:27-38.</mixed-citation>
+         </ref>
+         <ref id="d4646e387a1310">
+            <mixed-citation id="d4646e391" publication-type="other">
+Tóthmérész, B. 1987a. An original method for measuring niche
+overlap. International Symposium on Numerical Syn-
+taxonomy and Syndynamics (poster), Unovce (CSSR)</mixed-citation>
+         </ref>
+         <ref id="d4646e404a1310">
+            <mixed-citation id="d4646e408" publication-type="other">
+Tóthmérész, B. 1987b. Niche Theoretical Models and Secon-
+dary Succession. PhD Dissertation (in Hungarian) pp.
+145, Kossuth L. University, Debrecen, Hungary.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

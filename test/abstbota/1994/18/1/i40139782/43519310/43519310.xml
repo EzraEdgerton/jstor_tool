@@ -1,0 +1,171 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519310</article-id>
+         <title-group>
+            <article-title>Correlation of indicator values with climatic and soil data in a ruderal succession</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G.</given-names>
+                  <surname>Matus</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>B.</given-names>
+                  <surname>Tóthmérész</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1994</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139782</issue-id>
+         <fpage>7</fpage>
+         <lpage>12</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519310"/>
+         <abstract>
+            <p>Successional changes of vegetation on an abandoned farm in the 'Nyírség' region (Eastern Hungary) were studied through permanent plots surveyed three times per year from 1990 to 1992. The correlation of the ecological indicator values of the relevés with climatic records and soil characteristics was investigated. 1990 and 1992 were very dry years while 1991 was a humid one. Nevertheless, the indicator values reflecting the climatic background (T, W) changed only slightly. The same is true for the soil reaction (R) value but soil sampling revealed significant changes in pH conditions. The most definite change was detected in the nitrogen (N) value which was associated with the declining supply of available nitrogen in the soil. Vegetation development can be influenced by a decreasing nutrient level rather than by a sharp short-term climatic variability or changing soil reaction of the study period. Post-disturbance management which caused significant differences in composition and abundance relations of the vegetation had only moderate if any effect on the indicator, values.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d3228e162a1310">
+            <mixed-citation id="d3228e166" publication-type="other">
+Bagi I. 1987. Statistical relationships between the ordination of coe-
+nological relevés and characteristic indicator values. Acta Bot..
+Hung. 33(3-4): 199-210.</mixed-citation>
+         </ref>
+         <ref id="d3228e179a1310">
+            <mixed-citation id="d3228e183" publication-type="other">
+Borhidi A. 1993. Social behaviour types of the Hungarian flora, its
+naturalness and relative ecological indicator values. Pécs.</mixed-citation>
+         </ref>
+         <ref id="d3228e193a1310">
+            <mixed-citation id="d3228e197" publication-type="other">
+Ellenberg, H. 1950. Unkrautgemeinschaften als Zeiger für Klima
+und Boden. Landwirtschaftliche Pflanzensoziologie 1., Ulmer,
+Stuttgart</mixed-citation>
+         </ref>
+         <ref id="d3228e210a1310">
+            <mixed-citation id="d3228e214" publication-type="other">
+Ellenberg, H. 1974. Zeigerwerte der Gefasspflanzen Mitteleuropas.
+Scripta Geobotanica IX, Goltze Vrl. Göttingen.</mixed-citation>
+         </ref>
+         <ref id="d3228e225a1310">
+            <mixed-citation id="d3228e229" publication-type="other">
+Ellenberg, H., Weber, H.E., Düll, R., Wirth, W., Werner, W. und
+Paulissen, D. 1991. Zeigerwerte von Pflanzen in Mitteleuropa.
+Scripta Geobotanica XVIII, Goltze Vrl., Göttingen.</mixed-citation>
+         </ref>
+         <ref id="d3228e242a1310">
+            <mixed-citation id="d3228e246" publication-type="other">
+Felföldy L. 1942. Szociológiai vizsgálatok a pannoniai flórateríilet
+gyomvegetációján (Phytosociological investigations on weed
+vegetation of the Pannonian flora region). Acta Geobot. Hung.
+5:87-140.</mixed-citation>
+         </ref>
+         <ref id="d3228e262a1310">
+            <mixed-citation id="d3228e266" publication-type="other">
+Grime, J. P. 1977. Évidence for the existence of three primary
+strategies in plants and its relevance to ecological and evolution-
+ary theory. Amer. Nat. 111: 1169-1194.</mixed-citation>
+         </ref>
+         <ref id="d3228e279a1310">
+            <mixed-citation id="d3228e283" publication-type="other">
+Grime, J.P. 1979. Plant strategies and vegetation processes. Wiley,
+Chichester.</mixed-citation>
+         </ref>
+         <ref id="d3228e293a1310">
+            <mixed-citation id="d3228e297" publication-type="other">
+Juhász-Nagy, P 1986. Egy operativ ôkológia hiánya, szükséglete és
+feladatai (Lack, need and tasks of an operative ecology).
+Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d3228e310a1310">
+            <mixed-citation id="d3228e314" publication-type="other">
+Matus, G. and Tóthmérész, B. 1994. Pioneer phase of succession in
+a ruderal weed community. Acta Bot. Hung, (to appear).</mixed-citation>
+         </ref>
+         <ref id="d3228e325a1310">
+            <mixed-citation id="d3228e329" publication-type="other">
+Priszter Sz. 1960. Adventiv gyomnôvényeink (Adventive weeds of
+Hungary). Keszthelyi Mezőgazdasági Akadémia Kiadványai 7 :
+3-37.</mixed-citation>
+         </ref>
+         <ref id="d3228e342a1310">
+            <mixed-citation id="d3228e346" publication-type="other">
+Soó, R. 1980. A magyar flóra és vegetáció rendszertani-
+növényföldrajzi kézikönyve VI. (Taxonomical and geobotani-
+cal handbook of the Hungarian flora and vegetation. Volume
+VI). Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d3228e362a1310">
+            <mixed-citation id="d3228e366" publication-type="other">
+Ubrizsy, G. 1955. Magyarország ruderális gyomnövénytársulásai II.
+Ökológiai és szukcesszió-tanulmányok. (Ruderal weed associ-
+ations in Hungary II. Studies on ecology and succession).
+Növénytermelés 4: 109-126.</mixed-citation>
+         </ref>
+         <ref id="d3228e382a1310">
+            <mixed-citation id="d3228e386" publication-type="other">
+Ujvárosi, M. 1973. Gyomnövények (Weeds). Mezõgazdasági Kiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d3228e396a1310">
+            <mixed-citation id="d3228e400" publication-type="other">
+Walter, H. 1970. Vegetationszonen und Klima. VEB Gustav Fischer
+Verlag, Jena.</mixed-citation>
+         </ref>
+         <ref id="d3228e410a1310">
+            <mixed-citation id="d3228e414" publication-type="other">
+Zólyomi, B. und Précsényi, I. 1964. Methode zur ökologischen Cha-
+racterisierung der Vegetationseinheiten und zum Vergleich der
+Standorte. Acta Bot. Hung. 10: 377-416.</mixed-citation>
+         </ref>
+         <ref id="d3228e428a1310">
+            <mixed-citation id="d3228e432" publication-type="other">
+Zólyomi, B., Baráth, Z., Fekete, G., Jakucs, P. Kárpáti, I., Kárpáti,
+V., Kovács, M., and Máthé, I. 1 967: Einreichung von 1400 Arten
+der ungarischen Flora in ökologischen Gruppen nach TWR-
+Zahlen. Fragm. Bot. Mus. Hist. Nat. Hung. 4: 101-142.</mixed-citation>
+         </ref>
+         <ref id="d3228e448a1310">
+            <mixed-citation id="d3228e452" publication-type="other">
+Zólyomi, B., Précsényi, I., Bodnár, T. és Vadkerti, E. 1987. Az
+ökológiai indikátorszámok mintázatának változása szukcesszió
+alatt. (Changes in pattern of ecological indicator values during
+succession). Botanikai Kôzlemények 74-75: 101-109.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

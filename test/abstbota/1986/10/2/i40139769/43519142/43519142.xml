@@ -1,0 +1,81 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519142</article-id>
+         <title-group>
+            <article-title>VILLÁM-RECENZIÓK ÉS EGYÉB ÉSZREVÉTELEK I</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Pál</given-names>
+                  <surname>Juhász-Nagy</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139769</issue-id>
+         <fpage>391</fpage>
+         <lpage>409</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519142"/>
+         <abstract>
+            <p>These notes, inter alia, attempt to make a sharp contrast between the cheaply ultra-reductionist booklet of F. Crick (Of Molecules and Men) and the much deeper, evolutionary analysis of F. Jacob (The Possible and the Actual). Besides Jacob's valuable essays, the best book reviewed here is a Hungarian one (D. Surányi: "Stories on Horticultural Plants"), very rich in historical and cultural implications.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d1664e107a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d1664e114" publication-type="other">
+Kemeny, J. G. 1959. A philosopher looks at science. Van
+Nostrand Reinhold, New York</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d1664e124a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d1664e131" publication-type="other">
+Poole, R. W. 1974. An introduction to quantitative
+ecology. MacGraw-Hill, New York</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1664e140" publication-type="other">
+Pielou, E. C. 1974. Population and community ecology:
+principles and methods. Gordon and Breach, New York</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d1664e149" publication-type="other">
+Vandermeer, J. 1981. Elementary mathematical ecology.
+Wiley, New York</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

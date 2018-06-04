@@ -1,0 +1,154 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519452</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>Part Three: Hydrobiology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Production studies on the larvae of Chironomus balatonicus</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Gy.</given-names>
+                  <surname>Dévai</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1993</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139794</issue-id>
+         <fpage>261</fpage>
+         <lpage>265</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519452"/>
+         <abstract>
+            <p>In recent years several studies have reported on chironomid production. The purpose of my paper is to evaluate the theoretical and practical aspects of the problems associated with the experimental investigations on chironomids, more specifically on Chironomus balatonicus, and to propose some solutions. A definition for biological production was selected from the traditional statements, which served as a basis for my study, then a new approach from cybernetical aspect is suggested. I consider eight tasks which are necessary to understand the importance of a quantitatively dominant species in the life of a water-body; these are the following: 1) Investigation of the complete life cycle under laboratory conditions. 2) Estimation of the production of one generation on the basis of breeding experiments. 3) Determination of the number of generations in a water-body. 4) The possibilities and ways of extrapolation from breeding results. 5) To establish the survival strategy and to estimate the elimination. 6) Estimation of the total production of the species in a water-body. 7) Possibilities for estimating the quantity of consumed nutrients. 8) Quantitative evaluation of the role of chironomids in matter circulation and in the energy budget of a water-body.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d5027e159a1310">
+            <mixed-citation id="d5027e163" publication-type="other">
+Balogh, J. 1953. A zoocônológia alapjai. Akadémiai Kiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5027e173a1310">
+            <mixed-citation id="d5027e177" publication-type="other">
+Cressa, C. and Lewis, W. M., Jr. 1986. Ecological energetics of
+Chaoborus brasiliensis in a tropical lake. Oecologia (Beri.)
+70: 326-331.</mixed-citation>
+         </ref>
+         <ref id="d5027e190a1310">
+            <mixed-citation id="d5027e194" publication-type="other">
+Dévai, Gy. 1980. Vorstudien zur Bedeutung der sediment-be-
+wohnenden Zuckmücken im Stoffhaushalt des Balatonsees
+(Ungarn). In: Murray, D.A. (ed.): Chironomidae -ecology,
+systematica cytology and physiology. Proceedings of the
+7th International Symposium on Chironomidae, Dublin,
+August 1979. Pergamon Press, Oxford, pp. 269-273.</mixed-citation>
+         </ref>
+         <ref id="d5027e217a1310">
+            <mixed-citation id="d5027e221" publication-type="other">
+Dévai, Gy. 1988. Emergence patterns of chironomids in
+Keszthely-basin of Lake Balaton (Hungary) (Diptera,
+Chironomidae). Spixiana, Suppl. 14: 201-211.</mixed-citation>
+         </ref>
+         <ref id="d5027e235a1310">
+            <mixed-citation id="d5027e239" publication-type="other">
+Dévai, Gy. (ed.) 1984. Balatoni és zalai üledékek ôkológiai
+hatásvizsgálata az árvaszúnyogok (Diptera: Chironomidae)
+példáján. Acta Biol. Debr. Oecol. Hung. 1: 1-183.</mixed-citation>
+         </ref>
+         <ref id="d5027e252a1310">
+            <mixed-citation id="d5027e256" publication-type="other">
+Dévai, Gy., Dévai, I., Wittner, I. and Bondár E. 1977. Gon-
+dolatok a biológiai termelésról. Acta Biol. Debrecina 14: 9-
+20.</mixed-citation>
+         </ref>
+         <ref id="d5027e269a1310">
+            <mixed-citation id="d5027e273" publication-type="other">
+Dévai, Gy. 1990. Ecological background and importance of the
+change of chironomid fauna (Diptera: Chironomidae) in
+shallow Lake Balaton. Hydrobiologia 191: 189-198.</mixed-citation>
+         </ref>
+         <ref id="d5027e286a1310">
+            <mixed-citation id="d5027e290" publication-type="other">
+Gere, G. 1978. Szárazfôldi ízeltlábúak és gerincesek
+produktivitásának alaptípusai. Doktori értekezés. Kézirat,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5027e303a1310">
+            <mixed-citation id="d5027e307" publication-type="other">
+Lindegaard, C. 1989. A review of secondary production of
+zoobenthos in freshwater ecosystems with special reference
+to Chironomidae (Diptera). Acta Biol. Debr. Oecol. Hung.
+3: 231-240.</mixed-citation>
+         </ref>
+         <ref id="d5027e323a1310">
+            <mixed-citation id="d5027e327" publication-type="other">
+Lloyd, L.E., McDonald, B.E. and Crampton, E.W. 1978. Fun-
+damentals of nutrition. 2nd edition. Freeman, San Francis-
+co.</mixed-citation>
+         </ref>
+         <ref id="d5027e341a1310">
+            <mixed-citation id="d5027e345" publication-type="other">
+Mann, K.H. 1969. The dynamics of aquatic ecosystems. In: Ad-
+vances in ecological research 6. Academic Press, London,
+pp. 1-81.</mixed-citation>
+         </ref>
+         <ref id="d5027e358a1310">
+            <mixed-citation id="d5027e362" publication-type="other">
+Szokolova, N. Ju. (ed.) 1983. Motil Chironomus plumosus L..
+Szisztyematyika, morfoloģija, ekoloģija, produkcija. Nauka,
+Moscow.</mixed-citation>
+         </ref>
+         <ref id="d5027e375a1310">
+            <mixed-citation id="d5027e379" publication-type="other">
+Sváb, J. 1981. Biometriai módszerek a kutatásban. 3. kiadás.
+Mezógazdasági Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d5027e389a1310">
+            <mixed-citation id="d5027e393" publication-type="other">
+TÖrök A 1982. Laboratóriumi előkísérletek az árvaszúnyogok
+(Diptera: Chironomidae) produkciójának meghatá-
+rozásához. Acta Biol. Debrecina 17: 81-97.</mixed-citation>
+         </ref>
+         <ref id="d5027e406a1310">
+            <mixed-citation id="d5027e410" publication-type="other">
+Tidorancea, C., Green, R.H. and Huebner, J. 1979. Structure,
+dynamics and production of the benthic fauna in Lake
+Manitoba. Hydrobiologia 64: 59-95.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

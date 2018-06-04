@@ -1,0 +1,80 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519500</article-id>
+         <title-group>
+            <article-title>ZYGODON IN EUROPE AND MACARONESIA, WITH SPECIAL REGARD TO CENTRAL EUROPE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ruprecht</given-names>
+                  <surname>DÜLL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139798</issue-id>
+         <fpage>45</fpage>
+         <lpage>54</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519500"/>
+         <abstract>
+            <p>All Zygodon taxa known from Europe and Macaronesia have been found in Germany. These taxa were studied in the field and the herbarium. Their taxonomy, ecology and distribution in Germany and Europe are described. An identification key for all taxa is presented.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d9596e107a1310">
+            <mixed-citation id="d9596e111" publication-type="other">
+Johnson, A. B. and D. H. Vitt. 1971. Bryophytes new to Arizona
+from the White Mountains. The Bryologist 74:40</mixed-citation>
+         </ref>
+         <ref id="d9596e121a1310">
+            <mixed-citation id="d9596e125" publication-type="other">
+Malta, N. 1926. Die Gattung Zygodon Hook. et Tayl. Latvijas
+Universitātes Botāniskā Darza Darbi No. 1. Riga</mixed-citation>
+         </ref>
+         <ref id="d9596e135a1310">
+            <mixed-citation id="d9596e139" publication-type="other">
+Philippi, G. 1968. Zur Verbreitung einiger hydrophy tischer und
+hydrophiler Moose im Rheingebiet zwischen Bodensee und
+Mainz. Beitr. z. naturk. Forschg. SW. Deut. 27/2: 61-81</mixed-citation>
+         </ref>
+         <ref id="d9596e152a1310">
+            <mixed-citation id="d9596e156" publication-type="other">
+Smith, A. J. E. 1978. The Moss Flora of Britain and Ireland.
+Cambridge Univ. Press</mixed-citation>
+         </ref>
+         <ref id="d9596e167a1310">
+            <mixed-citation id="d9596e171" publication-type="other">
+Vogelpoel, D. 1976. Het geslacht Zygodon Hook. &amp; Tayl. in
+Nederland. Lindbergia 3:332-335</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

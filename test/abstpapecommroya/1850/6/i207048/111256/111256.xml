@@ -1,0 +1,58 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">abstpapecommroya</journal-id>
+         <journal-id journal-id-type="jstor">j100687</journal-id>
+         <journal-title-group>
+            <journal-title>Abstracts of the Papers Communicated to the Royal Society of London</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03650855</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">111256</article-id>
+         <title-group>
+            <article-title>On Certain Properties of Square Numbers and other Quadratic Forms, with a Table by Which All the Odd Numbers up to 9211 May Be Resolved into Not Exceeding Four Square Numbers. [Abstract]</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>Frederick</given-names>
+                  <surname>Pollock</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1850</year>
+         
+            <day>1</day>
+            <month>1</month>
+            <year>1854</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue/>
+         <issue-id>i207048</issue-id>
+         <fpage>383</fpage>
+         <lpage>385</lpage>
+         <page-range>383-385</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/111256"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

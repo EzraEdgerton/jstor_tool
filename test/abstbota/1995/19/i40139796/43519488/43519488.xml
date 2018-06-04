@@ -1,0 +1,950 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519488</article-id>
+         <title-group>
+            <article-title>Clonality in plant communities - an overview</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Beáta</given-names>
+                  <surname>Oborny</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sándor</given-names>
+                  <surname>Bartha</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1995</year>
+         </pub-date>
+         <volume>19</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139796</issue-id>
+         <fpage>115</fpage>
+         <lpage>127</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519488"/>
+         <abstract>
+            <p>This paper reviews the literature on the biology of clonal plants with emphasis on the ecological consequences of clonality at the community level. The hierarchical (genet-ramet) organization of clonal plants offers a variety of strategies in life history, resource use and space occupation that are specific to clonality. We present examples for particular clonal traits and their community level effects, as they appear from field studies and theoretical models. These examples suggest that clonality imposes strong constraints on spatial pattern and competitive relations in plant communities. However, clonality can also release constraints of species coexistence related to a trade-off between mobility and local persistence. We argue that a unique feature of clonal species is that they have internal (genet-level) control mechanisms on a spatio-temporal scale that is intermediate between the fine-scale (i.e. individual-to-individual) and the large-scale (i.e. population-to-population) interactions in a community. Therefore, the presence of clonal species in a community widens the scope of potential mechanisms of community organization.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7323e135a1310">
+            <mixed-citation id="d7323e139" publication-type="other">
+Aarssen, L. W., Turkington, R. &amp; Cavers, P. B. 1979. Neighbour
+relationships in grass-legume communities. II. Temporal
+stability and community evolution. Can. J. Bot. 57: 2695-2703.</mixed-citation>
+         </ref>
+         <ref id="d7323e152a1310">
+            <mixed-citation id="d7323e156" publication-type="other">
+Addicott, J. F., Aho, J. M., Antolin, M. F., Padilla, D. K., Richardson,
+J. S. &amp; Soluk, D. A. 1987. Ecological neighborhoods: scaling
+environmental patterns. Oikos 49: 340-346.</mixed-citation>
+         </ref>
+         <ref id="d7323e169a1310">
+            <mixed-citation id="d7323e173" publication-type="other">
+Alpert, R 1995. Does clonal growth increase plant performance in
+natural communities? In: Oborny, B. &amp; Podani, J. (eds.),
+Clonality in plant communities. Proceedings of the 4th Interna-
+tional Workshop on Clonal Plants. Abstracta Botanica 19: 11-
+16.</mixed-citation>
+         </ref>
+         <ref id="d7323e192a1310">
+            <mixed-citation id="d7323e196" publication-type="other">
+Alpert, P. (in press) Nutrient sharing in natural clonal fragments of
+Fragaria ctiiloensis. J. Ecol.</mixed-citation>
+         </ref>
+         <ref id="d7323e207a1310">
+            <mixed-citation id="d7323e211" publication-type="other">
+Angevine, M. W. &amp; Handel, S. M. 1986. Invasion of forest floor
+space, clonal architecture, and population growth in the peren-
+nial herb Clintonia borealis. J. Ecol. 74: 547-560.</mixed-citation>
+         </ref>
+         <ref id="d7323e224a1310">
+            <mixed-citation id="d7323e228" publication-type="other">
+Armbruster, W. S. 1995. The origins and detection of plant com-
+munity structure: reproductive versus vegetative processes.
+Folia Geobot. Phytotax. 30: 483-497.</mixed-citation>
+         </ref>
+         <ref id="d7323e241a1310">
+            <mixed-citation id="d7323e245" publication-type="other">
+Bartha, S. 1990. Spatial processes in developing plant communities:
+pattern formation detected using information theory. In: F.
+Krahulec, A. D. Q., Agnew, S., Agnew &amp; J. H. Willems (eds),
+Spatial processes in plant communities. Academic Press, Praha,
+pp. 31-47.</mixed-citation>
+         </ref>
+         <ref id="d7323e264a1310">
+            <mixed-citation id="d7323e268" publication-type="other">
+Bartha S. 1992. Preliminary scaling for multi-species coalitions in
+primary succession. Abstracta Botanica 16: 31-41.</mixed-citation>
+         </ref>
+         <ref id="d7323e278a1310">
+            <mixed-citation id="d7323e282" publication-type="other">
+Bartha, S., Collins, S. L., Glenn, S. M. &amp; Kertész, M. 1995a. Fine-
+scale spatial organization of tallgrass prairie vegetation along a
+topographie gradient. Folia Geobot. Phytotax. 30: 169-184.</mixed-citation>
+         </ref>
+         <ref id="d7323e295a1310">
+            <mixed-citation id="d7323e299" publication-type="other">
+Bartha S., Czárán T. &amp; Oborny, B. 1995b. Spatial constraints mask-
+ing community assembly rules: a simulation study. Folia
+Geobot. Phytotax.30: 471-482.</mixed-citation>
+         </ref>
+         <ref id="d7323e313a1310">
+            <mixed-citation id="d7323e317" publication-type="other">
+Bell, A. D. 1984. Dynamic morphology: a contribution to plant
+population ecology. In: Dirzo, R. &amp; Sarukhan, J. (eds), Perspec-
+tives on plant population ecology. Sinauer Assoc., Sunderland.</mixed-citation>
+         </ref>
+         <ref id="d7323e330a1310">
+            <mixed-citation id="d7323e334" publication-type="other">
+Bell, A. D. &amp; Tomlinson, P. B. 1980. Adaptive archkectufe in
+rhizomatous plants. Bot. J. Linnean Soc. 80: 125-160.</mixed-citation>
+         </ref>
+         <ref id="d7323e344a1310">
+            <mixed-citation id="d7323e348" publication-type="other">
+Bunce, R. G. H. &amp; Barr, C. J. 1988. The extent of land under different
+management regimes in the uplands, and the potential for
+change. In: Usher, M. B. &amp; Thompson, D. B. A. (eds), Ecologi-
+cal change in the Uplands. Blackwell, Oxford, pp. 414-426.</mixed-citation>
+         </ref>
+         <ref id="d7323e364a1310">
+            <mixed-citation id="d7323e368" publication-type="other">
+Cain, M. L., Pacala, S. W. &amp; Si lander, J. A., Jr. 1991. Stochastic
+simulation of clonal growth in the tall goldenrod, Solidago al-
+tissima. Oecologia 88: 477-485.</mixed-citation>
+         </ref>
+         <ref id="d7323e381a1310">
+            <mixed-citation id="d7323e385" publication-type="other">
+Cain, M. L., Pacala, S. W., Silander Jr., J. A., &amp; Fortin, M. -J. 1995.
+Neighborhood models of clonal growth in the white clover Tri-
+folium repens. Am.Nat. 145: 888-917.</mixed-citation>
+         </ref>
+         <ref id="d7323e398a1310">
+            <mixed-citation id="d7323e402" publication-type="other">
+Cain, M. L. &amp; Oborny, B. (ms) Models of foraging in clonal plant
+species.</mixed-citation>
+         </ref>
+         <ref id="d7323e413a1310">
+            <mixed-citation id="d7323e417" publication-type="other">
+Callaghan, T. V. 1988. Physiological and demographic implications
+of modular construction in cold environments. In: Davy, A. J.,
+Hutchings, M. J. &amp; Watkinson, A. R. (eds.) Plant population
+biology. Blackwell Sci. Publ., Oxford, pp. 111-135.</mixed-citation>
+         </ref>
+         <ref id="d7323e433a1310">
+            <mixed-citation id="d7323e437" publication-type="other">
+Callaghan, T. V., Headley, A. D., Svensson, B. M., Lixian, L., Lee,
+J. A. &amp; Lindley, D. K. 1986. Modular growth and function in the
+vascular criptogam Lycopodium annotinum. Proc. Roy. Soc. B.
+228: 195-206.</mixed-citation>
+         </ref>
+         <ref id="d7323e453a1310">
+            <mixed-citation id="d7323e457" publication-type="other">
+Callaghan, T. V., Svensson, B. M., Jónsdóttir, I. S. &amp; Carlsson, B. A.
+(eds.) 1992a. Clonal plants and environmental change. Oikos
+63(3): 339-453.</mixed-citation>
+         </ref>
+         <ref id="d7323e470a1310">
+            <mixed-citation id="d7323e474" publication-type="other">
+Callaghan, T. V., Carlsson, B. A., Jónsdóttir, I. S., Svensson, B. M.
+&amp; Jonasson, S. 1992b. Clonal plants and environmental change:
+introduction to the proceedings and summary. In: Callaghan, T.
+V., Svensson, B. M., Jónsdóttir, I. S. &amp; Carlsson, B. A (eds.),
+Clonal plants and environmental change. Oikos 63(3): 339-453.</mixed-citation>
+         </ref>
+         <ref id="d7323e493a1310">
+            <mixed-citation id="d7323e497" publication-type="other">
+Campbell, B. D., Grime, J. P. &amp; Mackey, J. M. L. 1991. A trade-off
+between scale and precision in resource foraging. Oecologia 87:
+532-538.</mixed-citation>
+         </ref>
+         <ref id="d7323e510a1310">
+            <mixed-citation id="d7323e514" publication-type="other">
+Carlsson, B. A. &amp; Callaghan, T. V. 1990. Programmed tiller differen-
+tiation, intraclonal density regulation and nutrient dynamics in
+Carex bigelowii. Oikos 58: 219-230.</mixed-citation>
+         </ref>
+         <ref id="d7323e528a1310">
+            <mixed-citation id="d7323e532" publication-type="other">
+Cody, M. L. 1974. Competition and structure of bird communities.
+Princeton Univ. Press, Princeton, N.J.</mixed-citation>
+         </ref>
+         <ref id="d7323e542a1310">
+            <mixed-citation id="d7323e546" publication-type="other">
+Chesson, P. L. &amp; Huntly, N. 1989. Short-term instabilities and long-
+term community dynamics. TREE 4: 293-298.</mixed-citation>
+         </ref>
+         <ref id="d7323e556a1310">
+            <mixed-citation id="d7323e560" publication-type="other">
+Cook, R. E. 1985. Growth and development in clonal plant popula-
+tions. In: Jackson, J. B. C., Buss, L. W. &amp; Cook, R. E. (eds.),
+Population biology and evolution of clonal organisms. Yale
+Univ. Press, New Haven, Connecticut, USA. pp. 259-296.</mixed-citation>
+         </ref>
+         <ref id="d7323e576a1310">
+            <mixed-citation id="d7323e580" publication-type="other">
+Cowie, N. R., Watkinson, A. &amp; Sutherland, W. J. 1995. Modelling
+the growth dynamics of the clonal herb Anemone nemorosa in
+an ancient coppice wood. In: Oborny, B. &amp; Podani, J. (eds.),
+Clonality in plant communities. Proceedings of the 4th Interna-
+tional Workshop on Clonal Plants. Abstracta Botanica 19: 35-
+49.</mixed-citation>
+         </ref>
+         <ref id="d7323e603a1310">
+            <mixed-citation id="d7323e607" publication-type="other">
+Czárán T. 1989. Coexistence of competing populations along an en-
+vironmental gradient: a simulation study. Coenoses 2:113-120.</mixed-citation>
+         </ref>
+         <ref id="d7323e617a1310">
+            <mixed-citation id="d7323e621" publication-type="other">
+Czárán T. &amp; Bartha S. 1989. The effect of spatial pattern on com-
+munity dynamics; a comparison of simulated and field data.
+Vegetatio 83: 229-239.</mixed-citation>
+         </ref>
+         <ref id="d7323e635a1310">
+            <mixed-citation id="d7323e639" publication-type="other">
+Czárán, T. &amp; Bartha, S. 1992. Spatiotemporal dynamic models of
+plant populations and communities. TREE 7(4): 38-42.</mixed-citation>
+         </ref>
+         <ref id="d7323e649a1310">
+            <mixed-citation id="d7323e653" publication-type="other">
+DeAngelis, D. L., Travis, C. C. and Post, W. M. 1979. Persistence
+and stability of seed-dispersed species in a patchy environment.
+Theor. Popul. Biol. 16: 107-125.</mixed-citation>
+         </ref>
+         <ref id="d7323e666a1310">
+            <mixed-citation id="d7323e670" publication-type="other">
+de Kroon, H. &amp; van Groenendael, J. 1990. Regulation and function
+of clonal growth in plants: an evaluation. In: van Groenendael,
+J. &amp; de Kroon, H. (eds.) Clonal growth in plants: regulation and
+function. SPB Acad. Publ., The Hague, pp. 79-94.</mixed-citation>
+         </ref>
+         <ref id="d7323e686a1310">
+            <mixed-citation id="d7323e690" publication-type="other">
+de Kroon, H. &amp; Kwant, R. 1991. Density-dependent growth respon-
+ses in two clonal herbs: regulation of shoot density. Oecologia
+86: 298-304.</mixed-citation>
+         </ref>
+         <ref id="d7323e703a1310">
+            <mixed-citation id="d7323e707" publication-type="other">
+de Kroon, H., Hara, T. &amp; Kwant, R. 1992. Size hierarchies of shoots
+and clones in clonal herb monocultures: do clonal and non-
+clonal plants compete differently? In: Callaghan, T. V.,
+Svensson, B. M., Jónsdóttir, I. S. &amp; Carlsson, B. A. (eds.),
+Clonal plants and environmental change. Oikos 63(3): 410-419.</mixed-citation>
+         </ref>
+         <ref id="d7323e726a1310">
+            <mixed-citation id="d7323e730" publication-type="other">
+de Kroon, H. &amp; Hutchings, M. J. 1995. Morphological plasticity in
+clonal plants: the foraging concept reconsidered. J. Ecol. 83:
+143-152.</mixed-citation>
+         </ref>
+         <ref id="d7323e744a1310">
+            <mixed-citation id="d7323e748" publication-type="other">
+During, H. J. 1990. Clonal growth patterns among bryophytes. In:
+van Groenendael, J. &amp; de Kroon, H. (eds.) Clonal growth in
+plants: regulation and function. SPB Acad. Publ., The Hague,
+pp. 153-176.</mixed-citation>
+         </ref>
+         <ref id="d7323e764a1310">
+            <mixed-citation id="d7323e768" publication-type="other">
+Eriksson, O. 1993. Dynamics of genets in clonal plants. TREE 8,
+313-316.</mixed-citation>
+         </ref>
+         <ref id="d7323e778a1310">
+            <mixed-citation id="d7323e782" publication-type="other">
+Eriksson, O. &amp; Jerling, L. 1990. Hierarchical selection and risk
+spreading in clonal plants. In: van Groenendael, J. &amp; de Kroon,
+H. (eds.) Clonal growth in plants: regulation and function. SPB
+Acad. Pubi., The Hague, pp. 79-94.</mixed-citation>
+         </ref>
+         <ref id="d7323e798a1310">
+            <mixed-citation id="d7323e802" publication-type="other">
+Falinska, K. 1995. Genet disintegration in Filipendula ulmaria : con-
+sequences for population dynamics and vegetation succession.
+J. Ecol. 83:9-21.</mixed-citation>
+         </ref>
+         <ref id="d7323e815a1310">
+            <mixed-citation id="d7323e819" publication-type="other">
+Glenn, S. M. &amp; Collins, S. L. 1990. Patch structure in tallgrass
+prairies: dynamics of satellite species. Oikos 57: 229-236.</mixed-citation>
+         </ref>
+         <ref id="d7323e829a1310">
+            <mixed-citation id="d7323e833" publication-type="other">
+Gloaguen, J. C. &amp; Gautier, N. 1981. Pattern development of the
+vegetation during colonization of a burnt heathland in Brittany
+(France). Vegetatio 46: 167-176.</mixed-citation>
+         </ref>
+         <ref id="d7323e847a1310">
+            <mixed-citation id="d7323e851" publication-type="other">
+Grubb, P. 1977. The maintenance of species richness in plant com-
+munities: the importance of the regeneration niche. Biol.Rev.
+52: 107-145.</mixed-citation>
+         </ref>
+         <ref id="d7323e864a1310">
+            <mixed-citation id="d7323e868" publication-type="other">
+Hara, T. 1993. Effects of variation in individual growth on plant
+species coexistence. J. Veget. Sci. 4: 409-416.</mixed-citation>
+         </ref>
+         <ref id="d7323e878a1310">
+            <mixed-citation id="d7323e882" publication-type="other">
+Hara, T. 1994. Growth and competition in clonal plants -persistence
+of shoot populations and species diversity. In: Soukupová, L.,
+Marshall, C., Hara, T. &amp; Herben, T.(eds.), Plant clonality: biol-
+ogy and diversity. Opulus Press, Uppsala, pp. 75-97.</mixed-citation>
+         </ref>
+         <ref id="d7323e898a1310">
+            <mixed-citation id="d7323e902" publication-type="other">
+Harper, J. L. 1977. Population biology of plants. Academic Press,
+London.</mixed-citation>
+         </ref>
+         <ref id="d7323e912a1310">
+            <mixed-citation id="d7323e916" publication-type="other">
+Harper, J. L. 1985. Modules, branches, and the capture of resources.
+In: Jackson, J. B. C., Buss, L. W. &amp; Cook, R. E. (eds.), Popula-
+tion biology and evolution of clonal organisms. Yale Univ.
+Press, New Haven, Connecticut, USA. pp. 1-34.</mixed-citation>
+         </ref>
+         <ref id="d7323e932a1310">
+            <mixed-citation id="d7323e936" publication-type="other">
+Harper, J. L. &amp; Bell, A. D. 1979. The population dynamics of growth
+form in organisms with modular construction. In: Anderson, R.
+M., Turner, B. D. &amp; Taylor, L. R. (eds.), Population dynamics.
+20th Symp. BES. Blackwell, Oxford.</mixed-citation>
+         </ref>
+         <ref id="d7323e953a1310">
+            <mixed-citation id="d7323e957" publication-type="other">
+Hartnett, D. C. &amp; Bazzaz, F. A. 1985. The integration of neighbour-
+hood effects by clonal genets in Solidago canadensis. J. Ecol.
+73: 415-427.</mixed-citation>
+         </ref>
+         <ref id="d7323e970a1310">
+            <mixed-citation id="d7323e974" publication-type="other">
+Herben, T. 1992. Coexistence and pattern diversity in communities
+of clonal organisms: a model based on cellular automata.
+Abstracta Botanica 16: 49-54.</mixed-citation>
+         </ref>
+         <ref id="d7323e987a1310">
+            <mixed-citation id="d7323e991" publication-type="other">
+Herben, T. 1995. Founder and dominance control: neglected con-
+cepts in the community dynamics of clonal plants. In: Oborny,
+B. &amp; Podani, J. (eds.), Clonality in plant communities. Proceed-
+ings of the 4th International Workshop on Clonal Plants.
+Abstracta Botanica 19: 3-10.</mixed-citation>
+         </ref>
+         <ref id="d7323e1010a1310">
+            <mixed-citation id="d7323e1014" publication-type="other">
+Herben T., Krahulec F., Hadincova F. &amp; Skálová H. 1993a. Small-
+scale spatial dynamics of plant species in a grassland com-
+munity over six years. J. Veget. Sci. 4: 171-178.</mixed-citation>
+         </ref>
+         <ref id="d7323e1027a1310">
+            <mixed-citation id="d7323e1031" publication-type="other">
+Herben T., Krahulec F., Hadincova F. &amp; Kovářová M. 1993b. Small-
+scale variability as a mechanism for large-scale stability in
+mountain grasslands. J. Veg. Sci. 4: 163-170.</mixed-citation>
+         </ref>
+         <ref id="d7323e1044a1310">
+            <mixed-citation id="d7323e1048" publication-type="other">
+Herben, T., Hara, T., Marshall, C. &amp; Soukupová, L. 1994. Plant
+clonality: biology and diversity. Introduction. In: Soukupová,
+L., Marshall, C., Hara, T. &amp; Herben, T (eds.) Plant Clonality:
+biology and diversity. Opulus Press, Uppsala, pp. 7-16.</mixed-citation>
+         </ref>
+         <ref id="d7323e1065a1310">
+            <mixed-citation id="d7323e1069" publication-type="other">
+Herben T., During, H.J., Krahulec F. 1995. Spatiotemporal dynamics
+in mountain grasslands: species autocorrelations in space and
+time. Folia Geobot. Phytotax. 30: 185-196.</mixed-citation>
+         </ref>
+         <ref id="d7323e1082a1310">
+            <mixed-citation id="d7323e1086" publication-type="other">
+Herben, T. &amp; Hara, T. (in press) Competition and spatial dyhamics
+of clonal plants. In: de Kroon, H. &amp; van Groenendael, J. (eds.)
+The ecology and evolution of clonal growth in plants. SPB
+Publ., The Hague.</mixed-citation>
+         </ref>
+         <ref id="d7323e1102a1310">
+            <mixed-citation id="d7323e1106" publication-type="other">
+Hogeweg P., Hesper B., van Schaik C. P. &amp; Beeftink W. G. 1985.
+Patterns in vegetation succession, an ecomorphological study.
+In: White J. (ecL), The population structure of vegetation.
+Dr.WJunk Pubi., Dordreht. pp. 637-666.</mixed-citation>
+         </ref>
+         <ref id="d7323e1122a1310">
+            <mixed-citation id="d7323e1128" publication-type="other">
+Hroudová, Z. &amp; Zakravský, P. 1995. Bolboschoenus maritimus (L.)
+Palla - tuber production and dormancy in natural habitats. In:
+Oborny, B. &amp; Podani, J. (eds.), Clonality in plant communities.
+Proceedings of the 4th International Workshop on Clonal Plants.
+Abstracta Botanica 19: 89-94.</mixed-citation>
+         </ref>
+         <ref id="d7323e1147a1310">
+            <mixed-citation id="d7323e1151" publication-type="other">
+Huber, H. 1995. Growth form and plasticity of the hybrid Potentilla
+anglica and its two parent species. In: Oborny, B. &amp; Podani, J.
+(eds.), Clonality in plant communities. Proceedings of the 4th
+International Workshop on Clonal Plants. Abstracta Botanica
+19: 61-73.</mixed-citation>
+         </ref>
+         <ref id="d7323e1170a1310">
+            <mixed-citation id="d7323e1174" publication-type="other">
+Hutchings, M. J. 1979. Weight-density relationships in ramet
+populations of clonal perennial herbs, with special reference to
+the - 3/2 power law. J. Ecol. 67: 21-33.</mixed-citation>
+         </ref>
+         <ref id="d7323e1188a1310">
+            <mixed-citation id="d7323e1192" publication-type="other">
+Hutchings, M. J. &amp; Barkham, J. P. 1976. An investigation of shoot
+interactions in Mercurialis perennis L„ a rhizomatous perennial
+herb. J. Ecol. 64: 723-743.</mixed-citation>
+         </ref>
+         <ref id="d7323e1205a1310">
+            <mixed-citation id="d7323e1209" publication-type="other">
+Hutchings, M. J. &amp; Slade, A. J. 1988. Morphological plasticity,
+foraging and integration in clonal perennial herbs. In: Davy, A.
+J., Hutchings, M. J. &amp; Watkinson, A. R. (eds.), Plant population
+ecology. Blackwell Sci. Pubi., Oxford, pp. 83-109.</mixed-citation>
+         </ref>
+         <ref id="d7323e1225a1310">
+            <mixed-citation id="d7323e1229" publication-type="other">
+Hutchings, M. J. &amp; de Kroon, H. 1994. Foraging in plants: the role
+of morphological plasticity in resource acquisition. Adv. Ecol.
+Res. 25: 159-238.</mixed-citation>
+         </ref>
+         <ref id="d7323e1242a1310">
+            <mixed-citation id="d7323e1246" publication-type="other">
+Hutchinson, G. E. 1959. Homage to Santa Rosalia, or why are there
+so many kinds of animals? Am.Nat. 93: 145-159.</mixed-citation>
+         </ref>
+         <ref id="d7323e1256a1310">
+            <mixed-citation id="d7323e1260" publication-type="other">
+Inghe, 0. 1989. Genet and ramet survivorship under different mor-
+tality regimes - A cellular automata model. J. Theor. Biol. 138:
+257-270.</mixed-citation>
+         </ref>
+         <ref id="d7323e1273a1310">
+            <mixed-citation id="d7323e1277" publication-type="other">
+Jackson, J. B. C, Buss, L. W. &amp; Cook, R. E. 1985. Population biol-
+ogy and evolution of clonal organisms. Yale Univ. Press, New
+Haven, Connecticut, USA.</mixed-citation>
+         </ref>
+         <ref id="d7323e1291a1310">
+            <mixed-citation id="d7323e1295" publication-type="other">
+Jakucs, P. 1972. Dynamische Verbindung der Walder und Rasen.
+Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d7323e1305a1310">
+            <mixed-citation id="d7323e1309" publication-type="other">
+Jeník, J. 1994. Clonal growth in woody plants: a review. In:
+Soukupová, L., Marshall, C., Hara, T. &amp; Herben, T (eds.) Plant
+clonality: biology and diversity. Opulus Press, Uppsala, pp. 185-
+200.</mixed-citation>
+         </ref>
+         <ref id="d7323e1325a1310">
+            <mixed-citation id="d7323e1329" publication-type="other">
+Jonsson, B. O. 1995. Old populations of the rhizomatous sedge
+Carex bigelowii show little intermingling of clones (genets). In:
+Oborny, B. &amp; Podani, J. (eds.), Clonality in plant communities.
+Proceedings of the 4th International Workshop on Clonal Plants.
+Abstracta Botanica 19: 105-113.</mixed-citation>
+         </ref>
+         <ref id="d7323e1348a1310">
+            <mixed-citation id="d7323e1352" publication-type="other">
+Juhász-Nagy P. 1984. Spatial dependence of plant populations. Part
+2. A family of new models. Acta Bot. Acad. Sci. Hung. 30: 363-
+402.</mixed-citation>
+         </ref>
+         <ref id="d7323e1365a1310">
+            <mixed-citation id="d7323e1369" publication-type="other">
+Juhász-Nagy, P. 1992. Scaling problems almost everywhere: an in-
+troduction. Abstracta Botanica 16: 1-5.</mixed-citation>
+         </ref>
+         <ref id="d7323e1379a1310">
+            <mixed-citation id="d7323e1383" publication-type="other">
+Juhász-Nagy, P. &amp; Podani, J. 1983. Information theory methods for
+the study of spatial processes and succession. Vegetatio 51 : 129-
+140.</mixed-citation>
+         </ref>
+         <ref id="d7323e1397a1310">
+            <mixed-citation id="d7323e1401" publication-type="other">
+Kemball, W. D., Palmer, M. J. &amp; Marshall, C. 1992. The effect of
+local shading and darkening on branch growth, development
+and survival in Trifolium repens and Galium aparine. In: Cal-
+laghan, T. V., Svensson, B. M., Jónsdóttir, I. S. &amp; Carlsson, B.
+A. (eds), Clonal plants and environmental change. Oikos 63(3):
+366-375.</mixed-citation>
+         </ref>
+         <ref id="d7323e1424a1310">
+            <mixed-citation id="d7323e1428" publication-type="other">
+Kelly, C. K. 1995. Thoughts on clonal integration: facing the evolu-
+tionary context. Evol. Ecol. 9: 575-585.</mixed-citation>
+         </ref>
+         <ref id="d7323e1438a1310">
+            <mixed-citation id="d7323e1442" publication-type="other">
+Kenkel, N. C. 1995. Marko vian spatial-inhibition models for es-
+tablished clonal populations. In: Oborny, B. &amp; Podani, J. (eds.),
+Clonality in plant communities. Proceedings of the 4th Interna-
+tional Workshop on Clonal Plants. Abstracta Botanica 19: 29-
+33.</mixed-citation>
+         </ref>
+         <ref id="d7323e1461a1310">
+            <mixed-citation id="d7323e1465" publication-type="other">
+Kolasa J., &amp; Pickett S. T. A. (eds.) 1991. Ecological heterogeneity.
+Springer-Verlag, N.Y.</mixed-citation>
+         </ref>
+         <ref id="d7323e1475a1310">
+            <mixed-citation id="d7323e1479" publication-type="other">
+Kuli, T. 1995. Genet and ramet dynamics of Cypripedium calceolus
+in different habitats. In: Oborny, B. &amp; Podani, J. (eds.),
+Clonality in plant communities. Proceedings of the 4th Interna-
+tional Workshop on Clonal Plants. Abstracta Botanica 19: 95-
+104.</mixed-citation>
+         </ref>
+         <ref id="d7323e1498a1310">
+            <mixed-citation id="d7323e1502" publication-type="other">
+Leakey, R. R. 1981. Adaptive biology of vegetatively regenerating
+weeds. Adv. Appl. Biol. 6: 57-90.</mixed-citation>
+         </ref>
+         <ref id="d7323e1513a1310">
+            <mixed-citation id="d7323e1517" publication-type="other">
+Levins, R. 1968. Evolution in changing environments. Princeton
+Univ. Press, Princeton N.J.</mixed-citation>
+         </ref>
+         <ref id="d7323e1527a1310">
+            <mixed-citation id="d7323e1531" publication-type="other">
+Lovett Doust, L. 198 1 . Population dynamics and local specialization
+of a clonal perennial (Ranunculus repens). I. The dynamics of
+ramets in contrasting habitats. J. Ecol. 69: 743-755.</mixed-citation>
+         </ref>
+         <ref id="d7323e1544a1310">
+            <mixed-citation id="d7323e1548" publication-type="other">
+MacArthur, R. H. &amp; Levins, R. 1967. The limiting similarity, con-
+vergence, and divergence of coexisting species. Am.Nat. 101:
+377-385.</mixed-citation>
+         </ref>
+         <ref id="d7323e1561a1310">
+            <mixed-citation id="d7323e1565" publication-type="other">
+Marshall, C. 1990. Source-sink relations of interconnected ramets.
+In: van Groenendael, J. &amp; de Kroon, H. (eds.) Clonal growth in
+plants: regulation and function. SPB Acad. Publ., The Hague,
+pp. 23-42.</mixed-citation>
+         </ref>
+         <ref id="d7323e1581a1310">
+            <mixed-citation id="d7323e1585" publication-type="other">
+May, R. M. 1973. Stability and complexity in model ecosystems.
+Princeton Univ. Press, Princeton N.J.</mixed-citation>
+         </ref>
+         <ref id="d7323e1595a1310">
+            <mixed-citation id="d7323e1599" publication-type="other">
+Myster, R. W. &amp; Pickett, S. T. A. 1990. Initial conditions, history and
+successional pathways in ten contrasting old fields. Am. Mid-
+land Nat. 124: 231-238.</mixed-citation>
+         </ref>
+         <ref id="d7323e1613a1310">
+            <mixed-citation id="d7323e1617" publication-type="other">
+Myster, R. W. &amp; Pickett, S. T. A. 1994. A comparison of rate of
+succession over 18 years in 10 contrasting old fields. Ecology
+75: 387-392.</mixed-citation>
+         </ref>
+         <ref id="d7323e1630a1310">
+            <mixed-citation id="d7323e1634" publication-type="other">
+Newton, P. C. D. &amp; Hay, M. J. M. 1995. Non-viability of axillary
+buds as a possible constraint on effective foraging of Trifolium
+repens L. In: Oborny, B. &amp; Podani, J. (eds.), Clonality in plant
+communities. Proceedings of the 4th International Workshop on
+Clonal Plants. Abstracta Botanica 19: 83-88.</mixed-citation>
+         </ref>
+         <ref id="d7323e1653a1310">
+            <mixed-citation id="d7323e1657" publication-type="other">
+Noble, J. C., Bell, A. D. &amp; Harper, J. L. 1979. The population biology
+of plants with clonal growth. I. The morphology and structural
+demography of Carex arenaria. J. Ecol. 67: 983-1008.</mixed-citation>
+         </ref>
+         <ref id="d7323e1670a1310">
+            <mixed-citation id="d7323e1674" publication-type="other">
+Oborny, B. 1994. Growth rules in clonal plants and environmental
+predictability - a simulation study. J. Ecol. 82: 341-351.</mixed-citation>
+         </ref>
+         <ref id="d7323e1684a1310">
+            <mixed-citation id="d7323e1688" publication-type="other">
+Pacala, S. W. 1986. Neighborhood models of plant population
+dynamics, 4. single-species and multispecies models of annuals
+with dormant seeds. Am. Nat. 128: 859-878.</mixed-citation>
+         </ref>
+         <ref id="d7323e1701a1310">
+            <mixed-citation id="d7323e1705" publication-type="other">
+Pacala, S. W. &amp; Tilman, D. 1994. Limiting similarity in mechanistic
+and spatial models of plant competition in heterogeneous en-
+vironments. Am. Nat. 143: 222-257.</mixed-citation>
+         </ref>
+         <ref id="d7323e1719a1310">
+            <mixed-citation id="d7323e1723" publication-type="other">
+Palmer, M. W. 1994. Variation in species richness: towards a unifica-
+tion of hypotheses. Folia Geobot. Phytotax. 29: 511-530.</mixed-citation>
+         </ref>
+         <ref id="d7323e1733a1310">
+            <mixed-citation id="d7323e1737" publication-type="other">
+Palmer, M. W. &amp; White, P. S. 1994. On the existence of ecological
+communities. J. Veg. Sci. 5: 279-282.</mixed-citation>
+         </ref>
+         <ref id="d7323e1747a1310">
+            <mixed-citation id="d7323e1751" publication-type="other">
+Pianka, E. R. 1966. Latitudinal gradients in species diversity: a
+review of concepts. Am.Nat. 100: 33-46.</mixed-citation>
+         </ref>
+         <ref id="d7323e1761a1310">
+            <mixed-citation id="d7323e1765" publication-type="other">
+Pianka, E. R. 1981. Competition and niche theory. In: May, R. M.
+(ed.), Theoretical ecology. 2nd ed. Blackwell Sci. Publ., Oxford,
+pp. 167-196.</mixed-citation>
+         </ref>
+         <ref id="d7323e1778a1310">
+            <mixed-citation id="d7323e1782" publication-type="other">
+Pickett S. T. A., Collins, S. L. &amp; Armesto, J. J. 1987. A hierarchical
+consideration of causes and mechanisms of succession.
+Vegetatio69: 109-114.</mixed-citation>
+         </ref>
+         <ref id="d7323e1795a1310">
+            <mixed-citation id="d7323e1799" publication-type="other">
+Pickett S. T. A., McDonnell, M. J. 1989. Changing perspectives in
+community dynamics: a theory of successional forces. TREE 4:
+241-245.</mixed-citation>
+         </ref>
+         <ref id="d7323e1813a1310">
+            <mixed-citation id="d7323e1817" publication-type="other">
+Pitelka, L. F. &amp; Ashmun, J. W. 1985. Physiology and integration of
+ramets in clonal plants. In: Jackson, J. B. C, Buss, L. W. &amp;
+Cook, R. E. (eds.), Population biology and evolution of clonal
+organisms. Yale Univ. Press, New Haven, Connecticut, USA.
+pp. 399-435.</mixed-citation>
+         </ref>
+         <ref id="d7323e1836a1310">
+            <mixed-citation id="d7323e1840" publication-type="other">
+Pitelka, L. F, Hansen, S. B. &amp; Ashmun, J. W. 1985. Population biol-
+ogy of Clintonia borealis. I. Ramet and patch dynamics. J. Ecol.
+73: 169-183</mixed-citation>
+         </ref>
+         <ref id="d7323e1853a1310">
+            <mixed-citation id="d7323e1857" publication-type="other">
+Podani J., Czárán T. &amp; Bartha S. 1993. Pattern, area and diversity:
+the importance of spatial scale in species assemblages. Abstr.
+Botanica 17: 37-51.</mixed-citation>
+         </ref>
+         <ref id="d7323e1870a1310">
+            <mixed-citation id="d7323e1874" publication-type="other">
+Prach, K. 1987. Succession of vegetation on dumps from strip coal
+mining, N.W. Bohemia, Czechoslovakia. Folia Geobot.
+Phytotax. 22: 339-354.</mixed-citation>
+         </ref>
+         <ref id="d7323e1887a1310">
+            <mixed-citation id="d7323e1891" publication-type="other">
+Prach, K. &amp; Pysek, P. 1994. Clonal plants -What is their role in
+succession? In: Soukupová, L., Marshall, C., Hara, T. &amp; Herben,
+T (eds.) Plant clonality: biology and diversity. Opulus Press,
+Uppsala, pp. 201-241.</mixed-citation>
+         </ref>
+         <ref id="d7323e1907a1310">
+            <mixed-citation id="d7323e1911" publication-type="other">
+Sackville Hamilton, N. R., Schmid, B. &amp; Harper, J. L. 1987. Life-
+history concepts and the population biology of clonal or-
+ganisms. Proc. R. Soc. Lond. B 232: 35-57.</mixed-citation>
+         </ref>
+         <ref id="d7323e1925a1310">
+            <mixed-citation id="d7323e1929" publication-type="other">
+Salisbury, E. J. 1942. The reproductive capacity of plants. Bell &amp;
+Sons, London.</mixed-citation>
+         </ref>
+         <ref id="d7323e1939a1310">
+            <mixed-citation id="d7323e1943" publication-type="other">
+Schmid, B. 1990. Some ecological and evolutionary consequences
+of modular organization and clonal growth in plants. Evol.
+Trends in Plants 4(1): 25-34.</mixed-citation>
+         </ref>
+         <ref id="d7323e1956a1310">
+            <mixed-citation id="d7323e1960" publication-type="other">
+Schmid, B. &amp; Harper, J. L. 1985. Clonal growth in grassland peren-
+nials. I. Density and pattern-dependent competition between
+plants with different growth forms. J. Ecol. 73: 793-808.</mixed-citation>
+         </ref>
+         <ref id="d7323e1973a1310">
+            <mixed-citation id="d7323e1977" publication-type="other">
+Schmid, B., Puttick, G. M., Burgess, K. H. &amp; Bazzaz, F. A. 1988.
+Clonal integration and effects of simulated herbivory in old-
+field perennials. Oecologia75: 465-471.</mixed-citation>
+         </ref>
+         <ref id="d7323e1990a1310">
+            <mixed-citation id="d7323e1994" publication-type="other">
+Schoener, T. W. 1974. Resource partitioning in ecological com-
+munities. Science 185: 27-39.</mixed-citation>
+         </ref>
+         <ref id="d7323e2004a1310">
+            <mixed-citation id="d7323e2008" publication-type="other">
+Shmida A. &amp; Ellner S. 1984. Coexistence of plant species with
+similar niches. Vegetatio 58: 29-55.</mixed-citation>
+         </ref>
+         <ref id="d7323e2019a1310">
+            <mixed-citation id="d7323e2023" publication-type="other">
+Sebens, K. P. &amp; Thorne, B. L. 1985. Coexistence of clones, clonal
+diversity, and the effects of disturbance. In: Jackson, J. B. C.,
+Buss, L. W. &amp; Cook, R. E. (eds.), Population biology and evolu-
+tion of clonal organisms. Yale Univ. Press, New Haven, Connec-
+ticut, USA. pp. 357-396.,</mixed-citation>
+         </ref>
+         <ref id="d7323e2042a1310">
+            <mixed-citation id="d7323e2046" publication-type="other">
+Silander, J. A., Jr. 1985. Microevolution in clonal plants. In: Jackson,
+J. B. C., Buss, L. W. &amp; Cook, R. E. (eds.), Population biology
+and evolution of clonal organisms. Yale Univ. Press, New
+Haven, Connecticut, USA. pp. 105-151.</mixed-citation>
+         </ref>
+         <ref id="d7323e2062a1310">
+            <mixed-citation id="d7323e2066" publication-type="other">
+Silvertown, J., Holtier, S., Johnson, J. &amp; Dale, P. 1992. Cellular
+automaton models of interspecific competition for space -the
+effect of pattern on process. J. Ecol. 80: 527-534.</mixed-citation>
+         </ref>
+         <ref id="d7323e2079a1310">
+            <mixed-citation id="d7323e2083" publication-type="other">
+Smith, A. P. &amp; Palmer, J. O. 1976. Vegetative reproduction and close
+packing in a successional plant species. Nature 261: 232-233.</mixed-citation>
+         </ref>
+         <ref id="d7323e2093a1310">
+            <mixed-citation id="d7323e2097" publication-type="other">
+Soukupová, L., Marshall, C., Hara, T. &amp; Herben, T. (eds.) 1994.
+Plant clonality: biology and diversity. Opulus Press, Uppsala.</mixed-citation>
+         </ref>
+         <ref id="d7323e2107a1310">
+            <mixed-citation id="d7323e2111" publication-type="other">
+Stuefer, J. 1995. Separating the effects of assimilate and water in-
+tegration in clonal fragments, by the use of steam-girdling. In:
+Oborny, B. &amp; Podani, J. (eds.), Clonality in plant communities.
+Proceedings of the 4th International Workshop on Clonal Plants.
+Abstracta Botanica 19: 75-81.</mixed-citation>
+         </ref>
+         <ref id="d7323e2131a1310">
+            <mixed-citation id="d7323e2135" publication-type="other">
+Stuefer, J. F. (in press) Potentials and limitations of current concepts
+regarding the responses of clonal plants to environmental
+heterogeneity. Vegetatio.</mixed-citation>
+         </ref>
+         <ref id="d7323e2148a1310">
+            <mixed-citation id="d7323e2152" publication-type="other">
+Stuefer, J. F., de Kroon, H. &amp; During, H. J. (in press) Exploitation of
+environmental heterogeneity by spatial division of labour in a
+clonal plant. Functional Ecol.</mixed-citation>
+         </ref>
+         <ref id="d7323e2165a1310">
+            <mixed-citation id="d7323e2169" publication-type="other">
+Sutherland, W. J. &amp; Stillman, R. A. 1988. The foraging tactics of
+plants. Oikos 52: 239-244.</mixed-citation>
+         </ref>
+         <ref id="d7323e2179a1310">
+            <mixed-citation id="d7323e2183" publication-type="other">
+Svensson, B. M. &amp; Callaghan, T. V. 1988b. Small-scale vegetation
+pattern related to the growth of Lycopodium annotinum and
+variations in its micro-environment. Vegetatio 76: 167-177.</mixed-citation>
+         </ref>
+         <ref id="d7323e2196a1310">
+            <mixed-citation id="d7323e2200" publication-type="other">
+Thórhallsdóttir, T. E. 1990. The dynamics of five grasses and white
+clover in a simulated mosaic sward. J. Ecol. 78: 909-923.</mixed-citation>
+         </ref>
+         <ref id="d7323e2210a1310">
+            <mixed-citation id="d7323e2214" publication-type="other">
+Tilman, D. 1988. Plant strategies and the dynamics and structure of
+plant communities. Princeton Univ. Press, Princeton N.J,</mixed-citation>
+         </ref>
+         <ref id="d7323e2225a1310">
+            <mixed-citation id="d7323e2229" publication-type="other">
+Tilman, D. 1990. Constraints and tradeoffs: toward a predictive
+theory of competition and succession. Oikos 58: 3-15.</mixed-citation>
+         </ref>
+         <ref id="d7323e2239a1310">
+            <mixed-citation id="d7323e2243" publication-type="other">
+Tilman, D. 1993. Community diversity and succession: the roles of
+competition, dispersal, and habitat modification. In: Schulze
+E.D. &amp; Mooney H.A. (eds.), Biodiversity and Ecosystem Func-
+tion. Springer Verlag, Berlin, pp. 327-344.</mixed-citation>
+         </ref>
+         <ref id="d7323e2259a1310">
+            <mixed-citation id="d7323e2263" publication-type="other">
+Tilman D. 1994. Competition and biodiversity in spatially structured
+habitats. Ecology 75: 2-16.</mixed-citation>
+         </ref>
+         <ref id="d7323e2273a1310">
+            <mixed-citation id="d7323e2277" publication-type="other">
+Tilman D. &amp; Pacala S. 1993. The maintenance of species richness in
+plant communities. In: Ricklefs, R.E. &amp; Schlüter, D. (eds.),
+Species diversity in ecological communities. Univ. Chicago
+Press, USA. pp. 13-25.</mixed-citation>
+         </ref>
+         <ref id="d7323e2293a1310">
+            <mixed-citation id="d7323e2297" publication-type="other">
+Tuomi, J. &amp; Vuorisalo, T. 1989. Hierarchical selection in modular
+oiganisms. TREE 4: 209-213.</mixed-citation>
+         </ref>
+         <ref id="d7323e2307a1310">
+            <mixed-citation id="d7323e2311" publication-type="other">
+Turkington, R., Cahn, M. A., Vardy, A. &amp; Harper, J. L. 1979. The
+growth, distribution and neighbour relationships of Trifolium
+repens in a permanent pasture. III. The establishment and
+growth of Trifolium repens in natural and perturbed sites. J.
+Ecol. 67: 231-243.</mixed-citation>
+         </ref>
+         <ref id="d7323e2331a1310">
+            <mixed-citation id="d7323e2335" publication-type="other">
+Turkington, R. &amp; Cavers, P. B. 1979. Neighbour relationships in
+grass-legume communities. III. Development of pattern and as-
+sociation in artificial communities. Can. J. Bot. 55: 2701-2711.</mixed-citation>
+         </ref>
+         <ref id="d7323e2348a1310">
+            <mixed-citation id="d7323e2352" publication-type="other">
+Turkington, R. &amp; Harper, J. L. 1979a. The growth, distribution and
+neighbour relationships of Trifolium repens in a permanent pas-
+ture. I. Ordination, pattern and contact. J. Ecol. 67: 201-218.</mixed-citation>
+         </ref>
+         <ref id="d7323e2365a1310">
+            <mixed-citation id="d7323e2369" publication-type="other">
+Turkington, R. &amp; Harper, J. L. 1979b. The growth, distribution and
+neighbour relationships of Trifolium repens in a permanent pas-
+ture. II. Inter-and intra-specific contact. J. Ecol. 67: 219-230.</mixed-citation>
+         </ref>
+         <ref id="d7323e2382a1310">
+            <mixed-citation id="d7323e2386" publication-type="other">
+Türidngton, R. &amp; Harper, J. L. 1979c. The growth, distribution and
+neighbour relationships of Trifolium repens in a permanent pas-
+ture. IV. Fine-scale biotic differentiation. J. Ecol. 67: 245-254.</mixed-citation>
+         </ref>
+         <ref id="d7323e2399a1310">
+            <mixed-citation id="d7323e2403" publication-type="other">
+van der Maaiel E. &amp; Sykes M. T. 1993. Small-scale plant species
+turnover in a limestone grassland: the carousel model and some
+comments on the niche concept. J. Veget. Sci. 4:179-188.</mixed-citation>
+         </ref>
+         <ref id="d7323e2416a1310">
+            <mixed-citation id="d7323e2420" publication-type="other">
+van Groenendael, J. &amp; de Kroon, H. (eds.) 1990a. Clonal growth in
+plants: regulation and function. SPB Acad. Publ., The Hague.</mixed-citation>
+         </ref>
+         <ref id="d7323e2431a1310">
+            <mixed-citation id="d7323e2435" publication-type="other">
+van Groenendael, J. &amp; de Kroon, H. 1990b. Preface. In: van
+Groenendael, J. &amp; de Kroon, H. (eds.), Clonal growth in plants:
+regulation and function. SPB Acad. Publ., The Hague, pp. VII-
+IX.</mixed-citation>
+         </ref>
+         <ref id="d7323e2451a1310">
+            <mixed-citation id="d7323e2455" publication-type="other">
+Waller, D. M. &amp; Steingraeber, D. A. 1985. Branching and modular
+growth: theoretical models and empirical patterns. In: Jackson,
+J. B. G, Buss, L. W. &amp; Cook, R. E. (eds.), Population biology
+and evolution of clonal organisms. Yale Univ. Press, New
+Haven, Connecticut, USA. pp. 225-257.</mixed-citation>
+         </ref>
+         <ref id="d7323e2474a1310">
+            <mixed-citation id="d7323e2478" publication-type="other">
+Watkinson, A. R. 1988. On the growth and reproductive schedules
+of plants: a modular viewpoint. Acta Ecol. (Ecol. Plant.) 9: 67-
+81.</mixed-citation>
+         </ref>
+         <ref id="d7323e2491a1310">
+            <mixed-citation id="d7323e2495" publication-type="other">
+Watkinson, A. R. &amp; Powell, J. C. 1993. Seedling recruitment and the
+maintenance of clonal diversity in plant populations -a com-
+puter simulation of Ranunculus repens. J. Ecol. 81: 707-717.</mixed-citation>
+         </ref>
+         <ref id="d7323e2508a1310">
+            <mixed-citation id="d7323e2512" publication-type="other">
+Watson, M. A. 1990. Phenological effects on clone development and
+demography. In: van Groenendael, J. &amp; de Kroon, H. (eds.),
+Clonal growth in plants: regulation and function. SPB Acad.
+Publ., The Hague, pp. 43-56.</mixed-citation>
+         </ref>
+         <ref id="d7323e2528a1310">
+            <mixed-citation id="d7323e2532" publication-type="other">
+Watt; A.S. 1947. Pattern and process in the plant community. J. Ecol.
+35: 1-22.</mixed-citation>
+         </ref>
+         <ref id="d7323e2543a1310">
+            <mixed-citation id="d7323e2547" publication-type="other">
+Wherry, E. 1972. Box-huckleberry as the oldest living protoplasm.
+Castanea 37: 94-95.</mixed-citation>
+         </ref>
+         <ref id="d7323e2557a1310">
+            <mixed-citation id="d7323e2561" publication-type="other">
+White, J. 1979. The plant as a metapopulation. Ann. Rev. Ecol. Syst.
+10: 109-145</mixed-citation>
+         </ref>
+         <ref id="d7323e2571a1310">
+            <mixed-citation id="d7323e2575" publication-type="other">
+Wiens, J. A. 1989. Spatial scaling in ecology. Functional Ecol. 3:
+385-397.</mixed-citation>
+         </ref>
+         <ref id="d7323e2585a1310">
+            <mixed-citation id="d7323e2589" publication-type="other">
+Wilhalm, T. 1995. A comparative study of clonal fragmentation in
+tussock-forming grasses. In: Oborny, B. &amp; Podani, J. (eds.),
+Clonality in plant communities. Proceedings of the 4th Interna-
+tional Workshop on Clonal Plants. Abstracta Botanica 19: 51-
+60.</mixed-citation>
+         </ref>
+         <ref id="d7323e2608a1310">
+            <mixed-citation id="d7323e2612" publication-type="other">
+Wilson, J. B. 1990. Mechanisms of species coexistence: twelve ex-
+planations for Hutchinson's 'paradox of the plankton': evidence
+from New Zealand plant communities. New Zealand J. Ecol. 13:
+17-41.</mixed-citation>
+         </ref>
+         <ref id="d7323e2628a1310">
+            <mixed-citation id="d7323e2632" publication-type="other">
+Wilson J. B., Gitay H. &amp; Agnew A. D. Q. 1 987. Does niche limitation
+exist? Funct. Ecol. 1 : 391-397.</mixed-citation>
+         </ref>
+         <ref id="d7323e2643a1310">
+            <mixed-citation id="d7323e2647" publication-type="other">
+Wilson J. B., Roxburgh, S. H. 1992. Application of community
+matrix theory to plant competition data. Oikos 65: 343-348.</mixed-citation>
+         </ref>
+         <ref id="d7323e2657a1310">
+            <mixed-citation id="d7323e2661" publication-type="other">
+Winkler, E. &amp; Schmid, B. 1995. Clonal strategies of herbaceous
+plant species -a simulation study on population growth and
+competition. In: Oborny, B. &amp; Podani, J. (eds.), Clonality in
+plant communities. Proceedings of the 4th International
+Workshop on Clonal Plants. Abstracta Botanica 19: 17-28.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

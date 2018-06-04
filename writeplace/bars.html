@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>bars</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/ext/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/ext/css/dc.css"/>
+    <style>
+    .longlabel .x.axis text {
+    text-anchor: start;
+    transform: rotate(-90deg);
+    transform: translate(-14px, 0px) rotate(-90deg);
+
+
+}</style>
+</head>
+<body>
+
+<div class="container">
+<div class="row">
+
+ <h3><a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a></h3>
+ </div>
+<div id="title" class="longlabel"></div>
+<div id="pub" class="longlabel"></div>
+
+<script type="text/javascript" src="/ext/other/d3.js"></script>
+<script type="text/javascript" src="/ext/other/crossfilter.js"></script>
+<script type="text/javascript" src="/ext/other/dc.js"></script>
+<script type="text/javascript">
+
+var titleChart = dc.barChart("#title");
+var pubChart = dc.barChart("#pub");
+
+
+dc.config.defaultColors(d3.schemeCategory10)
+d3.json("data.json").then(function(json_data) {
+
+  let cs = crossfilter(json_data)
+
+  let all = cs.groupAll();
+
+   titleDimension = cs.dimension(function(d){return d.title})
+  					titleGroup = titleDimension.group()
+ pubDimension = cs.dimension(function(d){return d.pub})
+  					pubGroup = pubDimension.group()
+
+
+  
+				let titlewidth = 1000
+				let titlelength = titleGroup.all().length
+				
+				if(titlelength  > 200){
+					titlewidth = titlelength * 10
+				}
+			
+
+				let pubwidth = 1000
+				let publength = pubGroup.all().length
+				
+				if(publength  > 200){
+					pubwidth = publength * 10
+				}
+			
+
+
+
+  
+
+    titleChart
+    .width(titlewidth)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("title")
+    .dimension(titleDimension)
+    .group(titleGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        titleChart.selectAll("rect.bar").on("click", function (d) {
+            titleChart.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+
+
+
+
+
+    pubChart
+    .width(pubwidth)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("pub")
+    .dimension(pubDimension)
+    .group(pubGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        pubChart.selectAll("rect.bar").on("click", function (d) {
+            pubChart.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+
+
+
+
+
+
+
+  dc.renderAll()
+
+
+});
+</script>
+
+</div>
+</body>
+</html>

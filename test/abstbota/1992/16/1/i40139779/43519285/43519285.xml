@@ -1,0 +1,194 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519285</article-id>
+         <title-group>
+            <article-title>Coexistence and pattern diversity in communities of clonal organisms: a model based on cellular automata</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>T.</given-names>
+                  <surname>Herben</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1992</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139779</issue-id>
+         <fpage>49</fpage>
+         <lpage>54</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519285"/>
+         <abstract>
+            <p>In communities of sessile clonal organisms, the relation between spatial pattern and spatial competitive processes is easily modelled by cellular automata based models. Such models enable us to examine the effect of small scale processes acting within the community on its large scale pattern and dynamics. Two species systems differing in growth form, age of senescence within a cell and dispersal rate were simulated. The results show that growth form and age of senescence are pivotal for coexistence and pattern, whereas the effect of the value of the dispersal was generally small in the parameter region studied. Under the "frond" growth form, the coexistence of species was dependent on the life span within a cell, whereas the "cushion" growth form enabled the coexistence of the species under all parameter values. This growth form system showed marked oscillations increasing rapidly with increasing senescence limit. The grain of the spatial pattern increased rapidly with the increasing age limit. Small changes in parameter values may cause large shifts in the system behaviour. One type of a spatial process with slightly varying parameters may hence result in very different spatial pattern.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7979e169a1310">
+            <mixed-citation id="d7979e173" publication-type="other">
+Bell, A. D. 1984. Dynamic morphology: a contribution to plant
+population ecology. In: Dirzo R. &amp; Sarukhan J, [eds.]
+Perspectives on plant population biology, Sinauer Assoc.,
+Sunderland, pp. 48-65.</mixed-citation>
+         </ref>
+         <ref id="d7979e189a1310">
+            <mixed-citation id="d7979e193" publication-type="other">
+Crawley, M. J. &amp; May, R. M. 1987. Population dynamics and
+plant community structure: competition between annuals
+and perennials. J. Theor. Biol. 125:475-.</mixed-citation>
+         </ref>
+         <ref id="d7979e206a1310">
+            <mixed-citation id="d7979e210" publication-type="other">
+Czárán, T. &amp; Bartha, S. 1989. The effect of spatial pattern on
+the community dynamics: a comparison of simulated and
+field data. Vegetatio 83:229-239.</mixed-citation>
+         </ref>
+         <ref id="d7979e223a1310">
+            <mixed-citation id="d7979e227" publication-type="other">
+During, H. J. &amp; van Thoren, B. 1988. Pattern and dynan'ics in
+the bryophyte layer of a chalk grassland. In: During H. J. ,
+Werger M. J. A. &amp; Willems J. H. [eds. ]: Diversity and pat-
+tern in plant communities, SPB Acad. Publ., The Hague,
+pp. 195-208.</mixed-citation>
+         </ref>
+         <ref id="d7979e247a1310">
+            <mixed-citation id="d7979e251" publication-type="other">
+Green, D. G. 1989. Simulated effects of fire, dispersal and spa-
+tial pattern on competition within forest mosaic. Vegetatio
+82:139-153.</mixed-citation>
+         </ref>
+         <ref id="d7979e264a1310">
+            <mixed-citation id="d7979e268" publication-type="other">
+Hill, M. O. &amp; Radford, G. L. 1986. Register of permanent
+vegetation plots. Inst. Terrestrial Ecology, Abbots Ripton.</mixed-citation>
+         </ref>
+         <ref id="d7979e278a1310">
+            <mixed-citation id="d7979e282" publication-type="other">
+Hogeweg, P. et al. 1985. Patterns in vegetation succession, an
+ecomorphological study. In: White J. [ed. ] Population
+structure of vegetation, Handbook of vegetation science 3,
+Dr. W. Junk Publ., The Hague, pp. 637-666.</mixed-citation>
+         </ref>
+         <ref id="d7979e298a1310">
+            <mixed-citation id="d7979e302" publication-type="other">
+Inghe, O. 1989. Genet and ramet survivorship under different
+mortality regimes -a cellular automata model. J. Theor.
+Biol. 138:257-270.</mixed-citation>
+         </ref>
+         <ref id="d7979e315a1310">
+            <mixed-citation id="d7979e319" publication-type="other">
+Karlson, R. H. &amp; Buss, L. W. 1984. Competition, disturbance
+and local diversity patterns of substratum bound clonal or-
+ganisms: a simulation. Ecol. Model. 23:243-255.</mixed-citation>
+         </ref>
+         <ref id="d7979e332a1310">
+            <mixed-citation id="d7979e336" publication-type="other">
+Karlson, R. H. &amp; Jackson, J. B. C. 1981. Competitive networks
+and community structure: a simulation study. Ecology
+62:670-678.</mixed-citation>
+         </ref>
+         <ref id="d7979e350a1310">
+            <mixed-citation id="d7979e354" publication-type="other">
+Kershaw, K. A. 1960. Cyclic and pattern phenomena as ex-
+hibited by Alchemilla alpina. J. Ecol. 48:443-453.</mixed-citation>
+         </ref>
+         <ref id="d7979e364a1310">
+            <mixed-citation id="d7979e368" publication-type="other">
+Kershaw, K. A. 1964. Quantitative and dynamic plant ecology.
+Arnold, London.</mixed-citation>
+         </ref>
+         <ref id="d7979e378a1310">
+            <mixed-citation id="d7979e382" publication-type="other">
+Leps, J. &amp; Kindlmann, P. 1989. Models of the development of
+spatial pattern of an even aged plant population over time.
+Ecol. Model. 39:45-57.</mixed-citation>
+         </ref>
+         <ref id="d7979e395a1310">
+            <mixed-citation id="d7979e399" publication-type="other">
+Lovett Doust, L. 1981. Population dynamics and local
+specialization in a clonal plant Ranunculus repens. I. The
+dynamics of ramets in contrasting habitats. J. Ecol. 69,743-
+755.</mixed-citation>
+         </ref>
+         <ref id="d7979e415a1310">
+            <mixed-citation id="d7979e419" publication-type="other">
+Lovett Doust, L. &amp; Lovett Doust, J. 1985. The battle strategies
+of plants. New Scientist 95: 81-85</mixed-citation>
+         </ref>
+         <ref id="d7979e429a1310">
+            <mixed-citation id="d7979e433" publication-type="other">
+Pentecost, A 1980. Aspects of competition in saxicolous lichen
+communities. Lichenologist 12:135-144.</mixed-citation>
+         </ref>
+         <ref id="d7979e444a1310">
+            <mixed-citation id="d7979e448" publication-type="other">
+Pysek, P. &amp; Liska, J. 1991. Colonization of Sibbaldia tetrandra
+cushions on alpine scree in the Pamiro-Altai Mountains,
+central Asia. Arctic Alpine Res. 23:263-272.</mixed-citation>
+         </ref>
+         <ref id="d7979e461a1310">
+            <mixed-citation id="d7979e465" publication-type="other">
+Sokal, R. R. &amp; Jacquez, G. M. 1991. Tèsting inferences about
+microevolutionaiy processes by means of spatial autocor-
+relation analysis. Evolution 45:152-168.</mixed-citation>
+         </ref>
+         <ref id="d7979e478a1310">
+            <mixed-citation id="d7979e482" publication-type="other">
+Tbrner, M. E. et al. 1979. Homozygosity and patch structure in
+plant populations as a result of nearest neighbor pollina-
+tion. Proc. Natl. Acad. Sci. USA 79:203-207.</mixed-citation>
+         </ref>
+         <ref id="d7979e495a1310">
+            <mixed-citation id="d7979e499" publication-type="other">
+Usher, M. B. 1983. Pattern in simple moss-turf communities in
+the sub-Antarctic and maritime Antarctic. J. Ecol. 71:945-
+958.</mixed-citation>
+         </ref>
+         <ref id="d7979e512a1310">
+            <mixed-citation id="d7979e516" publication-type="other">
+Wolfram, S. 1984. Universality and complexity in cellular
+automata. Physica 10D:1-35.</mixed-citation>
+         </ref>
+         <ref id="d7979e526a1310">
+            <mixed-citation id="d7979e530" publication-type="other">
+Woolhouse, M. E. J., Harmsen R., Fahrig L. 1985. On succes-
+sion in a saxicolous lichen community. Lichenologist
+17:167-172.</mixed-citation>
+         </ref>
+         <ref id="d7979e544a1310">
+            <mixed-citation id="d7979e548" publication-type="other">
+Yarranton G. A. and Morrisson R. G. 1984. Spatial dynamic of
+a primary succession -a nucleation. J. Ecol. 62:417-428.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

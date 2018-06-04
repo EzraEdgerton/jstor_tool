@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>dc.js - Bar Chart Example</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/ext/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/ext/css/dc.css"/>
+    <style>
+    .longlabel .x.axis text {
+    text-anchor: start;
+    transform: rotate(-90deg);
+    transform: translate(-14px, 0px) rotate(-90deg);
+
+
+}</style>
+</head>
+<body>
+
+<div class="container">
+<div class="row">
+
+ <h3><a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a></h3>
+ </div>
+<div id="test"></div>
+<div id="test2"></div>
+<div id="test3" class="longlabel"></div>
+<div id="test4" class="longlabel"></div>
+<script type="text/javascript" src="/ext/other/d3.js"></script>
+<script type="text/javascript" src="/ext/other/crossfilter.js"></script>
+<script type="text/javascript" src="/ext/other/dc.js"></script>
+<script type="text/javascript">
+
+var chart = dc.barChart('#test');
+
+var chart2 = dc.barChart("#test2");
+
+var chart3 = dc.barChart("#test3")
+var chart4 = dc.barChart("#test4")
+
+
+dc.config.defaultColors(d3.schemeCategory10)
+d3.json("data.json").then(function(json_data) {
+  console.log(json_data)
+
+  let cs = crossfilter(json_data)
+
+  let all = cs.groupAll();
+
+  yearDimension = cs.dimension(function(d){return d.year})
+  yearGroup = yearDimension.group()
+   monthDimension = cs.dimension(function(d){return d.month})
+  monthGroup = monthDimension.group()
+  pubdimension = cs.dimension(function(d){ return d.pub})
+  pubGroup = pubdimension.group()
+  worddimension = cs.dimension(function(d){ return d.words})
+  wordGroup = worddimension.group()
+
+  chart
+    .width(1000)
+    .height(200)
+    .x(d3.scaleLinear().domain(d3.extent(json_data, function(d){
+      return +d.year
+    })))
+    .brushOn(true)
+    .yAxisLabel("Thing")
+    .dimension(yearDimension)
+    .group(yearGroup)
+    .elasticY(true)
+
+chart.xAxis().ticks(10) 
+
+
+let monthextent = d3.extent(json_data, function(d){
+      if  (+d.month > 12){
+       let cutmonth = "" + d.month
+
+        return +cutmonth.slice(0,2)
+      }
+      return +d.month
+    })
+    chart2
+    .width(1000)
+    .height(200)
+    .x(d3.scaleLinear().domain(monthextent))
+    .brushOn(true)
+    .controlsUseVisibility(true)
+    .yAxisLabel("This is the Y Axis!")
+    .dimension(monthDimension)
+    .group(monthGroup)
+    .elasticY(true)
+
+
+    chart3
+    .width(1000)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("Thing")
+    .dimension(pubdimension)
+    .group(pubGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        chart3.selectAll("rect.bar").on("click", function (d) {
+            chart3.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+      chart4
+    .width(1000)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("Thing")
+    .dimension(worddimension)
+    .group(wordGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        chart4.selectAll("rect.bar").on("click", function (d) {
+            chart4.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+
+    dc.renderAll()
+
+
+});
+</script>
+
+</div>
+</body>
+</html>

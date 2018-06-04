@@ -1,0 +1,132 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group>
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/27670244</article-id>
+         <title-group>
+            <article-title>Morphologic Identification of Papovavirus in a Moluccan Cockatoo (Cacatua moluccensis) with Neurologic Signs</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Robert E.</given-names>
+                  <surname>Schmidt</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Gloria J.</given-names>
+                  <surname>Goodman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Robert J.</given-names>
+                  <surname>Higgins</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Alan M.</given-names>
+                  <surname>Fudge</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>3</issue>
+         <issue-id>i27670237</issue-id>
+         <fpage>107</fpage>
+         <lpage>108</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1987 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/27670244"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d10989e162a1310">
+            <label>1</label>
+            <mixed-citation id="d10989e169" publication-type="other">
+BERNIER, G., MORIN, M., and MARSOLAIS, G.: A generalized
+inclusion body disease in the budgerigar (Melopsittacus undulatus)
+caused by a papovavirus-like agent. Avian Dis 25: 1083-1092, 1981.</mixed-citation>
+         </ref>
+         <ref id="d10989e182a1310">
+            <label>2</label>
+            <mixed-citation id="d10989e189" publication-type="other">
+DYKSTRA, M.J., DYKSTRA, C.C., LUKERT, P.D., and
+BOZEMAN, L.H.: Investigations of a budgerigar fledgling disease
+virus. Am J Vet Res 49: 1883-1887, 1984.</mixed-citation>
+         </ref>
+         <ref id="d10989e202a1310">
+            <label>3</label>
+            <mixed-citation id="d10989e209" publication-type="other">
+DYKSTRA, M.J. and BOZEMAN, L.H.: A light and electron
+microscopic examination of budgerigar fledging disease virus in tissue
+and in cell culture. Avian Pathol, 11: 11-28, 1982.</mixed-citation>
+         </ref>
+         <ref id="d10989e222a1310">
+            <label>4</label>
+            <mixed-citation id="d10989e229" publication-type="other">
+JACOBSON, E.R., HINES, S.A., QUESENBERRRY K., et al.:
+Epornitic of papova-like virus-associated disease in a psittacine
+nursery. JAVMA, 185: 1337-1341, 1984.</mixed-citation>
+         </ref>
+         <ref id="d10989e243a1310">
+            <label>5</label>
+            <mixed-citation id="d10989e250" publication-type="other">
+QUESENBERRY, K., TAPPE, J.P., and GREINER, E.C., et al.:
+Hepatic trematodiasis in five cockatoos. JAVMA, 189: 1103-1105,
+1986.</mixed-citation>
+         </ref>
+         <ref id="d10989e263a1310">
+            <label>6</label>
+            <mixed-citation id="d10989e270" publication-type="other">
+MATHEY, W.J., and CHO, B.R.: Tremors of nestling budgerigars
+with BFD. Proc 33rd Western Poultry Dis Conf, 1984, p. 102.</mixed-citation>
+         </ref>
+         <ref id="d10989e280a1310">
+            <label>7</label>
+            <mixed-citation id="d10989e287" publication-type="other">
+ZuRHEIN, G.M.: Association of papovavirus with a human
+demyelinating disease (progressive multifocal leukoencephalopathy).
+In: Melnick, J.L. (ed.): Prog in Med Virol, Karger Basel, 1969,
+Chapter 11.</mixed-citation>
+         </ref>
+         <ref id="d10989e303a1310">
+            <label>8</label>
+            <mixed-citation id="d10989e310" publication-type="other">
+GERLACH, H.: Viral diseases. In: Harrison, G.J. and Harrison,
+L.R. (eds.): Clinical Avian Medicine and Surgery. Philadelphia, W.B.
+Saunders Co., 1986, p. 427.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

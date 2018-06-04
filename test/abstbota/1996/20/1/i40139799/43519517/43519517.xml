@@ -1,0 +1,170 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519517</article-id>
+         <title-group>
+            <article-title>Consistency in taxonomic rank: an example front Drosera</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>David W.</given-names>
+                  <surname>Goodall</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Neville G.</given-names>
+                  <surname>Marchant</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1996</year>
+         </pub-date>
+         <volume>20</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139799</issue-id>
+         <fpage>1</fpage>
+         <lpage>15</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519517"/>
+         <abstract>
+            <p>It is argued that conspecific pairs of subspecies within a genus should have a consistent degree of similarity - at least greater than that between pairs of distinct species in that genus. Numerical methods are used to re-examine the existing classification of the genus Drosera (with over sixty distinct species) in Australia. Though most subspecies pairs show much greater similarity than most species pairs, two subspecies of D. stolonifera deviate widely from the other three. In contrast, several pairs of species within the genus resembled one another as much as conspecific pairs of subspecies.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d9066e208a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d9066e215" publication-type="other">
+Goodall, 1993, 1994</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d9066e231a1310">
+            <mixed-citation id="d9066e235" publication-type="other">
+Bentham, G. 1864. Flora Australiensis Vol. 2. Lovell Reeve and
+Co., London.</mixed-citation>
+         </ref>
+         <ref id="d9066e245a1310">
+            <mixed-citation id="d9066e249" publication-type="other">
+Conn, B. J. 1981. The Drosera peltata - D. auriculata complex.
+Journal of the Adelaide Botanical Gardens 3(1): 91-100.</mixed-citation>
+         </ref>
+         <ref id="d9066e259a1310">
+            <mixed-citation id="d9066e263" publication-type="other">
+Davis, P.H.&amp; V.H. Heywood. 1963. Principles of Angiosperm
+Taxonomy. Oliver and Boyd, Edinburgh.</mixed-citation>
+         </ref>
+         <ref id="d9066e273a1310">
+            <mixed-citation id="d9066e277" publication-type="other">
+Du Rietz, G. 1930. The fundamental units of biological taxonomy.
+Svensk botanisk Tidskrift 24:333-428.</mixed-citation>
+         </ref>
+         <ref id="d9066e288a1310">
+            <mixed-citation id="d9066e292" publication-type="other">
+Fisher, R.A. 1932 Statistical Methods for Research Workers. 5th
+Edition. Oliver &amp; Boyd, Edinburgh.</mixed-citation>
+         </ref>
+         <ref id="d9066e302a1310">
+            <mixed-citation id="d9066e306" publication-type="other">
+Goodall, D.W. 1966. A new similarity index based on probability.
+Biometrics 22: 882-905.</mixed-citation>
+         </ref>
+         <ref id="d9066e316a1310">
+            <mixed-citation id="d9066e320" publication-type="other">
+Goodall, D.W. 1968. Affinity between an individual and a cluster
+in numerical taxonomy Biométrie-Praximétrie 9: 52 - 55.</mixed-citation>
+         </ref>
+         <ref id="d9066e330a1310">
+            <mixed-citation id="d9066e334" publication-type="other">
+Goodall, D.W. 1993. Probabilistic indices for classification -Some
+extensions. Abstracta·Botanica 17: 125-132.</mixed-citation>
+         </ref>
+         <ref id="d9066e344a1310">
+            <mixed-citation id="d9066e348" publication-type="other">
+Goodall, D.W. 1994. The treatment of spatial data in probabilistic
+classification. Abstracta Botanica 18:45-47.</mixed-citation>
+         </ref>
+         <ref id="d9066e358a1310">
+            <mixed-citation id="d9066e362" publication-type="other">
+Goodall, D.W., P. Ganis &amp; E. Feoli. 1987. Probabilistic methods in
+classification: A manual for seven computer programs. Quad-
+erni del Gruppo Elaborazione Automatica Dati: Ecologia
+Quantitativa (GEAD-EQ) 7: 1-50. Reprinted in Feoli, E. &amp;
+Orlóci, L. (eds.). 1991. Computer Assisted Vegetation
+Analysis. Ch 40: 453-467. Kluwer, Netherlands.</mixed-citation>
+         </ref>
+         <ref id="d9066e386a1310">
+            <mixed-citation id="d9066e390" publication-type="other">
+Hawkes, J. G. 1963. The subspecies in flowering plants. Proceed-
+ings of the Birmingham Natural History and. Philosophical
+Society 20(2): 15-21.</mixed-citation>
+         </ref>
+         <ref id="d9066e403a1310">
+            <mixed-citation id="d9066e407" publication-type="other">
+Lancaster, H. O. 1949. The combination of probabilities arising
+from data in discrete distributions. Biometrika 36: 370-382.</mixed-citation>
+         </ref>
+         <ref id="d9066e417a1310">
+            <mixed-citation id="d9066e421" publication-type="other">
+Lowrie, A. &amp; N. G. Marchant. 1992. Four new Drosera taxa from
+south western Australia. Nuytsia 8(3): 323 - 332.</mixed-citation>
+         </ref>
+         <ref id="d9066e431a1310">
+            <mixed-citation id="d9066e435" publication-type="other">
+Marchant, N. G., H. I. Aston &amp; A. S. George. 1982. Droseraceae.
+In: George, A. S. (ed.), Flora of Australia, vol 8. Australian
+Government Publishing Service. Canberra, pp. 9 - 66.</mixed-citation>
+         </ref>
+         <ref id="d9066e448a1310">
+            <mixed-citation id="d9066e452" publication-type="other">
+Mayr, E. 1969. Principles of Systematic Zoology. McGraw-Hill,
+New York.</mixed-citation>
+         </ref>
+         <ref id="d9066e462a1310">
+            <mixed-citation id="d9066e466" publication-type="other">
+Stace, C. A. 1980. Plant Taxonomy and Bio systematics. Edward
+Arnold, London.</mixed-citation>
+         </ref>
+         <ref id="d9066e477a1310">
+            <mixed-citation id="d9066e481" publication-type="other">
+Sneath, P. H. A. &amp; R. R. Sokal. 1973. Numerical Taxonomy: The
+principles and practice of numerical classification. Freeman,
+San Francisco.</mixed-citation>
+         </ref>
+         <ref id="d9066e494a1310">
+            <mixed-citation id="d9066e498" publication-type="other">
+Tutin, T. G. 1957. What is a subspecies? Taxon 6(4):105</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,265 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519225</article-id>
+         <title-group>
+            <article-title>Allelopathic interactions and pattern generation of herbs in oakwood clearings. (Preliminary studies)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>P.</given-names>
+                  <surname>Csontos</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1991</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139775</issue-id>
+         <fpage>25</fpage>
+         <lpage>30</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519225"/>
+         <abstract>
+            <p>Germination tests were carried out on herb layer species to find evidence on the role of allelopathy in affecting vegetation patterns of oakwood clearings. For selecting species pairs three hypotheses were considered: (1) surrounded individual hypothesis, (2) fastidious patches, (3) resistance hypothesis. In experiments based on (1), Achillea distans and Solidago virga-aurea hindered significantly the growth of the roots of Poa nemoralis seedlings, which dominates on clearings. In connection with (2), Silene vulgaris a perennial herb, found to be absent from the patches of Achillea distans and Centaurea stenolepis but growing vigorously outside, was sharply restricted by the water extracts of the patchy species, both in its germination and root growth stage. In case of (3), though some significant effects emerged, the results are not sufficient to prove allelopathic exclusion of Verbascum speciosum by the dominant grasses of the clearings. With respect to the whole vegetation on oakwood clearings the following is concluded: interactions related to surrounded individuals may have a role in maintaining or increasing the diversity, and the fastidious patches have an effect on their own texture and consequently on the structure of the clearings.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Référencés</title>
+         <ref id="d11406e123a1310">
+            <mixed-citation id="d11406e127" publication-type="other">
+Barbour, M. G., J.H.Burk W.D.Pitts 1980.
+Terrestrial plant ecology. The Benjamin/Cum-
+mings Publishing Company, Menlo Park, Cali-
+fornia,, pp:94-107.</mixed-citation>
+         </ref>
+         <ref id="d11406e143a1310">
+            <mixed-citation id="d11406e147" publication-type="other">
+Bell, D. T. &amp; C. H. Muller. 1973. Dominance of
+California Annual Grasslands by Brassica nigra.
+Am. Midi. Nat. 90:277-299.</mixed-citation>
+         </ref>
+         <ref id="d11406e160a1310">
+            <mixed-citation id="d11406e164" publication-type="other">
+Chou, C. H. &amp; C. H. Muller. 1972. Allelopathic
+Mechanisms of Arctostaphylos glandulosa var.
+zacaensis. Am. Midi. Nat. 88:324-347.</mixed-citation>
+         </ref>
+         <ref id="d11406e177a1310">
+            <mixed-citation id="d11406e181" publication-type="other">
+Curtis, J. T. &amp; G. Cottam. 1950. Antibiotic and
+au totoxic effects in prairie sunflower. Bull. Torr.
+Bot. Club 77:187-191.</mixed-citation>
+         </ref>
+         <ref id="d11406e195a1310">
+            <mixed-citation id="d11406e199" publication-type="other">
+Gliessman, S. E. &amp; C. H. Muller. 1978. The
+allelopathic mechanisms of dominance in bracken
+(Pteridium aquilinum) in southern California. J.
+Chem. Ecol. 4:337-362.</mixed-citation>
+         </ref>
+         <ref id="d11406e215a1310">
+            <mixed-citation id="d11406e219" publication-type="other">
+Horánszky, A. 1964. Die Walder des Szentendre-
+Visegráder Gebirges. Akadémiai Ki ado, Bu-
+dapest.</mixed-citation>
+         </ref>
+         <ref id="d11406e232a1310">
+            <mixed-citation id="d11406e236" publication-type="other">
+Horsley, S. B. 1977a. Allelopathic inhibition of
+black cherry by fern, grass, goldenrod and aster.
+Can. J. For. Res. 7:205-216.</mixed-citation>
+         </ref>
+         <ref id="d11406e249a1310">
+            <mixed-citation id="d11406e253" publication-type="other">
+Horsley, S. B. 1977b. Allelopathic interference
+among plants. II. Physiological modes of action.
+In: M. E. Wilcox &amp; A. F. Hamer (eds), Proc. 4th
+N. Amer. For. Biol. Workshop. Syracuse, N.Y.
+USA. d:93-136.</mixed-citation>
+         </ref>
+         <ref id="d11406e272a1310">
+            <mixed-citation id="d11406e276" publication-type="other">
+Juhász-Nagy, P. 1986. Egy operativ ökolögia
+hiánya, szükségleteésfeladatai. Akadémiai Kiadó,
+Budapest.</mixed-citation>
+         </ref>
+         <ref id="d11406e289a1310">
+            <mixed-citation id="d11406e293" publication-type="other">
+Kuiters, A. T. 1987. Germination of herbaceous
+woodland plants on litter leachates. In: A. T.
+Kuiters (ed.), Phenolic acids and plant growth
+in forest ecosystems. Free University Press ^Am-
+sterdam, pp:87-96.</mixed-citation>
+         </ref>
+         <ref id="d11406e313a1310">
+            <mixed-citation id="d11406e317" publication-type="other">
+Kuiters, A. T. 1989. Effects of phenolic acids
+on germination and early growth of herbaceous
+woodland plants. J. Chem. Ecol. 15:467-479.</mixed-citation>
+         </ref>
+         <ref id="d11406e330a1310">
+            <mixed-citation id="d11406e334" publication-type="other">
+Kuiters, a. T. &amp; C. A. J. Denneman 1987.
+Water-soluble phenolic substances in soils un-
+der several coniferous and deciduous tree species.
+Soil Biol. Biochem. 19:765-769.</mixed-citation>
+         </ref>
+         <ref id="d11406e350a1310">
+            <mixed-citation id="d11406e354" publication-type="other">
+Lodhi, M. A. K. 1975. Soil-plant phytotoxicity and
+its possible significance in patterning of herba-
+ceous vegetation in a bottomland forest. Amer.
+J. Bot. 62:618-622.</mixed-citation>
+         </ref>
+         <ref id="d11406e370a1310">
+            <mixed-citation id="d11406e374" publication-type="other">
+Lodhi, M. A. K. 1976. Role of allelopathy as ex-
+pressed by dominating trees in a lowland forest
+in controlling the productivity and pattern of
+herbaceous growth. Amer. J. Bot. 63:1-8.</mixed-citation>
+         </ref>
+         <ref id="d11406e390a1310">
+            <mixed-citation id="d11406e396" publication-type="other">
+Lodhi, M. A. K. 1978. Allelopathic effects of decay-
+ing litfër of dominant treès and their associated
+soil in a lowland forest community. Amer. J.
+Bot. 65:340-344.</mixed-citation>
+         </ref>
+         <ref id="d11406e412a1310">
+            <mixed-citation id="d11406e416" publication-type="other">
+Lodhi, M. A. K. 1979. Allelopathic potential of
+Salsola kali L. and its possible role in rapid dis-
+appearance of weedy stage during revegetation.
+J. Chem. Ecol. 5:429-437.</mixed-citation>
+         </ref>
+         <ref id="d11406e433a1310">
+            <mixed-citation id="d11406e437" publication-type="other">
+Lovett, J. V. 1989. Allelopathy research in Aus-
+tralia: an update. In: C. H. Chou and G.
+R. Waller (eds), Phytochemical ecology: alle-
+lochemicals, mycotoxins and insect pheromones
+and allomones. Academia Sinica Monograph
+Series No.9, Taipei, pp:49-67</mixed-citation>
+         </ref>
+         <ref id="d11406e460a1310">
+            <mixed-citation id="d11406e464" publication-type="other">
+Lovett, J. V., M. Y. Ryuntyu D. L. Liu. 1989.
+Allelopathy, chemical communication, and plant
+defense. J. Chem. Ecol. 15:1193-1202.</mixed-citation>
+         </ref>
+         <ref id="d11406e477a1310">
+            <mixed-citation id="d11406e481" publication-type="other">
+Muller, C. H. 1969. The "Co-" in Coevolution.
+Science 164:197-198</mixed-citation>
+         </ref>
+         <ref id="d11406e491a1310">
+            <mixed-citation id="d11406e495" publication-type="other">
+Muller, C. H. 1970. The Role of Allelopathy in
+the Evolution of Vegetation. In: K.L.Chambers
+(ed.), Biochemical Coevolution. Oregon State
+University Press, pp:13-31.</mixed-citation>
+         </ref>
+         <ref id="d11406e511a1310">
+            <mixed-citation id="d11406e515" publication-type="other">
+Muller, C. H. 1974. Allelopathy in the environ-
+mental complex. In: B. R. Strain &amp; W. D.
+Billings (eds), Handbook of Vegetation Science
+IV., Dr. W. Junk, The Hague, pp:73-85.</mixed-citation>
+         </ref>
+         <ref id="d11406e531a1310">
+            <mixed-citation id="d11406e535" publication-type="other">
+Muller, C. H., W. H. Muller &amp; B. L. Haines.
+1964. Volatile Growth Inhibitors Produced by
+Aromatic Shrubs. Science 143:471-473.</mixed-citation>
+         </ref>
+         <ref id="d11406e549a1310">
+            <mixed-citation id="d11406e553" publication-type="other">
+Muller, C. H., R. B. Hanawalt &amp;, J. K. McPher-
+SON. 1968. Allelopathic control of herb growth
+in the fire cycle of California chapparai. Bull.
+Torr. Bot. Club 95:225-231.</mixed-citation>
+         </ref>
+         <ref id="d11406e569a1310">
+            <mixed-citation id="d11406e573" publication-type="other">
+Newman, E. L. &amp;, A. D. Rovira. 1975. Allelopathy
+among some British grassland species. J. Ecol.
+63:727-737.</mixed-citation>
+         </ref>
+         <ref id="d11406e586a1310">
+            <mixed-citation id="d11406e590" publication-type="other">
+Numata. 1978. Allelopathy in Secondary Succes-
+sion. In: J.S. Singh &amp; B. Gopal (eds), Glimpses
+of Ecology. International Scientific Publications,
+India, pp:383-390.</mixed-citation>
+         </ref>
+         <ref id="d11406e606a1310">
+            <mixed-citation id="d11406e610" publication-type="other">
+Oborny, B. 1988. Természetes társulások rezisz-
+tenciájaidegenfajokellen-az allelopátiaszerepe.
+(Resistance of natural communities to invaders
+- the possible role of allelopathy.) B.Sc. Thesis,
+(mscr.), 58 pp.</mixed-citation>
+         </ref>
+         <ref id="d11406e629a1310">
+            <mixed-citation id="d11406e633" publication-type="other">
+Rabotnov, T. A. 1981. Importance of the evo-
+lutionary approach to the study of allelopathy.
+Soviet Journal of Ecology 12:127-130.</mixed-citation>
+         </ref>
+         <ref id="d11406e646a1310">
+            <mixed-citation id="d11406e650" publication-type="other">
+Rice, E. L. 1984. Allelopathy. Academic Press.
+London, 2nd ed.</mixed-citation>
+         </ref>
+         <ref id="d11406e661a1310">
+            <mixed-citation id="d11406e667" publication-type="other">
+Van Baalen, J., A. T. Kuiters L C. S. C. Van
+DER Woude 1984. Interference of Scrophularia
+nodosa and Digitalis purpurea in mixed seedling
+cultures, as affected by the specific emergence
+the Acta Oecologica - Oecol Plant. 5:279-290.</mixed-citation>
+         </ref>
+         <ref id="d11406e686a1310">
+            <mixed-citation id="d11406e690" publication-type="other">
+Whittaker, R. H. &amp;, P. P. Fbeny 1971. Allelo-
+chemics: Chemical interactions between species.
+Science 171:757-769.</mixed-citation>
+         </ref>
+         <ref id="d11406e703a1310">
+            <mixed-citation id="d11406e707" publication-type="other">
+Wilson, R. E. h E. L. Rice. 1968. Allelopathy
+as expressed by Helianthus annuus and its role
+in old field succession. Bull. Torr. Bot. Club
+95:432-448.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

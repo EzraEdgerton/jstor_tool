@@ -1,0 +1,202 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43518943</article-id>
+         <title-group>
+            <article-title>Community richness, diversity and evenness: a fractal approach</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>C.</given-names>
+                  <surname>Ricotta</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>N. C.</given-names>
+                  <surname>Kenkel</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>E.</given-names>
+                  <surname>De Zuliani</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G. C.</given-names>
+                  <surname>Avena</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1998</year>
+         </pub-date>
+         <volume>22</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139754</issue-id>
+         <fpage>113</fpage>
+         <lpage>119</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43518943"/>
+         <abstract>
+            <p>A fractal-based, scale invariant measure of 'community evenness' is proposed. The method begins by computing the Shannon entropy (H) and species richness (Ë0 for each of q relevés. Using a fractal-based power law relationship, community evenness J is then determined from the slope of the H versus Iog₂ N plot. Community evenness is thus a scale-invariant measure of the relationship between species richness and Shannon entropy for a set of relevés. The method is illustrated using data from 16 beech forest community relevés in the Lucretili Mountains of central Italy.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7285e186a1310">
+            <mixed-citation id="d7285e190" publication-type="other">
+Alatalo, R.V. 1981. Problems in the measurement of evenness in
+ecology. Oikos 37: 199-204.</mixed-citation>
+         </ref>
+         <ref id="d7285e200a1310">
+            <mixed-citation id="d7285e204" publication-type="other">
+Blasi, C. 1994. Fitoclimatologia del Lazio. Regione Lazio, Roma.</mixed-citation>
+         </ref>
+         <ref id="d7285e211a1310">
+            <mixed-citation id="d7285e215" publication-type="other">
+Bunge, J. &amp; M. Fitzpatrick. 1993. Estimating the number of species:
+a review. J. Amer. Stat. Assoc. 88: 364-373.</mixed-citation>
+         </ref>
+         <ref id="d7285e225a1310">
+            <mixed-citation id="d7285e229" publication-type="other">
+Falconer, K.J. 1990. The geometry of fractal sets. Cambridge Univ.,
+Cambridge.</mixed-citation>
+         </ref>
+         <ref id="d7285e240a1310">
+            <mixed-citation id="d7285e244" publication-type="other">
+Feoli, E. &amp; L. Lagonegro. 1982. Syntaxonomical analysis of beech
+woods in the Appennines (Italy) using the program package
+IAHOPA. Vegetatio 50: 129-173.</mixed-citation>
+         </ref>
+         <ref id="d7285e257a1310">
+            <mixed-citation id="d7285e263" publication-type="other">
+Franc, A. 1998. Some mathematical remarks on forest biodiversity.
+In: Bachmann, P., M. Köhl &amp; R. Päivinen (eds.), Assessment of
+forest biodiversity for improved forest management. Kluwer,
+Dordrecht, pp. 159-169.</mixed-citation>
+         </ref>
+         <ref id="d7285e279a1310">
+            <mixed-citation id="d7285e283" publication-type="other">
+Frontier, S. 1985. Diversity and structure in aquatic ecosystems.
+Oceanogr. Mar. Biol. Ann. Rev. 23: 253-312.</mixed-citation>
+         </ref>
+         <ref id="d7285e293a1310">
+            <mixed-citation id="d7285e297" publication-type="other">
+Frontier, S. 1987. Applications of fractal theory to ecology. In::
+Legendre, P. &amp; L. Legendre (eds.), Developments in numerical
+ecology. Springer, New York, pp. 335-378.</mixed-citation>
+         </ref>
+         <ref id="d7285e310a1310">
+            <mixed-citation id="d7285e314" publication-type="other">
+Gentile, S. 1969. Sui faggeti dell'Italia meridionale. Atti Ist. Bot.
+Univ. Pavia 5: 207-306.</mixed-citation>
+         </ref>
+         <ref id="d7285e324a1310">
+            <mixed-citation id="d7285e328" publication-type="other">
+Hill, M.O. 1973. Diversity and evenness: a unifying notation and its
+consequences. Ecology 54: 427-432.</mixed-citation>
+         </ref>
+         <ref id="d7285e339a1310">
+            <mixed-citation id="d7285e343" publication-type="other">
+Johnson, G.D., A. Tempelman &amp; G.P. Patii. 1995. Fractal based
+methods in ecology: a review for analysis at multiple spatial
+scales. Coenoses 10: 123-131.</mixed-citation>
+         </ref>
+         <ref id="d7285e356a1310">
+            <mixed-citation id="d7285e360" publication-type="other">
+Kempton, R.A. 1979. The structure of species abundance and
+measurement of diversity. Biometrics 35: 307-321.</mixed-citation>
+         </ref>
+         <ref id="d7285e370a1310">
+            <mixed-citation id="d7285e374" publication-type="other">
+Kenkel, N.C. &amp; D.J. Walker. 1996. Fractals in the biological scien-
+ces. Coenoses 11: 77-100.</mixed-citation>
+         </ref>
+         <ref id="d7285e384a1310">
+            <mixed-citation id="d7285e388" publication-type="other">
+Kvalseth, T.O. 1991. Note on biological diversity, evenness, and
+homogeneity measures. Oikos 62: 123-127.</mixed-citation>
+         </ref>
+         <ref id="d7285e398a1310">
+            <mixed-citation id="d7285e402" publication-type="other">
+Mandelbrot, B.B. 1982. The fractal geometry of nature. Freeman,
+San Francisco.</mixed-citation>
+         </ref>
+         <ref id="d7285e412a1310">
+            <mixed-citation id="d7285e416" publication-type="other">
+Margalef, D.R. 1958. Information theory in ecology. Yearbook Soc.
+Gen. Syst. Res. 3: 36-71.</mixed-citation>
+         </ref>
+         <ref id="d7285e427a1310">
+            <mixed-citation id="d7285e431" publication-type="other">
+Milne, B.T. 1997. Applications of fractal geometry in wildlife biol-
+ogy. In: Bissonette, J.A. (ed.), Wildlife and landscape ecology:
+effects of pattern and scale. Springer, New York, pp. 32-69.</mixed-citation>
+         </ref>
+         <ref id="d7285e444a1310">
+            <mixed-citation id="d7285e448" publication-type="other">
+Orlóci, L. 1991. Entropy and information. SPB Academic, The
+Hague.</mixed-citation>
+         </ref>
+         <ref id="d7285e458a1310">
+            <mixed-citation id="d7285e462" publication-type="other">
+Pielou, E.C. 1966. Shannon's formula as a measure of species diver-
+sity: its use and misuse. Am. Nat. 100: 463-465.</mixed-citation>
+         </ref>
+         <ref id="d7285e472a1310">
+            <mixed-citation id="d7285e476" publication-type="other">
+Rosenzweig, M.L. 1995. Species diversity in space and time.
+Cambridge Univ. Press, Cambridge.</mixed-citation>
+         </ref>
+         <ref id="d7285e486a1310">
+            <mixed-citation id="d7285e490" publication-type="other">
+Shannon, C. 1948. A mathematical theory of communication. Bell
+System Tech. J. 27: 379-423.</mixed-citation>
+         </ref>
+         <ref id="d7285e500a1310">
+            <mixed-citation id="d7285e504" publication-type="other">
+Sugihara, G. &amp; R.M. May. 1990. Applications of fractals in ecology.
+Trends in Research in Ecology and Evolution 5: 79-86.</mixed-citation>
+         </ref>
+         <ref id="d7285e515a1310">
+            <mixed-citation id="d7285e519" publication-type="other">
+van der Maarel, E. 1979. Transformation of cover-abundance values
+in phytosociology and its effects on community similarity.
+Vegetatio 39: 97-114.</mixed-citation>
+         </ref>
+         <ref id="d7285e532a1310">
+            <mixed-citation id="d7285e536" publication-type="other">
+Westhoff, V. &amp; E. van der Maarel. 1978. The Braun-Blanquet ap-
+proach. In: Whittaker, R.H. (ed.), Classification of plant com-
+munities. Junk, The Hague, pp. 287-399.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

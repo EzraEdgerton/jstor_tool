@@ -1,0 +1,52 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519348</article-id>
+         <title-group>
+            <article-title>AMATOK A HOMOK ERDŐS-SZTYEP TALAJMENTI LÉGRÉTEGEINEK ŐSZI VIZGŐTARTALMÁHOZ</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>János</given-names>
+                  <surname>Juhász</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1974</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139787</issue-id>
+         <fpage>13</fpage>
+         <lpage>17</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1975</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519348"/>
+         <abstract>
+            <p>It has been established that a considerable enhancement of the saturation can be found only above 20°C. On rising the temperature, the saturation values are increasing, but not proportionally. At higher temperatures the increase of the saturation values is smaller, but, it is higher in percent of the humidity at lower temperatures. The saturation deficiency is much higher at higher temperatures than that is at lower ones.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

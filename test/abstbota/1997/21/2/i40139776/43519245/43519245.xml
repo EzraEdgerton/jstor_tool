@@ -1,0 +1,276 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519245</article-id>
+         <title-group>
+            <article-title>Acclimation of dicot and monocot temperate grassland species to long-term elevated CO₂ concentration</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Z.</given-names>
+                  <surname>Nagy</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>K.</given-names>
+                  <surname>Szent</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Z.</given-names>
+                  <surname>Tuba</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>297</fpage>
+         <lpage>304</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519245"/>
+         <abstract>
+            <p>Net CO₂ assimilation (A), transpiration (E) and water use efficiency (WUE) were compared in two C₃ grasses and two C₃ dicot herbs of a xeric temperate loess steppe after exposure in open top chambers for 1, 2, 11 and 36 months to present (350 µmol mol⁻¹, LCO₂) and elevated (700 µmol mol⁻¹, HCO₂) levels of CO₂. Acclimation of A to elevated CO₂ varied both between species and over the course of the period of exposure. In the first month of exposure photosynthesis of Festuca rupicola grown at elevated CO₂ concentration showed a significant upward regulation. Salvia nemorosa did not show acclimation of photosynthesis after the first month of exposure. After the 2nd month of exposure, F. rupicola maintained its upward acclimation. S. nemorosa also showed upward acclimation of net photosynthesis both in the initial slope and the plateau of the CO₂ assimilation vs intercellular CO₂ concentration (A/ci) curve. After 11 months of exposure, the grasses displayed a downward acclimation in the decreased initial slope of the A/ci response curve and similar A at high CO₂ concentrations in plants grown at high CO₂ concentartion (HCO₂ plants). Transpiration decreased with an increase of Ci in the grass species, while in the dicot species it was not affected by any change in Ci. Long term exposure to high CO₂ causes a similar acclimation of stomatal regulation and transpiration to that of photosynthesis. Instantaneous WUE significantly increased in all species grown at elevated CO₂. After 36 months of exposure the monocot species showed a downward acclimation in Rubisco capacity and its A/ci curve did not reach saturation. The dicot species showed upregulation regarding either the Rubisco capacity or Pi/RuBP regeneration capacity. In the short term, monocot species are more responsive than the dicot ones. Further, acclimation of photosynthesis in Pi/RuBP regeneration capacity is an earlier response than that of Rubisco activity/amount. In the long term, HCO₂ treatment caused alleviation of the Pi regeneration limitation at high CO₂ concentrations, while in LCO₂ plants the A/ci curve showed saturation in all of the species. Species responded at different time scales and in different ways to exposure to HCO₂ treatments. The grass species responded earlier and maintained their response characteristics after the first month of exposure, while the dicot species responded later and their response characteristics changed with the advance of exposure to HCO₂ treatment. These differences can partly be attributed to probable sink limitation in the monocot species, which was apparently absent or smaller in the dicots.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4615e229a1310">
+            <mixed-citation id="d4615e233" publication-type="other">
+Amthor, J. S. 1995. Terrestrial higher-plant response to increasing
+atmospheric [CO₂] in relation to the global carbon-cycle. Global
+Change Biology 1:243-274.</mixed-citation>
+         </ref>
+         <ref id="d4615e246a1310">
+            <mixed-citation id="d4615e250" publication-type="other">
+Arp, W. J. &amp; B. G. Drake. 1991. Increased photosynthetic capacity
+of Scirpus alnei after four years of exposure to elevated CO₂.
+Plant, Cell Environ. 14:1003-1006.</mixed-citation>
+         </ref>
+         <ref id="d4615e263a1310">
+            <mixed-citation id="d4615e267" publication-type="other">
+Azcon-Bieto, J. 1983. Inhibition of photosynthesis by carbohydrates
+in wheat leaves. Plant Physiol. 73:681-686.</mixed-citation>
+         </ref>
+         <ref id="d4615e277a1310">
+            <mixed-citation id="d4615e281" publication-type="other">
+Barrett, D. J. &amp; R. M. Gifford. 1995. Photosynthetic acclimation to
+elevated CO₂ in relation to biomass allocation in cotton. Journal
+of Biogeography 22:331-339.</mixed-citation>
+         </ref>
+         <ref id="d4615e295a1310">
+            <mixed-citation id="d4615e299" publication-type="other">
+Beerling, D. J. &amp; F. I. Woodward. 1995. Leaf stable carbon-isotope
+composition records increased water-use efficiency of C-3
+plants in response to atmospheric CO₂ enrichment. Functional
+Ecology 9:394-401.</mixed-citation>
+         </ref>
+         <ref id="d4615e315a1310">
+            <mixed-citation id="d4615e319" publication-type="other">
+Bowler, J. M. &amp; M. C. Press. 1996. Effects of elevated CO₂, nitrogen
+form and concentration on growth and photosynthesis of a fast-
+growing and slow-growing grass. New Phytol. 132:391-401.</mixed-citation>
+         </ref>
+         <ref id="d4615e332a1310">
+            <mixed-citation id="d4615e336" publication-type="other">
+Caemmerer, S. von &amp; G. D. Farquhar. 1981. Some relationships bet-
+ween the biochemistry of photosynthesis and the gas exchange
+of leaves. Planta 153:376-387.</mixed-citation>
+         </ref>
+         <ref id="d4615e349a1310">
+            <mixed-citation id="d4615e353" publication-type="other">
+Caemmerer, S. von &amp; G. D. Farquhar. 1984. Effects of partial
+defoliation, changes of irradiance during growth, short term
+water stress and growth at enhanced on the photosynthetic
+capacity of leaves of Phaseolus vulgaris L. Planta 160:320-329.</mixed-citation>
+         </ref>
+         <ref id="d4615e369a1310">
+            <mixed-citation id="d4615e373" publication-type="other">
+Campbell, W. J., L. H. Allen &amp; G. Bowes. 1988. Effects of CO₂
+concentration on rubisco activity, amount and photosynthesis in
+soybeen leaves. Plant Physiology 88:1310-1316.</mixed-citation>
+         </ref>
+         <ref id="d4615e386a1310">
+            <mixed-citation id="d4615e390" publication-type="other">
+Ceulemans, R. &amp; M. Mousseau. 1994. Effects of elevated atmos-
+pheric CO₂ on woody plants. New Phytol. 127:425-446.</mixed-citation>
+         </ref>
+         <ref id="d4615e401a1310">
+            <mixed-citation id="d4615e405" publication-type="other">
+Curtis, P.S., B.G. Drake, P.W. Leadley, W.J. Arp &amp; D. F. Whigham.
+1989. Growth and senescence in plant communities exposed to
+elevated CO₂ concentrations on an estuarine marsh. Oecologia
+78:20-26.</mixed-citation>
+         </ref>
+         <ref id="d4615e421a1310">
+            <mixed-citation id="d4615e425" publication-type="other">
+Delucia, E. H., T.W. Sasek &amp; B.R. Strain. 1985. Photosynthetic in-
+hibition after long-term exposure to elevated levels of atmos-
+pheric carbon dioxid. Photos. Res. 7:175-184.</mixed-citation>
+         </ref>
+         <ref id="d4615e438a1310">
+            <mixed-citation id="d4615e442" publication-type="other">
+Friedman, P. 1988. GB-STAT Professional Statistics and Graphics,
+Silver Spring, MD 384-2754.</mixed-citation>
+         </ref>
+         <ref id="d4615e452a1310">
+            <mixed-citation id="d4615e456" publication-type="other">
+Grodzinski, B., L. Woodrow, E.D. Leonardos, M. Dixon &amp; M. J.
+Tsujita. 1995. Plant-responses to short-term and long-term ex-
+posures to high-carbon dioxide levels in closed environments.
+Advances In Space Research, 18:203-211.</mixed-citation>
+         </ref>
+         <ref id="d4615e472a1310">
+            <mixed-citation id="d4615e476" publication-type="other">
+Jacob, J.,Greitner, C. &amp; B. G. Drake. 1995. Acclimation of photosyn-
+thesis in relation to Rubisco and nonstructural carbohydrate
+contents and in-situ carboxylase activity in Scirpus olneyi
+grown at elevated CO₂ in the field. Plant Cell and Environment
+18:875-884.</mixed-citation>
+         </ref>
+         <ref id="d4615e495a1310">
+            <mixed-citation id="d4615e499" publication-type="other">
+Jarvis, P. G. 1993. Global change and plant water relations. In: Bor-
+ghetti, M., Grace, J., and Raschi, A., (eds.): Water Transport in
+Plants under Climatic Stress. Cambridge University Press, pp.
+1-13.</mixed-citation>
+         </ref>
+         <ref id="d4615e516a1310">
+            <mixed-citation id="d4615e520" publication-type="other">
+Kimball, B. A. &amp; S. B. Idso. 1983. Increasing atmospheric CO₂:
+effects on crop yield, water use and climate. Agricultural Water
+Management 7:55-72.</mixed-citation>
+         </ref>
+         <ref id="d4615e533a1310">
+            <mixed-citation id="d4615e537" publication-type="other">
+Körner, C. &amp; F. Miglietta. 1994. Long term effects of naturally
+elevated CO₂ on mediterranean grassland and forest trees.
+Oecologia 99:343-351.</mixed-citation>
+         </ref>
+         <ref id="d4615e550a1310">
+            <mixed-citation id="d4615e554" publication-type="other">
+Makino, A. 1994. Biochemistry of C₂-photosynthesis in high CO₂.
+Journal of Plant Research 107:79-84.</mixed-citation>
+         </ref>
+         <ref id="d4615e564a1310">
+            <mixed-citation id="d4615e568" publication-type="other">
+Morison, J. I. L. &amp; R. M. Gifford. 1984. Plant growth and water use
+with limited water supply in high CO2 concentrations. I. Leaf
+area, water use and transpiration. Aust. J. Plant Physiol. 11:361-
+384.</mixed-citation>
+         </ref>
+         <ref id="d4615e584a1310">
+            <mixed-citation id="d4615e588" publication-type="other">
+Newton, P. C. D. 1991. Direct effects of increasing carbon dioxide
+on pasture plants and communities. New Zealand Journal of
+Agricultural Research 34:1-24.</mixed-citation>
+         </ref>
+         <ref id="d4615e601a1310">
+            <mixed-citation id="d4615e605" publication-type="other">
+Pearson, M. &amp; G. L. Brooks. 1995. The influence of elevated CO2
+on growth and age-related-changes in leaf gas-exchange! Jour-
+nal of Experimental Botany 46:1651-1659.</mixed-citation>
+         </ref>
+         <ref id="d4615e619a1310">
+            <mixed-citation id="d4615e623" publication-type="other">
+Rogers, G. S., P.J. Milham, M.C. Thibaud &amp; J. P. Conroy. 1996. In-
+teractions between rising CO₂ concentration and nitrogen supp-
+ly in cotton .1. Growth and leaf nitrogen concentration.
+Australian Journal of Plant Physiology 23:119-125.</mixed-citation>
+         </ref>
+         <ref id="d4615e639a1310">
+            <mixed-citation id="d4615e643" publication-type="other">
+Rogers, H. H., J.F. Thomas &amp; G. E. Bingham. 1983. Response of
+agronomic and forest species to elevated CO₂. Science 220:428-
+429.</mixed-citation>
+         </ref>
+         <ref id="d4615e656a1310">
+            <mixed-citation id="d4615e660" publication-type="other">
+Sage, R. F., T.D. Sharkey &amp; J. R. Seeman. 1989. Acclimation of
+photosynthesis to elevated CO₂ in five C₃ species. Plant Physiol.
+89:590-596.</mixed-citation>
+         </ref>
+         <ref id="d4615e673a1310">
+            <mixed-citation id="d4615e677" publication-type="other">
+Santrucek, J. &amp; R. F. Sage. 1996. Acclimation of stomatal conduc-
+tance to a CO₂-enriched atmosphere and elevated-temperature
+in Chenopodium album. Australian Journal of Plant Physiology
+23:467-478.</mixed-citation>
+         </ref>
+         <ref id="d4615e693a1310">
+            <mixed-citation id="d4615e697" publication-type="other">
+Thornley, J. H. M. &amp; I. R. Johnson. 1990. Plant and Crop Modelling,
+Clarendon Press Oxford, Oxford, pp. 669.</mixed-citation>
+         </ref>
+         <ref id="d4615e707a1310">
+            <mixed-citation id="d4615e711" publication-type="other">
+Tissue, D. T. &amp; W. C. Oechel. 1987. Response of Eriophorum
+vaginatum to elevated CO₂ and temperature in the Alaskan
+tundra. Ecology 68:401-410.</mixed-citation>
+         </ref>
+         <ref id="d4615e725a1310">
+            <mixed-citation id="d4615e729" publication-type="other">
+Tuba, Z., K. Szente &amp; J. Koch. 1994. Response of photosynthesis,
+stomatal conductance, water use efficiency and production to
+long-term elevated CO₂ in winter wheat. J. Plant Physiol.
+144:661-668.</mixed-citation>
+         </ref>
+         <ref id="d4615e745a1310">
+            <mixed-citation id="d4615e749" publication-type="other">
+Tuba, Z., K. Szente, Z. Nagy &amp; J. Koch. 1995. Responses of CO₂
+assimilation, transpiration and water use efficiency to long-term
+elevated CO₂ in perennial C₃ xeric loess steppe species. J. Plant
+Physiol. 148:356-361.</mixed-citation>
+         </ref>
+         <ref id="d4615e765a1310">
+            <mixed-citation id="d4615e769" publication-type="other">
+Vanoosten, J. J. &amp; R. T. Besford. 1996. Acclimation of photosyn-
+thesis to elevated CO₂ through feedback-regulation of gene-ex-
+pression - climate of opinion. Photosynthesis Research
+48:353-365.</mixed-citation>
+         </ref>
+         <ref id="d4615e785a1310">
+            <mixed-citation id="d4615e789" publication-type="other">
+Ziska, L. H., B.G. Drake &amp; S. Chamberlain. 1990. Long-term
+photosynthetic response in single leaves of A C₃ and C₄ salt
+marsh species grown at elevated atmospheric CO₂ in situ.
+Oecologia 83:469-472.</mixed-citation>
+         </ref>
+         <ref id="d4615e805a1310">
+            <mixed-citation id="d4615e809" publication-type="other">
+Zólyomi, B. &amp; G. Fekete. 1994. The Pannonian loess steppe: dif-
+ferentiation in space and time. Abstr. Bot. 18:29-41.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

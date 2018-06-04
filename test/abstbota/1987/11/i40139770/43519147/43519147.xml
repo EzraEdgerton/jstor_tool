@@ -1,0 +1,142 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519147</article-id>
+         <title-group>
+            <article-title>Application of Long Transects and Information Theoretical Functions to Pattern Detection I. Transects versus Isodiametric Sampling Units</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Sándor</given-names>
+                  <surname>Bartha</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Ferenc</given-names>
+                  <surname>Horváth</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>11</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139770</issue-id>
+         <fpage>9</fpage>
+         <lpage>26</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519147"/>
+         <abstract>
+            <p>The effectiveness of elongated and isodiametric sampling units to estimate information statistical functions was examined. Although elongated sampling units caused some distortion related to isodiametric quadrats, the ordering relations of charateristic maximum areas were similarly detected by both methods.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2822e236a1310">
+            <mixed-citation id="d2822e240" publication-type="other">
+Dévai, I. , K. Horváth and P. Juhász-Nagy 1971. Some problems of model building in
+synbiologv. Part 1. Spatial diversiy process of the binary type in a simple situa-
+tion. Ann. Univ. Sci. Budapest sectio biol 13:19-32</mixed-citation>
+         </ref>
+         <ref id="d2822e253a1310">
+            <mixed-citation id="d2822e257" publication-type="other">
+Greig-Smith, P. 1964. Quantitative Plant Ecology. Butterworths, London</mixed-citation>
+         </ref>
+         <ref id="d2822e264a1310">
+            <mixed-citation id="d2822e268" publication-type="other">
+Juhász-Nagy, P. 1967a. On associations among plant populations. Multiple and partial
+assotiation: a new approach. Acta. Biol. Debr. 5:43-56.</mixed-citation>
+         </ref>
+         <ref id="d2822e278a1310">
+            <mixed-citation id="d2822e282" publication-type="other">
+Juhász-Nagy, P. 1967b. On some 'characteristic areas' of plant community stands.
+Proc. Colloq. Inf. Theory, Bolyai Math. Soc., Debrecen pp. 269-282.</mixed-citation>
+         </ref>
+         <ref id="d2822e293a1310">
+            <mixed-citation id="d2822e297" publication-type="other">
+Juhász-Nagy, P. 1976. Spatial dependence of plant populations. I. Equivalence analysis
+(an outline for a new model). Acta Bot. Hung 22:61-78.</mixed-citation>
+         </ref>
+         <ref id="d2822e307a1310">
+            <mixed-citation id="d2822e311" publication-type="other">
+Juhász-Nagy, P. 1980. A cönológia koegzisztenciális szerkezeteinek modellezése. Doc-
+toral Thesis (Manuscript, in Hungarian), Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2822e321a1310">
+            <mixed-citation id="d2822e325" publication-type="other">
+Juhász-Nagy, P. 1984. Spatial dependence of plant populations. II. A family of a new
+models. Acta Bot. Hung. 30:363-402.</mixed-citation>
+         </ref>
+         <ref id="d2822e335a1310">
+            <mixed-citation id="d2822e339" publication-type="other">
+Juhász-Nagy, P. 1986. Egy operativ ökológia hiánya, szükséglete és feladatai. Akadé-
+miai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d2822e349a1310">
+            <mixed-citation id="d2822e353" publication-type="other">
+Juhász-Nagy, P. and J. Podani. 1983. Information theory methods for the study of
+spatial processes and succession. Vegetatio 51:129-140.</mixed-citation>
+         </ref>
+         <ref id="d2822e363a1310">
+            <mixed-citation id="d2822e367" publication-type="other">
+Hahn, I. 1980. A faj-egyed diverzitás becslésének néhány mintavételi problémája 1. El-
+méleti megfontolások. Bot. Kozlem. 67:59-65.</mixed-citation>
+         </ref>
+         <ref id="d2822e378a1310">
+            <mixed-citation id="d2822e382" publication-type="other">
+Nosek, J.N. 1976. Comparative analysis of some diversity functions under different
+conditions of sampling in sandy meadow. Acta Bot. Hung. 22:415-436.</mixed-citation>
+         </ref>
+         <ref id="d2822e392a1310">
+            <mixed-citation id="d2822e396" publication-type="other">
+Podani, J. 1982. Spatial processes in the Analysis of Vegetation. PhD. Thesis, Univer-
+sity of Western Ontario. National Library of Canada Microfiche No. TC 56124.</mixed-citation>
+         </ref>
+         <ref id="d2822e406a1310">
+            <mixed-citation id="d2822e410" publication-type="other">
+Podani, J. 1984a. Analysis of mapped and simulated vegetation patterns by means of
+computerized sampling techniques. Acta Bot. Hung 30:403-425.</mixed-citation>
+         </ref>
+         <ref id="d2822e420a1310">
+            <mixed-citation id="d2822e424" publication-type="other">
+Podani, J. 1984b. SYN-TAX II. Computer programs for data analysis in ecology and
+systematics. Abstracta Botanica 8:73-94.</mixed-citation>
+         </ref>
+         <ref id="d2822e434a1310">
+            <mixed-citation id="d2822e438" publication-type="other">
+Podani, J. 1987. Computerized sampling in vegetation studies. Coenoses 2:9-18.</mixed-citation>
+         </ref>
+         <ref id="d2822e445a1310">
+            <mixed-citation id="d2822e449" publication-type="other">
+Soó, R. and S. Jávorka 1951. A Magyar Nôvényvilág Kézikônyve. I-II. (Manual of the
+Hungarian Flora). Akadémiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

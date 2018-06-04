@@ -1,0 +1,356 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519468</article-id>
+         <title-group>
+            <article-title>NICHE-ORIENTÁLT VIZSGÁLATOK LEHETŐSÉGEI, KÜLÖNÖS TEKINTETTEL A HAZAI ALKALMAZÁSOKRA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Mária</given-names>
+                  <surname>SZABÓ</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1984</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139795</issue-id>
+         <fpage>101</fpage>
+         <lpage>136</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519468"/>
+         <abstract>
+            <p>The first part of this paper is a general introduction to niche theory based on Hutchinson's concepts. This theory characterizes different populations of a community by means of niche dimensions corresponding to relevant ecological factors. Measures applied to the estimation of niche breadth, e.g., Shannon function, Brillouin formula, Levins index and the Colwell-Futuyma formula, and those estimating niche overlap, e.g., Horn index, MacArthur-Levins formula, Schoener index, Colvell-Futuyma formula are presented and reviewed. Modified forms of niche indices may be used to estimate niche breadth and niche overlap (Hurlbert 1978, Hanski 1978, Abrams 1980). In addition, some problems related to resource partitionong are also discussed. Results of niche studies carried out in Hungary are summarized. The papers by Fekete, Précsényi and co-workers analyze niche relations among the dominant and abundant plant species of a dry sandy grassland community (Festucetum vagina tae). The examined niche dimensions were soil moisture content, root depth and the cover of Festuca vaginata. The position of the species in this three dimensional niche space was determined. Furthermore, some new approaches to the problem of ecological specialism and generalism are given. In the field of animal ecology the paper reviews Gallé's investigations on Formicoidea populations living in different sandy grasslands. Finally, a framework of niche studies to be carried out in semi-arid sandy grasslands in the Kiskunság National Park, Hungary, is outlined. The niche dimensions to be analyzed are soil humus content, available soil moisture content, clay mineral content, available nutrient content and some physical properties of the soil. The importance of studies concerned with the direction of displacement in the niche space during succession is emphasized.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>IRODALOM</title>
+         <ref id="d17429e107a1310">
+            <mixed-citation id="d17429e111" publication-type="other">
+Abrams, P. 1980. Some comments on measuring niche overlap.
+Ecology 61:44-49</mixed-citation>
+         </ref>
+         <ref id="d17429e121a1310">
+            <mixed-citation id="d17429e125" publication-type="other">
+Bazzaz, F. A. 1979. The physiological ecology of plant
+succession. Ann. Rev. Ecol. Syst. 10:351-371</mixed-citation>
+         </ref>
+         <ref id="d17429e135a1310">
+            <mixed-citation id="d17429e139" publication-type="other">
+Colwell, R. K. and D. J. Futuyma. 1971. On the measurement
+of niche breadth and overlap. Ecology 52:567-576</mixed-citation>
+         </ref>
+         <ref id="d17429e149a1310">
+            <mixed-citation id="d17429e153" publication-type="other">
+Ellenberg, H. 1953. Physiologisches und ökologisches Verhalten
+derselben Pflanzenarten. Ber. Dent. Bot. Ges. 65:351-362</mixed-citation>
+         </ref>
+         <ref id="d17429e164a1310">
+            <mixed-citation id="d17429e168" publication-type="other">
+Fekete, G. 1974. Interspeci fikus kapcsolatok, kölcsönhatasok
+és az ökologiai niche elemzése tölgyerdei fajokon.
+Akadémiai doktori értekezés, Budapest</mixed-citation>
+         </ref>
+         <ref id="d17429e181a1310">
+            <mixed-citation id="d17429e187" publication-type="other">
+Fekete, G., I. Précsényi, E. Molnár and E. Melkó. 1976. Niche
+studies on some plant species of a grassland community I.
+Comparison of various measurements. Acta Bot. Acad. Sci.
+Hung. 22:321-354</mixed-citation>
+         </ref>
+         <ref id="d17429e203a1310">
+            <mixed-citation id="d17429e207" publication-type="other">
+Fekete, G., I. Précsényi, A. Horánszky and Gy. Tölgyesi. 1979.
+Niche studies on some plant species of a grassland com-
+munity. IV. Niche characteristics of Festuca vaginata
+populations on the ground of macro- and microelement
+content of the plant and soil. Acta Bot. Acad. Sci. Hung.
+25:63-73</mixed-citation>
+         </ref>
+         <ref id="d17429e230a1310">
+            <mixed-citation id="d17429e234" publication-type="other">
+Fekete, G., Z. Tuba and I. Précsényi. 1980. Niche studies on
+some plant species of a grassland community VII. Quantity
+and seasonality of photosynthetic pigments. Spring. Acta
+Bot. Acad. Sci. Hung. 26:289-299</mixed-citation>
+         </ref>
+         <ref id="d17429e250a1310">
+            <mixed-citation id="d17429e254" publication-type="other">
+Fleit, E. 1981. Asszimilátum-készlet felosztási modellek: A
+hasznositási függvényekkel megadható niche diszparitás
+problémái. Szakdolgozat (kézirat), Budapest</mixed-citation>
+         </ref>
+         <ref id="d17429e267a1310">
+            <mixed-citation id="d17429e271" publication-type="other">
+Gallé, L. 1978. Formicoidea populációk denzitása és produkti-
+vitása gyepcôzósisokban. Kandidátusi értekezés (kézirat),
+Szeged</mixed-citation>
+         </ref>
+         <ref id="d17429e285a1310">
+            <mixed-citation id="d17429e289" publication-type="other">
+Hanski, I. 1978. Some comments on the measurement of niche
+metrics. Ecology 59:168-174</mixed-citation>
+         </ref>
+         <ref id="d17429e299a1310">
+            <mixed-citation id="d17429e303" publication-type="other">
+Hanski, I. 1982. Dynamics of regional distribution: the core
+and satellite species hypothesis. Oikos 38:210-221</mixed-citation>
+         </ref>
+         <ref id="d17429e313a1310">
+            <mixed-citation id="d17429e317" publication-type="other">
+Hansky, I. 1982. Distribution ecology of anthropochorous
+plants in villages surrounded by forest. Ann. Bot. Fennici
+19:1-15</mixed-citation>
+         </ref>
+         <ref id="d17429e330a1310">
+            <mixed-citation id="d17429e334" publication-type="other">
+Horn, H. S. 1966. Measurement of "overlap" in comparative
+ecological studies. Amer. Nat. 100:421-425</mixed-citation>
+         </ref>
+         <ref id="d17429e344a1310">
+            <mixed-citation id="d17429e348" publication-type="other">
+Hurlbert, S. H. 1978. The measurement of niche overlap and
+some relatives. Ecology 59:67-77</mixed-citation>
+         </ref>
+         <ref id="d17429e358a1310">
+            <mixed-citation id="d17429e362" publication-type="other">
+Hutchinson, G. E. 1957. Concluding remarks. Cold Spring Harbor
+Symp. Quant. Biol. 22:415-427</mixed-citation>
+         </ref>
+         <ref id="d17429e373a1310">
+            <mixed-citation id="d17429e377" publication-type="other">
+Joern, A. and L. R. Lawlor. 1980. Food and microhabitat
+utilization by grasshoppers from arid grasslands: com-
+parisons with neutral models. Ecology 61:591-600</mixed-citation>
+         </ref>
+         <ref id="d17429e390a1310">
+            <mixed-citation id="d17429e394" publication-type="other">
+Juhász-Nagy, P. and G. Vida. 1978. A s zupraindividuális orga-
+nizáció. In: Csaba, Gy. (szerk.): A biológiai szabályozás.
+Medicina Kiadó, Budapest, pp. 337-406</mixed-citation>
+         </ref>
+         <ref id="d17429e407a1310">
+            <mixed-citation id="d17429e411" publication-type="other">
+Juhász-Nagy, P. 1980. A cônológia koegzis ztenciális szerkeze-
+teinek modellezése. Akadémiai doktori értekezés (kézirat),
+Budapest</mixed-citation>
+         </ref>
+         <ref id="d17429e424a1310">
+            <mixed-citation id="d17429e428" publication-type="other">
+Kemp, P. R. and G. J. Williams. 1980. A physiological basis
+for niche separation between Agropyron smithii (C₃) and
+Bouteloua gracilis (C₄). Ecology 61:846-859</mixed-citation>
+         </ref>
+         <ref id="d17429e441a1310">
+            <mixed-citation id="d17429e445" publication-type="other">
+Korsos, Z. 1982. Field observations on two lizard populations
+(Lacerta viridis and L. agilis). Vertebrata Hung.
+21:185-194</mixed-citation>
+         </ref>
+         <ref id="d17429e458a1310">
+            <mixed-citation id="d17429e462" publication-type="other">
+Korsos, Z. 1904. Comparative niche analysis of two sympatric
+lizard species (Lacerta viridis and L. agilis).
+Vertebrata Hung. 22:5-14</mixed-citation>
+         </ref>
+         <ref id="d17429e476a1310">
+            <mixed-citation id="d17429e480" publication-type="other">
+Lang, E. and M. Szabo. 1973. The effect of environmental fac-
+tors on the phytomass production of sandy meadows. Annal.
+Univ. Sci. Budapest, Sect. Biol. 15:81-89</mixed-citation>
+         </ref>
+         <ref id="d17429e493a1310">
+            <mixed-citation id="d17429e497" publication-type="other">
+Lang, E. 1974. A fitomassza produkció és feltételeinek vizs-
+gálata a Csévharaszti IBP mintaterületen. Kandidátusi
+értekezés (kézirat), Budapest</mixed-citation>
+         </ref>
+         <ref id="d17429e510a1310">
+            <mixed-citation id="d17429e514" publication-type="other">
+Lawlor, L. R. 1980. Overlap, similarity and competition coeffi-
+cients. Ecology 61:245-252</mixed-citation>
+         </ref>
+         <ref id="d17429e524a1310">
+            <mixed-citation id="d17429e528" publication-type="other">
+Levins, R. 1968. Evolution in changing environments. Princeton
+Univ. Press, Princeton, New Jersey</mixed-citation>
+         </ref>
+         <ref id="d17429e538a1310">
+            <mixed-citation id="d17429e542" publication-type="other">
+MacArthur, R. H. and R. Levins. 1967. The limiting similarity,
+convergence and divergence of coexisting species. Amer.
+Nat. 101:377-385</mixed-citation>
+         </ref>
+         <ref id="d17429e555a1310">
+            <mixed-citation id="d17429e559" publication-type="other">
+MacArthur, R. H. 1972. Geographical Ecology. Harper-Row,
+New York-London</mixed-citation>
+         </ref>
+         <ref id="d17429e570a1310">
+            <mixed-citation id="d17429e574" publication-type="other">
+Orlóci, L. 1967. An agglomerative method for classification
+of plant communities. J. Ecol. 55:193-205</mixed-citation>
+         </ref>
+         <ref id="d17429e584a1310">
+            <mixed-citation id="d17429e588" publication-type="other">
+Petraitis, P. S. 1979. Likelihood measures of niche breadth
+and overlap. Ecology 60:703-710</mixed-citation>
+         </ref>
+         <ref id="d17429e598a1310">
+            <mixed-citation id="d17429e602" publication-type="other">
+Petraitis, P. S. 1981. Algebraic and graphical relationships
+among niche breadth measures. Ecology 62:545-548</mixed-citation>
+         </ref>
+         <ref id="d17429e612a1310">
+            <mixed-citation id="d17429e616" publication-type="other">
+Pianka, E. R. 1972. Evolutionary ecology. Harper-Row, New York-
+-London</mixed-citation>
+         </ref>
+         <ref id="d17429e626a1310">
+            <mixed-citation id="d17429e630" publication-type="other">
+Pianka, E. R. 1973. The structure of lizard communities. Ann.
+Rev. Ecol. Syst. 4:53-75</mixed-citation>
+         </ref>
+         <ref id="d17429e640a1310">
+            <mixed-citation id="d17429e644" publication-type="other">
+Pianka, E. R. 1979. Diversity and niche structure in desert
+communities. In: D. W. Goodall, R. A. Perry iedsì: Arid-
+-land ecosystems. Vol.1. Cambridge Univ. Press, pp.
+321-341</mixed-citation>
+         </ref>
+         <ref id="d17429e661a1310">
+            <mixed-citation id="d17429e665" publication-type="other">
+Pickett, S. T. and F. A. Bazzaz. 1976. Divergence of two co-
+occurring successional annual species on a soil moisture
+gradient. Ecology 57:169-176</mixed-citation>
+         </ref>
+         <ref id="d17429e678a1310">
+            <mixed-citation id="d17429e682" publication-type="other">
+Pickett, S. T. and F. A. Bazzaz. 1978. Organization of an
+assemblage of early successional species on a soil moisture
+gradient. Ecology 59:1243-1255</mixed-citation>
+         </ref>
+         <ref id="d17429e695a1310">
+            <mixed-citation id="d17429e699" publication-type="other">
+Pickett, S. T. 1982. Population patterns through twenty years
+of oldfield succession. Vegetatio 49:45-59</mixed-citation>
+         </ref>
+         <ref id="d17429e709a1310">
+            <mixed-citation id="d17429e713" publication-type="other">
+Pineda, F. D., J. P. Nicolas, M. Muiz, B. Peco and F. G.
+Bernaldez. 1931. Succession, diversité et amplitude de
+niche dans les pâturages du centre de la péninsule
+ibérique. Vegetatio 46-47:267-279</mixed-citation>
+         </ref>
+         <ref id="d17429e729a1310">
+            <mixed-citation id="d17429e733" publication-type="other">
+Platt, W. J. and J. Weiss. 1977. Resource partitioning a guild
+of fugitive prairie plants. Amer. Nat. 111:479-513</mixed-citation>
+         </ref>
+         <ref id="d17429e743a1310">
+            <mixed-citation id="d17429e747" publication-type="other">
+Précsényi, I., G. Fekete, E. Melkó and E. Molnár. 1977a. Niche
+studies on some plant species of a grassland community. II.
+Seasonal niche dynamics .Acta Bot. Acad. Sci. Hung.
+23:193-218</mixed-citation>
+         </ref>
+         <ref id="d17429e764a1310">
+            <mixed-citation id="d17429e768" publication-type="other">
+Précsényi, I., G. Fekete, E. Melkó and E. Molnár. 1977b. Niche
+studies on some plant species of a grassland community.
+III. Overlap investigations by cluster analysis. Acta Bot.
+Acad. Sci. Hung. 23:367-374</mixed-citation>
+         </ref>
+         <ref id="d17429e784a1310">
+            <mixed-citation id="d17429e788" publication-type="other">
+Précsényi, I., G. Fekete, E. Molnár, E. Melkó and K. Virágh.
+1979. Niche studies on some plant species of a grassland
+community. V. Arrangement of the species in the three-
+-dimensional niche space. Acta Bot. Acad. Sci. Hung.
+25:131-138</mixed-citation>
+         </ref>
+         <ref id="d17429e807a1310">
+            <mixed-citation id="d17429e811" publication-type="other">
+Précsényi, I., G. Fekete, N. E. Molnár, E. Melkó and K. Virágh.
+1980. Niche studies on some plant species of a grassland
+community. VI. The problem of ecological specialism and
+generalism: New approaches. Acta Bot. Acad. Sci. Hung.
+26:417-425</mixed-citation>
+         </ref>
+         <ref id="d17429e830a1310">
+            <mixed-citation id="d17429e834" publication-type="other">
+Renkonen, O. 1938. Statistisch-ökologische Untersuchungen über
+die terrestrische Käferwelt der finnischen Bruchmoore. Ann.
+Zool. Soc. Zool. Bot. Fenn. Vanamo 6:1-231</mixed-citation>
+         </ref>
+         <ref id="d17429e847a1310">
+            <mixed-citation id="d17429e851" publication-type="other">
+Sale, P. F. 1974. Overlap in resource use and interspecific
+competition. Oecologia 17:245-256</mixed-citation>
+         </ref>
+         <ref id="d17429e861a1310">
+            <mixed-citation id="d17429e865" publication-type="other">
+Schoener, T. W. 1970. Nonsynchronous spatial overlap of lizards
+in patchy habitats. Ecology 51:408-418</mixed-citation>
+         </ref>
+         <ref id="d17429e876a1310">
+            <mixed-citation id="d17429e880" publication-type="other">
+Steinhorst, R. K. 1979. Analysis of Niche Overlap. In: L.
+Orlóci, C. R. Rao, W. M. Stiteler (eds): Multivariate
+Methods in Ecological Work. International Pubi. House,
+Fairland, Maryland, pp. 263-279</mixed-citation>
+         </ref>
+         <ref id="d17429e896a1310">
+            <mixed-citation id="d17429e900" publication-type="other">
+Török, J. 1983. Diet niche analysis of three hole-nesting avian
+species (Parus major, P. caeruleus, Ficedula albicollis).
+Puszta 1:55-64</mixed-citation>
+         </ref>
+         <ref id="d17429e913a1310">
+            <mixed-citation id="d17429e917" publication-type="other">
+Vandermeer, J. N. 1972. Niche theory. Ann. Rev. Ecol. Syst.
+3:107-132</mixed-citation>
+         </ref>
+         <ref id="d17429e927a1310">
+            <mixed-citation id="d17429e931" publication-type="other">
+White, J. 1980. Resource partitioning by ovipositing cicades.
+Amer. Nat. 115:1-28</mixed-citation>
+         </ref>
+         <ref id="d17429e941a1310">
+            <mixed-citation id="d17429e945" publication-type="other">
+Whittaker, R. H. and C. W. Fairbanks. 1958. A study of plankton
+copepod communities in the Columbia basin, south-eastern
+Washington. Ecology 39:46-65</mixed-citation>
+         </ref>
+         <ref id="d17429e958a1310">
+            <mixed-citation id="d17429e962" publication-type="other">
+Whittaker, R. H., S. A. Levin and R. B. Root. 1973. Niche,
+habitat and ecotope. Amer. Nat. 107:321-339</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,111 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519100</article-id>
+         <title-group>
+            <article-title>THE PERSONAL COMPUTER AS A TOOL FOR DATA ANALYSIS IN POPULATION AND COMMUNITY ECOLOGY</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>N. C.</given-names>
+                  <surname>KENKEL</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139767</issue-id>
+         <fpage>79</fpage>
+         <lpage>86</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519100"/>
+         <abstract>
+            <p>An extensive package of BASIC language personal computer programs for the analysis of population and community data in ecology and other fields is described. The package, which is available for use on the Apple ][ family of personal computers as well as the Apple Macintosh and IBM PC, is useful both as teaching, tool and for the analysis of small to medium sized multivariate data sets. All the programs are interactive and emphasize flexibility and ease of use. The package performs a variety of useful functions, including univariate statistical calculations (mean, variance, entropy functions), computation of probability and inverse probability integrals for common statistical distributions, fitting discrete and continuous distributions, the analysis of variance (complete, randomized, block designs, latin square, factorial, and multivariate ANOVA), regression (simple, multiple, and nonlinear), distance and similarity calculations, character weighting, cluster analysis (single link, sum of squares, centroid), ordination (component analysis, nonmetric multidimensional scaling, correspondence analysis, analysis of concentration), canonical correlation, and nested hierarchical character structure analysis. A set of programs for file creation and manipulation is also included. The programs have been written to supplement the introductory data analysis text by Orlóci and Kenkel (1985).</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d6746e107a1310">
+            <mixed-citation id="d6746e111" publication-type="other">
+Bartels, P. H., P. H. Bahr, D. W. Calhoun and G. L. Weid. 1970.
+Cell recognition by neighbourhood grouping techniques in
+Ticas. Acta Cytologia 14:313-324</mixed-citation>
+         </ref>
+         <ref id="d6746e124a1310">
+            <mixed-citation id="d6746e128" publication-type="other">
+Goodall, D. W. 1966. A new similarity index based on probab-
+ility. Biometrics 22:883-907</mixed-citation>
+         </ref>
+         <ref id="d6746e138a1310">
+            <mixed-citation id="d6746e142" publication-type="other">
+Orlóci, L., E. Feoli, D. Lausi and P. L. Nimis. 1986. Estima-
+tion of character structure convergence (divergence) in
+plant communities: a nested hierarchical model. Coenoses
+1:11-20</mixed-citation>
+         </ref>
+         <ref id="d6746e158a1310">
+            <mixed-citation id="d6746e162" publication-type="other">
+Orlóci, L. and N. C. Kenkel. 1985. Introduction to Data
+Analysis with applications from Population and Community
+Ecology. International Co-operative, Fairland, Maryland.
+340 p.</mixed-citation>
+         </ref>
+         <ref id="d6746e179a1310">
+            <mixed-citation id="d6746e183" publication-type="other">
+Pielou, E. C. 1966. The measurement of diversity in different
+types of biological collections. J. theoret. Biol. 13:
+131-144</mixed-citation>
+         </ref>
+         <ref id="d6746e196a1310">
+            <mixed-citation id="d6746e200" publication-type="other">
+Scheffé, H. 1953. A method for judging all contrasts in the
+analysis of variance. Biometrika 40:87-104</mixed-citation>
+         </ref>
+         <ref id="d6746e210a1310">
+            <mixed-citation id="d6746e214" publication-type="other">
+Sneath, P. H. A. and R. R. Sokal. 1973. Numerical Taxonomy.
+Freeman, San Francisco.</mixed-citation>
+         </ref>
+         <ref id="d6746e224a1310">
+            <mixed-citation id="d6746e228" publication-type="other">
+Tukey, J. W. 1977. Exploratory Data Analysis. Addison-Wesley,
+Reading, Mass.</mixed-citation>
+         </ref>
+         <ref id="d6746e238a1310">
+            <mixed-citation id="d6746e242" publication-type="other">
+Tukey, J. W. 1980. We need both exploratory and confirmatory.
+American Statistician 34:23-25</mixed-citation>
+         </ref>
+         <ref id="d6746e252a1310">
+            <mixed-citation id="d6746e256" publication-type="other">
+Wildi, O. 1985. A package for the analysis of vegetation data
+by microcomputers. Abstracta Botanica 9:153-159</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,332 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43518939</article-id>
+         <title-group>
+            <article-title>Anderson Pond revisited: the late-Quaternary vegetation process</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>X.</given-names>
+                  <surname>He</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>L.</given-names>
+                  <surname>Orlóci</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1998</year>
+         </pub-date>
+         <volume>22</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139754</issue-id>
+         <fpage>81</fpage>
+         <lpage>93</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43518939"/>
+         <abstract>
+            <p>The vegetation history of the Anderson pond site is well known from the pioneering work of Hazel R. Delcourt. Yet it is a fact that the site's paleopollen record is far from having been fully explored for information. This is particularly true when one considers the characteristics of the process itself. It is in this area that this paper presents results, revealing prevalently unimodal taxon density graphs, intensely periodic community stability curves, and a surprising lack of evidence of significant compositional "backtracking". The results also reveal compositional transitions under the alternating dominance of determinism and randomness, and further, significant process homogeneity within a relevant geographic domain. The theoretical and practical consequences of the latter become particularly obvious when one considers that once geographic process homogeneity is shown, the relevance of the hypothesis of individualistic vegetation dynamics is relegated to the level of a partial truth to the extent to which process behaviour reflects the random effects. It is peculiar that because random effects dominate the process in the short run, predictions of the immediate future by extrapolation are likely to be erroneous.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d7208e220a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d7208e227" publication-type="other">
+Huit
+1885,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d7208e236" publication-type="other">
+Clements 1916,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d7208e242" publication-type="other">
+Phillips 1935</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d7208e249a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d7208e256" publication-type="other">
+Milankovitch 1941</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d7208e262" publication-type="other">
+Houghton &amp; Whewell 1989,</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d7208e268" publication-type="other">
+Wallace 1990</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d7208e275a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d7208e282" publication-type="other">
+North American Pollen Database (Grimm 1993).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d7208e288" publication-type="other">
+http://www.ngdc.noaa.gov/paleo/paleoveg.html</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d7208e304a1310">
+            <mixed-citation id="d7208e308" publication-type="other">
+Anand, M. &amp; L. Orlóci. 1997. Chaotic dynamics in multispecies
+community. Environmental and Ecological Statistics 4: 337-
+344.</mixed-citation>
+         </ref>
+         <ref id="d7208e321a1310">
+            <mixed-citation id="d7208e325" publication-type="other">
+Çambel, A. B. 1993. Applied Chaos Theory: A Paradigm for Com-
+plexity. Academic Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e335a1310">
+            <mixed-citation id="d7208e339" publication-type="other">
+Clements, F. E. 1916. Plant Succession: An Analysis of the Develop-
+ment of Vegetation. Carnegie Institute, Washington.</mixed-citation>
+         </ref>
+         <ref id="d7208e349a1310">
+            <mixed-citation id="d7208e353" publication-type="other">
+Clements, F. E. 1928. Plant Succession and Indicators. H.W. Wilson
+Co., New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e364a1310">
+            <mixed-citation id="d7208e368" publication-type="other">
+Cooper, W. S. 1926. The fundamentals of vegetational change. Ecol-
+ogy 1. 39 ' -413.</mixed-citation>
+         </ref>
+         <ref id="d7208e378a1310">
+            <mixed-citation id="d7208e382" publication-type="other">
+Cowles, H. C. 1899. The ecological relations of the vegetation on the
+sand dunes of Lake Michigan. Bot. Gaz. 27.</mixed-citation>
+         </ref>
+         <ref id="d7208e392a1310">
+            <mixed-citation id="d7208e396" publication-type="other">
+Delcourt. H. 1979. Late Quaternary vegetation history of the Eastern
+Highland Rim and adjacent Cumberland Plateau of Tennessee.
+Ecological Monographs 49: 255-280.</mixed-citation>
+         </ref>
+         <ref id="d7208e409a1310">
+            <mixed-citation id="d7208e413" publication-type="other">
+Delcourt, P. A. &amp; H. R. Delcourt, 1987. Long-term Forest Dynamics
+of the Temperate Zone, Springer-Verlag, New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e423a1310">
+            <mixed-citation id="d7208e427" publication-type="other">
+Edgington, E. S. 1987. Randomization Tests. 2nd ed. Marcel Dekker,
+New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e437a1310">
+            <mixed-citation id="d7208e441" publication-type="other">
+Fekete, G. 1985. Terrestrial vegetation succession: theories, models,
+reality. In: G. Fekete (ed.), Paradigms of Coenological Succes-
+sion, pp. 31-63. (In Hungarian) Akademiai Kiadó, Budapest.</mixed-citation>
+         </ref>
+         <ref id="d7208e455a1310">
+            <mixed-citation id="d7208e459" publication-type="other">
+Feller, W. 1957. An Introduction to Probability Theory and its Ap-
+plications. Vol. I. John Wiley and Sons, London.</mixed-citation>
+         </ref>
+         <ref id="d7208e469a1310">
+            <mixed-citation id="d7208e473" publication-type="other">
+Gleason, H. A. 1926. The individualistic concept of the plant as-
+sociation. Bulletin of the Torrey Botanical Club 53: 7-26.</mixed-citation>
+         </ref>
+         <ref id="d7208e483a1310">
+            <mixed-citation id="d7208e487" publication-type="other">
+Gleick, J. 1987. Chaos. Making a New Science. Penguin Books, New
+York.</mixed-citation>
+         </ref>
+         <ref id="d7208e497a1310">
+            <mixed-citation id="d7208e501" publication-type="other">
+Glenn-Lewin, D. C., R.K. Peet &amp; T.T. Vehlen 1992. Prologue. In:
+D.C. Glenn-Lewin, R.K. Peet, T.T. Vehlen (eds). Plant Succes-
+sion: Theory and Prediction, pp. 11-59. Chapman and Hall,
+London.</mixed-citation>
+         </ref>
+         <ref id="d7208e517a1310">
+            <mixed-citation id="d7208e521" publication-type="other">
+Grimm, E. C. 1993. North American Pollen Database. Illinois State
+Museum, Illinois, U.S.A.</mixed-citation>
+         </ref>
+         <ref id="d7208e531a1310">
+            <mixed-citation id="d7208e535" publication-type="other">
+Györffy, Gy. &amp;B. Zólyomi. 1996. The Carpathian Basin and the
+Etelköz as they appeared one thousand years ago. (In Hun-
+garian) Magyar Tudomúny Vol. XLI, 8: 899-918.</mixed-citation>
+         </ref>
+         <ref id="d7208e549a1310">
+            <mixed-citation id="d7208e553" publication-type="other">
+Houghton, J. T. &amp; G. M. Whewell. 1989. Global climate change.
+Scientific American 260: 36-47.</mixed-citation>
+         </ref>
+         <ref id="d7208e563a1310">
+            <mixed-citation id="d7208e567" publication-type="other">
+Hülst, R. van. 1992. From population dynamics to community
+dynamics: modelling succession as a species replacement
+process. In: D.C. Glenn-Lewin, R.K. Peet, T.T. Veblen (eds),
+Plant Succession: Theory and Prediction, pp. 188-214. Chap-
+man and Hall, London.</mixed-citation>
+         </ref>
+         <ref id="d7208e586a1310">
+            <mixed-citation id="d7208e590" publication-type="other">
+Huit, R. 1885. Blekinges vegetation. Ett bidrag till
+växformationernas. Medd. Soc. Faun. Flor. Fenn. 8. •</mixed-citation>
+         </ref>
+         <ref id="d7208e600a1310">
+            <mixed-citation id="d7208e604" publication-type="other">
+Juhász-Nagy, P. 1992. Scaling prolems almost everywhere: an intro-
+duction. Abstracta Botanica 16: 1-5.</mixed-citation>
+         </ref>
+         <ref id="d7208e614a1310">
+            <mixed-citation id="d7208e618" publication-type="other">
+Kerner, A. von Marilaun. 1864. Das Pflanzenleben der
+Donauländer. 2nd ed. (1929. Univ. Verlag Wagner, Innsbruck.)</mixed-citation>
+         </ref>
+         <ref id="d7208e628a1310">
+            <mixed-citation id="d7208e632" publication-type="other">
+Lorenz, E. N. 1963. Deterministic nonperi odie flow. J. Atmos. Sci.
+20:130-41.</mixed-citation>
+         </ref>
+         <ref id="d7208e643a1310">
+            <mixed-citation id="d7208e647" publication-type="other">
+Mcintosh R. P. 1980. The relationship between succession and the
+recovery process in ecosystems. In: J. Cairns (ed.), The
+Recovery Process in Damaged Ecosystems, pp. 11-62. Ann
+Arbor Science Publishers Inc., Ann Arbor, Michigan.</mixed-citation>
+         </ref>
+         <ref id="d7208e663a1310">
+            <mixed-citation id="d7208e667" publication-type="other">
+Mcintosh, R.P. 1985. The Background of Ecology: Concepts and
+Theory. Cambridge University Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e677a1310">
+            <mixed-citation id="d7208e681" publication-type="other">
+Milankovich, M. M. 1941. Canon of Isolation and the Ice Age
+Problem. Royal Serb Acad. Spec. Publ. 133.</mixed-citation>
+         </ref>
+         <ref id="d7208e691a1310">
+            <mixed-citation id="d7208e695" publication-type="other">
+Orlóci, L. 1978. Multivariate Analysis in Vegetation Research. 2nd
+ed. W. Junk bv., The Hague.</mixed-citation>
+         </ref>
+         <ref id="d7208e705a1310">
+            <mixed-citation id="d7208e709" publication-type="other">
+Orlóci L. &amp; M. Orlóci. 1988. On recovery, Markov chain and canoni-
+cal analysis. Ecology 69: 1260-1265.</mixed-citation>
+         </ref>
+         <ref id="d7208e719a1310">
+            <mixed-citation id="d7208e723" publication-type="other">
+Orlóci, L. 1991. CONAPACK : Program for Canonical Analysis of
+Classification Tables. Ecological Computation Series, Vol. 4,
+SPB Academic Publishing bv, The Hague.</mixed-citation>
+         </ref>
+         <ref id="d7208e737a1310">
+            <mixed-citation id="d7208e741" publication-type="other">
+Orlóci, L., M. Anand &amp; X.S. He. 1993. Markov chain: a realistic
+model for temporal coenosere? Biometrie-Praximetrie 33: 7-26.</mixed-citation>
+         </ref>
+         <ref id="d7208e751a1310">
+            <mixed-citation id="d7208e755" publication-type="other">
+Phillips, J. 1935. Succession, development, the climax and the com-
+plex organism: an analysis of concepts. Part III. J. Ecol. 23: 488-
+508.</mixed-citation>
+         </ref>
+         <ref id="d7208e768a1310">
+            <mixed-citation id="d7208e772" publication-type="other">
+Pillar, V. De Patta. 1996. A randomisation-based solution for vegeta-
+tion classification and homogeneity testing. Coenoses 11: 29-
+36.</mixed-citation>
+         </ref>
+         <ref id="d7208e785a1310">
+            <mixed-citation id="d7208e789" publication-type="other">
+Pillar, V. De Patta &amp; L. Orlóci. 1991. Character-based Community
+Analysis: The Theory and an Application Program. Ecological
+Computation Series, Vol. 6, SPB Academic Publishing bv., The
+Hague.</mixed-citation>
+         </ref>
+         <ref id="d7208e805a1310">
+            <mixed-citation id="d7208e809" publication-type="other">
+Pillar, V. De Patta &amp; L. Orlóci. 1996. On randomization testing in
+vegetation science: multifactor comparisons of relevé groups.
+Journal of Vegetation Science 7: 585-592.</mixed-citation>
+         </ref>
+         <ref id="d7208e822a1310">
+            <mixed-citation id="d7208e826" publication-type="other">
+Post, von L. 1944. The prospect of pollen analysis in the study of the
+Earth's climatic history. New Phytol. 45: 193-217.</mixed-citation>
+         </ref>
+         <ref id="d7208e837a1310">
+            <mixed-citation id="d7208e841" publication-type="other">
+Rayner, J. N. 1971. An Introduction to Spectral Analysis. Pion
+Limited, London.</mixed-citation>
+         </ref>
+         <ref id="d7208e851a1310">
+            <mixed-citation id="d7208e855" publication-type="other">
+Shugart, H. H. Jr. 1984. A Theory of Forest Dynamics: the Ecologi-
+cal Implications of Forest Succession Models. Springer-Verlag
+Press, New York.</mixed-citation>
+         </ref>
+         <ref id="d7208e868a1310">
+            <mixed-citation id="d7208e872" publication-type="other">
+Usher, M.B. 1981. Modelling ecological succession with particular
+reference to Markovian models. Vegetado 46:11-18.</mixed-citation>
+         </ref>
+         <ref id="d7208e882a1310">
+            <mixed-citation id="d7208e886" publication-type="other">
+Usher, M.B. 1992. Statistical models of succession. In: D.C. Glenn-
+Lewin, R.K. Peet, T.T. Veblen (eds). Plant Succession: Theory
+and Prediction, pp. 215-248. Chapman and Hall, London.</mixed-citation>
+         </ref>
+         <ref id="d7208e899a1310">
+            <mixed-citation id="d7208e903" publication-type="other">
+Wallace, E. A. 1990. Global Pattern - Climate, Vegetation and Soils.
+University of Oklahoma Press, Norman, USA.</mixed-citation>
+         </ref>
+         <ref id="d7208e913a1310">
+            <mixed-citation id="d7208e917" publication-type="other">
+Warming, E. 1884. Om Skudbygning, Overvintring og Foryngelse.
+Festskr. Naturh. Foren. Kjöbenhaven.</mixed-citation>
+         </ref>
+         <ref id="d7208e928a1310">
+            <mixed-citation id="d7208e932" publication-type="other">
+Whittaker R. H. 1953. A consideration of climax theory: the climax
+as a population and pattern. Ecological Monographs 23: 41-78.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

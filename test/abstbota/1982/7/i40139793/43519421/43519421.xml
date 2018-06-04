@@ -1,0 +1,134 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519421</article-id>
+         <title-group>
+            <article-title>ANATOMISCHE UNTERSUCHUNG DER WILDORCHIDEEN UNGARNS II. STENGELANATOMIE</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Olga</given-names>
+                  <surname>Borsos</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1982</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139793</issue-id>
+         <fpage>117</fpage>
+         <lpage>129</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519421"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Literatur</title>
+         <ref id="d15710e175a1310">
+            <mixed-citation id="d15710e179" publication-type="other">
+BORSOS O. /1960/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. IV,-Annal. Univ.
+Budapest. ,Sect. Biol. 3. 93-129.</mixed-citation>
+         </ref>
+         <ref id="d15710e192a1310">
+            <mixed-citation id="d15710e196" publication-type="other">
+BORSOS O. /1961/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. V. - Ibidem, 4.
+51-82.</mixed-citation>
+         </ref>
+         <ref id="d15710e209a1310">
+            <mixed-citation id="d15710e213" publication-type="other">
+BORSOS O. /1962/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. VI. - Ibidem,
+27-61.</mixed-citation>
+         </ref>
+         <ref id="d15710e226a1310">
+            <mixed-citation id="d15710e230" publication-type="other">
+BORSOS O. /1963/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. VII. - Ibidem, 6.
+43-81.</mixed-citation>
+         </ref>
+         <ref id="d15710e244a1310">
+            <mixed-citation id="d15710e248" publication-type="other">
+BORSOS O. /1964/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora.VIII. - Ibidem,
+1. 45-71.</mixed-citation>
+         </ref>
+         <ref id="d15710e261a1310">
+            <mixed-citation id="d15710e265" publication-type="other">
+BORSOS O. /1977/: Magyarországi szabadföldi orchideák anatómiai
+vizsgálata.I.Levélepidermisz vizsgálatok. /Blattanato-
+mische Untersuchung der Wildorchideen Ungarns./ -
+Abstracta Botanica, /Budapest/ V. 1-13.</mixed-citation>
+         </ref>
+         <ref id="d15710e281a1310">
+            <mixed-citation id="d15710e285" publication-type="other">
+ESAU, K. /1969/: Pflanzenanatomie. Stuttgart.</mixed-citation>
+         </ref>
+         <ref id="d15710e292a1310">
+            <mixed-citation id="d15710e296" publication-type="other">
+HASSACK /1886/: Anatomischer Bau bunter Laubblätter. - Bot.
+Centralbl. 184,212,311.</mixed-citation>
+         </ref>
+         <ref id="d15710e306a1310">
+            <mixed-citation id="d15710e310" publication-type="other">
+KOHL, A. /1899/: Raphidenzellen. - Bot.Centralbl. 273-282 +
+Taf.IV-V.</mixed-citation>
+         </ref>
+         <ref id="d15710e320a1310">
+            <mixed-citation id="d15710e324" publication-type="other">
+METCALFE, C.R. /1960/: Anatomy of the Monocotyledons. Oxford.</mixed-citation>
+         </ref>
+         <ref id="d15710e332a1310">
+            <mixed-citation id="d15710e336" publication-type="other">
+SÁRKÁNY S. - SZALAY I. /1964/: Növenyszervezettani gyakorlatok.
+Növenytani Praktikum I.Budapest.</mixed-citation>
+         </ref>
+         <ref id="d15710e346a1310">
+            <mixed-citation id="d15710e350" publication-type="other">
+SOLEREDER, H. - MEYER, P.J. /1930/: Systematische Anatomie der
+Monocotyledonen. VI. Scitamineae -Microspermae. Berlin,
+92-242.</mixed-citation>
+         </ref>
+         <ref id="d15710e363a1310">
+            <mixed-citation id="d15710e367" publication-type="other">
+SOÓ R. /1973/: A magyar flóra és vegetáció rendszertani-növény-
+földrajzi kézikônyve V. Budapest. 133-182.</mixed-citation>
+         </ref>
+         <ref id="d15710e377a1310">
+            <mixed-citation id="d15710e381" publication-type="other">
+SOÓ R. - KELLER, G. /1930/: Monographie und Iconographie der
+Orchideen Europas und des Mittelmeergebietes.II.
+Berlin-Dahlem.</mixed-citation>
+         </ref>
+         <ref id="d15710e394a1310">
+            <mixed-citation id="d15710e398" publication-type="other">
+ZIEGENSPECK, H. /1936/: Orchidaceae - in KIRCHNER-LOEW-SCHRÖTER:
+Lebensgeschichte der Blütenpflanzen Mitteleuropas.
+I./4. Stuttgart.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

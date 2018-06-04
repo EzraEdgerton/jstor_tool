@@ -1,0 +1,188 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519097</article-id>
+         <title-group>
+            <article-title>THE RELATIONSHIP BETWEEN THE TRANSPIRATION AND PHOTOSYNTHESIS OF XEROPHYTIC GRASSES</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>László</given-names>
+                  <surname>ALMÁDI</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Edit</given-names>
+                  <surname>KOVÁCS-LÁNG</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Rózsa</given-names>
+                  <surname>MÉSZÁROS-DRASKOVITS</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tibor</given-names>
+                  <surname>KALAPOS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139767</issue-id>
+         <fpage>1</fpage>
+         <lpage>16</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519097"/>
+         <abstract>
+            <p>The water status, transpiration, and CO₂ fixation in the leaves of Festuca vaginata and Koeleria glauca were measured together with environmental variables (air temperature, relative air humidity, soil moisture, and illumination).. Regarding transpiration, relative transpiration and CO₂ fixation, the leaves of k1œleria glauca were more active than those of Festuca glauca, both in spring and in summer. The transpiration and fixation rates of these species became lower by summer. Relatively low water saturation deficit values were obtained during the whole growing season. Transpiration and CO₂ fixation rates reached their maxima in the morning hours in summer, and about noon in spring. The results suggest that water use regulation is different in the two drought-tolerant species. Koeleria glauca transfers and contains more water in the leaves, and is more sensitive to changes in soil moisture and relative air humidity than Festuca vaginata. The latter species has a strictly regulated, moderate type of water utilization. There is no difference between the species regarding the transpiratory and CO₂ fixation rates, if the results are related to the whole phytomass (above— and underground parts). The species have adapted to dry habitats in different ways: the photosynthesis of Festuca vaginata is of the C₄ type, whereas Koeleria glauca has vesicular—arbuscular mycorrhizae in its roots.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d6809e198a1310">
+            <mixed-citation id="d6809e202" publication-type="other">
+Almádi, L. 1982. Vizháztartás vizsgálatok I. (Water regime stu-
+dies I.). Bot. Közlem. 69:85-93</mixed-citation>
+         </ref>
+         <ref id="d6809e212a1310">
+            <mixed-citation id="d6809e216" publication-type="other">
+Almádi, L. 1984. Vizháztartás vizsgálatok II. Bot. Közlem. 71:
+35-50</mixed-citation>
+         </ref>
+         <ref id="d6809e226a1310">
+            <mixed-citation id="d6809e230" publication-type="other">
+Almádi, L. 1985. Vizháztartás vizsgálatok III. Bot. Közlem. (in
+press)</mixed-citation>
+         </ref>
+         <ref id="d6809e240a1310">
+            <mixed-citation id="d6809e244" publication-type="other">
+Barber, S. A. 1984. Soil Nutrient Bioavailability. Wiley, New
+York</mixed-citation>
+         </ref>
+         <ref id="d6809e255a1310">
+            <mixed-citation id="d6809e259" publication-type="other">
+Grime, J. P. 1979. Plant Strategies and Vegetation Processes.
+Wiley, New York</mixed-citation>
+         </ref>
+         <ref id="d6809e269a1310">
+            <mixed-citation id="d6809e273" publication-type="other">
+Kovács-Láng, E. and R. Mászáros-Draskovits . 1985. Temporal
+changes in CO₂ fixation in xerotherm grasses of dry steppe
+habitat. In: Ekologia travného porastu II. Zbornik; pp.
+135-145. Banská Bystrica</mixed-citation>
+         </ref>
+         <ref id="d6809e289a1310">
+            <mixed-citation id="d6809e293" publication-type="other">
+Květ, J. and M. Rychnovská. 1965. Contribution to the ecology
+of the steppe vegetation of the Tihany peninsula II. Water
+retention capacity of some characteristic grass and forb
+species. Annal. Biol. Tihany 32:275-288</mixed-citation>
+         </ref>
+         <ref id="d6809e309a1310">
+            <mixed-citation id="d6809e313" publication-type="other">
+Nagy, A. H. and A. Horánszky. 1980. Productivity and photosynthe-
+tic flexibility in some species of a grassland community.
+Acta Bot, Acad. Sci. Hung. 26:389-395</mixed-citation>
+         </ref>
+         <ref id="d6809e326a1310">
+            <mixed-citation id="d6809e330" publication-type="other">
+Rychnovská, M. and J. Květ. 1965. Contribution to the ecology
+of the steppe vegetation of the Tihany peninsula III. Es-
+timation of drought resistance based on the saturation of
+water deficit. Annal. Biol. Tihany 32:289-296</mixed-citation>
+         </ref>
+         <ref id="d6809e346a1310">
+            <mixed-citation id="d6809e350" publication-type="other">
+Rychnovská, M. 1984. The strategy of plants for maintaining
+their water balance. International Conference on High-
+mountain Ecology. Tbilisi, USSR</mixed-citation>
+         </ref>
+         <ref id="d6809e364a1310">
+            <mixed-citation id="d6809e368" publication-type="other">
+Rychnovská, M. 1985. Vodni provoz travinnych porostu. (Water
+relations of grassland plants). In: Ekologia travného
+porastu II. Zbornik, pp. 117-125. Banská Bystrica.</mixed-citation>
+         </ref>
+         <ref id="d6809e381a1310">
+            <mixed-citation id="d6809e385" publication-type="other">
+Schulze, E. D., O. L. Lange, L. Kappen, M. Evenari and N.
+Buchbom. 1975. Physiological basis of primary production
+of perennial higher plants in the Negev desert. In: J. P.
+Cooper (ed.), Photosynthesis and Productivity in Different
+Environments. IBP 3. pp. 107-119. Cambridge Univ. Press</mixed-citation>
+         </ref>
+         <ref id="d6809e404a1310">
+            <mixed-citation id="d6809e408" publication-type="other">
+Sesták, Z., J. Catsky and P. G. Jarvis (eds). 1971. Plant Photo-
+synthetic Production. Manual of Methods. Junk, The Hague</mixed-citation>
+         </ref>
+         <ref id="d6809e418a1310">
+            <mixed-citation id="d6809e422" publication-type="other">
+Slavik, B. 1974. Methods of studying plant water relations.
+Springer, Berlin</mixed-citation>
+         </ref>
+         <ref id="d6809e432a1310">
+            <mixed-citation id="d6809e436" publication-type="other">
+Snakin, V. V., T. L. Bystritzkaya and E. Kovács-Láng. 1984.
+Izuchenie pochvennih rastvorov kak zveno krugovorota chi-
+micheskih elementov v lesostepnoi zone Vengrii. 'Studies
+on soil solutions as a compartment of the mineral cycle
+in the forest steppe zone in Hungary). Ekol. Kooperatia
+3:58-63. Bratislava</mixed-citation>
+         </ref>
+         <ref id="d6809e459a1310">
+            <mixed-citation id="d6809e463" publication-type="other">
+Stocker, O. 1933. Transpiration und Wasserhaushalt in verschi-
+edenen Klimazonen. II. Untersuchungen in der ungarischen
+Alkalisteppe. Jahrb. wiss. Bot. 78:751-856</mixed-citation>
+         </ref>
+         <ref id="d6809e477a1310">
+            <mixed-citation id="d6809e481" publication-type="other">
+Stocker, O. 1956. Messmethoden der Transpiration. In: W. Ruh-
+land (ed.), Handbuch der Pflanzenphysiologie. Vol. 3. pp.
+293-311. Springer, Berlin</mixed-citation>
+         </ref>
+         <ref id="d6809e494a1310">
+            <mixed-citation id="d6809e498" publication-type="other">
+Stocker, O. 1967. Der Wasser-und Photosynthese-Haushalt mit-
+teleuropaeischer Gräser, in Beitrag zum allgemeinen Kons-
+titutionsproblem des Grastypus. Flora, Abt. B. 157:56-96</mixed-citation>
+         </ref>
+         <ref id="d6809e511a1310">
+            <mixed-citation id="d6809e515" publication-type="other">
+Tuba, Z. 1985. Homokpusztagyep-f aj ok f otoszintézis ôkológiája.
+(Photosynthetic-ecological properties of some species of
+sandy grasslands). PhD thesis, Vácrátot</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

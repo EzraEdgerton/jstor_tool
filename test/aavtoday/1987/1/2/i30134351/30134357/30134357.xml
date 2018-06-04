@@ -1,0 +1,67 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group>
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/30134357</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>In My Experience</subject>
+               <subj-group>
+                  <subject>Medical Updates</subject>
+               </subj-group>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Paramyxovirus Group 3 Infection in Cockatiels</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Nicole</given-names>
+                  <surname>VanDerHeyden</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Willie M.</given-names>
+                  <surname>Reed</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>4</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>2</issue>
+         <issue-id>i30134351</issue-id>
+         <fpage>53</fpage>
+         <lpage>54</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1987 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/30134357"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

@@ -1,0 +1,229 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519098</article-id>
+         <title-group>
+            <article-title>SIMILARITY AND STRUCTURED ATTRIBUTES IN ECOLOGICAL CLASSIFICATION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M. B.</given-names>
+                  <surname>DALE</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>P. E. R.</given-names>
+                  <surname>DALE</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1986</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139767</issue-id>
+         <fpage>17</fpage>
+         <lpage>34</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519098"/>
+         <abstract>
+            <p>Numerical classification and ordination methods commonly require the calculation of pairwise similarities between items. Such similarities are calculated from the observed values for various attributes. In most cases these values are assumed to be single codes or numbers. However, if the states of an attribute are ordered, showing a sequential structuring, it may be desirable to adjust for the structure in the measure of similarity. In this paper we discuss both this simple case and some other possible structures for attribute states, and for attributes, and present some methods which offer the user a means of combining the state frequencies with this structure. This leads to the development of more apposite measures of similarity, and the value of such measures is illustrated by an application to vegetation patterns on Masthead Island, Great Barrier Reef.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d6774e138a1310">
+            <mixed-citation id="d6774e142" publication-type="other">
+Ben-Bassat, M. and L. Zaidenberg. 1984. Contextual template
+matching: a distance measure for patterns with hierarchic-
+ally dependent features. IEEE Trans. Patt. Anal. Mach.
+Intel. PAMI-6:201-211</mixed-citation>
+         </ref>
+         <ref id="d6774e158a1310">
+            <mixed-citation id="d6774e162" publication-type="other">
+Bhattacharya, A. 1943. On discrimination and divergence. Proc.
+29-th Indian Sci. Cong. II. 13-20</mixed-citation>
+         </ref>
+         <ref id="d6774e172a1310">
+            <mixed-citation id="d6774e176" publication-type="other">
+Bray, J. R. and J. C. Curtis. 1957. An ordination of upland
+forest communities of southern Wisconsin. Ecol. Monographs
+27:325-349</mixed-citation>
+         </ref>
+         <ref id="d6774e189a1310">
+            <mixed-citation id="d6774e193" publication-type="other">
+Dale, M. B. and D. J. Anderson. 1973. Qualitative and quantit-
+ative information analysis. J. Ecol. 60:639-657</mixed-citation>
+         </ref>
+         <ref id="d6774e204a1310">
+            <mixed-citation id="d6774e208" publication-type="other">
+Dale, M. B. and M. Barson (in prep.) What comes after the
+classification: a look at strings and grammars.</mixed-citation>
+         </ref>
+         <ref id="d6774e218a1310">
+            <mixed-citation id="d6774e222" publication-type="other">
+Dale, P., K. Hulsman, B. R. Jahnke and M. B. Dale. 1984. Vege-
+tation and nesting preferences of black noddies at Masthead
+Island, Great Barrier Reef. I. Patterns at the macro scale.
+Austral. J. Ecol. 9:335-341</mixed-citation>
+         </ref>
+         <ref id="d6774e238a1310">
+            <mixed-citation id="d6774e242" publication-type="other">
+Estabrook, G. F. 1972. Cladistic methodology: a discussion of
+the theoretical basis for the induction of evolutionary
+history. Ann. Rev. Ecol. Syst. 4:427-456</mixed-citation>
+         </ref>
+         <ref id="d6774e255a1310">
+            <mixed-citation id="d6774e259" publication-type="other">
+Faith, D. P., M. P. Austin, L. Belbin and C. R. Margules. 1985.
+Numerical classification of profile attributes in environ-
+mental studies. J. Environ. Manag. 20:73-85</mixed-citation>
+         </ref>
+         <ref id="d6774e272a1310">
+            <mixed-citation id="d6774e276" publication-type="other">
+Ito, T., Y. Kodama and J. Toyoda. 1984. A similarity measure
+between patterns with nonindependent attributes. IEEE Trans.
+Patt. Anal. Mach. Intel. PAMI-6 : 111-115</mixed-citation>
+         </ref>
+         <ref id="d6774e289a1310">
+            <mixed-citation id="d6774e293" publication-type="other">
+Laaka, P., K. Laaka and R. Aaberge. 1985. On the problem of
+measuring the distance between distribution functions:
+analysis of hospitalization versus mortality. Biometrics
+41:515-523</mixed-citation>
+         </ref>
+         <ref id="d6774e310a1310">
+            <mixed-citation id="d6774e314" publication-type="other">
+Lance, G. N. 1970. Mixed and discontinuous data. In: R. S. An-
+derssen and M. R. Osborne (eds), Data Representation. Queens-
+land University Press, St. Lucia, pp. 102-107</mixed-citation>
+         </ref>
+         <ref id="d6774e327a1310">
+            <mixed-citation id="d6774e331" publication-type="other">
+Lance, G. N. and W. T. Williams. 1967a. Mixed data classifica-
+tory programs. I. Agglomerative systems. Austral. Comput. J.
+1:1-6</mixed-citation>
+         </ref>
+         <ref id="d6774e344a1310">
+            <mixed-citation id="d6774e348" publication-type="other">
+Lance, G. N. and W. T. Williams. 1967b. Note on the classifica-
+tion of multilevel data. Comput. J. 9:381-382</mixed-citation>
+         </ref>
+         <ref id="d6774e358a1310">
+            <mixed-citation id="d6774e362" publication-type="other">
+Little, I. P. and D. R. Ross. 1985. The Levenshtein metric; a
+new means for soil classification tested by data from a
+sand-podzol chronosequence and evaluated by discriminant
+analysis. Aust. J. Soil. Res. 23:115-130</mixed-citation>
+         </ref>
+         <ref id="d6774e378a1310">
+            <mixed-citation id="d6774e382" publication-type="other">
+Lu, S-Y. 1984. A tree-matching algorithm based on node splitting
+and merging. IEEE Trans. Patt. Anal. Mach. Intel. PAMI-6:
+249-256</mixed-citation>
+         </ref>
+         <ref id="d6774e395a1310">
+            <mixed-citation id="d6774e399" publication-type="other">
+Michalski; R. S. and R. E. Stepp. 1983. Automated construction
+of classifications: conceptual clustering versus numerical
+taxonomy. IEEE Trans. Patt. Anal. Mach. Intel. PAMI-6:
+396-410</mixed-citation>
+         </ref>
+         <ref id="d6774e416a1310">
+            <mixed-citation id="d6774e420" publication-type="other">
+Moore, R. K. 1979. A dynamic programming algorithm for the dis-
+tance between two finite areas. IEEE Trans. Patt. Anal.
+Mach. Intel. PAMI-1:86-88</mixed-citation>
+         </ref>
+         <ref id="d6774e433a1310">
+            <mixed-citation id="d6774e437" publication-type="other">
+Ogborn, J. 1984. Cumulative and local odds-ratio measures of
+uniformity of association in two-way ordered contingency
+tables. Brit. J. Math. Statist. Psychol. 37:89-99</mixed-citation>
+         </ref>
+         <ref id="d6774e450a1310">
+            <mixed-citation id="d6774e454" publication-type="other">
+Price, L. C., C. M. Dayton and G. B. Macready. 1980. Discovery
+algorithms for hierarchical relationships. Psychometrika
+45:449-466</mixed-citation>
+         </ref>
+         <ref id="d6774e467a1310">
+            <mixed-citation id="d6774e471" publication-type="other">
+Proctor, J. and W. B. Kendrick. 1963. Unequal weighting in
+numerical taxonomy. Nature 197:716-717</mixed-citation>
+         </ref>
+         <ref id="d6774e481a1310">
+            <mixed-citation id="d6774e485" publication-type="other">
+Ross, D. 1983. TAXON users' manual P3B CSIRO, Div. Computing
+Research, pp. 190</mixed-citation>
+         </ref>
+         <ref id="d6774e495a1310">
+            <mixed-citation id="d6774e499" publication-type="other">
+Sankoff, D. and J. B. Kruskal. 1985. "Time Warps, String Edits
+and Macromolecules." Addison Wesley, New York</mixed-citation>
+         </ref>
+         <ref id="d6774e510a1310">
+            <mixed-citation id="d6774e514" publication-type="other">
+Shen, H. C. and A. K. C. Wonf . 1983. Generalized texture repre-
+sentation and metric. Comput. Vision Graphics Image Process.
+23:187-206</mixed-citation>
+         </ref>
+         <ref id="d6774e527a1310">
+            <mixed-citation id="d6774e531" publication-type="other">
+Weir, A. G. 1970. Program NEWCLAS : a classif icatory program for
+mixed data. CSIRO, Div. Water Land Resources, Techn. Memo.
+70/5. pp. 10</mixed-citation>
+         </ref>
+         <ref id="d6774e544a1310">
+            <mixed-citation id="d6774e548" publication-type="other">
+Werman, M., S. Pelg and A. Rosenfeld. 1985. A distance metric
+for multidimensional histograms. Comput. Vision Graphics
+and Image Process. 32:328-336</mixed-citation>
+         </ref>
+         <ref id="d6774e561a1310">
+            <mixed-citation id="d6774e565" publication-type="other">
+Williams, W. T. 1969. The problem of attribute weighting in
+numerical classification. Taxon 18:369-374</mixed-citation>
+         </ref>
+         <ref id="d6774e575a1310">
+            <mixed-citation id="d6774e579" publication-type="other">
+Williams, W. T. 1973. Partition of information: the CENTPERC
+problem. Austral. J. Bot. 21:277-281</mixed-citation>
+         </ref>
+         <ref id="d6774e589a1310">
+            <mixed-citation id="d6774e593" publication-type="other">
+Williams, W. T. and M. B. Dale. 1962. Partition correlation
+matrices for heterogeneous quantitative data. Nature
+196:502</mixed-citation>
+         </ref>
+         <ref id="d6774e607a1310">
+            <mixed-citation id="d6774e611" publication-type="other">
+Zadeh, L. 1965. Fuzzy sets. Inform. Control. 8:338-353</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

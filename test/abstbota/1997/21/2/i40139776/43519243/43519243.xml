@@ -1,0 +1,389 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519243</article-id>
+         <title-group>
+            <article-title>Effects of elevated carbon dioxide on British native grassland species and communities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>R.</given-names>
+                  <surname>Hunt</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. P.</given-names>
+                  <surname>Grime</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>S.</given-names>
+                  <surname>Diaz</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>G. M.</given-names>
+                  <surname>Spring</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>J. H. C.</given-names>
+                  <surname>Cornelissen</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>R. L.</given-names>
+                  <surname>Colasanti</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>275</fpage>
+         <lpage>288</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519243"/>
+         <abstract>
+            <p>The implications of current climate-change scenarios for British species and communities are not straightforward: short-term effects may be mediated by longer term source-sink interactions; what species do in isolation may not match what they do under competitive conditions; community-level responses may be mediated by herbivory and soil microbiology; ecosystem-level responses may be overridden by direct or indirect human activity. This article reviews UGPE findings in these areas since 1987. In single-species screening of herbaceous species, strong responses to elevated CO₂ occur mainly in robust, fast-growing perennials, though smaller-scale studies do not necessarily support this trend. In woody species screening, increases under elevated CO₂ are higher in deciduous species than in evergreen ones. Time-course experiments show that species which are non-responsive in the long term can respond in the shorter term, and that external mineral nutrient level is also important. Elevating CO₂ at above-ambient temperatures promotes CO₂-responsiveness in lower-yielding herbaceous species, except where defoliation is also present when recovery is better in higher-yielding species. In laboratory microcosms on native soil, fast-growing species do not increase in relative abundance under elevated CO₂ because there appears to be mineral nutrient sequestration by the expanded microflora. In Baby-FACE field microcosms, elevated CO₂ has no significant effect on community composition unless accompanied by elevated temperature and/or by added nutrients. Nutrient additions lead to much bigger gains in non-mycorrhizal species than in mycorrhizal ones. Field microcosms with artificial crevices show a differential effect of natural summer drought on contrasted species. CO₂ screening experiments can be paralleled by similar work on sulphur dioxide and on ozone. In both of these gases, plant response is strongly and inversely related to seedling growth rate. This contrasts with the pattern found under elevated CO₂, which appears to depend upon a combination of plant physiology plus evolutionary history. Responsiveness to CO₂ also helps to identify basic 'functional types' and multivariate methods can show that competitive species depend upon high lateral spread, long life history, high responsiveness to elevated CO₂, and inbreeding reproduction. Expert-system models can predict outline responses of vegetation to climate and management changes, and cellular automata successfully mimic plant morphology and function in relation to resource acquisition and utilisation within component modules. Plant community responses to elevated CO₂ are now being seen less and less as the products of the responsiveness of the component species measured in isolation and more, for example, as the product of habitat richness, especially in respect of mineral nutrients.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4524e278a1310">
+            <mixed-citation id="d4524e282" publication-type="other">
+Arnone, J. A., J.G. Zaller, C. Ziegler, H. Zandt &amp; C. Körner. 1995.
+Leaf quality and insect herbivory in model tropical plant com-
+munities after long-term exposure to elevated atmospheric CO₂.
+Oecologia 104:72-78.</mixed-citation>
+         </ref>
+         <ref id="d4524e298a1310">
+            <mixed-citation id="d4524e302" publication-type="other">
+Ashenden, T.W., R. Hunt, S.A. Bell, T.G. Williams, A Mann, R.E.
+Booth &amp; L. Poorter. 1996. Responses to SO₂ pollution in 41
+British herbaceous species. Functional Ecology 10: 483-490.</mixed-citation>
+         </ref>
+         <ref id="d4524e315a1310">
+            <mixed-citation id="d4524e319" publication-type="other">
+Bazzaz, F.A. 1993. Use of plant growth analysis in global change
+studies: modules, individuals and populations. In: Schulze E-D.,
+Mooney H.A., eds. Design and execution of experiments on
+CO₂ enrichment. Brussels: Commission of the European Com-
+munities, 53-71.</mixed-citation>
+         </ref>
+         <ref id="d4524e338a1310">
+            <mixed-citation id="d4524e342" publication-type="other">
+Bazzaz, F.A. &amp; S.L. Miao. 1993. Successional status, seed size, and
+response of tree seedlings to CO₂, light, and nutrients. Ecology
+74: 104-112.</mixed-citation>
+         </ref>
+         <ref id="d4524e356a1310">
+            <mixed-citation id="d4524e360" publication-type="other">
+Bradshaw, A.D. &amp; T. McNeilly. 1991. Evolutionary response to
+global climatic change. Annals of Botany 67 (suppl. 1): 5-14.</mixed-citation>
+         </ref>
+         <ref id="d4524e370a1310">
+            <mixed-citation id="d4524e374" publication-type="other">
+Ceulemans, R., &amp; M. Mousseau. 1994. Tansley Review No. 71 . Ef-
+fects of elevated atmospheric CO₂ on woody plants. New
+Phytologist 127: 425-446.</mixed-citation>
+         </ref>
+         <ref id="d4524e387a1310">
+            <mixed-citation id="d4524e391" publication-type="other">
+Colasanti, R.L. &amp; J.R Grime. 1993. Resource dynamics and vegeta-
+tion processes: a deterministic model using two dimensional
+cellular automata. Functional Ecology 7: 169-176.</mixed-citation>
+         </ref>
+         <ref id="d4524e404a1310">
+            <mixed-citation id="d4524e408" publication-type="other">
+Colasanti, R.L. &amp; R. Hunt. 1997. Resource dynamics and vegetation
+processes: a self assembling model for individuals, populations
+and communities. Functional Ecology 11:133-145.</mixed-citation>
+         </ref>
+         <ref id="d4524e421a1310">
+            <mixed-citation id="d4524e425" publication-type="other">
+Cornelissen, J.H.C., P. Castro-Diez &amp; R. Hunt. 1996. Seedling
+growth, allocation and leaf attributes in a wide range of woody
+plant species and types. Journal of Ecology 84: 755-765.</mixed-citation>
+         </ref>
+         <ref id="d4524e438a1310">
+            <mixed-citation id="d4524e442" publication-type="other">
+Cure, J.D. &amp; B. Adcock. 1986. Crop responses to carbon dioxide
+doubling: a literature survey. Agriculture and Forest Meteorol-
+ogy 38: 127-145.</mixed-citation>
+         </ref>
+         <ref id="d4524e456a1310">
+            <mixed-citation id="d4524e460" publication-type="other">
+Davidson, R.L. 1969. Effect of root/leaf temperature differentials on
+root/shoot ratios in some pasture grasses and clover. Annals of
+Botany 33: 561-69.</mixed-citation>
+         </ref>
+         <ref id="d4524e473a1310">
+            <mixed-citation id="d4524e477" publication-type="other">
+Diaz, S., J. P. Grime, J. Harris &amp; E. McPherson. 1993. Evidence of
+a feedback mechanism limiting plant response to elevated car-
+bon dioxide. Nature 364:616-617.</mixed-citation>
+         </ref>
+         <ref id="d4524e490a1310">
+            <mixed-citation id="d4524e494" publication-type="other">
+Diaz S. 1995. Elevated CO₂ responsiveness, interactions at the com-
+munity level and plant functional types. Journal of Biogeog-
+raphy 22:289-295.</mixed-citation>
+         </ref>
+         <ref id="d4524e507a1310">
+            <mixed-citation id="d4524e511" publication-type="other">
+Diaz S. 1996. Effects of elevated CO₂ at the community level
+mediated by root symbionts. Plant and Soil 187:309-320.</mixed-citation>
+         </ref>
+         <ref id="d4524e521a1310">
+            <mixed-citation id="d4524e525" publication-type="other">
+DOE 1996. Review of the potential effects of climate change in the
+United Kingdom. London: HMSO.</mixed-citation>
+         </ref>
+         <ref id="d4524e535a1310">
+            <mixed-citation id="d4524e539" publication-type="other">
+Fajer, E.D., M.D. Bowers &amp; F.A. Bazzaz. 1989. The effects of en-
+riched carbon dioxide atmospheres on plant-insects herbivore
+interactions. Science 243, 1198-1200.</mixed-citation>
+         </ref>
+         <ref id="d4524e553a1310">
+            <mixed-citation id="d4524e557" publication-type="other">
+Farquhar, G.D. &amp; S. von Caemmerer. 1982. Modelling of photosyn-
+thetic response to environmental conditions. In: Lange O.L.,
+Nobel P.S., Osmond C.B., Ziegler H., eds. Encyclopaedia of
+plant physiology, Vol. 12B. Heidelberg: Springer Verlag, 549-
+587.</mixed-citation>
+         </ref>
+         <ref id="d4524e576a1310">
+            <mixed-citation id="d4524e580" publication-type="other">
+Grime, J. P., K. Thompson, R. Hunt, J.G. Hodgson, J.H.C. Cornelis-
+sen, I.H. Rorison, G.A.F. Hendry, T.W. Ashenden, A.P. Askew,
+S R. Band, R.E. Booth, C.C. Bossard, B.D. Campbell, J.E.L.
+Cooper, A.W. Davison, P.L. Gupta, W. Hall, D.W. Hand, M.A.
+Hannah, S.H. Hillier, D.J. Hodkinson, A. Jalili, Z. Liu, J.M.L.
+Mackey, N. Matthews, M.A. Mowforth, A.M. Neal, R.J. Reader,
+K. Reiling, W. Ross-Fraser, R.E. Spencer, F. Sutton, D.E Tasker,
+P.C. Thorpe &amp; J. Whitehouse. 1997. Integrated screening
+validates primary axes of specialisation in plants. Oikos 79:259-
+281.</mixed-citation>
+         </ref>
+         <ref id="d4524e615a1310">
+            <mixed-citation id="d4524e619" publication-type="other">
+Grime, J. P. 1996. The changing vegetation of Europe: what is the
+role of elevated carbon dioxide? In: Körner C., Bazzaz F.A., eds.
+Carbon dioxide, populations and communities. New York:
+Academic Press, 85-92.</mixed-citation>
+         </ref>
+         <ref id="d4524e635a1310">
+            <mixed-citation id="d4524e639" publication-type="other">
+Hendry, G.A.F. &amp; J. P. Grime, (eds) 1993. Methods in comparative
+plant ecology: a laboratory manual. London: Chapman &amp; Hall.</mixed-citation>
+         </ref>
+         <ref id="d4524e649a1310">
+            <mixed-citation id="d4524e653" publication-type="other">
+Hillier, S.H. 1990. Gaps seed banks and plant species diversity in
+calcareous grasslands. In: Hillier S.H., Walton D.W.H., Wells
+D.H., eds. Calcareous grasslands — ecology and management.
+Proceedings of a joint British Ecological Society/Nature Con-
+servancy Council Symposium, 14-16 September 1987. Hun-
+tingdon: Bluntisham Books, 57-66.</mixed-citation>
+         </ref>
+         <ref id="d4524e676a1310">
+            <mixed-citation id="d4524e680" publication-type="other">
+Hodgson, J.G. 1989. What is happening to the British flora? An in-
+vestigation of commonness and rarity. Plants Today 2: 26-32.</mixed-citation>
+         </ref>
+         <ref id="d4524e691a1310">
+            <mixed-citation id="d4524e697" publication-type="other">
+Hodgson, J.G. 1986. Commonness and rarity in plants with special
+reference to the Sheffield flora. II. The relative importance of
+climate, soils and landuse. Biological Conservation 36: 254-
+274.</mixed-citation>
+         </ref>
+         <ref id="d4524e713a1310">
+            <mixed-citation id="d4524e717" publication-type="other">
+Hunt, R., D.W. Hand, M.A. Hannah &amp; A.M. Neal. 1991. Response
+to CO₂ enrichment in 27 herbaceous species. Functional Ecol-
+ogy 5: 410-421.</mixed-citation>
+         </ref>
+         <ref id="d4524e730a1310">
+            <mixed-citation id="d4524e734" publication-type="other">
+Hunt, R., D.W Hand, M.A. Hannah &amp; A.M. Neal. 1993. Further
+responses to CO₂ enrichment in British herbaceous species.
+Functional Ecology, 7: 661-668.</mixed-citation>
+         </ref>
+         <ref id="d4524e747a1310">
+            <mixed-citation id="d4524e751" publication-type="other">
+Hunt, R., D.W Hand, M.A. Hannah &amp; A.M. Neal. 1995. Temporal
+and nutritional influences on the CO₂ response in selected
+British grasses. Annals of Botany 75: 207-216.</mixed-citation>
+         </ref>
+         <ref id="d4524e764a1310">
+            <mixed-citation id="d4524e768" publication-type="other">
+Hunt, R., D.A.J. Middleton, J. P. Grime &amp; J.G. Hodgson. 1991.
+TRISTAR: an expert system for vegetation processes. Expert
+Systems 8: 219-226.</mixed-citation>
+         </ref>
+         <ref id="d4524e781a1310">
+            <mixed-citation id="d4524e785" publication-type="other">
+Koch, G.W. &amp; H.A. Mooney. (eds) 1996. Carbon dioxide and ter-
+restrial ecosystems. London: Academic Press.</mixed-citation>
+         </ref>
+         <ref id="d4524e796a1310">
+            <mixed-citation id="d4524e800" publication-type="other">
+Körner, C. 1993. CO₂ fertilisation: the great uncertainty in future
+vegetation development. In: Solomon A.M., Shugart H.H., eds.
+Vegetation dynamics and global change. New York: Chapman
+and Hall, 53-70.</mixed-citation>
+         </ref>
+         <ref id="d4524e816a1310">
+            <mixed-citation id="d4524e820" publication-type="other">
+Lincoln, D.E., E.D. Fajer &amp; R.H. Johnson. 1993. Plant-insect her-
+bivore interactions in elevated CO₂ environments. Trends in
+Ecology and Evolution 8, 64-68.</mixed-citation>
+         </ref>
+         <ref id="d4524e833a1310">
+            <mixed-citation id="d4524e837" publication-type="other">
+Linder, S. &amp; A. J. S. McDonald. 1993. Plant nutrition and the inter-
+pretatiuon of growth response to elevated concentrations of at-
+mospheric carbon dioxide. In: Schulze E-D., Mooney H.A., eds.
+Design and execution of experiments on CO₂ enrichment. Brus-
+sels: Commission of the European Communities, 73-82.</mixed-citation>
+         </ref>
+         <ref id="d4524e856a1310">
+            <mixed-citation id="d4524e860" publication-type="other">
+Lindroth, R.L., G.E. Arteel &amp; K.K. Kinney. 1995. Responses of
+three saturniid species to paper birch grown under enriched CO2
+atmospheres. Functional Ecology 9, 306-311.</mixed-citation>
+         </ref>
+         <ref id="d4524e873a1310">
+            <mixed-citation id="d4524e877" publication-type="other">
+McLeod, A.R. 1993. Open-air exposure systems for air pollutant
+studies: their potentials and limitations. In: Schulze E-D.,
+Mooney H.A., eds. Design and execution of experiments on
+CO₂ enrichment. Brussels: Commission of the European Com-
+munities, 353-366.</mixed-citation>
+         </ref>
+         <ref id="d4524e896a1310">
+            <mixed-citation id="d4524e900" publication-type="other">
+Mortensen, L.M. 1994. The influence of carbon dioxide or ozone
+concentration on growth and assimilate partitioning in seedlings
+of nine conifers. Acta Agriculturae Scandinavica (Section B) 44:
+157-163.</mixed-citation>
+         </ref>
+         <ref id="d4524e917a1310">
+            <mixed-citation id="d4524e923" publication-type="other">
+Owensby, C.E., J.M. Ham, A. Knapp, C.W. Rice, P.I. Coyne &amp; L.M.
+Auen. 1996. Ecosystem-level responses of tallgrass prairie to
+elevated CO₂. In: Koch GW, &amp; H.A. Mooney (eds.) Carbon
+dioxide and terrestrial ecosystems. London: Academic Press,
+147-162.</mixed-citation>
+         </ref>
+         <ref id="d4524e942a1310">
+            <mixed-citation id="d4524e946" publication-type="other">
+Owensby, C.E., L.M. Auen &amp; P.I. Coyne. 1994. Biomass production
+in a nitrogen-fertilized, tallgrass prairie ecosystem exposed to
+ambient and elevated levels of CO₂. Plant and Soil 165: 105-
+114</mixed-citation>
+         </ref>
+         <ref id="d4524e962a1310">
+            <mixed-citation id="d4524e966" publication-type="other">
+Poorter, H., C. Roumet &amp; B.D. Campbell. 1996. Interspecific varia-
+tion in the growth response of plants to elevated CO₂: a search
+for functional types. In: Körner C. &amp; F.A. Bazzaz (eds.) Carbon
+dioxide, populations and communities. New York: Academic
+Press, 375-412.</mixed-citation>
+         </ref>
+         <ref id="d4524e985a1310">
+            <mixed-citation id="d4524e989" publication-type="other">
+Poorter, H. 1993. Interspecific variation in the growth response of
+plants to an elevated ambient CO₂ concentration. Vegetatio
+104/105: 77-97</mixed-citation>
+         </ref>
+         <ref id="d4524e1002a1310">
+            <mixed-citation id="d4524e1006" publication-type="other">
+Reiling, K. &amp; A.W. Davison. 1992. The response of native, her-
+baceous species to ozone; growth and fluorescence screening.
+New Phytologist, 120: 29-33.</mixed-citation>
+         </ref>
+         <ref id="d4524e1019a1310">
+            <mixed-citation id="d4524e1023" publication-type="other">
+Reiling, K. &amp; A.W. Davison. 1993. Ozone sensitivity. In: Hendry
+GAF, Grime JP, Methods in comparative plant ecology. London:
+Chapman &amp; Hall, 63-65.</mixed-citation>
+         </ref>
+         <ref id="d4524e1037a1310">
+            <mixed-citation id="d4524e1041" publication-type="other">
+Rouhier, H., G. Billès, A. El Kohen, M. Mousseau &amp; P. Bottner.
+1994. Effect of elevated CO₂ on carbon and nitrogen distribu-
+tion within a tree (Castanea sativa Mill.) - soil system. Plant and
+Soil 162: 281-292.</mixed-citation>
+         </ref>
+         <ref id="d4524e1057a1310">
+            <mixed-citation id="d4524e1061" publication-type="other">
+Spring, G.M., G.H. Priestman &amp; J. P. Grime. 1996. A new field tech-
+nique for elevating carbon dioxide levels in climate change ex-
+periments. Functional Ecology, in press.</mixed-citation>
+         </ref>
+         <ref id="d4524e1074a1310">
+            <mixed-citation id="d4524e1078" publication-type="other">
+Stitt, M. 1993. Enhanced CO₂, photosynthesis and growth; what
+should we measure to gain a better understanding of the plant's
+response. In: Schulze E-D., Mooney H.A., eds. Design and ex-
+ecution of experiments on CO₂ enrichment. Brussels: Commis-
+sion of the European Communities, 3-28.</mixed-citation>
+         </ref>
+         <ref id="d4524e1097a1310">
+            <mixed-citation id="d4524e1101" publication-type="other">
+Stuhlfauth, T., K. Klug &amp; H. P. Fock. 1987. The production of
+secondary metabolites by Digitalis lanata during CO2 enrich-
+ment and water stress. Phytochemistry 26: 2735-2739.</mixed-citation>
+         </ref>
+         <ref id="d4524e1114a1310">
+            <mixed-citation id="d4524e1118" publication-type="other">
+Wong, S.C. 1990. Elevated CO₂ and plant growth. II. Nonstructural
+carbohydrate content and its effect on growth parameters.
+Photosynthesis Research 23: 171-180.</mixed-citation>
+         </ref>
+         <ref id="d4524e1131a1310">
+            <mixed-citation id="d4524e1135" publication-type="other">
+Zak, D.R., K.S. Pregitzer, P.S. Curtis, J.A. Teeri, R. Fogel &amp; D.L.
+Randlett. 1993. Elevated atmospheric CO₂ and feedback bet-
+ween carbon and nitrogen cycles. Plant and Soil 151:105-117.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

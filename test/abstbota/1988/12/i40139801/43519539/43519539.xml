@@ -1,0 +1,103 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519539</article-id>
+         <title-group>
+            <article-title>Automated data bases for the vegetation of Latvia</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>M.</given-names>
+                  <surname>Laiviņš</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>12</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139801</issue-id>
+         <fpage>73</fpage>
+         <lpage>78</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519539"/>
+         <abstract>
+            <p>Reported is the experience for creating automated data bases, including their pattern, for plant communities. A library for geographical, ecological and biological indices for vascular plants is described; the possibilities for automated map charting are discussed.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2813e132a1310">
+            <mixed-citation id="d2813e136" publication-type="other">
+Ehrendorfer, F. 1973. Liste der Gefässpflan zen Mitteleuropas. 2. Auflage.
+Stuttgart.</mixed-citation>
+         </ref>
+         <ref id="d2813e146a1310">
+            <mixed-citation id="d2813e150" publication-type="other">
+Ellenberg, H. 1979. Zeigerwerte der Geffässpflanzen Mitteleuropas. 2. Auflage.
+Scripta Geobotanica, Bd. 9., Göttingen.</mixed-citation>
+         </ref>
+         <ref id="d2813e160a1310">
+            <mixed-citation id="d2813e164" publication-type="other">
+Kalniņa, A. and Laiviņš, M. 1983. Library of Data for Natural Reserves of
+Latvia. In "Vychislitelnye metody reshenya nauchnyh i technicheskyh
+problem lesgono khozyaistva". Riga, Zinatne, p. 66-69.</mixed-citation>
+         </ref>
+         <ref id="d2813e177a1310">
+            <mixed-citation id="d2813e181" publication-type="other">
+Laiviņš, M. .1983. "Grid system for Biogeographic Stock-taking in Latvian SSR".
+In "Okhrana flori rechnyh dolyn v Pribaltijskih respublikah", Riga,
+Zinatne, p. 89-93.</mixed-citation>
+         </ref>
+         <ref id="d2813e195a1310">
+            <mixed-citation id="d2813e199" publication-type="other">
+Laiviņš, M. 1986. Automated library for Geographical, Ecological and
+Biological Indices for Vascular Plant Species. In "Principi i metodi
+ekoinformateii", Moscow, p. 64-65.</mixed-citation>
+         </ref>
+         <ref id="d2813e212a1310">
+            <mixed-citation id="d2813e216" publication-type="other">
+Laiviņš, M., Bušs, H. and Birzvalka, I. 1984. Computerized Mapping of
+Phytogeographical Data. Botanicheskij zhurnal, 1114-1118.</mixed-citation>
+         </ref>
+         <ref id="d2813e226a1310">
+            <mixed-citation id="d2813e230" publication-type="other">
+Laiviņš, M., Aboliņa, A., Piterāns, A., Rasiņš, A., Kalniņa, A., Zundāne, A.
+and Filipsons, J. 1986. "Classifiers for Vascular Plants, Briophytes and
+Lichens of Latvia". In "Problemi modelyrovanya i obrabotki informatsii v
+lesnom khozyaistve". Riga, Zinatne, 67-77.</mixed-citation>
+         </ref>
+         <ref id="d2813e246a1310">
+            <mixed-citation id="d2813e250" publication-type="other">
+Meusel, H., Jäger, E., Rauschert, S. and Weinert, E. 1965-1978. Vergleichende
+Chorologie der Zentraleuropäischen Flora. Jena, Fischer Verlag. Bd.1.,
+Bd. 2.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

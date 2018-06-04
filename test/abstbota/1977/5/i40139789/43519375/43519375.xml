@@ -1,0 +1,79 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének Kiadványa</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519375</article-id>
+         <title-group>
+            <article-title>ZEMPLÉNI HEGYSÉGI SZIKLAI ÉS ERDEI NÖVÉNYTÁRSULÁSOK HATÁROZÓKULCSA</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Tibor</given-names>
+                  <surname>Simon</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1977</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139789</issue-id>
+         <fpage>65</fpage>
+         <lpage>75</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1978</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519375"/>
+         <abstract>
+            <p>Wir untersuchten im Zempléner Gebirge die allgemein verbreiteten Felsrasen-und Waldpflanzengesellschaften mit qualitativen und quantitativen zönologischen Methoden /SIMON 1971,1972 et ined., SIMON-JURASSA 1970/. Lie erhaltenen Ergebnisse ermöglichen eine befriedigende Abgrenzung der einzelnen untersuchten Assoziationen sowie die Feststellung der wichtigsten qualitativen und quantitetiven Faktoren. Unter Beachtung dessen können die Pflanzengesellschaften getrennt werden und auf Grund entsprechender Konstitutioneller /floristische Zusammensetzung/sowie physiognomischer /Schichtungsgrad, Qualität der Schichten, Standort/Merkmale in einen binären /ja-nein/Schlüssel gefasst werden. Der Schlüssel erleichtert die Erkennung und Trennung dieser natürlichen Einheiten sovie die entsprechende Ableitung biologisch orientierter forstwirtschaftlicher Massnahmen z. B. Anfertigung neuer Betriebspläne und Bestandsbeschreibungen, bei Kartierungen, Erarbeitung von Fflegevarianten usw. Es sei erwähnt, dass sich die gegebenen Charakterisierungen auf das "ideale Durchschnittsbild" der Gesellschaft beziehen. Lie Bewertung der Krautschicht vermittelt bei Kenntnis der Krautartigen Arten, auch wenn die oberen Schichten fehlen, eine ausreichende Information.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d4751e123a1310">
+            <mixed-citation id="d4751e127" publication-type="other">
+SIMON T. /1971/: Mohagazuag szilikátszikla-gyepek a Zempléni hegy-
+ségben.-Bot.Közlem.58.p.33-45.</mixed-citation>
+         </ref>
+         <ref id="d4751e137a1310">
+            <mixed-citation id="d4751e141" publication-type="other">
+SIMON T. /1972/: Die Pflanzengesellschaften der Felsenvegetation
+im Zempléner Gebirge,-Annal.Univ,Sci.Budapest.Sect.Biol.14.
+p. 133-158.</mixed-citation>
+         </ref>
+         <ref id="d4751e154a1310">
+            <mixed-citation id="d4751e158" publication-type="other">
+SIMON T. /in press./:Vegetationsuntersuchungen im zempléner Gebirge.
+Die Vegetation Ungarischer Landschaften.Band.7.Akad.Kiadó.Bp.</mixed-citation>
+         </ref>
+         <ref id="d4751e168a1310">
+            <mixed-citation id="d4751e172" publication-type="other">
+SIMON T., JURASSA M. /1970/: Classification of phytocenological
+samples by the aid of a computer.-Annal.Univ.Sci.Budapest.
+Sect.Biol.12. p. 213-225.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

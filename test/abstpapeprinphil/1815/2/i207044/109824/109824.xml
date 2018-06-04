@@ -1,0 +1,55 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">abstpapeprinphil</journal-id>
+         <journal-id journal-id-type="jstor">j100688</journal-id>
+         <journal-title-group>
+            <journal-title>Abstracts of the Papers Printed in the Philosophical Transactions of the Royal Society of London</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03655695</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">109824</article-id>
+         <title-group>
+            <article-title>Experiments Made with a View to Ascertain the Principle on Which the Action of the Heart Depends, and the Relation Which Subsists between That Organ and the Nervous System. [Abstract]</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>A. P. Wilson Philip</string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1815</year>
+         
+            <day>1</day>
+            <month>1</month>
+            <year>1830</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue/>
+         <issue-id>i207044</issue-id>
+         <fpage>8</fpage>
+         <lpage>10</lpage>
+         <page-range>8-10</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/109824"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

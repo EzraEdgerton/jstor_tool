@@ -1,0 +1,196 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519082</article-id>
+         <title-group>
+            <article-title>COMPARISON OF FLORISTIC VEGETATION TYPES BY MULTIWAY CONTINGENCY TABLES. AN EXAMPLE OF APPLICATION OF AN INTEGRATED INFORMATION SYSTEM TO SOME BEECH WOOD TYPES OF THE APENNINES</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Enrico</given-names>
+                  <surname>FEOLI</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Paola</given-names>
+                  <surname>GANIS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1985</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139765</issue-id>
+         <fpage>1</fpage>
+         <lpage>15</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519082"/>
+         <abstract>
+            <p>The comparison of floristic vegetation types on the basis of multiway contingency tables obtained by considering the properties of the species (structural, morphological, anatomical, chemical, chorological, etc.), is suggested to improve the interpretation of the relationships between the types. The construction of the multiway contingency tables allows us to combine different vegetation spaces which are considered relevant for understanding of vegetation structure and processes. An example of application of an information system integrating the use of a data bank and multivariate methods is given by comparing some types of beech woods of the Apennines. The ordination of the types described by three-way contingency tables obtained by the cross life form-growth form-chorological element, proves to be more predictive with respect to ecological indicator values than the ordinations based on the species, and on the life form-growth form and chorological spectra joined in one table as if they were independent variables (canonical correlation analysis was applied for measuring prediction). The classification and ordination of the types on the basis of some statistics of the contingency tables prove that the predictability between texture andchorology of vegetation may be considered a good descriptor of vegetation. The predictability of texture towards chorology and vice versa is strongest in the types of peculiar environments (e.g., on acid soils, on soils with high drainage).</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="d4769e193a1310">
+            <mixed-citation id="d4769e197" publication-type="other">
+Anderberg, M. R. 1973. Cluster Analysis for Application.
+Academic Press, New York</mixed-citation>
+         </ref>
+         <ref id="d4769e207a1310">
+            <mixed-citation id="d4769e211" publication-type="other">
+Braun-Blanquet, J. 1964. Pflanzensociologie. Grundzuge der Vege-
+tationskunde. 3.Aufl., Springer, Wien, New York</mixed-citation>
+         </ref>
+         <ref id="d4769e221a1310">
+            <mixed-citation id="d4769e225" publication-type="other">
+Coassini Lokar, L., L. Poldini and E. Sinosich. 1984. Evidence
+for the existence and spatial distribution of some chemical
+variaties of Helleborus multifidus subsp. istriacus
+(Schiffer) Merxm. &amp; Pod. in the North Adriatic Karst region.
+Oecologia Plantarum (in press)</mixed-citation>
+         </ref>
+         <ref id="d4769e244a1310">
+            <mixed-citation id="d4769e248" publication-type="other">
+Cristofolini, G. 1984. Un punto di vista sulla classificazione
+della vegetazione. Studia Geobotanica 4:23-24</mixed-citation>
+         </ref>
+         <ref id="d4769e259a1310">
+            <mixed-citation id="d4769e263" publication-type="other">
+Dale, M. B. 1977. Planning an adaptive numerical classification.
+Vegetatio 35:131-136</mixed-citation>
+         </ref>
+         <ref id="d4769e273a1310">
+            <mixed-citation id="d4769e277" publication-type="other">
+Feoli, E. 1977. On the resolving power of principal component
+analysis in plant community ordination. Vegetatio 33:119-125</mixed-citation>
+         </ref>
+         <ref id="d4769e287a1310">
+            <mixed-citation id="d4769e291" publication-type="other">
+Feoli, E. 1984. Some aspects of classification and ordination of
+vegetation data in perspective. Studia Geobotanica 4:7-21</mixed-citation>
+         </ref>
+         <ref id="d4769e301a1310">
+            <mixed-citation id="d4769e305" publication-type="other">
+Feoli, E. and P. Ganis. 1984. On the application of numerical
+and computer methods in plant taxonomy and plant geography:
+an integrated information system for data banking and
+numerical classifications and ordinations. Webbia 38:165-184</mixed-citation>
+         </ref>
+         <ref id="d4769e321a1310">
+            <mixed-citation id="d4769e325" publication-type="other">
+Feoli, E. and M. Lagonegro. 1982. Syntaxonomical analysis of
+beech woods in the Apennines (Italy) based on the program
+package IAHOPA. Vegetatio 50:129-174</mixed-citation>
+         </ref>
+         <ref id="d4769e338a1310">
+            <mixed-citation id="d4769e342" publication-type="other">
+Feoli, E. and M. Scimone. 1984. A quantitative view of textural
+analysis of vegetation and example of application of some
+methods. Arch. Bot. Biogeogr. Ital. 60:73-94</mixed-citation>
+         </ref>
+         <ref id="d4769e356a1310">
+            <mixed-citation id="d4769e360" publication-type="other">
+Ganis, P. 1985. FUSAF: manuale per l'uso di programmi a
+integrazione della Banca Dati SBAFT. GEAD-EQ, n.2, pp. 83,
+Trieste.</mixed-citation>
+         </ref>
+         <ref id="d4769e373a1310">
+            <mixed-citation id="d4769e377" publication-type="other">
+Gittins, R. 1979. Ecological applications of canonical analysis.
+In: L. Orlóci, C. R. Rao and W. M. Stiteler (eds.), Multi-
+variate Methods in Ecological Work. Int. Co-operative
+Publishing House, Burtonsville, Maryland, pp. 309-535</mixed-citation>
+         </ref>
+         <ref id="d4769e393a1310">
+            <mixed-citation id="d4769e397" publication-type="other">
+Grabherr, G. 1979. Variability and ecology of the alpine dwarf
+shrub community Liseleurio-Cetrarietum. Vegetatio
+41:111-120</mixed-citation>
+         </ref>
+         <ref id="d4769e410a1310">
+            <mixed-citation id="d4769e414" publication-type="other">
+Harper, J. L. 1982. After description. In: E. I. Newman (ed.),
+The Plant Community as a Working Mechanism. Special
+Publications Series of the British Ecological Society, no.1.
+Blackwell Scientific Publications.</mixed-citation>
+         </ref>
+         <ref id="d4769e430a1310">
+            <mixed-citation id="d4769e434" publication-type="other">
+Lagonegro, M. 1985. SBAFT: software per banche dati di flore
+territoriali (con listings in FORTRAN 77 per Olivetti M20 e
+M24 operanti sotto MS-DOS). GEAD-EQ. n.1, pp. 100, Trieste</mixed-citation>
+         </ref>
+         <ref id="d4769e447a1310">
+            <mixed-citation id="d4769e451" publication-type="other">
+Lagonegro, M. and E. Feoli. 1984. THREE-PAckages for
+classification and ordination of multivariate data.
+Libreria Goliardica, Trieste</mixed-citation>
+         </ref>
+         <ref id="d4769e465a1310">
+            <mixed-citation id="d4769e469" publication-type="other">
+Lagonegro, M. and E. Feoli. 1985. Analisi multivariata di dati.
+Manuale d'uso di programmi BASIC per personal computers.
+Libreria Goliardica, Trieste (in press)</mixed-citation>
+         </ref>
+         <ref id="d4769e482a1310">
+            <mixed-citation id="d4769e486" publication-type="other">
+Lagonegro, M., P. Ganis, E. Feoli, L. Poldini and T. Canavese.
+1982. Un software per banche dati di flore territoriali
+estendibile alla vegetazione. CNR AQ/5/38. Roma, Udine</mixed-citation>
+         </ref>
+         <ref id="d4769e499a1310">
+            <mixed-citation id="d4769e503" publication-type="other">
+Landolt, E. 1977. Ökologische Zeigerwerte zur Schweizer Flora.
+Ber. Geobot. Inst. ETH., 64:64-207</mixed-citation>
+         </ref>
+         <ref id="d4769e513a1310">
+            <mixed-citation id="d4769e517" publication-type="other">
+Nie et al. (eds) 1975. Statistical Package for the Social
+Science (SPSS). McGraw-Hill, New York</mixed-citation>
+         </ref>
+         <ref id="d4769e527a1310">
+            <mixed-citation id="d4769e531" publication-type="other">
+Orlóci, L. 1973. Ranking characters by a dispersion criterion.
+Nature 244:371-373</mixed-citation>
+         </ref>
+         <ref id="d4769e541a1310">
+            <mixed-citation id="d4769e545" publication-type="other">
+Orlóci, L. 1978. Multivariate Analysis in Vegetation Research.
+2nd ed., Junk, The Hague</mixed-citation>
+         </ref>
+         <ref id="d4769e556a1310">
+            <mixed-citation id="d4769e560" publication-type="other">
+Pignatti, S. 1982. Flora d'Italia. Calderini, Bologna</mixed-citation>
+         </ref>
+         <ref id="d4769e567a1310">
+            <mixed-citation id="d4769e571" publication-type="other">
+Schmid, E. 1965. Prinzipien der genetischen Phytozönologie. Ber.
+Schw. Bot. Gesell., 75:110-156</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,61 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519415</article-id>
+         <title-group>
+            <article-title>ÚJABB FLORISZTIKAI ADATOK A BÜKK HEGYSÉGBŐL</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>János</given-names>
+                  <surname>Suba</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Imre</given-names>
+                  <surname>Kárász</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Béla</given-names>
+                  <surname>Takács</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1982</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139793</issue-id>
+         <fpage>53</fpage>
+         <lpage>58</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519415"/>
+         <abstract>
+            <p>Auf dem Dolomit des Csákpilis-Berges, der den südlichen Gebirgszug des Bükk-Gebirges bildet, bildete sich eine eigenartige Pflanzengesellechaft mit vielen merkwürdigen Pflanzenarten heraus. Die steile südliche Seite des Berges ist von Quercus virgiliana bedeckt. In den Felsenrasen des Dolomites sind Sesleria hungarica und Carex humilis herschend. Im Frühjahrsaspekt sind stellenweise die kleinerengröaseren Gruppen von Daphne cneorum charakteristisch. Das Gebiet ist ein vorteilhafter Fundort von Cypripedium calceolus, aus dem vir etwa 150-200 Exemplare zählten. Die beilegende Florenliste und die zönologische Aufnahmen zeigen die Zusammensetzung der Assoziation. Deren Grund schlagen wir vor dass man die Assoziation von den bekannten Eichen-Pflanzengesellsohaft ale Sesalerio-Quercetum virgilianae Assoziation unterscheiden soll.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

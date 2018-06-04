@@ -1,0 +1,263 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519239</article-id>
+         <title-group>
+            <article-title>Effects of elevated CO₂ on species co-occurring in a neutral grassland</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Marjan</given-names>
+                  <surname>Jongen</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Mike B.</given-names>
+                  <surname>Jones</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1997</year>
+         </pub-date>
+         <volume>21</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139776</issue-id>
+         <fpage>249</fpage>
+         <lpage>260</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519239"/>
+         <abstract>
+            <p>Using open-top chambers, four prominent species of Irish neutral grasslands, Lolium perenne, Cynosurus cristatus, Holcus lanatus and Agrostis capillaris were grown at ambient and elevated (700 µmol mol⁻¹) atmospheric CO₂. The effects of intra-and interspecific competition on plant responses to CO₂ enrichment was investigated by growing the species in monocultures at two densities and in a four-species mixture. The results indicate that the species differ in their ability to respond to elevated CO₂. In the monocultures, L perenne, H. lanatus and A. capillaris responded positively to elevated CO₂, with an increase in harvestable biomass, but C. cristatus did not respond to CO₂ enrichment. The CO₂ stimulation of biomass production for L. perenne, H. lanatus and A. capillaris was accompanied by increased tillering. In addition, reductions in the specific leaf area for L perenne and H. lanatus were observed. The results show that species vary in their response to elevated CO₂. As a result, species composition in natural plant communities is likely to change at elevated CO₂.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d4629e208a1310">
+            <mixed-citation id="d4629e212" publication-type="other">
+Arp, W. J., B. G. Drake, W. T. Pockman, P. S. Curtis &amp; D. F.
+Whigham. 1993. Interactions between C₃ and C₄ salt marsh
+plant species during four years of exposure to elevated atmos-
+pheric CO₂. Vegetatio 104/105:133-143.</mixed-citation>
+         </ref>
+         <ref id="d4629e228a1310">
+            <mixed-citation id="d4629e232" publication-type="other">
+Ashenden, T. W., R. Baxter &amp; C. R. Rafarei. 1992. An inexpensive
+system for exposing plants in the field to elevated concentra-
+tions of CO₂. Plant, Cell and Environment 22:365-372.</mixed-citation>
+         </ref>
+         <ref id="d4629e245a1310">
+            <mixed-citation id="d4629e249" publication-type="other">
+Baxter, R., T.W. Ashenden, T.H. Sparks &amp; J. F. Farrar. 1994. Effects
+of elevated carbon dioxide on three montane grass species. I.
+Growth and dry matter partitioning. Journal of Experimental
+Botany 45:305-315.</mixed-citation>
+         </ref>
+         <ref id="d4629e265a1310">
+            <mixed-citation id="d4629e269" publication-type="other">
+Bazzaz, F. A. &amp; R. W. Carlson. 1984. The response of plants to
+elevated CO₂. 1. Competition among an assemblage of annuals
+at two levels of soil moisture. Oecologia 62:196-198.</mixed-citation>
+         </ref>
+         <ref id="d4629e283a1310">
+            <mixed-citation id="d4629e287" publication-type="other">
+Bazzaz, F. A. &amp; K. D. M. McConnaughay. 1992. Plant-plant inter-
+actions in elevated CO₂ environments. Australian Journal of
+Botany 40:547-563.</mixed-citation>
+         </ref>
+         <ref id="d4629e300a1310">
+            <mixed-citation id="d4629e304" publication-type="other">
+Campbell, B. D., W. A. Laing, D. H. Greer, J. R. Crush, H. Clark,
+D.Y. Williamson &amp; M. D. J. Given. 1995. Variation in
+grassland populations and species and the implications for com-
+munity responses to elevated CO₂. Journal of Biogeography
+22:315-322.</mixed-citation>
+         </ref>
+         <ref id="d4629e323a1310">
+            <mixed-citation id="d4629e327" publication-type="other">
+Clark, H., P. C. D. Newton, C. C. Bell &amp; E. M. Glasgow. 1995. The
+influence of elevated CO₂ and simulated seasonal changes in
+temperature on tissue turnover in pasture turves dominated by
+perennial ryegrass (Lolium perenne) and white clover (Trifolium
+repens). Journal of Applied Ecology 32: 128-136.</mixed-citation>
+         </ref>
+         <ref id="d4629e346a1310">
+            <mixed-citation id="d4629e350" publication-type="other">
+Goudriaan, J. &amp; H. E. de Ruiter. 1983. Plant growth in response to
+CO2 enrichment, at two levels of nitrogen and phosphorus supp-
+ly. 1. Dry matter, leaf area and development. Netherlands Jour-
+nal of Agricultural Science 31:1 57-169.</mixed-citation>
+         </ref>
+         <ref id="d4629e366a1310">
+            <mixed-citation id="d4629e370" publication-type="other">
+Grime, J. P. 1977. Evidence for the existence of three primary
+strategies in plants and its relevance to ecological and evolution-
+ary theory. The American Naturalist 111:1169-1194.</mixed-citation>
+         </ref>
+         <ref id="d4629e383a1310">
+            <mixed-citation id="d4629e387" publication-type="other">
+Grime, J. P., J. G. Hodgson &amp; R. Hunt. 1988. Comparative Plant
+Ecology: A functional approach to common British species.
+Unwin Hyman, London, 724 pp.</mixed-citation>
+         </ref>
+         <ref id="d4629e401a1310">
+            <mixed-citation id="d4629e405" publication-type="other">
+Hardacre, A. K., W. A. Laing &amp; J. T. Christeller. 1986. The response
+of simulated swards of perennial ryegrass and white clover to
+enriched atmospheric CO₂: interaction with nitrogen and
+photosynthetic photon flux density. New Zealand Journal of
+Agricultural Research 29:567-573.</mixed-citation>
+         </ref>
+         <ref id="d4629e424a1310">
+            <mixed-citation id="d4629e428" publication-type="other">
+Hunt, R., D. W. Hand, M. A. Hannah &amp; A. M. Neal. 1991. Respon-
+ses to CO₂ enrichment in 27 herbaceous species. Functional
+Ecology 5:410-421.</mixed-citation>
+         </ref>
+         <ref id="d4629e441a1310">
+            <mixed-citation id="d4629e445" publication-type="other">
+Hunt, R., D. W. Hand, M. A. Hannah &amp; A. M. Neal. 1993. Further
+responses to CO₂ enrichment in British herbaceous species.
+Functional Ecology 7:661-668.</mixed-citation>
+         </ref>
+         <ref id="d4629e458a1310">
+            <mixed-citation id="d4629e462" publication-type="other">
+Marks, S. &amp; K. Clay. 1990. Effects of CO₂ enrichment, nutrient
+addition, and fungal endophyte-infection on the growth of two
+grasses. Oecologia 84:207-214.</mixed-citation>
+         </ref>
+         <ref id="d4629e475a1310">
+            <mixed-citation id="d4629e479" publication-type="other">
+Mitchell, R. A. C., V. J. Mitchell, S. P. Driscoll, J. Franklin &amp; D. W.
+Lawlor. 1993. Effects of increased CO₂ concentration and
+temperature on growth and yield of winter wheat at two levels
+of nitrogen application. Plant, Cell and Environment 16:521-
+529.</mixed-citation>
+         </ref>
+         <ref id="d4629e498a1310">
+            <mixed-citation id="d4629e502" publication-type="other">
+Morison, J. I. L. &amp; R. M. Gifford. 1984. Plant growth and water use
+with limited water supply in high CO₂ concentrations. II. Plant
+dry weight, partitioning and water use efficiency. Australian
+Journal of Plant Physiology 11:375-384.</mixed-citation>
+         </ref>
+         <ref id="d4629e519a1310">
+            <mixed-citation id="d4629e523" publication-type="other">
+Newbery, R. M., J. Wolfenden, T. A. Mansfield &amp; A. F. Harrison.
+1995. Nitrogen, phosphorus and potassium uptake and demand
+in Agrostis capillaris : the influence of elevated CO₂ and nutrient
+supply. New Phytologist 130:565-574.</mixed-citation>
+         </ref>
+         <ref id="d4629e539a1310">
+            <mixed-citation id="d4629e543" publication-type="other">
+Newton, P. C. D., H. Clark, C. C. Bell, E. M. Glasgow &amp; B. D.
+Campbell. 1994. Effects of elevated CO₂ and simulated
+seasonal changes in temperature on the species composition and
+growth rates of pasture turves. Annals of Botany 73:53-59.</mixed-citation>
+         </ref>
+         <ref id="d4629e559a1310">
+            <mixed-citation id="d4629e563" publication-type="other">
+Nicholas, M. E., R. Munns, A. B. Samarakoon &amp; R. M. Gifford.
+1993. Elevated CO₂ improves the growth of wheat under
+salinity. Australian Journal of Plant Physiology 20:349-360.</mixed-citation>
+         </ref>
+         <ref id="d4629e576a1310">
+            <mixed-citation id="d4629e580" publication-type="other">
+Nijs, I., I. Impens &amp; T. Behaeghe. 1989. Leaf and canopy responses
+of Lolium perenne to long-term elevated atmospheric carbon-
+dioxide concentration. Planta 177:312-320.</mixed-citation>
+         </ref>
+         <ref id="d4629e593a1310">
+            <mixed-citation id="d4629e597" publication-type="other">
+O' Sullivan, A. M. 1965. A phytosociological survey of Irish lowland
+pastures, PhD thesis, University College, Dublin, Ireland.</mixed-citation>
+         </ref>
+         <ref id="d4629e607a1310">
+            <mixed-citation id="d4629e611" publication-type="other">
+O'Sullivan, A. M. 1982. The lowland grasslands of Ireland. Journal
+of Life Sciences, Royal Dublin Society 3.</mixed-citation>
+         </ref>
+         <ref id="d4629e622a1310">
+            <mixed-citation id="d4629e626" publication-type="other">
+Patterson, D. T., E. P. Flint &amp; J. L. Beyers. 1984. Effects of CO₂
+enrichment on competition between a C₄ weed and a C₃ crop.
+Weed Science 32:101-105.</mixed-citation>
+         </ref>
+         <ref id="d4629e639a1310">
+            <mixed-citation id="d4629e643" publication-type="other">
+Poorter, H. 1993. Interspecific variation in the growth response of
+plants to an elevated ambient CO₂ concentration. Vegetatio
+104/105:77-97.</mixed-citation>
+         </ref>
+         <ref id="d4629e656a1310">
+            <mixed-citation id="d4629e660" publication-type="other">
+Rodwell, J. S. 1992. British Plant Communities. Volume 3:
+Grasslands and montane communities. Cambridge University
+Press, Cambridge.</mixed-citation>
+         </ref>
+         <ref id="d4629e673a1310">
+            <mixed-citation id="d4629e679" publication-type="other">
+Ryle, G. J. A. &amp; C. E. Powell. 1992. The influence of elevated CO₂
+and temperature on biomass production of continuously
+defoliated white clover. Plant, Cell and Environment 15:593-
+599.</mixed-citation>
+         </ref>
+         <ref id="d4629e695a1310">
+            <mixed-citation id="d4629e699" publication-type="other">
+Ryle, G. J. A., C. E. Powell &amp; V. Tewson. 1992. Effect of elevated
+CO2 on the photosynthesis, respiration and growth of perennial
+ryegrass. Journal of Experimental Botany 43:811-818.</mixed-citation>
+         </ref>
+         <ref id="d4629e712a1310">
+            <mixed-citation id="d4629e716" publication-type="other">
+Sæbø, A. &amp; L. M. Mortensen. 1995. Growth and regrowth of
+Phleum pratense, Lolium perenne, Trifolium repens and Tri-
+folium pratense at normal and elevated CO₂ concentration.
+Agriculture, Ecosystem and Environment 55:29-35.</mixed-citation>
+         </ref>
+         <ref id="d4629e733a1310">
+            <mixed-citation id="d4629e737" publication-type="other">
+Schenk, U., R. Manderscheid, J. Hugen &amp; H.-J. Weige. 1995. Ef-
+fects of CO₂ enrichment and intraspecific competition on
+biomass partitioning, nitrogen content and microbial biomass in
+soil of perennial ryegrass and white clover. Journal of Ex-
+perimental Botany 46:987-993.</mixed-citation>
+         </ref>
+         <ref id="d4629e756a1310">
+            <mixed-citation id="d4629e760" publication-type="other">
+Strain, B. R. &amp; R. B. Thomas. 1995. Anticipated effects of elevated
+CO₂ and climate change on plants from mediterranean-type
+ecosystems utilizing results of studies in other ecosystems. In:
+Moreno J.M. &amp; W.C. Oechel (eds), Global change and mediter-
+ranean-type ecosystems. Springer-Verlag, New York, pp 121-
+139.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

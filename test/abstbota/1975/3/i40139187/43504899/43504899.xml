@@ -1,0 +1,52 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43504899</article-id>
+         <title-group>
+            <article-title>A FITOMASSZA PRODUKCIÓ ÉS FELTÉTELEINEK VIZSGÁLATA A CSÉVHARASZTI IBP MINTATERÜLETEN</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Edit</given-names>
+                  <surname>Kovács-Láng</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1975</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139187</issue-id>
+         <fpage>89</fpage>
+         <lpage>103</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1975</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43504899"/>
+         <abstract>
+            <p>In the frame of the IBP/PT we have conducted investigations on phytomass production of grassland communities at Csévharaszt in the calcareous sandy area of the forest-steppe region between the rivers Danube and Tisza. The first part of our work consisted in geobotanical, coenological and soil ecological explorations. We hawe worked out the coenological characterization of different plant associations, have made a detailed map of vegetation. The connections between the dominating plant communities and the characteristic soil-types have also been determined. The main task of our work was the detection of the phytomass production, ecological efficiency, mineral nutrient turnover of the generally characteristic grassland communities of a great dimension. After the preliminary studies on grasslands forming a successive line on grass development in the area, our work was concentrated on perennial open sandy grassland -Pestucetum vaginatae danubiale. Besides determining the primary production, turnover rate, ecological efficiency, dynamics of mineral nutrients, we carried on studies on environmental factors influencing productivity monthly average temperature, global radiation, relative air humidity, the monthly amount of precipitation and soil moisture/. By the application of path analysis the direct and indirect effects of the factors could be estimated.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

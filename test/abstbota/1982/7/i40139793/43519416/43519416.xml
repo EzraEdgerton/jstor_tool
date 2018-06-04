@@ -1,0 +1,113 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519416</article-id>
+         <title-group>
+            <article-title>SORGUM HALAPENSE /L./ PERS. POPULÁCIÓK SZÁMITÓGÉPES VIZSGÁLATA A PANICULA BÉLYEGEK ALAPJÁN</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Béla</given-names>
+                  <surname>Oláh</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>János</given-names>
+                  <surname>Podani</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1982</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139793</issue-id>
+         <fpage>59</fpage>
+         <lpage>68</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519416"/>
+         <abstract>
+            <p>The present paper reports on a numerical taxonomic study of four Sorgum halapense populations from Hungary. The data consist of 21 morphological feactures of inflorescence, each population is represented by 34 individuals. Univariate analysis of variance and discriminant analysis were carried out in order to find the most useful charecters for distinguishing the populations. Due to several missing values in the data matrix, these analyses were based on 14 characters. The length and weight of inflorescence and the length and width of sessile spikelets proved to be the most significant features with respect to discrimination. Resemblance matrices between individuals were calculated according to Gower's general coefficient and the modified Euclidean distance function. Both of them allow missing data such that all characters could be taken into consideration. The matrices were analysed using complete linkage method and sum of squares agglomeration, respectively. The resulting hierarchies indicate that no sharp distinction can be made between populations. Principial components analysis of 14 characters was made to examine the relationships between the features of inflorescence. The most correlated characters constitute two groups:1. weight of inflores -cence; number of spikelets and florets in the inflorescence; 2. number of florets and spikelets in the longest branch of the second nodum.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d15738e165a1310">
+            <mixed-citation id="d15738e169" publication-type="other">
+ALDENBERG M.R./1973/: Cluster Analysis for Application. Wiley
+Press.New York.</mixed-citation>
+         </ref>
+         <ref id="d15738e179a1310">
+            <mixed-citation id="d15738e183" publication-type="other">
+COOLEY W.W.-LOHNES P.R./1971/: Multivariate Data Analysis. Wiley
+Presa. New York.</mixed-citation>
+         </ref>
+         <ref id="d15738e193a1310">
+            <mixed-citation id="d15738e197" publication-type="other">
+FISCHER J.-HORÁNSZKY A.-KISS N.-SZŐCS Z./1974/: A new variant of
+discriminating analyais and its application to distinguishing
+Festuca Populations. Ann. Univ.Scient. Budapest. 16.63-86.</mixed-citation>
+         </ref>
+         <ref id="d15738e210a1310">
+            <mixed-citation id="d15738e214" publication-type="other">
+GOWER J.C./1971/: A general coefficient of similarity and some of
+its properties. Biometrics.27.857-874.</mixed-citation>
+         </ref>
+         <ref id="d15738e225a1310">
+            <mixed-citation id="d15738e229" publication-type="other">
+0LÁH B./1979/: Négy Sorgum halapense /L./Pers. populáció panicu-
+la morfológiai sa játságainak elemzése. Acta Agronomica, /in
+press/</mixed-citation>
+         </ref>
+         <ref id="d15738e242a1310">
+            <mixed-citation id="d15738e246" publication-type="other">
+PODANI J./1980/: SYN-TAX: Számitógépes programcsomag okològiai,
+èõnológiai és taxonómiai osztályozások végrehajtásara. Abstracta
+Botanica.6.</mixed-citation>
+         </ref>
+         <ref id="d15738e259a1310">
+            <mixed-citation id="d15738e263" publication-type="other">
+SALMON S.C.-HANSON A.A./1970/: A mezőgazdasági kutatás elméleti és
+gyakorlati problémáiról.Mezőgazd.Kiadó.Budapest,140.</mixed-citation>
+         </ref>
+         <ref id="d15738e273a1310">
+            <mixed-citation id="d15738e277" publication-type="other">
+SÁRKÁNY S./1973/: Csirázásbiològiai vizsgálatok Sorgum halapense
+/L./Pers termésével. Növényvédelem.9.544.</mixed-citation>
+         </ref>
+         <ref id="d15738e287a1310">
+            <mixed-citation id="d15738e291" publication-type="other">
+SNEATH P.H.A.-SOKAL R.R./1973/: Numerical Taxonomy. Freeman. San
+Francisco.</mixed-citation>
+         </ref>
+         <ref id="d15738e301a1310">
+            <mixed-citation id="d15738e305" publication-type="other">
+SVÁB J./1973/: Biometriai módszerek a mezogazdasági kutatásban.
+Mezógazd.Kiadó.Budapest.87.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

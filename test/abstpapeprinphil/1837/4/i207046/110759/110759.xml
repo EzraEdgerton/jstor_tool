@@ -1,0 +1,157 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">abstpapeprinphil</journal-id>
+         <journal-id journal-id-type="jstor">j100688</journal-id>
+         <journal-title-group>
+            <journal-title>Abstracts of the Papers Printed in the Philosophical Transactions of the Royal Society of London</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Royal Society</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">03655695</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="jstor">110759</article-id>
+         <title-group>
+            <article-title>[Address Delivered before the Royal Society]</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>John William</given-names>
+                  <surname>Lubbock</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>1</month>
+            <year>1837</year>
+         
+            <day>1</day>
+            <month>1</month>
+            <year>1843</year>
+         </pub-date>
+         <volume>4</volume>
+         <issue/>
+         <issue-id>i207046</issue-id>
+         <fpage>331</fpage>
+         <lpage>360</lpage>
+         <page-range>331-360</page-range>
+         <permissions>
+            <copyright-statement/>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/110759"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group>
+         <title>[Footnotes]</title>
+         <fn id="d5609e125a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d5609e132" publication-type="journal">
+Schweigger's Journal,
+second series, vol. xiv<comment content-type="series title">second series</comment>
+                  <volume>xiv</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5609e150" publication-type="journal">
+Ibid. vol. xxv<comment content-type="series title">second series</comment>
+                  <volume>xxv</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5609e165" publication-type="journal">
+Ibid. vol.
+xxix<comment content-type="series title">second series</comment>
+                  <volume>xxix</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5609e184" publication-type="journal">
+Ibid. third series, vol. iii<comment content-type="series title">third series</comment>
+                  <volume>iii</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5609e199" publication-type="journal">
+Ibid. vol. v<comment content-type="series title">third series</comment>
+                  <volume>v</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d5609e214" publication-type="journal">
+Ibid. vol. vii<comment content-type="series title">third series</comment>
+                  <volume>vii</volume>
+                  <source>Schweigger's Journal</source>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5609e230a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d5609e237" publication-type="journal">
+Proceedings of the Linnean Society for 1841, p. 101<fpage>101</fpage>
+                  <source>Proceedings of the Linnean Society</source>
+                  <year>1841</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5609e253a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d5609e260" publication-type="journal">
+Phil. Trans. for 1800, Part I. p. 151<fpage>151</fpage>
+                  <source>Phil. Trans.</source>
+                  <year>1800</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5609e276a1310">
+            <label>†</label>
+            <p>
+               <mixed-citation id="d5609e283" publication-type="journal">
+Phil. Trans. for 1801, Part II. p. 435<fpage>435</fpage>
+                  <source>Phil. Trans.</source>
+                  <year>1801</year>
+               </mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5609e300a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d5609e307" publication-type="partial">
+Pettigrew's 'Medical
+Portrait Gallery.'</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d5609e317a1310">
+            <label>*</label>
+            <p>
+               <mixed-citation id="d5609e324" publication-type="other">
+biographical notice by Professor
+De La Rivc, which forms part of the Compte rendu de Vctat de Vinstruclion
+pttblicjue de Geneve pendant Vannee scolaire, 1839-1810</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>

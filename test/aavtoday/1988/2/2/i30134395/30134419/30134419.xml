@@ -1,0 +1,70 @@
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.0"
+         article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="jstor">aavtoday</journal-id>
+         <journal-id journal-id-type="jstor">j50000285</journal-id>
+         <journal-title-group>
+            <journal-title>AAV Today</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Association of Avian Veterinarians</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">08929904</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.2307/30134419</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>In My Experience</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Anesthesia in Waterfowl</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name>
+                  <given-names>Elizabeth</given-names>
+                  <surname>Kaufman</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Mark</given-names>
+                  <surname>Pokras</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name>
+                  <given-names>Charles</given-names>
+                  <surname>Sedgwick</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date>
+            <day>1</day>
+            <month>7</month>
+            <year>1988</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>2</issue>
+         <issue-id>i30134395</issue-id>
+         <fpage>98</fpage>
+         <lpage>98</lpage>
+         <permissions>
+            <copyright-statement>Copyright 1988 Association of Avian Veterinarians</copyright-statement>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/30134419"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+</article>

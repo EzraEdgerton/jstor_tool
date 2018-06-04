@@ -1,0 +1,96 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The Department of Plant Taxonomy and Ecology, L. Eötvös University</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519150</article-id>
+         <title-group>
+            <article-title>The Effect of Herbicides on Vegetation Dynamics: Comparison of Classifications</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Klára</given-names>
+                  <surname>Virágh</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>11</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139770</issue-id>
+         <fpage>53</fpage>
+         <lpage>70</lpage>
+         <permissions>
+            <copyright-statement>© Department of Plant Taxonomy and Ecology, ELTE</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519150"/>
+         <abstract>
+            <p>This paper discusses the utility of different resemblance indices and clustering methods applied to the same data and the comparison of results thus obtained for detecting vegetation changes induced by leaf herbicides in an old perennial grassland community. Multiple comparison of classifications of different data sets, originated from various treatments is also used to examine the relative impact of treatment, herbicide dose, clustering method and data type upon the classifications. It is demonstrated that the method of multiple comparison and the evaluation of results by reducing the data set successively may be very powerful to reveal and assess the relative importance of different treatments in the changes of vegetation pattern.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>References</title>
+         <ref id="d2885e214a1310">
+            <mixed-citation id="d2885e218" publication-type="other">
+Farris, J.S. 1969. On the cophenetic correlation coefficient. Syst. Zool. 18:279-285.</mixed-citation>
+         </ref>
+         <ref id="d2885e225a1310">
+            <mixed-citation id="d2885e229" publication-type="other">
+Phipps, J.B. 1971. Dendrogram topology. Syst. Zool. 20:306-308.</mixed-citation>
+         </ref>
+         <ref id="d2885e236a1310">
+            <mixed-citation id="d2885e240" publication-type="other">
+Podani, J. 1982. Spatial processes in the analysis of vegetation. Ph.D. thesis. University
+of Western Ontario, London. Nat. Library of Canada Microfiche. No. TC 56124</mixed-citation>
+         </ref>
+         <ref id="d2885e250a1310">
+            <mixed-citation id="d2885e254" publication-type="other">
+Podani, J. 1984. SYN-TAX II. Computer programs for data analysis in ecology and
+systematics. Abstracta Botanica 8:73-94</mixed-citation>
+         </ref>
+         <ref id="d2885e265a1310">
+            <mixed-citation id="d2885e269" publication-type="other">
+Podani, J. and T. A. Dickinson. 1984. Comparison of dendrograms: a multivariate
+approach. Can. J. Bot 62:2765-2778.</mixed-citation>
+         </ref>
+         <ref id="d2885e279a1310">
+            <mixed-citation id="d2885e283" publication-type="other">
+Sokal, R. R. and F. J. Rohlf. 1962. The comparison of dendrograms by objective
+methods. Taxon 11:33-40.</mixed-citation>
+         </ref>
+         <ref id="d2885e293a1310">
+            <mixed-citation id="d2885e297" publication-type="other">
+Virágh, K. 1986. The effect of herbicides on vegetation dynamics. A multivariate
+study. Abstracta Botanica 10:317-340.</mixed-citation>
+         </ref>
+         <ref id="d2885e307a1310">
+            <mixed-citation id="d2885e311" publication-type="other">
+Virágh, K. 1987. The effect of herbicides on vegetation dynamics. A 5-year study of
+temporal variation of species composition in permanent grassland plots. Folia
+Geobot. Phytotax. Praha 22:385-405.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

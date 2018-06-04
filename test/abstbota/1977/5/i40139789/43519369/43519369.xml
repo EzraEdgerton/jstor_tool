@@ -1,0 +1,130 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">abstbota</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50012219</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Abstracta Botanica</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Eötvös Loránd Tudományegyetem Természettudományi Kara Növényrendszertani és Ökológiai Tanszékének Kiadványa</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">01336215</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">43519369</article-id>
+         <title-group>
+            <article-title>MAGYARORSZÁGI SZABADFÖLDI ORCHIDEÁK ANATÓMIAI VIZSGÁLATA I. LEVÉLEPIDERMISZ VIZSGÁLATOK</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Olga</given-names>
+                  <surname>Borsos</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>1</month>
+            <year>1977</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40139789</issue-id>
+         <fpage>1</fpage>
+         <lpage>13</lpage>
+         <permissions>
+            <copyright-statement>Copyright: a szerzők, 1978</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/43519369"/>
+         <abstract>
+            <p>Nach der systematisch-geobotaniscfc-ökologischen Bearbeitung der pannonisch-karpatischen Orchideen begann die Verfasserin im Jahre 1974 diese Pflanzen auch anatomisch untersuchen. In Ungarn hat man sich mit dieser Frage nicht befasst, weshalb die anatomischen Untersuchungsergebnisse der Taxa der einheimischen Wildorchideen als neu zu betrachten sind. In dieser Arbeit publiziert die Verfasserin die Ergebnisse der blattanatomischen Untersuchungen aue 11 einheimischen Wildorchideen. Die Blätter samtlicher, von uns untersuchter Taxa gehörten zum isolateralen homogenen Typ. Mann kann sie allgemein folgendermassen charakterisieren: Die Zellen der oberen und unteren Epidermis unterscheiden sich in ihren Massen voneinander. Die Zellen der oberen Epidermis sind im allgemeinen grosser, ja sie können sogar viel grosser als die der unteren Epidermis sein. Die Zellwand ist im allgemeinen kutikular, ihr Verlauf in der Aufsicht meist gerade, leicht "bogenförmig, krumm oder wellenförmig. An der oberen Epidermis kommen bei einigen Arten auch hyaline Haare vor. Zwichen den Epidermiszellen sind meist runde oder ovale Stornata zu finden. Nebenzellen gibt es keine. Es gibt Arten, bei welchen an der oberen Epidermis dee Blattes Stornata von grössere oder mindere Zahl zu finden sind. Bas Mass der Stornata ist, je nach dem, ob sie sich an der oberen oder unteren Epidermis des Blattes befinden, unterschiedlich. Die auf die Flächeneinheit /1 mm²/fallende Zahl der Epidermiszellen steht mit den Massen der Zellen, fernem auch mit der Zahl bzw. den Massen der Stornata und damit im Zusammenhang, ob es sich um die obere oder untere Epidermis des Blattes handelt. Die Struktur der Epidermis ist fast für eine jede Art spezifisch. Die ausführliche anatomische Charakterisierung des Blattes bringen wir bei der Erörterung der einzelnen Arten.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>hun</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Irodalom</title>
+         <ref id="d4814e279a1310">
+            <mixed-citation id="d4814e283" publication-type="other">
+BORSOS 0. /1960/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. IV. -Annal. Univ.
+Bpest., Sect. Biol. 3. 93-129.</mixed-citation>
+         </ref>
+         <ref id="d4814e296a1310">
+            <mixed-citation id="d4814e300" publication-type="other">
+BORSOS 0. /1961/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. V. -Ibidem, 4,
+51-82.</mixed-citation>
+         </ref>
+         <ref id="d4814e313a1310">
+            <mixed-citation id="d4814e317" publication-type="other">
+BORSOS 0. /1962/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. VI. -Ibidem, 5,
+27-61.</mixed-citation>
+         </ref>
+         <ref id="d4814e330a1310">
+            <mixed-citation id="d4814e334" publication-type="other">
+BORSOS 0. /1963/: Geo botanische Monographie der Orchideen der
+pannonischen und karpatischen Flora. VII. -Ibidem, 6.
+43-81.</mixed-citation>
+         </ref>
+         <ref id="d4814e348a1310">
+            <mixed-citation id="d4814e352" publication-type="other">
+BORSOS 0. /1964/: Geobotanische Monographie der Orchideen der
+pannonischen und karpatischen Flora.VIII. -Ibidem, 7.
+45-71.</mixed-citation>
+         </ref>
+         <ref id="d4814e365a1310">
+            <mixed-citation id="d4814e369" publication-type="other">
+ESAU, K. /1969/: Pflanzenanatomie. Stuttgart.</mixed-citation>
+         </ref>
+         <ref id="d4814e376a1310">
+            <mixed-citation id="d4814e380" publication-type="other">
+HASSACK /1886/: Anatomischer Bau bunter Laubblätter. -Bot.
+Centrai b1. IV. 184, 212, 311.</mixed-citation>
+         </ref>
+         <ref id="d4814e390a1310">
+            <mixed-citation id="d4814e394" publication-type="other">
+KOHL, A. /1899/: Raphidenzellen. -Bot. Central bl. LXXIX. 273-282 +
+Taf. IV-V.</mixed-citation>
+         </ref>
+         <ref id="d4814e404a1310">
+            <mixed-citation id="d4814e408" publication-type="other">
+METCALFE, C.R. /1960/: Anatomy of the Monocotyledons. Oxford.
+MÖBIUS, /1887/: Anatomischer Bau der Orchideenblätter. -
+Pringsheim's Jahrb. 18. 530-607. Taf. XXI-XXIV.</mixed-citation>
+         </ref>
+         <ref id="d4814e421a1310">
+            <mixed-citation id="d4814e425" publication-type="other">
+SÁRKÁNY S. - SZALAI I. /1964/: Növényszervezettani gyakorlatok.
+Növénytani Praktikum I. Bpest., Tankönykiadó.</mixed-citation>
+         </ref>
+         <ref id="d4814e436a1310">
+            <mixed-citation id="d4814e440" publication-type="other">
+SOLEREDER, H. - MEYER, F.J. /1930/: Systematische Anatomie der
+Monocotyledonen. VI. Scitamineae - Microspermae. Berlin,
+92-242.</mixed-citation>
+         </ref>
+         <ref id="d4814e453a1310">
+            <mixed-citation id="d4814e457" publication-type="other">
+UJHELYI J. /1954/: Ujabb eljárás a szálaslevelü egysziküek, kü-
+lönösen a Gramineae-család epidermisz-szövettani vizs-
+gálatához. -Bot.Közl. 45. 227-230.</mixed-citation>
+         </ref>
+         <ref id="d4814e470a1310">
+            <mixed-citation id="d4814e474" publication-type="other">
+Ziegenspeck, H. /1936/: Orchidaceae. - In KIRCHNER. - LOEW -
+SCHRÖTER: Lebensgechichte der Blütenpflanzen Mittel-
+europas. I. /4. Stuttgart.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
