@@ -41,16 +41,18 @@ def getMetaFields(xmlfile):
 		article_title = None
 	else:
 		if article_title[0].text != None:
-			article_title = article_title[0].text.lower().strip()
+			print article_title[0].text
+			print type(article_title[0].text)
+			article_title = article_title[0].text.encode('ascii','ignore').lower().strip().replace("&", "and").translate(None, string.punctuation)
 	if len(publisher) == 0:
 		publisher = None
 	else:
 		if publisher[0].text != None:
-			publisher = publisher[0].text.lower().strip()
+			publisher = publisher[0].text.encode('ascii','ignore').lower().strip().replace("&", "and").translate(None, string.punctuation)
 	if len(journal) == 0:
-		publisher = None
+		journal = None
 	else:
-		journal = journal[0].text.lower().strip()
+		journal = journal[0].text.encode('ascii','ignore').lower().strip().replace("&", "and").translate(None, string.punctuation)
 
 	for a in contribs:
 		authorstring = ""
@@ -61,7 +63,7 @@ def getMetaFields(xmlfile):
 				if t.isspace():
 					pass
 				else:
-					authorstring = authorstring + t.lower().strip() + " "
+					authorstring = authorstring + t.encode('ascii','ignore').lower().strip() + " "
 			authors.append(authorstring)
 
 	month_form = month[0].text.translate(None, string.punctuation)

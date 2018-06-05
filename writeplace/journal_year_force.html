@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link rel="stylesheet" type="text/css" href="/ext/css/bootstrap.min.css">
+<style>
+
+.links line {
+  stroke: #000;
+  stroke-opacity: 0.6;
+}
+
+.nodes {
+  opacity: .7
+}
+.selected {
+  stroke: red;
+  stroke-opacity: .6;
+  opacity: 1;
+}
+
+.hidden {
+  display: none;
+}
+
+</style>
+</head>
+<body class="container-fluid">
+    <div class="row">
+    <div class="col-lg-12">
+     <h1>journal_year</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <svg width="1000" height="1000"></svg>
+    </div>
+  </div>
+  
+</body>
+<script src="/ext/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    //.force("y", d3.forceY(-100))
+    //.force("x", d3.forceX(-100));
+
+ /* .force("charge", d3.forceManyBody().strength(-350))
+    .force("y", d3.forceY(-100))
+    .force("x", d3.forceX(-100));*/
+d3.json("journal_year_force_data.json", function(error, graph) {
+  if (error) throw error;
+
+  
+
+  let maxNode = 0
+  let nodeCount = graph.nodes.length
+  let maxLink = 0
+
+  graph.nodes.forEach(function(d){
+    if (d.info.count > maxNode){
+      maxNode = d.info.count
+    }
+  })
+
+  graph.links.forEach(function(d){
+    if (d.value > maxLink){
+      maxLink = d.value
+    }
+  })
+
+
+  console.log(maxNode)
+  console.log(maxLink)
+  console.log(nodeCount)
+
+
+let maxNodemult = (50 * Math.PI )/ Math.sqrt(maxNode)
+
+let maxLinkmult = 70/ Math.sqrt(maxLink)
+
+
+  simulation.force("charge", d3.forceManyBody().strength(-nodeCount * 3))
+      .force("y", d3.forceY(-100))
+      .force("x", d3.forceX(-100))
+
+      var linkG = svg.append("g")
+      .attr("class", "linksg")
+
+
+  var link = linkG
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) {  return maxLinkmult * (Math.sqrt(d.value) / 4); })
+      .style("stroke", "grey")
+      .style("stroke-opacity", .4)
+      .attr("class", function(d){
+                return "links " + "d" +d.source.toString().replace(/ /g, '_').replace(/\s{2,}/g,"") + " " + "d" + d.target.toString().replace(/ /g, '_').replace(/\s{2,}/g,"")
+            });;
+
+    link.append("title").text(function(d){
+              return d.source + " " + d.target + " : " + d.value
+             });
+
+  var nodeG = svg.append("g")
+      .attr("class", "nodesg")
+
+   let node = nodeG.selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+       .attr("r", function(d){
+        if (d.info.count < 10){
+          return 5
+        }
+        return maxNodemult * (Math.sqrt(d.info.count)/ Math.PI);
+      })
+      .attr("fill", function(d) { 
+        return color(d.info.group); 
+      })
+            .attr("class", function(d){
+        let plan = d.id
+          return "nodes " + "d" + d.id.toString().replace(/ /g, '_').replace(/\s{2,}/g,"")
+      })
+      .on("dblclick",  function(d){
+        hiderest(d.id)
+      })
+      .on("click", function(d){
+        d3.selectAll('.links.' + "d" + d.id.toString().replace(/ /g, '_').replace(/\s{2,}/g,""))
+          .style('stroke', function(d){
+          let s = d3.select(this).style('stroke')
+          if (s == "grey"){
+            return "red"
+          }
+          return "grey"
+        })
+        d3.selectAll('.' + "d" + d.id.toString().replace(/ /g, '_').replace(/\s{2,}/g,""))
+          .classed('selected',  function(d){
+            return !d3.select(this).classed('selected')
+          })
+
+      })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+
+    let nodetext = nodeG.selectAll('.text').data(graph.nodes)
+      .enter().append("text")
+        .style('font-size', 10)
+        .style('stroke', '#202020')
+        .attr("class", function(d){
+
+         let nospaces = "d" + d.id.toString().replace(/ /g, '_')
+        let nopunc = nospaces.replace(/\s{2,}/g,"")
+          return "nodetext " + nopunc//d.id.replace(/ /g, '_')
+        })
+        .style('stroke-width', 1)
+        .text(function(d){
+
+         return d.id
+        })
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links)
+      .distance(100);
+
+  function ticked() {
+    
+    node
+        .attr("cx", function(d) { return d.x = Math.max(2, Math.min(width, d.x)); })
+        .attr("cy", function(d) { return d.y = Math.max(2, Math.min(height, d.y)); });
+
+     nodetext.attr("x", function(d) { return d.x = Math.max(2, Math.min(width, d.x)); })
+        .attr("y", function(d) { return d.y = Math.max(2, Math.min(height, d.y)); });
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+let hidden = false
+function hiderest(id){
+  if (hidden == true){
+    d3.selectAll(".hidden").attr("class", function(d){
+      return d3.select(this).attr("class").replace("hidden", "")
+    })
+    hidden = false
+  }
+  else{
+  let selected ="d" + id.toString().replace(/ /g, "_")
+   selected = selected.replace(/\s{2,}/g,"")
+  //console.log(selected)
+       console.log(selected)
+        let selnodes = d3.selectAll(".nodes").attr("class", function(d){
+          let cl = d3.select(this).attr("class")
+          console.log(cl.indexOf(selected))
+
+          if(cl.indexOf(selected) > 0){
+            return cl;
+          }
+          else{
+            return cl + ' hidden';
+          } 
+        });
+
+        let selTextLabels = d3.selectAll(".nodetext").attr("class", function(d){
+          let cl = d3.select(this).attr("class");
+          console.log()
+          if(cl.indexOf(selected) > 0){
+            return cl;
+          }
+          else{
+            return cl + ' hidden';
+          } 
+        })
+
+        let selLinks = d3.selectAll(".links").attr("class", function(d){
+          let cl = d3.select(this).attr("class")
+          if(cl.indexOf(selected) > 0){
+            let things = cl.split(" ");
+            let showOther = ""
+            if (things[1] == selected){
+              showOther = things[2]
+            }
+            else{
+              showOther = things[1]
+            }
+            d3.select('.nodes.' + showOther).attr("class", function(d){
+              let subcl = d3.select(this).attr("class")
+              if (subcl.indexOf("hidden")){
+                return subcl.replace("hidden", "")
+              }
+
+            })
+            d3.select('.nodetext.' + showOther).attr("class", function(d){
+              let subcl = d3.select(this).attr("class")
+              console.log(subcl)
+              if (subcl.indexOf("hidden")){
+
+                return subcl.replace("hidden", "")
+              }
+
+            })
+            return cl;
+          }
+          else{
+            return cl + ' hidden';
+          } 
+        });
+
+  
+        hidden = true
+        console.log(selTextLabels)
+      }
+}
+
+</script>

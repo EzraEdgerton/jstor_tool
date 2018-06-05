@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>_journal_words_year</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/ext/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/ext/css/dc.css"/>
+    <style>
+    .longlabel .x.axis text {
+    text-anchor: start;
+    transform: rotate(-90deg);
+    transform: translate(-14px, 0px) rotate(-90deg);
+
+
+}</style>
+</head>
+<body>
+
+<div class="container">
+<div class="row">
+  <div class="col-lg-12">
+    <h1>_journal_words_year bar graphs</h1>
+  </div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+ <h3><a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a></h3>
+</div>
+ </div>
+<div id="journal" class="longlabel"></div>
+<div id="words" class="longlabel"></div>
+<div id="year"></div>
+
+<script type="text/javascript" src="/ext/other/d3.js"></script>
+<script type="text/javascript" src="/ext/other/crossfilter.js"></script>
+<script type="text/javascript" src="/ext/other/dc.js"></script>
+<script type="text/javascript">
+
+var journalChart = dc.barChart("#journal");
+var wordsChart = dc.barChart("#words");
+var yearChart = dc.barChart("#year");
+
+
+dc.config.defaultColors(d3.schemeCategory10)
+d3.json("data.json").then(function(json_data) {
+
+  let cs = crossfilter(json_data)
+
+  let all = cs.groupAll();
+
+   journalDimension = cs.dimension(function(d){return d.journal})
+  					journalGroup = journalDimension.group()
+ wordsDimension = cs.dimension(function(d){return d.words})
+  					wordsGroup = wordsDimension.group()
+ yearDimension = cs.dimension(function(d){return d.year})
+  					yearGroup = yearDimension.group()
+
+
+  
+				let journalwidth = 1000
+				let journallength = journalGroup.all().length
+				
+				if(journallength  > 200){
+					journalwidth = journallength * 10
+				}
+			
+
+				let wordswidth = 1000
+				let wordslength = wordsGroup.all().length
+				
+				if(wordslength  > 200){
+					wordswidth = wordslength * 10
+				}
+			
+
+				let yearwidth = 1000
+				let yearlength = yearGroup.all().length
+				
+				if(yearlength  > 200){
+					yearwidth = yearlength * 10
+				}
+			
+
+
+
+  
+
+    journalChart
+    .width(journalwidth)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("journal")
+    .dimension(journalDimension)
+    .group(journalGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        journalChart.selectAll("rect.bar").on("click", function (d) {
+            journalChart.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+
+
+
+
+
+    wordsChart
+    .width(wordswidth)
+    .height(200)
+    .x(d3.scaleBand())
+    .xUnits(dc.units.ordinal)
+    .yAxisLabel("words")
+    .dimension(wordsDimension)
+    .group(wordsGroup)
+    .elasticY(true)
+    .controlsUseVisibility(true)
+    .on('pretransition', function(chart) {
+        wordsChart.selectAll("rect.bar").on("click", function (d) {
+            wordsChart.filter(null)
+                .filter(d.data.key)
+                .redrawGroup();
+              })
+      })
+
+
+
+
+
+
+  yearChart
+    .width(1000)
+    .height(200)
+    .x(d3.scaleLinear().domain(d3.extent(json_data, function(d){
+      return d.year
+    })))
+    .brushOn(true)
+    .yAxisLabel("year")
+    .dimension(yearDimension)
+    .group(yearGroup)
+    .elasticY(true)
+
+
+
+
+
+
+  dc.renderAll()
+
+
+});
+</script>
+
+</div>
+</body>
+</html>

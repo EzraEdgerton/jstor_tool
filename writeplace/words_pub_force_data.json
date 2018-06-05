@@ -1,0 +1,1960 @@
+{
+    "nodes": [
+        {
+            "info": {
+                "count": 2, 
+                "group": 0
+            }, 
+            "id": "etvs lornd tudomnyegyetem nvnyrendszertani s nvnyfldrajzi tanszknek"
+        }, 
+        {
+            "info": {
+                "count": 609, 
+                "group": 0
+            }, 
+            "id": "peabody academy of science"
+        }, 
+        {
+            "info": {
+                "count": 1265, 
+                "group": 0
+            }, 
+            "id": "the university of chicago press"
+        }, 
+        {
+            "info": {
+                "count": 2022, 
+                "group": 0
+            }, 
+            "id": "institute of arctic and alpine research"
+        }, 
+        {
+            "info": {
+                "count": 1546, 
+                "group": 0
+            }, 
+            "id": "l s foster"
+        }, 
+        {
+            "info": {
+                "count": 521, 
+                "group": 0
+            }, 
+            "id": "ginn and co"
+        }, 
+        {
+            "info": {
+                "count": 596, 
+                "group": 0
+            }, 
+            "id": "university of california press"
+        }, 
+        {
+            "info": {
+                "count": 303, 
+                "group": 0
+            }, 
+            "id": "finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 1100, 
+                "group": 0
+            }, 
+            "id": "brooklyn botanic garden"
+        }, 
+        {
+            "info": {
+                "count": 1514, 
+                "group": 0
+            }, 
+            "id": "arnold arboretum"
+        }, 
+        {
+            "info": {
+                "count": 671, 
+                "group": 0
+            }, 
+            "id": "department of horticulture university of florence"
+        }, 
+        {
+            "info": {
+                "count": 1600, 
+                "group": 0
+            }, 
+            "id": "american society of zoologists"
+        }, 
+        {
+            "info": {
+                "count": 12, 
+                "group": 0
+            }, 
+            "id": "the american fern society"
+        }, 
+        {
+            "info": {
+                "count": 13665, 
+                "group": 0
+            }, 
+            "id": "the american ornithologists union"
+        }, 
+        {
+            "info": {
+                "count": 212, 
+                "group": 0
+            }, 
+            "id": "finnish botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 128, 
+                "group": 0
+            }, 
+            "id": "the department of plant taxonomy and ecology l etvs university"
+        }, 
+        {
+            "info": {
+                "count": 483, 
+                "group": 0
+            }, 
+            "id": "academic press limited"
+        }, 
+        {
+            "info": {
+                "count": 837, 
+                "group": 0
+            }, 
+            "id": "queensland herbarium"
+        }, 
+        {
+            "info": {
+                "count": 155, 
+                "group": 0
+            }, 
+            "id": "ferris bros"
+        }, 
+        {
+            "info": {
+                "count": 405, 
+                "group": 0
+            }, 
+            "id": "societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 215, 
+                "group": 0
+            }, 
+            "id": "gray memorial botanical chapter of the agassiz association"
+        }, 
+        {
+            "info": {
+                "count": 128, 
+                "group": 0
+            }, 
+            "id": "fundacin instituto botnico de venezuela"
+        }, 
+        {
+            "info": {
+                "count": 321, 
+                "group": 0
+            }, 
+            "id": "american ornithologists union"
+        }, 
+        {
+            "info": {
+                "count": 313, 
+                "group": 0
+            }, 
+            "id": "the finnish botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 8255, 
+                "group": 0
+            }, 
+            "id": "american botanical society"
+        }, 
+        {
+            "info": {
+                "count": 3214, 
+                "group": 0
+            }, 
+            "id": "missouri botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 137, 
+                "group": 0
+            }, 
+            "id": "blackwell publishing ltd"
+        }, 
+        {
+            "info": {
+                "count": 41, 
+                "group": 0
+            }, 
+            "id": "binder and kelly"
+        }, 
+        {
+            "info": {
+                "count": 2950, 
+                "group": 0
+            }, 
+            "id": "botanical society of america"
+        }, 
+        {
+            "info": {
+                "count": 210, 
+                "group": 0
+            }, 
+            "id": "edwards and docker"
+        }, 
+        {
+            "info": {
+                "count": 73, 
+                "group": 0
+            }, 
+            "id": "department of plant soil and environmental science university of florence"
+        }, 
+        {
+            "info": {
+                "count": 673, 
+                "group": 0
+            }, 
+            "id": "the royal society"
+        }, 
+        {
+            "info": {
+                "count": 355, 
+                "group": 0
+            }, 
+            "id": "annual reviews"
+        }, 
+        {
+            "info": {
+                "count": 3, 
+                "group": 0
+            }, 
+            "id": "etvs lornd tudomnyegyetem nvnyrendszertani s kolgiai tanszknek"
+        }, 
+        {
+            "info": {
+                "count": 1715, 
+                "group": 0
+            }, 
+            "id": "academic press"
+        }, 
+        {
+            "info": {
+                "count": 121, 
+                "group": 0
+            }, 
+            "id": "h o houghton and co"
+        }, 
+        {
+            "info": {
+                "count": 133, 
+                "group": 0
+            }, 
+            "id": "association of avian veterinarians"
+        }, 
+        {
+            "info": {
+                "count": 33, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas biologica fennica vanamo and societas pro fauna et flora fennica"
+        }, 
+        {
+            "info": {
+                "count": 4, 
+                "group": 0
+            }, 
+            "id": "national tropical botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 321, 
+                "group": 0
+            }, 
+            "id": "opulus press"
+        }, 
+        {
+            "info": {
+                "count": 4097, 
+                "group": 0
+            }, 
+            "id": "american association of avian pathologists inc"
+        }, 
+        {
+            "info": {
+                "count": 15, 
+                "group": 0
+            }, 
+            "id": "finnish zoological and botanical publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica"
+        }, 
+        {
+            "info": {
+                "count": 154, 
+                "group": 0
+            }, 
+            "id": "naturhistorischen museums in wien"
+        }, 
+        {
+            "info": {
+                "count": 2081, 
+                "group": 0
+            }, 
+            "id": "science press"
+        }, 
+        {
+            "info": {
+                "count": 1850, 
+                "group": 0
+            }, 
+            "id": "finnish zoological and botanical publishing board"
+        }, 
+        {
+            "info": {
+                "count": 2665, 
+                "group": 0
+            }, 
+            "id": "university of chicago press"
+        }, 
+        {
+            "info": {
+                "count": 1817, 
+                "group": 0
+            }, 
+            "id": "american fern society"
+        }, 
+        {
+            "info": {
+                "count": 238, 
+                "group": 0
+            }, 
+            "id": "akademieverlag gmbh"
+        }, 
+        {
+            "info": {
+                "count": 50, 
+                "group": 0
+            }, 
+            "id": "arnold arboretum of harvard university"
+        }, 
+        {
+            "info": {
+                "count": 83, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica"
+        }, 
+        {
+            "info": {
+                "count": 67, 
+                "group": 0
+            }, 
+            "id": "essex institute"
+        }, 
+        {
+            "info": {
+                "count": 32, 
+                "group": 0
+            }, 
+            "id": "department of agrifood production and environmental sciences university of florence"
+        }, 
+        {
+            "info": {
+                "count": 105, 
+                "group": 0
+            }, 
+            "id": "pacific tropical botanical garden"
+        }, 
+        {
+            "info": {
+                "count": 100, 
+                "group": 0
+            }, 
+            "id": "cornell veterinarian inc"
+        }, 
+        {
+            "info": {
+                "count": 887, 
+                "group": 0
+            }, 
+            "id": "annual reviews inc"
+        }, 
+        {
+            "info": {
+                "count": 2405, 
+                "group": 0
+            }, 
+            "id": "royal swedish academy of sciences"
+        }, 
+        {
+            "info": {
+                "count": 747, 
+                "group": 0
+            }, 
+            "id": "american association of avian pathologists"
+        }, 
+        {
+            "info": {
+                "count": 230, 
+                "group": 0
+            }, 
+            "id": "societas zoologica botanica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 197, 
+                "group": 0
+            }, 
+            "id": "springer"
+        }, 
+        {
+            "info": {
+                "count": 35, 
+                "group": 0
+            }, 
+            "id": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo"
+        }, 
+        {
+            "info": {
+                "count": 234, 
+                "group": 0
+            }, 
+            "id": "estes and lauriat"
+        }, 
+        {
+            "info": {
+                "count": 8046, 
+                "group": 0
+            }, 
+            "id": "university of notre dame"
+        }, 
+        {
+            "info": {
+                "count": 40, 
+                "group": 0
+            }, 
+            "id": "american ornithological society"
+        }, 
+        {
+            "info": {
+                "count": 6082, 
+                "group": 0
+            }, 
+            "id": "oxford university press"
+        }, 
+        {
+            "info": {
+                "count": 679, 
+                "group": 0
+            }, 
+            "id": "mccalla and stavely"
+        }, 
+        {
+            "info": {
+                "count": 449, 
+                "group": 0
+            }, 
+            "id": "naturhistorisches museum wien"
+        }, 
+        {
+            "info": {
+                "count": 3676, 
+                "group": 0
+            }, 
+            "id": "national association of biology teachers"
+        }, 
+        {
+            "info": {
+                "count": 105, 
+                "group": 0
+            }, 
+            "id": "alfred hlder"
+        }, 
+        {
+            "info": {
+                "count": 1, 
+                "group": 0
+            }, 
+            "id": "deutsche akademie der landwirtschaftswissenschaften"
+        }, 
+        {
+            "info": {
+                "count": 383, 
+                "group": 0
+            }, 
+            "id": "society for integrative and comparative biology"
+        }, 
+        {
+            "info": {
+                "count": 2, 
+                "group": 0
+            }, 
+            "id": "etvs lornd tudomnyegyetem termszettudomnyi kara nvnyrendszertani s kolgiai tanszknek"
+        }, 
+        {
+            "info": {
+                "count": 1682, 
+                "group": 0
+            }, 
+            "id": "academic press inc"
+        }, 
+        {
+            "info": {
+                "count": 118, 
+                "group": 0
+            }, 
+            "id": "american institute of biological sciences"
+        }, 
+        {
+            "info": {
+                "count": 19919, 
+                "group": 1
+            }, 
+            "id": "green"
+        }, 
+        {
+            "info": {
+                "count": 26695, 
+                "group": 1
+            }, 
+            "id": "white"
+        }, 
+        {
+            "info": {
+                "count": 19895, 
+                "group": 1
+            }, 
+            "id": "black"
+        }, 
+        {
+            "info": {
+                "count": 19704, 
+                "group": 1
+            }, 
+            "id": "red"
+        }
+    ], 
+    "links": [
+        {
+            "source": "red", 
+            "target": "association of avian veterinarians", 
+            "value": 55
+        }, 
+        {
+            "source": "white", 
+            "target": "association of avian veterinarians", 
+            "value": 29
+        }, 
+        {
+            "source": "black", 
+            "target": "association of avian veterinarians", 
+            "value": 20
+        }, 
+        {
+            "source": "green", 
+            "target": "association of avian veterinarians", 
+            "value": 29
+        }, 
+        {
+            "source": "green", 
+            "target": "etvs lornd tudomnyegyetem nvnyrendszertani s nvnyfldrajzi tanszknek", 
+            "value": 1
+        }, 
+        {
+            "source": "white", 
+            "target": "etvs lornd tudomnyegyetem nvnyrendszertani s kolgiai tanszknek", 
+            "value": 1
+        }, 
+        {
+            "source": "green", 
+            "target": "etvs lornd tudomnyegyetem nvnyrendszertani s kolgiai tanszknek", 
+            "value": 2
+        }, 
+        {
+            "source": "red", 
+            "target": "etvs lornd tudomnyegyetem termszettudomnyi kara nvnyrendszertani s kolgiai tanszknek", 
+            "value": 1
+        }, 
+        {
+            "source": "green", 
+            "target": "etvs lornd tudomnyegyetem termszettudomnyi kara nvnyrendszertani s kolgiai tanszknek", 
+            "value": 1
+        }, 
+        {
+            "source": "white", 
+            "target": "the department of plant taxonomy and ecology l etvs university", 
+            "value": 34
+        }, 
+        {
+            "source": "green", 
+            "target": "the department of plant taxonomy and ecology l etvs university", 
+            "value": 38
+        }, 
+        {
+            "source": "black", 
+            "target": "the department of plant taxonomy and ecology l etvs university", 
+            "value": 32
+        }, 
+        {
+            "source": "red", 
+            "target": "the department of plant taxonomy and ecology l etvs university", 
+            "value": 24
+        }, 
+        {
+            "source": "red", 
+            "target": "the royal society", 
+            "value": 215
+        }, 
+        {
+            "source": "black", 
+            "target": "the royal society", 
+            "value": 135
+        }, 
+        {
+            "source": "white", 
+            "target": "the royal society", 
+            "value": 212
+        }, 
+        {
+            "source": "green", 
+            "target": "the royal society", 
+            "value": 111
+        }, 
+        {
+            "source": "red", 
+            "target": "fundacin instituto botnico de venezuela", 
+            "value": 54
+        }, 
+        {
+            "source": "black", 
+            "target": "fundacin instituto botnico de venezuela", 
+            "value": 18
+        }, 
+        {
+            "source": "white", 
+            "target": "fundacin instituto botnico de venezuela", 
+            "value": 26
+        }, 
+        {
+            "source": "green", 
+            "target": "fundacin instituto botnico de venezuela", 
+            "value": 30
+        }, 
+        {
+            "source": "red", 
+            "target": "department of horticulture university of florence", 
+            "value": 207
+        }, 
+        {
+            "source": "white", 
+            "target": "department of horticulture university of florence", 
+            "value": 161
+        }, 
+        {
+            "source": "green", 
+            "target": "department of horticulture university of florence", 
+            "value": 196
+        }, 
+        {
+            "source": "black", 
+            "target": "department of horticulture university of florence", 
+            "value": 107
+        }, 
+        {
+            "source": "green", 
+            "target": "department of plant soil and environmental science university of florence", 
+            "value": 24
+        }, 
+        {
+            "source": "black", 
+            "target": "department of plant soil and environmental science university of florence", 
+            "value": 15
+        }, 
+        {
+            "source": "white", 
+            "target": "department of plant soil and environmental science university of florence", 
+            "value": 18
+        }, 
+        {
+            "source": "red", 
+            "target": "department of plant soil and environmental science university of florence", 
+            "value": 16
+        }, 
+        {
+            "source": "red", 
+            "target": "department of agrifood production and environmental sciences university of florence", 
+            "value": 7
+        }, 
+        {
+            "source": "green", 
+            "target": "department of agrifood production and environmental sciences university of florence", 
+            "value": 11
+        }, 
+        {
+            "source": "black", 
+            "target": "department of agrifood production and environmental sciences university of florence", 
+            "value": 7
+        }, 
+        {
+            "source": "white", 
+            "target": "department of agrifood production and environmental sciences university of florence", 
+            "value": 7
+        }, 
+        {
+            "source": "black", 
+            "target": "american institute of biological sciences", 
+            "value": 32
+        }, 
+        {
+            "source": "green", 
+            "target": "american institute of biological sciences", 
+            "value": 24
+        }, 
+        {
+            "source": "red", 
+            "target": "american institute of biological sciences", 
+            "value": 26
+        }, 
+        {
+            "source": "white", 
+            "target": "american institute of biological sciences", 
+            "value": 36
+        }, 
+        {
+            "source": "red", 
+            "target": "pacific tropical botanical garden", 
+            "value": 23
+        }, 
+        {
+            "source": "black", 
+            "target": "pacific tropical botanical garden", 
+            "value": 26
+        }, 
+        {
+            "source": "white", 
+            "target": "pacific tropical botanical garden", 
+            "value": 29
+        }, 
+        {
+            "source": "green", 
+            "target": "pacific tropical botanical garden", 
+            "value": 27
+        }, 
+        {
+            "source": "red", 
+            "target": "national tropical botanical garden", 
+            "value": 1
+        }, 
+        {
+            "source": "black", 
+            "target": "national tropical botanical garden", 
+            "value": 1
+        }, 
+        {
+            "source": "white", 
+            "target": "national tropical botanical garden", 
+            "value": 1
+        }, 
+        {
+            "source": "green", 
+            "target": "national tropical botanical garden", 
+            "value": 1
+        }, 
+        {
+            "source": "black", 
+            "target": "royal swedish academy of sciences", 
+            "value": 513
+        }, 
+        {
+            "source": "white", 
+            "target": "royal swedish academy of sciences", 
+            "value": 516
+        }, 
+        {
+            "source": "green", 
+            "target": "royal swedish academy of sciences", 
+            "value": 784
+        }, 
+        {
+            "source": "red", 
+            "target": "royal swedish academy of sciences", 
+            "value": 592
+        }, 
+        {
+            "source": "black", 
+            "target": "springer", 
+            "value": 36
+        }, 
+        {
+            "source": "green", 
+            "target": "springer", 
+            "value": 63
+        }, 
+        {
+            "source": "red", 
+            "target": "springer", 
+            "value": 58
+        }, 
+        {
+            "source": "white", 
+            "target": "springer", 
+            "value": 40
+        }, 
+        {
+            "source": "red", 
+            "target": "national association of biology teachers", 
+            "value": 826
+        }, 
+        {
+            "source": "black", 
+            "target": "national association of biology teachers", 
+            "value": 797
+        }, 
+        {
+            "source": "green", 
+            "target": "national association of biology teachers", 
+            "value": 950
+        }, 
+        {
+            "source": "white", 
+            "target": "national association of biology teachers", 
+            "value": 1103
+        }, 
+        {
+            "source": "green", 
+            "target": "university of california press", 
+            "value": 105
+        }, 
+        {
+            "source": "white", 
+            "target": "university of california press", 
+            "value": 186
+        }, 
+        {
+            "source": "red", 
+            "target": "university of california press", 
+            "value": 153
+        }, 
+        {
+            "source": "black", 
+            "target": "university of california press", 
+            "value": 152
+        }, 
+        {
+            "source": "green", 
+            "target": "american fern society", 
+            "value": 705
+        }, 
+        {
+            "source": "white", 
+            "target": "american fern society", 
+            "value": 473
+        }, 
+        {
+            "source": "red", 
+            "target": "american fern society", 
+            "value": 271
+        }, 
+        {
+            "source": "black", 
+            "target": "american fern society", 
+            "value": 368
+        }, 
+        {
+            "source": "red", 
+            "target": "the american fern society", 
+            "value": 4
+        }, 
+        {
+            "source": "white", 
+            "target": "the american fern society", 
+            "value": 3
+        }, 
+        {
+            "source": "white", 
+            "target": "brooklyn botanic garden", 
+            "value": 296
+        }, 
+        {
+            "source": "green", 
+            "target": "brooklyn botanic garden", 
+            "value": 345
+        }, 
+        {
+            "source": "black", 
+            "target": "brooklyn botanic garden", 
+            "value": 226
+        }, 
+        {
+            "source": "red", 
+            "target": "brooklyn botanic garden", 
+            "value": 233
+        }, 
+        {
+            "source": "green", 
+            "target": "american botanical society", 
+            "value": 2755
+        }, 
+        {
+            "source": "red", 
+            "target": "american botanical society", 
+            "value": 1657
+        }, 
+        {
+            "source": "black", 
+            "target": "american botanical society", 
+            "value": 1542
+        }, 
+        {
+            "source": "white", 
+            "target": "american botanical society", 
+            "value": 2301
+        }, 
+        {
+            "source": "black", 
+            "target": "botanical society of america", 
+            "value": 640
+        }, 
+        {
+            "source": "white", 
+            "target": "botanical society of america", 
+            "value": 921
+        }, 
+        {
+            "source": "green", 
+            "target": "botanical society of america", 
+            "value": 738
+        }, 
+        {
+            "source": "red", 
+            "target": "botanical society of america", 
+            "value": 651
+        }, 
+        {
+            "source": "white", 
+            "target": "university of notre dame", 
+            "value": 2494
+        }, 
+        {
+            "source": "green", 
+            "target": "university of notre dame", 
+            "value": 1568
+        }, 
+        {
+            "source": "black", 
+            "target": "university of notre dame", 
+            "value": 2068
+        }, 
+        {
+            "source": "red", 
+            "target": "university of notre dame", 
+            "value": 1916
+        }, 
+        {
+            "source": "red", 
+            "target": "essex institute", 
+            "value": 13
+        }, 
+        {
+            "source": "white", 
+            "target": "essex institute", 
+            "value": 24
+        }, 
+        {
+            "source": "green", 
+            "target": "essex institute", 
+            "value": 15
+        }, 
+        {
+            "source": "black", 
+            "target": "essex institute", 
+            "value": 15
+        }, 
+        {
+            "source": "black", 
+            "target": "peabody academy of science", 
+            "value": 163
+        }, 
+        {
+            "source": "white", 
+            "target": "peabody academy of science", 
+            "value": 208
+        }, 
+        {
+            "source": "green", 
+            "target": "peabody academy of science", 
+            "value": 116
+        }, 
+        {
+            "source": "red", 
+            "target": "peabody academy of science", 
+            "value": 122
+        }, 
+        {
+            "source": "green", 
+            "target": "h o houghton and co", 
+            "value": 24
+        }, 
+        {
+            "source": "red", 
+            "target": "h o houghton and co", 
+            "value": 26
+        }, 
+        {
+            "source": "white", 
+            "target": "h o houghton and co", 
+            "value": 41
+        }, 
+        {
+            "source": "black", 
+            "target": "h o houghton and co", 
+            "value": 30
+        }, 
+        {
+            "source": "red", 
+            "target": "mccalla and stavely", 
+            "value": 175
+        }, 
+        {
+            "source": "white", 
+            "target": "mccalla and stavely", 
+            "value": 217
+        }, 
+        {
+            "source": "green", 
+            "target": "mccalla and stavely", 
+            "value": 141
+        }, 
+        {
+            "source": "black", 
+            "target": "mccalla and stavely", 
+            "value": 146
+        }, 
+        {
+            "source": "black", 
+            "target": "ferris bros", 
+            "value": 39
+        }, 
+        {
+            "source": "white", 
+            "target": "ferris bros", 
+            "value": 53
+        }, 
+        {
+            "source": "green", 
+            "target": "ferris bros", 
+            "value": 23
+        }, 
+        {
+            "source": "red", 
+            "target": "ferris bros", 
+            "value": 40
+        }, 
+        {
+            "source": "white", 
+            "target": "binder and kelly", 
+            "value": 15
+        }, 
+        {
+            "source": "black", 
+            "target": "binder and kelly", 
+            "value": 14
+        }, 
+        {
+            "source": "red", 
+            "target": "binder and kelly", 
+            "value": 7
+        }, 
+        {
+            "source": "green", 
+            "target": "edwards and docker", 
+            "value": 39
+        }, 
+        {
+            "source": "white", 
+            "target": "edwards and docker", 
+            "value": 63
+        }, 
+        {
+            "source": "red", 
+            "target": "edwards and docker", 
+            "value": 55
+        }, 
+        {
+            "source": "black", 
+            "target": "edwards and docker", 
+            "value": 53
+        }, 
+        {
+            "source": "black", 
+            "target": "ginn and co", 
+            "value": 134
+        }, 
+        {
+            "source": "white", 
+            "target": "ginn and co", 
+            "value": 165
+        }, 
+        {
+            "source": "green", 
+            "target": "ginn and co", 
+            "value": 110
+        }, 
+        {
+            "source": "red", 
+            "target": "ginn and co", 
+            "value": 112
+        }, 
+        {
+            "source": "white", 
+            "target": "science press", 
+            "value": 727
+        }, 
+        {
+            "source": "green", 
+            "target": "science press", 
+            "value": 377
+        }, 
+        {
+            "source": "black", 
+            "target": "science press", 
+            "value": 485
+        }, 
+        {
+            "source": "red", 
+            "target": "science press", 
+            "value": 492
+        }, 
+        {
+            "source": "white", 
+            "target": "university of chicago press", 
+            "value": 779
+        }, 
+        {
+            "source": "red", 
+            "target": "university of chicago press", 
+            "value": 656
+        }, 
+        {
+            "source": "green", 
+            "target": "university of chicago press", 
+            "value": 538
+        }, 
+        {
+            "source": "black", 
+            "target": "university of chicago press", 
+            "value": 692
+        }, 
+        {
+            "source": "red", 
+            "target": "the university of chicago press", 
+            "value": 308
+        }, 
+        {
+            "source": "white", 
+            "target": "the university of chicago press", 
+            "value": 404
+        }, 
+        {
+            "source": "black", 
+            "target": "the university of chicago press", 
+            "value": 372
+        }, 
+        {
+            "source": "green", 
+            "target": "the university of chicago press", 
+            "value": 181
+        }, 
+        {
+            "source": "black", 
+            "target": "american society of zoologists", 
+            "value": 384
+        }, 
+        {
+            "source": "green", 
+            "target": "american society of zoologists", 
+            "value": 332
+        }, 
+        {
+            "source": "red", 
+            "target": "american society of zoologists", 
+            "value": 425
+        }, 
+        {
+            "source": "white", 
+            "target": "american society of zoologists", 
+            "value": 459
+        }, 
+        {
+            "source": "white", 
+            "target": "society for integrative and comparative biology", 
+            "value": 113
+        }, 
+        {
+            "source": "green", 
+            "target": "society for integrative and comparative biology", 
+            "value": 96
+        }, 
+        {
+            "source": "black", 
+            "target": "society for integrative and comparative biology", 
+            "value": 78
+        }, 
+        {
+            "source": "red", 
+            "target": "society for integrative and comparative biology", 
+            "value": 96
+        }, 
+        {
+            "source": "red", 
+            "target": "oxford university press", 
+            "value": 1400
+        }, 
+        {
+            "source": "white", 
+            "target": "oxford university press", 
+            "value": 1538
+        }, 
+        {
+            "source": "green", 
+            "target": "oxford university press", 
+            "value": 1826
+        }, 
+        {
+            "source": "black", 
+            "target": "oxford university press", 
+            "value": 1318
+        }, 
+        {
+            "source": "white", 
+            "target": "academic press inc", 
+            "value": 528
+        }, 
+        {
+            "source": "red", 
+            "target": "academic press inc", 
+            "value": 380
+        }, 
+        {
+            "source": "green", 
+            "target": "academic press inc", 
+            "value": 531
+        }, 
+        {
+            "source": "black", 
+            "target": "academic press inc", 
+            "value": 243
+        }, 
+        {
+            "source": "black", 
+            "target": "academic press", 
+            "value": 312
+        }, 
+        {
+            "source": "green", 
+            "target": "academic press", 
+            "value": 465
+        }, 
+        {
+            "source": "red", 
+            "target": "academic press", 
+            "value": 401
+        }, 
+        {
+            "source": "white", 
+            "target": "academic press", 
+            "value": 537
+        }, 
+        {
+            "source": "green", 
+            "target": "academic press limited", 
+            "value": 128
+        }, 
+        {
+            "source": "black", 
+            "target": "academic press limited", 
+            "value": 88
+        }, 
+        {
+            "source": "red", 
+            "target": "academic press limited", 
+            "value": 115
+        }, 
+        {
+            "source": "white", 
+            "target": "academic press limited", 
+            "value": 152
+        }, 
+        {
+            "source": "red", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 50
+        }, 
+        {
+            "source": "green", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 49
+        }, 
+        {
+            "source": "black", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 67
+        }, 
+        {
+            "source": "white", 
+            "target": "societas zoologica botanica fennica vanamo", 
+            "value": 64
+        }, 
+        {
+            "source": "black", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 105
+        }, 
+        {
+            "source": "white", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 111
+        }, 
+        {
+            "source": "red", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 97
+        }, 
+        {
+            "source": "green", 
+            "target": "societas biologica fennica vanamo", 
+            "value": 92
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish botanical publishing board", 
+            "value": 39
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish botanical publishing board", 
+            "value": 50
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish botanical publishing board", 
+            "value": 80
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish botanical publishing board", 
+            "value": 43
+        }, 
+        {
+            "source": "red", 
+            "target": "the finnish botanical publishing board", 
+            "value": 74
+        }, 
+        {
+            "source": "black", 
+            "target": "the finnish botanical publishing board", 
+            "value": 76
+        }, 
+        {
+            "source": "white", 
+            "target": "the finnish botanical publishing board", 
+            "value": 65
+        }, 
+        {
+            "source": "green", 
+            "target": "the finnish botanical publishing board", 
+            "value": 98
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 431
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 409
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 575
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish zoological and botanical publishing board", 
+            "value": 435
+        }, 
+        {
+            "source": "red", 
+            "target": "missouri botanical garden", 
+            "value": 735
+        }, 
+        {
+            "source": "green", 
+            "target": "missouri botanical garden", 
+            "value": 843
+        }, 
+        {
+            "source": "white", 
+            "target": "missouri botanical garden", 
+            "value": 968
+        }, 
+        {
+            "source": "black", 
+            "target": "missouri botanical garden", 
+            "value": 668
+        }, 
+        {
+            "source": "green", 
+            "target": "alfred hlder", 
+            "value": 17
+        }, 
+        {
+            "source": "white", 
+            "target": "alfred hlder", 
+            "value": 44
+        }, 
+        {
+            "source": "red", 
+            "target": "alfred hlder", 
+            "value": 21
+        }, 
+        {
+            "source": "black", 
+            "target": "alfred hlder", 
+            "value": 23
+        }, 
+        {
+            "source": "white", 
+            "target": "naturhistorischen museums in wien", 
+            "value": 51
+        }, 
+        {
+            "source": "black", 
+            "target": "naturhistorischen museums in wien", 
+            "value": 36
+        }, 
+        {
+            "source": "red", 
+            "target": "naturhistorischen museums in wien", 
+            "value": 37
+        }, 
+        {
+            "source": "green", 
+            "target": "naturhistorischen museums in wien", 
+            "value": 30
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 97
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 92
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 77
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 37
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 5
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 12
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 4
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas pro fauna et flora fennica and societas biologica fennica vanamo", 
+            "value": 14
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas biologica fennica vanamo and societas pro fauna et flora fennica", 
+            "value": 6
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas biologica fennica vanamo and societas pro fauna et flora fennica", 
+            "value": 13
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas biologica fennica vanamo and societas pro fauna et flora fennica", 
+            "value": 9
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas scientiarum fennica societas biologica fennica vanamo and societas pro fauna et flora fennica", 
+            "value": 5
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 26
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 23
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 16
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish zoological publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 18
+        }, 
+        {
+            "source": "white", 
+            "target": "finnish zoological and botanical publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 4
+        }, 
+        {
+            "source": "red", 
+            "target": "finnish zoological and botanical publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 4
+        }, 
+        {
+            "source": "black", 
+            "target": "finnish zoological and botanical publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 4
+        }, 
+        {
+            "source": "green", 
+            "target": "finnish zoological and botanical publishing board formed by the finnish academy of sciences societas biologica fennica vanamo societas pro fauna et flora fennica and societas scientiarum fennica", 
+            "value": 3
+        }, 
+        {
+            "source": "red", 
+            "target": "naturhistorisches museum wien", 
+            "value": 109
+        }, 
+        {
+            "source": "black", 
+            "target": "naturhistorisches museum wien", 
+            "value": 157
+        }, 
+        {
+            "source": "white", 
+            "target": "naturhistorisches museum wien", 
+            "value": 115
+        }, 
+        {
+            "source": "green", 
+            "target": "naturhistorisches museum wien", 
+            "value": 68
+        }, 
+        {
+            "source": "red", 
+            "target": "annual reviews", 
+            "value": 103
+        }, 
+        {
+            "source": "black", 
+            "target": "annual reviews", 
+            "value": 70
+        }, 
+        {
+            "source": "white", 
+            "target": "annual reviews", 
+            "value": 91
+        }, 
+        {
+            "source": "green", 
+            "target": "annual reviews", 
+            "value": 91
+        }, 
+        {
+            "source": "red", 
+            "target": "annual reviews inc", 
+            "value": 223
+        }, 
+        {
+            "source": "green", 
+            "target": "annual reviews inc", 
+            "value": 217
+        }, 
+        {
+            "source": "white", 
+            "target": "annual reviews inc", 
+            "value": 245
+        }, 
+        {
+            "source": "black", 
+            "target": "annual reviews inc", 
+            "value": 202
+        }, 
+        {
+            "source": "red", 
+            "target": "opulus press", 
+            "value": 76
+        }, 
+        {
+            "source": "black", 
+            "target": "opulus press", 
+            "value": 75
+        }, 
+        {
+            "source": "white", 
+            "target": "opulus press", 
+            "value": 98
+        }, 
+        {
+            "source": "green", 
+            "target": "opulus press", 
+            "value": 72
+        }, 
+        {
+            "source": "red", 
+            "target": "blackwell publishing ltd", 
+            "value": 38
+        }, 
+        {
+            "source": "white", 
+            "target": "blackwell publishing ltd", 
+            "value": 32
+        }, 
+        {
+            "source": "black", 
+            "target": "blackwell publishing ltd", 
+            "value": 30
+        }, 
+        {
+            "source": "green", 
+            "target": "blackwell publishing ltd", 
+            "value": 37
+        }, 
+        {
+            "source": "white", 
+            "target": "akademieverlag gmbh", 
+            "value": 53
+        }, 
+        {
+            "source": "red", 
+            "target": "akademieverlag gmbh", 
+            "value": 83
+        }, 
+        {
+            "source": "black", 
+            "target": "akademieverlag gmbh", 
+            "value": 36
+        }, 
+        {
+            "source": "green", 
+            "target": "akademieverlag gmbh", 
+            "value": 66
+        }, 
+        {
+            "source": "black", 
+            "target": "institute of arctic and alpine research", 
+            "value": 620
+        }, 
+        {
+            "source": "green", 
+            "target": "institute of arctic and alpine research", 
+            "value": 461
+        }, 
+        {
+            "source": "white", 
+            "target": "institute of arctic and alpine research", 
+            "value": 657
+        }, 
+        {
+            "source": "red", 
+            "target": "institute of arctic and alpine research", 
+            "value": 284
+        }, 
+        {
+            "source": "white", 
+            "target": "arnold arboretum", 
+            "value": 448
+        }, 
+        {
+            "source": "red", 
+            "target": "arnold arboretum", 
+            "value": 389
+        }, 
+        {
+            "source": "black", 
+            "target": "arnold arboretum", 
+            "value": 237
+        }, 
+        {
+            "source": "green", 
+            "target": "arnold arboretum", 
+            "value": 440
+        }, 
+        {
+            "source": "red", 
+            "target": "arnold arboretum of harvard university", 
+            "value": 14
+        }, 
+        {
+            "source": "black", 
+            "target": "arnold arboretum of harvard university", 
+            "value": 9
+        }, 
+        {
+            "source": "white", 
+            "target": "arnold arboretum of harvard university", 
+            "value": 13
+        }, 
+        {
+            "source": "green", 
+            "target": "arnold arboretum of harvard university", 
+            "value": 14
+        }, 
+        {
+            "source": "red", 
+            "target": "gray memorial botanical chapter of the agassiz association", 
+            "value": 34
+        }, 
+        {
+            "source": "black", 
+            "target": "gray memorial botanical chapter of the agassiz association", 
+            "value": 36
+        }, 
+        {
+            "source": "green", 
+            "target": "gray memorial botanical chapter of the agassiz association", 
+            "value": 64
+        }, 
+        {
+            "source": "white", 
+            "target": "gray memorial botanical chapter of the agassiz association", 
+            "value": 81
+        }, 
+        {
+            "source": "red", 
+            "target": "estes and lauriat", 
+            "value": 43
+        }, 
+        {
+            "source": "black", 
+            "target": "estes and lauriat", 
+            "value": 75
+        }, 
+        {
+            "source": "white", 
+            "target": "estes and lauriat", 
+            "value": 90
+        }, 
+        {
+            "source": "green", 
+            "target": "estes and lauriat", 
+            "value": 26
+        }, 
+        {
+            "source": "red", 
+            "target": "l s foster", 
+            "value": 317
+        }, 
+        {
+            "source": "black", 
+            "target": "l s foster", 
+            "value": 471
+        }, 
+        {
+            "source": "white", 
+            "target": "l s foster", 
+            "value": 507
+        }, 
+        {
+            "source": "green", 
+            "target": "l s foster", 
+            "value": 251
+        }, 
+        {
+            "source": "red", 
+            "target": "the american ornithologists union", 
+            "value": 3094
+        }, 
+        {
+            "source": "black", 
+            "target": "the american ornithologists union", 
+            "value": 4202
+        }, 
+        {
+            "source": "white", 
+            "target": "the american ornithologists union", 
+            "value": 4501
+        }, 
+        {
+            "source": "green", 
+            "target": "the american ornithologists union", 
+            "value": 1868
+        }, 
+        {
+            "source": "black", 
+            "target": "american ornithologists union", 
+            "value": 95
+        }, 
+        {
+            "source": "white", 
+            "target": "american ornithologists union", 
+            "value": 99
+        }, 
+        {
+            "source": "red", 
+            "target": "american ornithologists union", 
+            "value": 74
+        }, 
+        {
+            "source": "green", 
+            "target": "american ornithologists union", 
+            "value": 53
+        }, 
+        {
+            "source": "black", 
+            "target": "american ornithological society", 
+            "value": 12
+        }, 
+        {
+            "source": "white", 
+            "target": "american ornithological society", 
+            "value": 14
+        }, 
+        {
+            "source": "red", 
+            "target": "american ornithological society", 
+            "value": 8
+        }, 
+        {
+            "source": "green", 
+            "target": "american ornithological society", 
+            "value": 6
+        }, 
+        {
+            "source": "red", 
+            "target": "queensland herbarium", 
+            "value": 204
+        }, 
+        {
+            "source": "black", 
+            "target": "queensland herbarium", 
+            "value": 148
+        }, 
+        {
+            "source": "white", 
+            "target": "queensland herbarium", 
+            "value": 273
+        }, 
+        {
+            "source": "green", 
+            "target": "queensland herbarium", 
+            "value": 212
+        }, 
+        {
+            "source": "red", 
+            "target": "cornell veterinarian inc", 
+            "value": 31
+        }, 
+        {
+            "source": "white", 
+            "target": "cornell veterinarian inc", 
+            "value": 58
+        }, 
+        {
+            "source": "green", 
+            "target": "cornell veterinarian inc", 
+            "value": 8
+        }, 
+        {
+            "source": "black", 
+            "target": "cornell veterinarian inc", 
+            "value": 3
+        }, 
+        {
+            "source": "green", 
+            "target": "american association of avian pathologists inc", 
+            "value": 634
+        }, 
+        {
+            "source": "red", 
+            "target": "american association of avian pathologists inc", 
+            "value": 994
+        }, 
+        {
+            "source": "white", 
+            "target": "american association of avian pathologists inc", 
+            "value": 2082
+        }, 
+        {
+            "source": "black", 
+            "target": "american association of avian pathologists inc", 
+            "value": 387
+        }, 
+        {
+            "source": "white", 
+            "target": "american association of avian pathologists", 
+            "value": 271
+        }, 
+        {
+            "source": "red", 
+            "target": "american association of avian pathologists", 
+            "value": 174
+        }, 
+        {
+            "source": "black", 
+            "target": "american association of avian pathologists", 
+            "value": 139
+        }, 
+        {
+            "source": "green", 
+            "target": "american association of avian pathologists", 
+            "value": 163
+        }, 
+        {
+            "source": "white", 
+            "target": "etvs lornd tudomnyegyetem nvnyrendszertani s nvnyfldrajzi tanszknek", 
+            "value": 1
+        }, 
+        {
+            "source": "black", 
+            "target": "the american fern society", 
+            "value": 2
+        }, 
+        {
+            "source": "green", 
+            "target": "the american fern society", 
+            "value": 3
+        }, 
+        {
+            "source": "green", 
+            "target": "binder and kelly", 
+            "value": 5
+        }, 
+        {
+            "source": "green", 
+            "target": "deutsche akademie der landwirtschaftswissenschaften", 
+            "value": 1
+        }
+    ]
+}

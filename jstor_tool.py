@@ -58,6 +58,7 @@ def main(_):
 	authors = decideSearch(args.authorfile, args.authors)
 	publishers = decideSearch(args.publisherfile, args.publishers)
 	searchs = decideSearch(args.searchfile, args.searchterms)
+	print searchs
 	dates = decideDate(args.yearstart, args.yearend)
 
 	articles = jf.filter(path, authors, publishers, searchs, dates)

@@ -71,13 +71,17 @@ def main(_):
 		hg.generate_bar_files(graphs_to_build, path)
 	if graph_type == 2:
 		linked_graph = {}
-		print "data node field:"
+		for d in data[0]:
+			print d
+		print ""
+		print "Select normal node field:"
 
 		node_size = raw_input()
-		print "key node field:"
+		print "Select key node field:"
 		key_node = raw_input()
-		print "group field:"
-		groups = raw_input()
+		
+		groups = None
+
 		hg.generate_force_files(node_size, key_node, groups, path)
 
 
